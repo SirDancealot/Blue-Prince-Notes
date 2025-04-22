@@ -5,3 +5,4 @@ The outside is composed of:
 - The [[Apple Orchard]]
 - The [[Gemstone Cavern]]
 - The [[Private Drive]]
+- The [[Outer Rooms|Outer Room]]

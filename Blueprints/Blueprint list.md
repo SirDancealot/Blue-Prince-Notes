@@ -105,7 +105,7 @@ Found floorplans
 - [[Conservatory]]
 - [[Closed Exhibit]]
 
-Outer Rooms
+[[Outer Rooms]]
 - [[Toolshed]]
 - [[Shelter]]
 - [[Schoolhouse]]

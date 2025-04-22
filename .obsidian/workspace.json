@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d926d95eb294c3c",
+        "id": "9754861d33a4db8f",
         "type": "tabs",
         "children": [
           {
-            "id": "ac1c6fb402a8ea97",
+            "id": "3a8036d53b64e263",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Precipice.md",
+                "file": "Areas/Underground/Underground.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Precipice"
+              "title": "Underground"
+            }
+          },
+          {
+            "id": "933e0b58d3ab0edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints/Rooms/Outer Rooms/Tomb.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tomb"
             }
           }
         ]
@@ -152,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Precipice.md",
+                "file": "Areas/Underground/Underground.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Precipice"
+              "title": "Outline of Underground"
             }
           },
           {
@@ -190,13 +214,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac1c6fb402a8ea97",
+  "active": "3a8036d53b64e263",
   "lastOpenFiles": [
-    "Areas/Outside/Grounds Main.md",
-    "The Precipice.md",
-    "Areas/Outside/The Grounds.md",
-    "Books/A New Clue.md",
+    "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Areas/Underground/Underground.md",
+    "Images/Tomb Letter/Tomb letter 4.png",
+    "Images/Misc/Antechamber Lever locations.png",
+    "Images/Tomb Letter/Tomb letter 3.png",
+    "Images/Tomb Letter/Tomb letter 2.png",
+    "Blueprints/Blueprint list.md",
+    "Images/Tomb Letter",
+    "Images/Misc",
+    "Images/Tomb Letter/Tomb letter 1.png",
+    "Blueprints/Rooms/Outer Rooms/Outer Rooms.md",
+    "Areas/Outside/The Grounds.md",
+    "Areas/Outside/Grounds Main.md",
+    "Blueprints/Rooms/Outer Rooms/Hovel.md",
+    "Puzzles/Sigil doors/Countries.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Puzzles/Sigil doors/Sigils.md",
+    "TODO.md",
+    "The Precipice.md",
+    "Books/A New Clue.md",
     "Areas/Underground",
     "Areas",
     "Puzzles/Chess/Chess.md",
@@ -209,35 +248,19 @@
     "Puzzles/Nodes/Decryption.md",
     "The Estate.md",
     "Memos.md",
-    "TODO.md",
     "People/People.md",
     "People/Other People/Mrs. Hanna Peterson.md",
     "People/Other People",
-    "People/Other People/Anne Babbage.md",
-    "People/Other People/Farro.md",
-    "People/Other People/Mr. Ruota.md",
-    "People/Other People/Hartley.md",
-    "People/The Family/Clara Epsen.md",
     "People/The Family",
-    "School.md",
-    "Dates/Today.md",
-    "Blueprints/Rooms/Green Rooms/Cloister.md",
     "Puzzles/Angel",
     "Books",
-    "Images/Calendar of now.png",
+    "Images/Misc/Calendar of now.png",
     "Dates",
     "Areas/Outside",
-    "Puzzles/Chess",
-    "Blueprints/Rooms/Outer Rooms",
-    "Images/Marionn marigold - samantha hayes passport.png",
+    "Images/Misc/Marionn marigold - samantha hayes passport.png",
     "Images/Nodes/Node 6.png",
     "Images/Nodes/Node 5.png",
     "Images/Nodes/Node 4.png",
-    "Images/Nodes/Node 3.png",
-    "Images/Nodes/Node 2.png",
-    "Images/Nodes/Node 7.png",
-    "Images/Nodes/Node 8.png",
-    "Images/Nodes/Node 1.png",
     "Untitled.canvas"
   ]
 }
