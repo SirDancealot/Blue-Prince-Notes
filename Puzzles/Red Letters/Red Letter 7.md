@@ -2,6 +2,7 @@
 aliases:
   - RL7
 ---
+Found in [[Shelter]]
 Written by [[Courtney]]
 ![[RL7-1.png]]
 

@@ -1,4 +1,7 @@
+[[TODO]]
 Probably THE main puzzle
+
+"[[Ajeran]] symbols"
 
 Where to find the keys to the doors: 
 - The first key found here on the furthest rank,

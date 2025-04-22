@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Chess/Chess.md",
+                "file": "Puzzles/Red Letters/Red Letter 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chess"
+              "title": "Red Letter 7"
+            }
+          },
+          {
+            "id": "87afff0c61bd092e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Puzzles/Red Letters/Red Letter 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Red Letter 2"
             }
           }
         ],
@@ -165,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Puzzles/Chess/Chess.md",
+                "file": "Puzzles/Red Letters/Red Letter 7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chess"
+              "title": "Outline of Red Letter 7"
             }
           },
           {
@@ -205,9 +229,19 @@
   },
   "active": "90dd5b9888a23a02",
   "lastOpenFiles": [
-    "TODO.md",
-    "Blueprints/Rooms/Numbered/Office.md",
+    "Puzzles/Red Letters/Red Letter 2.md",
     "Puzzles/Red Letters/Red Letter 8.md",
+    "Blueprints/Rooms/Numbered/Office.md",
+    "Shelter.md",
+    "Puzzles/Red Letters/Red Letter 7.md",
+    "Dates/Today.md",
+    "Images/Misc/Shelter note.png",
+    "Books/Books.md",
+    "Areas/Outside/The Precipice.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Puzzles/Sigil doors/Sigils.md",
+    "Puzzles/Chess/Chess.md",
+    "TODO.md",
     "Images/Red letters/RL8-1.png",
     "People/Other People/Alzara.md",
     "Puzzles/Red Letters/Red Letters.md",
@@ -217,31 +251,20 @@
     "Blueprints/Blueprint list.md",
     "Images/Red letters/RL7-1.png",
     "Images/Red letters/RL7-2.png",
-    "Puzzles/Red Letters/Red Letter 7.md",
     "Images/Red letters/RL7-3.png",
     "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
     "Blueprints/Rooms/Green Rooms/Conservatory.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
-    "Puzzles/Red Letters/Red Letter 2.md",
     "Images/Red letters/RL1-1.png",
     "Images/Red letters/RL1-3.png",
     "Images/Red letters",
-    "Images/Red letters/RL1-2.png",
-    "Dates/Today.md",
     "Puzzles/Red Letters/Red Letter 1.md",
     "Puzzles/Red Letters/Red Letter 6.md",
     "Puzzles/Red Letters/Red Letter 5.md",
     "Puzzles/Red Letters/Red Letter 4.md",
     "Puzzles/Red Letters/Red Letter 3.md",
     "Areas/Underground/The Underpass.md",
-    "Areas/Outside/The Precipice.md",
     "Areas/Underground/Abandoned mine.md",
-    "Areas/Underground/Catacombs.md",
-    "Areas/Outside/Grounds Main.md",
-    "Puzzles/Sigil doors/Countries.md",
-    "Areas/The Estate.md",
-    "Areas/The Manor.md",
-    "Areas/Underground/Underground.md",
     "Images/Tomb Letter",
     "Images/Misc",
     "Areas/Underground",
