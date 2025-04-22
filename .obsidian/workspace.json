@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9754861d33a4db8f",
+        "id": "9016e7496c156225",
         "type": "tabs",
         "children": [
           {
-            "id": "3a8036d53b64e263",
+            "id": "79009f6b4c82260c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Underground/Underground.md",
+                "file": "Puzzles/Red Letters/Red Letters.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Underground"
-            }
-          },
-          {
-            "id": "933e0b58d3ab0edc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Outer Rooms/Tomb.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tomb"
+              "title": "Red Letters"
             }
           }
         ]
@@ -176,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Underground/Underground.md",
+                "file": "Puzzles/Red Letters/Red Letters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Underground"
+              "title": "Outline of Red Letters"
             }
           },
           {
@@ -214,10 +190,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a8036d53b64e263",
+  "active": "79009f6b4c82260c",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Outer Rooms/Tomb.md",
+    "Areas/Underground/The Underpass.md",
+    "Areas/Outside/The Precipice.md",
+    "Areas/Underground/Abandoned mine.md",
+    "Areas/Underground/Catacombs.md",
+    "Areas/Outside/Grounds Main.md",
+    "Puzzles/Sigil doors/Countries.md",
+    "Areas/The Estate.md",
+    "Areas/The Manor.md",
     "Areas/Underground/Underground.md",
+    "Areas/Underground/Inner Sanctum.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Puzzles/Sigil doors/Sigils.md",
+    "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Images/Tomb Letter/Tomb letter 4.png",
     "Images/Misc/Antechamber Lever locations.png",
     "Images/Tomb Letter/Tomb letter 3.png",
@@ -228,13 +215,8 @@
     "Images/Tomb Letter/Tomb letter 1.png",
     "Blueprints/Rooms/Outer Rooms/Outer Rooms.md",
     "Areas/Outside/The Grounds.md",
-    "Areas/Outside/Grounds Main.md",
     "Blueprints/Rooms/Outer Rooms/Hovel.md",
-    "Puzzles/Sigil doors/Countries.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "Puzzles/Sigil doors/Sigils.md",
     "TODO.md",
-    "The Precipice.md",
     "Books/A New Clue.md",
     "Areas/Underground",
     "Areas",
@@ -245,11 +227,6 @@
     "Puzzles/Math.md",
     "Puzzles/Puzzles.md",
     "Puzzles/Nodes/Node sheets.md",
-    "Puzzles/Nodes/Decryption.md",
-    "The Estate.md",
-    "Memos.md",
-    "People/People.md",
-    "People/Other People/Mrs. Hanna Peterson.md",
     "People/Other People",
     "People/The Family",
     "Puzzles/Angel",

@@ -1,0 +1,1 @@
+You [[Draft]] rooms from the [[Blueprint list]]
