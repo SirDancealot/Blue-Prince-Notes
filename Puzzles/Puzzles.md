@@ -1,4 +1,5 @@
 - [[Node sheets]] - Solved
+- [[Gas Valve]] - Solved
 - [[Chess]]
 - [[Billiard Room|Billiard Room/Math]] - Solved ish
 - [[Parlor|Parlor/Logic]] - Solved ish

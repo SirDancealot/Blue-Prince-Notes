@@ -32,6 +32,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "6bea111721cf56ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60f623a38cf72402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/People.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "People"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,28 +222,30 @@
   },
   "active": "56486de7245bab53",
   "lastOpenFiles": [
+    "Dates/Today.md",
+    "Images/Calendar of now.png",
+    "Dates/Dates.md",
+    "People/Herbert S Sinclair.md",
+    "People/People.md",
+    "Puzzles/Puzzles.md",
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
+    "Blueprints/Blueprint list.md",
     "Dates",
     "Memos.md",
-    "Dates/Dates.md",
     "Outside/Underground.md",
     "Outside",
     "Puzzles/Chess/Chess.md",
     "Puzzles/Chess",
     "Puzzles/Paintings.md",
-    "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Outer Rooms",
     "Blueprints/Rooms/Numbered/Spare Room.md",
     "People/Me.md",
-    "People/People.md",
     "People/Mary Epsen.md",
-    "People/Herbert S Sinclair.md",
-    "Puzzles/Puzzles.md",
     "Puzzles/Red Letters",
     "Puzzles/Red Letters/Red Letters.md",
     "Blueprints/Rooms/Numbered/Office.md",
     "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
     "TODO.md",
-    "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "key.md",
     "Images/Marionn marigold - samantha hayes passport.png",
     "Blueprints/Rooms/Green Rooms/Courtyard.md",
@@ -231,13 +263,10 @@
     "Images/Nodes/Node 8.png",
     "Images/Nodes/Node 1.png",
     "Images/Sigils",
-    "Images/Sigils/Torch chamber.png",
-    "Blueprints/Rooms/Numbered/Antechamber.md",
     "Puzzles/Sigil doors",
     "Puzzles",
     "Images/Classroom puzzles",
     "People",
-    "Blueprints/Rooms/Misc",
     "Untitled.canvas"
   ]
 }
