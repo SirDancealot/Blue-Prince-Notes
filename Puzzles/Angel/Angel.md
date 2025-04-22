@@ -6,3 +6,4 @@ Order as found in [[Chapel]]
 5. [[Cleaning angel]]
 6. [[Horse riding angel]]
 7. [[Royal Angel]]
+When interacted with in the correct order in the [[Tomb]] a secret door to the [[Catacombs]], which further lead to the [[Underground]] opened up

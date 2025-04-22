@@ -12,7 +12,7 @@ Various other found dates and years:
 - 07-02-15 foreman log 3 found down elevator unlocked by [[Gas Valve]] puzzle
 - 1506 (june 15th) found in staff notice in [[West Wing Hall]]
 - 1951/1952? year of marriage between [[Simon H Sinclair]] and [[Clara Epsen]] found in [[Ballroom]]? 
-- 1966 the year the [[school]] closed found in [[Schoolhouse]]?
+- 1966 the year the [[School]] closed found in [[Schoolhouse]]?
 - 1104 (nov 4th) the day [[Herbert S Sinclair|HSS]] Died
 - nov 5th termination of services found in [[Maid's Chamber]]
 - 0320 (march 3rd) found in [[Hovel]]

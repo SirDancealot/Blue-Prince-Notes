@@ -1,0 +1,1 @@
+New [[School]] teacher/head mistress after [[Clara Epsen]]s death?

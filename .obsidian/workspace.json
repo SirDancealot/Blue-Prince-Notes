@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Angel/Angel.md",
+                "file": "Memos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Angel"
+              "title": "Memos"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Puzzles/Angel/Angel.md",
+                "file": "Memos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Angel"
+              "title": "Outline of Memos"
             }
           },
           {
@@ -190,35 +190,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "ac1c6fb402a8ea97",
   "lastOpenFiles": [
+    "People/People.md",
+    "People/Other People/Mrs. Hanna Peterson.md",
+    "People/Other People",
+    "People/Other People/Anne Babbage.md",
+    "People/Other People/Farro.md",
+    "People/Other People/Mr. Ruota.md",
+    "People/Other People/Hartley.md",
+    "People/The Family/Clara Epsen.md",
+    "People/The Family",
+    "School.md",
+    "Dates/Today.md",
+    "Puzzles/Angel/Royal Angel.md",
+    "Blueprints/Rooms/Green Rooms/Cloister.md",
+    "Puzzles/Angel/Angel.md",
+    "Blueprints/Rooms/Red Rooms/Chapel.md",
+    "Puzzles/Angel/Cleaning angel.md",
+    "Puzzles/Angel/Gardening angel.md",
+    "Outside/Underground.md",
     "Puzzles/Angel",
     "Puzzles/Puzzles.md",
-    "Puzzles/Angel/Angel.md",
-    "Tomb.md",
-    "Blueprints/Rooms/Red Rooms/Chapel.md",
+    "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Blueprints/Rooms/Outer Rooms/Hovel.md",
-    "Math.md",
+    "Puzzles/Math.md",
     "Blueprints/Rooms/Misc/Classroom.md",
     "Blueprints/Rooms/Bedrooms/Servant's Quarters.md",
     "Memos.md",
     "Terminal.md",
     "Dates/Dates.md",
-    "Blueprints/Rooms/Green Rooms/Green Rooms.md",
-    "Blueprints/Blueprint list.md",
-    "Books/Books.md",
-    "Books/A New Clue.md",
-    "People/Mary Epsen.md",
     "Books",
-    "People/Simon.md",
-    "People/Herbie.md",
-    "Blueprints/Rooms/Red Rooms/Archives.md",
-    "Blueprints/Rooms/Numbered/Security.md",
-    "Magnifying Glass.md",
-    "Blueprints/Rooms/Numbered/Laboratory.md",
-    "People/People.md",
-    "Puzzles/Paintings.md",
-    "Outside/Orchyard.md",
     "Images/Calendar of now.png",
     "Dates",
     "Outside",
@@ -235,9 +237,6 @@
     "Images/Nodes/Node 8.png",
     "Images/Nodes/Node 1.png",
     "Images/Sigils",
-    "Puzzles/Sigil doors",
-    "Puzzles",
-    "Images/Classroom puzzles",
     "Untitled.canvas"
   ]
 }
