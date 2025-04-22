@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Me.md",
+                "file": "Dates/Dates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Me"
+              "title": "Dates"
             }
           }
         ]
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 737.5
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +191,19 @@
   },
   "active": "56486de7245bab53",
   "lastOpenFiles": [
+    "Dates",
+    "Memos.md",
+    "Dates/Dates.md",
+    "Outside/Underground.md",
+    "Outside",
+    "Puzzles/Chess/Chess.md",
+    "Puzzles/Chess",
+    "Puzzles/Paintings.md",
+    "Blueprints/Blueprint list.md",
+    "Blueprints/Rooms/Outer Rooms",
+    "Blueprints/Rooms/Numbered/Spare Room.md",
+    "People/Me.md",
     "People/People.md",
-    "Me.md",
     "People/Mary Epsen.md",
     "People/Herbert S Sinclair.md",
     "Puzzles/Puzzles.md",
@@ -200,15 +211,11 @@
     "Puzzles/Red Letters/Red Letters.md",
     "Blueprints/Rooms/Numbered/Office.md",
     "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
-    "Puzzles/Chess.md",
     "TODO.md",
-    "Shrine.md",
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "key.md",
     "Images/Marionn marigold - samantha hayes passport.png",
-    "Memos.md",
     "Blueprints/Rooms/Green Rooms/Courtyard.md",
-    "Blueprints/Blueprint list.md",
-    "Spare Room.md",
     "Blueprints/Rooms/Bedrooms/Guest Bedroom.md",
     "Blueprints/Rooms/Green Rooms/Greenhouse.md",
     "Blueprints/Rooms/Green Rooms/Green Rooms.md",
@@ -222,21 +229,14 @@
     "Images/Nodes/Node 7.png",
     "Images/Nodes/Node 8.png",
     "Images/Nodes/Node 1.png",
-    "Underground.md",
     "Images/Sigils",
     "Images/Sigils/Torch chamber.png",
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Puzzles/Sigil doors",
-    "Puzzles/Paintings.md",
     "Puzzles",
-    "Blueprints/Rooms/Misc/Classroom.md",
     "Images/Classroom puzzles",
     "People",
-    "Puzzles/Nodes/Node sheets.md",
     "Blueprints/Rooms/Misc",
-    "Blueprints/Rooms/Red Rooms",
-    "Blueprints/Rooms/Green Rooms",
-    "Blueprints/Rooms/Bedrooms",
     "Untitled.canvas"
   ]
 }
