@@ -1,3 +1,4 @@
+Solution to puzzle in [[Decryption]]
 ![[Node 1.png]]![[Node 2.png]]
 
 ![[Node 3.png]]

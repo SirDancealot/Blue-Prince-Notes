@@ -1,0 +1,1 @@
+Has an elevator to [[The Precipice]] unlocked by the [[Gas Valve]] puzzle

@@ -1,4 +1,4 @@
-- [[Node sheets]] - Solved
+- [[Node sheets]] [[Decryption]] - Solved
 - [[Gas Valve]] - Solved
 - [[Tomb]] door/[[Angel]] - Solved
 - [[Chess]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memos.md",
+                "file": "The Precipice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "The Precipice"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memos.md",
+                "file": "The Precipice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Memos"
+              "title": "Outline of The Precipice"
             }
           },
           {
@@ -192,6 +192,24 @@
   },
   "active": "ac1c6fb402a8ea97",
   "lastOpenFiles": [
+    "Areas/Outside/Grounds Main.md",
+    "The Precipice.md",
+    "Areas/Outside/The Grounds.md",
+    "Books/A New Clue.md",
+    "Areas/Underground/Underground.md",
+    "Areas/Underground",
+    "Areas",
+    "Puzzles/Chess/Chess.md",
+    "Puzzles/Angel/Royal Angel.md",
+    "Terminal.md",
+    "Power.md",
+    "Puzzles/Math.md",
+    "Puzzles/Puzzles.md",
+    "Puzzles/Nodes/Node sheets.md",
+    "Puzzles/Nodes/Decryption.md",
+    "The Estate.md",
+    "Memos.md",
+    "TODO.md",
     "People/People.md",
     "People/Other People/Mrs. Hanna Peterson.md",
     "People/Other People",
@@ -203,30 +221,14 @@
     "People/The Family",
     "School.md",
     "Dates/Today.md",
-    "Puzzles/Angel/Royal Angel.md",
     "Blueprints/Rooms/Green Rooms/Cloister.md",
-    "Puzzles/Angel/Angel.md",
-    "Blueprints/Rooms/Red Rooms/Chapel.md",
-    "Puzzles/Angel/Cleaning angel.md",
-    "Puzzles/Angel/Gardening angel.md",
-    "Outside/Underground.md",
     "Puzzles/Angel",
-    "Puzzles/Puzzles.md",
-    "Blueprints/Rooms/Outer Rooms/Tomb.md",
-    "Blueprints/Rooms/Outer Rooms/Hovel.md",
-    "Puzzles/Math.md",
-    "Blueprints/Rooms/Misc/Classroom.md",
-    "Blueprints/Rooms/Bedrooms/Servant's Quarters.md",
-    "Memos.md",
-    "Terminal.md",
-    "Dates/Dates.md",
     "Books",
     "Images/Calendar of now.png",
     "Dates",
-    "Outside",
+    "Areas/Outside",
     "Puzzles/Chess",
     "Blueprints/Rooms/Outer Rooms",
-    "Puzzles/Red Letters",
     "Images/Marionn marigold - samantha hayes passport.png",
     "Images/Nodes/Node 6.png",
     "Images/Nodes/Node 5.png",
@@ -236,7 +238,6 @@
     "Images/Nodes/Node 7.png",
     "Images/Nodes/Node 8.png",
     "Images/Nodes/Node 1.png",
-    "Images/Sigils",
     "Untitled.canvas"
   ]
 }

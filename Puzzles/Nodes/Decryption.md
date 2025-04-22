@@ -6,4 +6,4 @@ Bold letter on each page spells:
 First words on each page spells:
 	Find among the white trees under two stones
 
-At the location was the [[Blueprint list|Blueprint]] [[Conservatory]]
+At the location in [[Campsite]] was the [[Blueprint list|Blueprint]] [[Conservatory]]

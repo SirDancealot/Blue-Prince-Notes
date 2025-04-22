@@ -7,4 +7,4 @@ Green memos in [[Servant's Quarters]] (aka. [[Hartley]]'s room) are false
 
 Found memos:
 - Green in [[Servant's Quarters]]: "THERE ARE TWELVE MAJOR KEYS", likely a lie
-- Red memo found in 
+- Red memo found in [[Conference Room]] "SAFE CODE IS: 9083", a lie?
