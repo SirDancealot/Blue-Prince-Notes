@@ -2,7 +2,7 @@ According to [[Paintings]] puzzle dates are very important as they open safes an
 
 Confirmed usefull dates: (should probably be 8 in total according to paintings puzzle)
 - 0303 opens [[Office]] [[Safe]]
-- 1121? opens [[Orchyard]] gate
+- 1121? opens [[Apple Orchard]] gate
 - 1225 opens [[Boudoir]] safe
 - [[Today]] in at least 1 hour opens [[Shelter]] safe
 - 0812 opens [[Study]] safe
@@ -16,4 +16,5 @@ Various other found dates and years:
 - 1104 (nov 4th) the day [[Herbert S Sinclair|HSS]] Died
 - nov 5th termination of services found in [[Maid's Chamber]]
 - 0320 (march 3rd) found in [[Hovel]]
-- 1004 []
+- 1004 (April 10th) found in [[Apple Orchard]]
+- 0412 (april 12th) attempt at pblishing [[Mary Epsen|Marionn Marigold]]s [[Books|Book]] [[The Red Prince]] found in [[Attic]]

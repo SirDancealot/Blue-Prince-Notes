@@ -5,7 +5,7 @@ aliases:
   - Mary Jones
   - Mary Matthew Jones
 ---
-[[Me|My]] mom
+[[Simon]]s mom
 Niece of [[Herbert S Sinclair|HSS]]
 
 Fake passport:

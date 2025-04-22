@@ -1,5 +1,5 @@
 - [[Mary Epsen]]
-- [[Me]]
+- [[Simon]]
 - [[Herbert S Sinclair]]
 
 ![[Family tree.png]]

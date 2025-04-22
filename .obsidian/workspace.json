@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dates/Dates.md",
+                "file": "People/Simon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,37 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dates"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6bea111721cf56ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "60f623a38cf72402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/People.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "People"
+              "title": "Simon"
             }
           }
         ]
@@ -182,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shrine.md",
+                "file": "People/Simon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shrine"
+              "title": "Outline of Simon"
             }
           },
           {
@@ -202,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -222,25 +192,30 @@
   },
   "active": "56486de7245bab53",
   "lastOpenFiles": [
+    "People/Mary Epsen.md",
+    "People/Simon.md",
+    "Terminal.md",
+    "Blueprints/Rooms/Numbered/Security.md",
+    "Memos.md",
+    "Magnifying Glass.md",
+    "Blueprints/Rooms/Numbered/Laboratory.md",
+    "People/People.md",
+    "Blueprints/Blueprint list.md",
+    "Puzzles/Paintings.md",
+    "Dates/Dates.md",
+    "Outside/Orchyard.md",
     "Dates/Today.md",
     "Images/Calendar of now.png",
-    "Dates/Dates.md",
     "People/Herbert S Sinclair.md",
-    "People/People.md",
     "Puzzles/Puzzles.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
-    "Blueprints/Blueprint list.md",
     "Dates",
-    "Memos.md",
     "Outside/Underground.md",
     "Outside",
     "Puzzles/Chess/Chess.md",
     "Puzzles/Chess",
-    "Puzzles/Paintings.md",
     "Blueprints/Rooms/Outer Rooms",
     "Blueprints/Rooms/Numbered/Spare Room.md",
-    "People/Me.md",
-    "People/Mary Epsen.md",
     "Puzzles/Red Letters",
     "Puzzles/Red Letters/Red Letters.md",
     "Blueprints/Rooms/Numbered/Office.md",
@@ -250,10 +225,6 @@
     "Images/Marionn marigold - samantha hayes passport.png",
     "Blueprints/Rooms/Green Rooms/Courtyard.md",
     "Blueprints/Rooms/Bedrooms/Guest Bedroom.md",
-    "Blueprints/Rooms/Green Rooms/Greenhouse.md",
-    "Blueprints/Rooms/Green Rooms/Green Rooms.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "Puzzles/Sigil doors/Sigils.md",
     "Images/Nodes/Node 6.png",
     "Images/Nodes/Node 5.png",
     "Images/Nodes/Node 4.png",
