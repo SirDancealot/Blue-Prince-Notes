@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Simon.md",
+                "file": "Memos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Simon"
+              "title": "Memos"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Simon.md",
+                "file": "Memos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Simon"
+              "title": "Outline of Memos"
             }
           },
           {
@@ -192,17 +192,25 @@
   },
   "active": "56486de7245bab53",
   "lastOpenFiles": [
-    "People/Mary Epsen.md",
-    "People/Simon.md",
-    "Terminal.md",
-    "Blueprints/Rooms/Numbered/Security.md",
+    "Servant's Quarters.md",
     "Memos.md",
+    "Terminal.md",
+    "Dates/Dates.md",
+    "Blueprints/Rooms/Green Rooms/Green Rooms.md",
+    "Blueprints/Rooms/Red Rooms/Chapel.md",
+    "Blueprints/Blueprint list.md",
+    "Books/Books.md",
+    "Books/A New Clue.md",
+    "People/Mary Epsen.md",
+    "Books",
+    "People/Simon.md",
+    "People/Herbie.md",
+    "Blueprints/Rooms/Red Rooms/Archives.md",
+    "Blueprints/Rooms/Numbered/Security.md",
     "Magnifying Glass.md",
     "Blueprints/Rooms/Numbered/Laboratory.md",
     "People/People.md",
-    "Blueprints/Blueprint list.md",
     "Puzzles/Paintings.md",
-    "Dates/Dates.md",
     "Outside/Orchyard.md",
     "Dates/Today.md",
     "Images/Calendar of now.png",
@@ -217,14 +225,7 @@
     "Blueprints/Rooms/Outer Rooms",
     "Blueprints/Rooms/Numbered/Spare Room.md",
     "Puzzles/Red Letters",
-    "Puzzles/Red Letters/Red Letters.md",
-    "Blueprints/Rooms/Numbered/Office.md",
-    "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
-    "TODO.md",
-    "key.md",
     "Images/Marionn marigold - samantha hayes passport.png",
-    "Blueprints/Rooms/Green Rooms/Courtyard.md",
-    "Blueprints/Rooms/Bedrooms/Guest Bedroom.md",
     "Images/Nodes/Node 6.png",
     "Images/Nodes/Node 5.png",
     "Images/Nodes/Node 4.png",
@@ -237,7 +238,6 @@
     "Puzzles/Sigil doors",
     "Puzzles",
     "Images/Classroom puzzles",
-    "People",
     "Untitled.canvas"
   ]
 }

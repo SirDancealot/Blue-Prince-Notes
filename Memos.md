@@ -4,3 +4,6 @@ According to [[Security]]
 - Red memos are false
 
 Green memos in [[Servant's Quarters]] (aka. [[Hartley]]'s room) are false
+
+Found memos:
+- Green in [[Servant's Quarters]]: "THERE ARE TWELVE MAJOR KEYS"
