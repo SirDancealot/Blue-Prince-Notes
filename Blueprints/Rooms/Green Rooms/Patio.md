@@ -1,0 +1,1 @@
+7 on ground next to grill as hinted in [[Aquarium]]

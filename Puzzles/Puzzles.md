@@ -1,0 +1,9 @@
+- [[Node sheets]] - Solved
+- [[Chess]]
+- [[Billiard Room|Billiard Room/Math]] - Solved ish
+- [[Parlor|Parlor/Logic]] - Solved ish
+- [[Gallery]]
+- [[Paintings]] - Solved
+- [[Red Letters]]
+- [[Classroom]]
+- [[Sigil Doors]]

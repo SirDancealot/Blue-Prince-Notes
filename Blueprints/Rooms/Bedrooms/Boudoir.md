@@ -1,0 +1,1 @@
+Has a [[Safe]] with code 2512 (December 12th, the day the safe was gifted)

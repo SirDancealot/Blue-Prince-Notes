@@ -1,0 +1,7 @@
+- Figure out [[Chess]] puzzle
+- Draft [[Garage]] with [[Car keys]] and [[Utility Closet]]
+- Figure out [[Gallery]] puzzle
+- How to open quick exit from [[Underground]] Basement to outside
+- Steal from [[Shrine]]
+- Have another look at [[Tomb]]
+- Remaining [[Puzzles]]

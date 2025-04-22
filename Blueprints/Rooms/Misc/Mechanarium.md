@@ -1,0 +1,1 @@
+Found in the [[Underground]] when trying to get to the north [[Antechamber]] lever

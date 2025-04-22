@@ -1,0 +1,1 @@
+[[Safe]] with code 0812 (dec-08/d-08 position of queen on chess board)

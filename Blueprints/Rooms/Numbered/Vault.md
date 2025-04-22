@@ -1,0 +1,1 @@
+An [[Items|Item]] can be found that opens a locker in here
