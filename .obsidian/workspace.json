@@ -11,24 +11,12 @@
             "id": "79009f6b4c82260c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Puzzles/Red Letters/Red Letters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Images/Red letters/RL7-1.png"
               },
-              "icon": "lucide-file",
-              "title": "Red Letters"
+              "icon": "lucide-image",
+              "title": "RL7-1"
             }
           },
           {
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Red Letters/Red Letters.md",
+                "file": "Puzzles/Chess/Chess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Red Letters"
+              "title": "Chess"
             }
           }
         ],
@@ -177,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Puzzles/Red Letters/Red Letters.md",
+                "file": "Puzzles/Chess/Chess.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Red Letters"
+              "title": "Outline of Chess"
             }
           },
           {
@@ -217,52 +205,52 @@
   },
   "active": "90dd5b9888a23a02",
   "lastOpenFiles": [
+    "TODO.md",
+    "Blueprints/Rooms/Numbered/Office.md",
     "Puzzles/Red Letters/Red Letter 8.md",
+    "Images/Red letters/RL8-1.png",
+    "People/Other People/Alzara.md",
+    "Puzzles/Red Letters/Red Letters.md",
+    "Images/Red letters/RL8-4.png",
+    "Images/Red letters/RL8-3.png",
+    "Images/Red letters/RL8-2.png",
+    "Blueprints/Blueprint list.md",
+    "Images/Red letters/RL7-1.png",
+    "Images/Red letters/RL7-2.png",
     "Puzzles/Red Letters/Red Letter 7.md",
+    "Images/Red letters/RL7-3.png",
+    "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
+    "Blueprints/Rooms/Green Rooms/Conservatory.md",
+    "Blueprints/Rooms/Misc/Mechanarium.md",
+    "Puzzles/Red Letters/Red Letter 2.md",
+    "Images/Red letters/RL1-1.png",
+    "Images/Red letters/RL1-3.png",
+    "Images/Red letters",
+    "Images/Red letters/RL1-2.png",
+    "Dates/Today.md",
+    "Puzzles/Red Letters/Red Letter 1.md",
     "Puzzles/Red Letters/Red Letter 6.md",
     "Puzzles/Red Letters/Red Letter 5.md",
     "Puzzles/Red Letters/Red Letter 4.md",
     "Puzzles/Red Letters/Red Letter 3.md",
-    "Puzzles/Red Letters/Red Letter 2.md",
-    "Puzzles/Red Letters/Red Letter 1.md",
-    "Puzzles/Red Letters/Red Letters.md",
-    "People/Other People/Alzara.md",
     "Areas/Underground/The Underpass.md",
     "Areas/Outside/The Precipice.md",
     "Areas/Underground/Abandoned mine.md",
-    "TODO.md",
     "Areas/Underground/Catacombs.md",
     "Areas/Outside/Grounds Main.md",
     "Puzzles/Sigil doors/Countries.md",
     "Areas/The Estate.md",
     "Areas/The Manor.md",
     "Areas/Underground/Underground.md",
-    "Areas/Underground/Inner Sanctum.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "Puzzles/Sigil doors/Sigils.md",
-    "Blueprints/Rooms/Outer Rooms/Tomb.md",
-    "Images/Tomb Letter/Tomb letter 4.png",
-    "Images/Misc/Antechamber Lever locations.png",
-    "Images/Tomb Letter/Tomb letter 3.png",
-    "Images/Tomb Letter/Tomb letter 2.png",
-    "Blueprints/Blueprint list.md",
     "Images/Tomb Letter",
     "Images/Misc",
-    "Images/Tomb Letter/Tomb letter 1.png",
-    "Blueprints/Rooms/Outer Rooms/Outer Rooms.md",
     "Areas/Underground",
     "Areas",
     "People/Other People",
     "People/The Family",
     "Puzzles/Angel",
     "Books",
-    "Images/Misc/Calendar of now.png",
     "Dates",
-    "Areas/Outside",
-    "Images/Misc/Marionn marigold - samantha hayes passport.png",
-    "Images/Nodes/Node 6.png",
-    "Images/Nodes/Node 5.png",
-    "Images/Nodes/Node 4.png",
     "Untitled.canvas"
   ]
 }
