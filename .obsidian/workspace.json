@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56486de7245bab53",
+            "id": "ac1c6fb402a8ea97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memos.md",
+                "file": "Puzzles/Angel/Angel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "Angel"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memos.md",
+                "file": "Puzzles/Angel/Angel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Memos"
+              "title": "Outline of Angel"
             }
           },
           {
@@ -190,14 +190,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56486de7245bab53",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
-    "Servant's Quarters.md",
+    "Puzzles/Angel",
+    "Puzzles/Puzzles.md",
+    "Puzzles/Angel/Angel.md",
+    "Tomb.md",
+    "Blueprints/Rooms/Red Rooms/Chapel.md",
+    "Blueprints/Rooms/Outer Rooms/Hovel.md",
+    "Math.md",
+    "Blueprints/Rooms/Misc/Classroom.md",
+    "Blueprints/Rooms/Bedrooms/Servant's Quarters.md",
     "Memos.md",
     "Terminal.md",
     "Dates/Dates.md",
     "Blueprints/Rooms/Green Rooms/Green Rooms.md",
-    "Blueprints/Rooms/Red Rooms/Chapel.md",
     "Blueprints/Blueprint list.md",
     "Books/Books.md",
     "Books/A New Clue.md",
@@ -212,18 +219,11 @@
     "People/People.md",
     "Puzzles/Paintings.md",
     "Outside/Orchyard.md",
-    "Dates/Today.md",
     "Images/Calendar of now.png",
-    "People/Herbert S Sinclair.md",
-    "Puzzles/Puzzles.md",
-    "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Dates",
-    "Outside/Underground.md",
     "Outside",
-    "Puzzles/Chess/Chess.md",
     "Puzzles/Chess",
     "Blueprints/Rooms/Outer Rooms",
-    "Blueprints/Rooms/Numbered/Spare Room.md",
     "Puzzles/Red Letters",
     "Images/Marionn marigold - samantha hayes passport.png",
     "Images/Nodes/Node 6.png",

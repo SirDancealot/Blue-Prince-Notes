@@ -1,7 +1,8 @@
 - [[Node sheets]] - Solved
 - [[Gas Valve]] - Solved
+- [[Tomb]] door/[[Angel]] - Solved
 - [[Chess]]
-- [[Billiard Room|Billiard Room/Math]] - Solved ish
+- [[Billiard Room|Billiard Room]]/[[Math]] - Solved ish
 - [[Parlor|Parlor/Logic]] - Solved ish
 - [[Gallery]]
 - [[Paintings]] - Solved

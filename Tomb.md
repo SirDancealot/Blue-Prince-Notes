@@ -1,0 +1,1 @@
+Had a secret door unlocked by interacting with the [[Angel]] statues in the correct order
