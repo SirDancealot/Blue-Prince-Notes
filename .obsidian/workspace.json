@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Red Letters"
             }
+          },
+          {
+            "id": "90dd5b9888a23a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Puzzles/Red Letters/Red Letters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Red Letters"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "red letter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,11 +215,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79009f6b4c82260c",
+  "active": "90dd5b9888a23a02",
   "lastOpenFiles": [
+    "Puzzles/Red Letters/Red Letter 8.md",
+    "Puzzles/Red Letters/Red Letter 7.md",
+    "Puzzles/Red Letters/Red Letter 6.md",
+    "Puzzles/Red Letters/Red Letter 5.md",
+    "Puzzles/Red Letters/Red Letter 4.md",
+    "Puzzles/Red Letters/Red Letter 3.md",
+    "Puzzles/Red Letters/Red Letter 2.md",
+    "Puzzles/Red Letters/Red Letter 1.md",
+    "Puzzles/Red Letters/Red Letters.md",
+    "People/Other People/Alzara.md",
     "Areas/Underground/The Underpass.md",
     "Areas/Outside/The Precipice.md",
     "Areas/Underground/Abandoned mine.md",
+    "TODO.md",
     "Areas/Underground/Catacombs.md",
     "Areas/Outside/Grounds Main.md",
     "Puzzles/Sigil doors/Countries.md",
@@ -214,19 +250,8 @@
     "Images/Misc",
     "Images/Tomb Letter/Tomb letter 1.png",
     "Blueprints/Rooms/Outer Rooms/Outer Rooms.md",
-    "Areas/Outside/The Grounds.md",
-    "Blueprints/Rooms/Outer Rooms/Hovel.md",
-    "TODO.md",
-    "Books/A New Clue.md",
     "Areas/Underground",
     "Areas",
-    "Puzzles/Chess/Chess.md",
-    "Puzzles/Angel/Royal Angel.md",
-    "Terminal.md",
-    "Power.md",
-    "Puzzles/Math.md",
-    "Puzzles/Puzzles.md",
-    "Puzzles/Nodes/Node sheets.md",
     "People/Other People",
     "People/The Family",
     "Puzzles/Angel",
