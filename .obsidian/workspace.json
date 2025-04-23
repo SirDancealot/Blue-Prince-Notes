@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Wine Cellar.md",
+                "file": "Areas/Outside/The Grounds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wine Cellar"
+              "title": "The Grounds"
             }
           },
           {
@@ -214,11 +214,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "bc2a10e9579d9774",
   "lastOpenFiles": [
+    "Areas/Outside/Grounds Main.md",
+    "Areas/Outside/The Grounds.md",
+    "Blueprints/Rooms/Bedrooms/Master Bedroom.md",
+    "Blueprints/Rooms/Numbered/Wine Cellar.md",
+    "Images/Misc/Pasted image 20250423173820.png",
+    "Books/The Red Prince.md",
+    "Images/Misc/Pasted image 20250423173530.png",
+    "Puzzles/Mora Jai.md",
+    "Blueprints/Rooms/Green Rooms/Solarium.md",
+    "Images/Misc/Pasted image 20250423173158.png",
+    "Puzzles/Puzzles.md",
     "Images/Misc/Pasted image 20250423172625.png",
     "Drafting.md",
-    "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "Blueprints/Rooms/Numbered/Garage.md",
     "Images/Misc/Pasted image 20250423171403.png",
     "People/Other People/Denny Revane.md",
@@ -232,28 +242,18 @@
     "Blueprints/Rooms/Numbered/Laboratory.md",
     "Blueprints/Rooms/Numbered/Mail Room.md",
     "Images/Mail room letters/MR L4.md",
-    "Puzzles/Puzzles.md",
     "Images/Mail room letters/Pasted image 20250423170126.png",
     "Images/Mail room letters/MR L3.md",
     "Images/Mail room letters/Pasted image 20250423165939.png",
     "Images/Mail room letters/MR L2.md",
     "Images/Mail room letters/MR L1.md",
     "Images/Mail room letters/Pasted image 20250423165833.png",
-    "Images/Mail room letters/Pasted image 20250423165459.png",
-    "Images/Mail room letters/Pasted image 20250423165057.png",
-    "Images/Mail room letters/Pasted image 20250423165049.png",
-    "Images/Mail room letters/Pasted image 20250423165040.png",
     "Images/Mail room letters",
     "Blueprints/Rooms/Bedrooms/Guest Bedroom.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
     "Blueprints/Rooms/Numbered/Attic.md",
     "Items/Coupon Book.md",
-    "Items/Items.md",
-    "Blueprints/Rooms/Numbered/Storeroom.md",
     "Blueprints/Rooms/Hallways",
-    "Blueprints/Rooms/Hallways/Hallway.md",
-    "Blueprints/Rooms/Shops/Bookshop.md",
-    "Blueprints/Rooms/Green Rooms/Conservatory.md",
     "Images/People",
     "Blueprints/Rooms/Shops",
     "Items",
