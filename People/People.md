@@ -12,5 +12,6 @@ Other people:
 - [[Hartley]]
 - [[Mrs. Hanna Peterson]]
 - [[M. Lowry]]
+- [[Mr. Nogula]]
 
 ![[Family tree.png]]

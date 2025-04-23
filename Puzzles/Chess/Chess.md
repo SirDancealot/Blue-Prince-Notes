@@ -4,6 +4,8 @@ Rooms with [[Pawn]]:
 - [[Den]]
 - [[Guest Bedroom|Quest Bedroom]]
 - [[Drawing Room]]
+- [[Dining Room]]
+- [[Solarium]]
 Rooms with [[Knight]]:
 - ?
 Rooms with [[Bishop]]:

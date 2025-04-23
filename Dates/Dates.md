@@ -17,4 +17,4 @@ Various other found dates and years:
 - nov 5th termination of services found in [[Maid's Chamber]]
 - 0320 (march 3rd) found in [[Hovel]]
 - 1004 (April 10th) found in [[Apple Orchard]]
-- 0412 (april 12th) attempt at pblishing [[Mary Epsen|Marionn Marigold]]s [[Books|Book]] [[The Red Prince]] found in [[Attic]]
+- 0412 (april 12th) attempt at publishing [[Mary Epsen|Marionn Marigold]]s [[Books|Book]] [[The Red Prince]] found in [[Attic]]
