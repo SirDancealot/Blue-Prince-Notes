@@ -1,5 +1,6 @@
 Rooms with [[Pawn]]:
-- ?
+- [[Bedroom]]
+- [[Parlor]]
 Rooms with [[Knight]]:
 - ?
 Rooms with [[Bishop]]:

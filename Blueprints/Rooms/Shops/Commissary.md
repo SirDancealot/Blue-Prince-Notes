@@ -9,3 +9,6 @@ Other items on offer:
 - [[Gem]]
 
 Red false [[Memos|Memo]] stating this room will be closed from day 12 to day 16 (false as in not hand-written)
+
+Staff notice found in room: ![[Staff Notice.png]]
+With magnefying glass password "SWANSONG" can be seen

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Shops/Commissary.md",
+                "file": "M. Lowry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,55 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Commissary"
-            }
-          },
-          {
-            "id": "92ee99cef6675c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Running Shoes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Running Shoes"
-            }
-          },
-          {
-            "id": "8843388fa12ca27a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/The Fixed Stars.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Fixed Stars"
+              "title": "M. Lowry"
             }
           }
         ]
@@ -200,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blueprints/Rooms/Shops/Commissary.md",
+                "file": "M. Lowry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Commissary"
+              "title": "Outline of M. Lowry"
             }
           },
           {
@@ -240,12 +192,27 @@
   },
   "active": "811cd8c42b2156a8",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Shops",
-    "Items/Items.md",
-    "Blueprints/Rooms/Shops/Commissary.md",
-    "Items/Running Shoes.md",
+    "People/People.md",
+    "Images/Misc/Pasted image 20250423022407.png",
+    "M. Lowry.md",
+    "Images/Misc/Pasted image 20250423022420.png",
+    "Puzzles/Chess/Chess.md",
+    "Blueprints/Rooms/Numbered/Parlor.md",
+    "Blueprints/Rooms/Green Rooms/Green Rooms.md",
+    "Blueprints/Rooms/Green Rooms/Greenhouse.md",
     "Items/Sledge Hammer.md",
+    "Items/Items.md",
+    "Items/Running Shoes.md",
+    "Items/Shovel.md",
+    "People/The Family/Mary Epsen.md",
+    "People/The Family/Clara Epsen.md",
+    "Images/Misc/Pasted image 20250423021424.png",
+    "Blueprints/Rooms/Bedrooms/Bedroom.md",
     "Books/The Fixed Stars.md",
+    "Images/Misc/Staff Notice.png",
+    "Blueprints/Rooms/Numbered/Security.md",
+    "Blueprints/Rooms/Shops/Commissary.md",
+    "Blueprints/Rooms/Shops",
     "Items",
     "Images/Books/The Fixed Stars/The Fixed Stars 1.png",
     "Images/Books/The Fixed Stars/Pasted image 20250423020049.png",
@@ -254,38 +221,22 @@
     "Images/Books/The Fixed Stars/Pasted image 20250423020146.png",
     "Images/Books/The Fixed Stars/Pasted image 20250423020132.png",
     "Images/Books/The Fixed Stars/Pasted image 20250423020122.png",
-    "Images/Books/The Fixed Stars/Pasted image 20250423020112.png",
-    "Images/Books/The Fixed Stars/Pasted image 20250423020101.png",
     "Blueprints/Rooms/Numbered/Nook.md",
     "Images/Books",
     "Blueprints/Rooms/Numbered/Library.md",
-    "Puzzles/Chess/Chess.md",
-    "Images/Red letters/RL7-1.png",
     "Puzzles/Red Letters/Red Letter 7.md",
     "Puzzles/Red Letters/Red Letter 2.md",
     "Puzzles/Red Letters/Red Letter 8.md",
     "Blueprints/Rooms/Numbered/Office.md",
     "Blueprints/Rooms/Outer Rooms/Shelter.md",
     "Dates/Today.md",
-    "Images/Misc/Shelter note.png",
     "Books/Books.md",
-    "Areas/Outside/The Precipice.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "Puzzles/Sigil doors/Sigils.md",
-    "TODO.md",
-    "People/Other People/Alzara.md",
-    "Puzzles/Red Letters/Red Letters.md",
-    "Blueprints/Blueprint list.md",
-    "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
-    "Blueprints/Rooms/Green Rooms/Conservatory.md",
-    "Blueprints/Rooms/Misc/Mechanarium.md",
     "Images/Red letters",
     "Images/Tomb Letter",
     "Images/Misc",
     "Areas/Underground",
     "Areas",
     "People/Other People",
-    "People/The Family",
     "Untitled.canvas"
   ]
 }

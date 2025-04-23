@@ -11,5 +11,6 @@ Other people:
 - [[Mr. Ruota]]
 - [[Hartley]]
 - [[Mrs. Hanna Peterson]]
+- [[M. Lowry]]
 
 ![[Family tree.png]]
