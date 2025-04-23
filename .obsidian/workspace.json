@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "391937f76f983d34",
+            "id": "9371677669bdac26",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "70d7b5661ada5218",
+            "id": "3f6b5afdd68c85d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Green Rooms/Cloister.md",
+                "file": "Blueprints/Rooms/Red Rooms/Archives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cloister"
+              "title": "Archives"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blueprints/Rooms/Green Rooms/Cloister.md",
+                "file": "Blueprints/Rooms/Red Rooms/Archives.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloister"
+              "title": "Outline of Archives"
             }
           },
           {
@@ -239,18 +239,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "3f6b5afdd68c85d1",
   "lastOpenFiles": [
+    "Power.md",
+    "Items/File Cabinet Key.md",
+    "Items/Items.md",
+    "Blueprints/Rooms/Numbered/Aquarium.md",
+    "Blueprints/Rooms/Numbered/Laboratory.md",
+    "Images/Misc/Pasted image 20250423025854.png",
+    "Observatory.md",
+    "Puzzles/Chess/Chess.md",
+    "Blueprints/Rooms/Green Rooms/Cloister.md",
     "Images/Misc/Pasted image 20250423025436.png",
     "People/People.md",
     "Battery Pack.md",
-    "Items/Items.md",
     "Blueprints/Rooms/Red Rooms/Darkroom.md",
     "Images/Misc/Print Notes.png",
     "People/The Family/Clara Epsen.md",
     "Images/People/Clara Epsen.png",
     "Images/People",
-    "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Green Rooms/Solarium.md",
     "Blueprints/Rooms/Numbered/Dining Room.md",
     "Puzzles/Math.md",
@@ -262,16 +269,11 @@
     "Blueprints/Rooms/Red Rooms/Chapel.md",
     "Puzzles/Angel/Angel.md",
     "Blueprints/Rooms/Numbered/Den.md",
-    "Blueprints/Rooms/Numbered/Aquarium.md",
     "Blueprints/Rooms/Numbered/Parlor.md",
     "People/Other People/M. Lowry.md",
     "Images/Misc/Parlor puzzle 2.png",
     "Images/Misc/Parlor puzzle 1.png",
     "Blueprints/Rooms/Green Rooms/Green Rooms.md",
-    "Blueprints/Rooms/Green Rooms/Greenhouse.md",
-    "Items/Sledge Hammer.md",
-    "Items/Running Shoes.md",
-    "Items/Shovel.md",
     "Images/Misc/Pasted image 20250423021424.png",
     "Images/Misc/Staff Notice.png",
     "Blueprints/Rooms/Shops",
@@ -279,8 +281,6 @@
     "Images/Books/The Fixed Stars/The Fixed Stars 1.png",
     "Images/Books/The Fixed Stars/Pasted image 20250423020049.png",
     "Images/Books/The Fixed Stars",
-    "Images/Books/The Fixed Stars/Pasted image 20250423020154.png",
-    "Images/Books/The Fixed Stars/Pasted image 20250423020146.png",
     "Images/Books",
     "Images/Red letters",
     "Images/Tomb Letter",

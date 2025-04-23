@@ -7,7 +7,7 @@ Rooms with [[Pawn]]:
 - [[Dining Room]]
 - [[Solarium]]
 Rooms with [[Knight]]:
-- ?
+- [[Observatory]]
 Rooms with [[Bishop]]:
 - [[Chapel]]
 Rooms with [[Rook]]:
