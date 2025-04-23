@@ -14,6 +14,7 @@ Rooms with [[Bishop]]:
 Rooms with [[Rook]]:
 - [[Nook]]
 - [[Clock Tower]]
+- [[Conservatory]]
 Rooms with [[Queen]]:
 - ?
 Rooms with [[King]]:

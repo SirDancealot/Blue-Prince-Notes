@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "2e92bff185fad39d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/The Family/Mary Epsen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mary Epsen"
+            }
+          },
+          {
             "id": "2b1f97c1d87babc1",
             "type": "leaf",
             "state": {
@@ -178,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafting.md",
+                "file": "People/The Family/Mary Epsen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drafting"
+              "title": "Outline of Mary Epsen"
             }
           },
           {
@@ -216,21 +240,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b1f97c1d87babc1",
+  "active": "2e92bff185fad39d",
   "lastOpenFiles": [
-    "Items/Items.md",
+    "Blueprints/Rooms/Green Rooms/Conservatory.md",
+    "Puzzles/Chess/Chess.md",
     "Drafting.md",
+    "Items/Items.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Areas/The Manor.md",
     "TODO.md",
     "Bookshop.md",
-    "Blueprints/Rooms/Green Rooms/Conservatory.md",
     "Items/Silver Spoon.md",
     "Items/Emerald Bracelet.md",
     "Items/Master Key.md",
     "Items/Moon Pendant.md",
     "Blueprints/Blueprint list.md",
-    "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
     "Images/Misc/Pasted image 20250423033648.png",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
