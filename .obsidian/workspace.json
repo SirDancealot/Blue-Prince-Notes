@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Other People/Denny Revane.md",
+                "file": "Blueprints/Rooms/Numbered/Garage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Denny Revane"
+              "title": "Garage"
+            }
+          },
+          {
+            "id": "2636e7800b58fbaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/The Family/Clara Epsen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Clara Epsen"
             }
           }
         ]
@@ -190,16 +214,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc2a10e9579d9774",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
+    "Images/Misc/Pasted image 20250423171148.png",
+    "Blueprints/Rooms/Hallways/West Wing Hall.md",
+    "Blueprints/Rooms/Numbered/Garage.md",
+    "People/The Family/Clara Epsen.md",
+    "Images/Misc/Pasted image 20250423170843.png",
+    "Blueprints/Rooms/Hallways/Secret Passage.md",
+    "Puzzles/Chess/Chess.md",
+    "Drafting.md",
+    "People/The Family/Mary Epsen.md",
+    "Blueprints/Rooms/Numbered/Laboratory.md",
     "Blueprints/Rooms/Numbered/Mail Room.md",
-    "People/Other People/Denny Revane.md",
-    "Images/Mail room letters/Pasted image 20250423165459.png",
+    "Images/Mail room letters/MR L4.md",
+    "Puzzles/Puzzles.md",
+    "Images/Mail room letters/Pasted image 20250423170126.png",
+    "Images/Mail room letters/MR L3.md",
+    "Images/Mail room letters/Pasted image 20250423165939.png",
+    "Images/Mail room letters/MR L2.md",
     "Images/Mail room letters/MR L1.md",
-    "Images/Mail room letters/Pasted image 20250423165040.png",
+    "Images/Mail room letters/Pasted image 20250423165833.png",
+    "Images/Mail room letters/Pasted image 20250423165459.png",
     "Images/Mail room letters/Pasted image 20250423165057.png",
     "Images/Mail room letters/Pasted image 20250423165049.png",
-    "Puzzles/Chess/Chess.md",
+    "Images/Mail room letters/Pasted image 20250423165040.png",
+    "People/Other People/Denny Revane.md",
     "Images/Mail room letters",
     "Blueprints/Rooms/Bedrooms/Guest Bedroom.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
@@ -211,25 +251,9 @@
     "Blueprints/Rooms/Hallways",
     "Images/Misc/Pasted image 20250423163854.png",
     "Blueprints/Rooms/Hallways/Hallway.md",
-    "Images/Misc/Pasted image 20250423163643.png",
-    "Drafting.md",
     "Blueprints/Rooms/Shops/Bookshop.md",
-    "Images/Misc/Pasted image 20250423163232.png",
-    "People/The Family/Mary Epsen.md",
     "Blueprints/Rooms/Green Rooms/Conservatory.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
-    "Areas/The Manor.md",
-    "TODO.md",
-    "Items/Silver Spoon.md",
-    "Items/Emerald Bracelet.md",
-    "Items/Master Key.md",
-    "Items/Moon Pendant.md",
-    "Blueprints/Blueprint list.md",
-    "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
-    "Images/Misc/Pasted image 20250423033648.png",
-    "Images/Misc/Pasted image 20250423033420.png",
-    "Blueprints/Rooms/Numbered/Rumpus Room.md",
-    "Puzzles/Sigil doors/Sigils.md",
     "Images/People",
     "Blueprints/Rooms/Shops",
     "Items",

@@ -7,6 +7,7 @@ Rooms with [[Pawn]]:
 - [[Dining Room]]
 - [[Solarium]]
 - [[Storeroom]]
+- [[Secret Passage]]
 Rooms with [[Knight]]:
 - [[Observatory]]
 Rooms with [[Bishop]]:

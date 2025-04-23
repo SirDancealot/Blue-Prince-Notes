@@ -3,6 +3,9 @@ Based on space on table, an additional 7 can be ordered in total [[TODO]]
 
 Letters:
 - [[MR L1]]
+- [[MR L2]]
+- [[MR L3]]
+- [[MR L4]]
 
 Has a note about [[Denny Revane]]
 Small text reads: "Did they ever prove he was the one that stole the barons mail?"

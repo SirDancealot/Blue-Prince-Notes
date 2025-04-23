@@ -2,7 +2,7 @@
 aliases:
   - Draft
 ---
-West wing only:
+	West wing only:
 - [[Garage]]
 - [[West Wing Hall]]
 - [[Her Ladyship's Chamber]] - only from south facing door [[TODO]]

@@ -1,6 +1,7 @@
 - [[Node sheets]] [[Decryption]] - Solved
 - [[Gas Valve]] - Solved
 - [[Tomb]] door/[[Angel]] - Solved
+- [[Laboratory]] lever puzzle
 - [[Chess]]
 - [[Billiard Room|Billiard Room]]/[[Math]] - Solved ish
 - [[Parlor|Parlor/Logic]] - Solved ish
