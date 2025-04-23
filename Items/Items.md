@@ -10,6 +10,7 @@ Special items:
 - [[Battery Pack]]
 - [[File Cabinet Key]]
 - [[Metal Detector]]
+- [[Coupon Book]]
 
 Items from [[Showroom]]:
 - [[Moon Pendant]] - 20 [[Gold]]

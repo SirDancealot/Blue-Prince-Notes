@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attic.md",
+                "file": "People/Other People/Denny Revane.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Attic"
+              "title": "Denny Revane"
             }
           }
         ]
@@ -192,8 +192,21 @@
   },
   "active": "bc2a10e9579d9774",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Mail Room.md",
+    "People/Other People/Denny Revane.md",
+    "Images/Mail room letters/Pasted image 20250423165459.png",
+    "Images/Mail room letters/MR L1.md",
+    "Images/Mail room letters/Pasted image 20250423165040.png",
+    "Images/Mail room letters/Pasted image 20250423165057.png",
+    "Images/Mail room letters/Pasted image 20250423165049.png",
     "Puzzles/Chess/Chess.md",
-    "Attic.md",
+    "Images/Mail room letters",
+    "Blueprints/Rooms/Bedrooms/Guest Bedroom.md",
+    "Blueprints/Rooms/Numbered/Clock Tower.md",
+    "Blueprints/Rooms/Numbered/Attic.md",
+    "Items/Coupon Book.md",
+    "Items/Items.md",
+    "Images/Misc/Pasted image 20250423164253.png",
     "Blueprints/Rooms/Numbered/Storeroom.md",
     "Blueprints/Rooms/Hallways",
     "Images/Misc/Pasted image 20250423163854.png",
@@ -204,7 +217,6 @@
     "Images/Misc/Pasted image 20250423163232.png",
     "People/The Family/Mary Epsen.md",
     "Blueprints/Rooms/Green Rooms/Conservatory.md",
-    "Items/Items.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Areas/The Manor.md",
     "TODO.md",
@@ -215,20 +227,9 @@
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
     "Images/Misc/Pasted image 20250423033648.png",
-    "Blueprints/Rooms/Numbered/Clock Tower.md",
     "Images/Misc/Pasted image 20250423033420.png",
     "Blueprints/Rooms/Numbered/Rumpus Room.md",
-    "Images/Misc/Pasted image 20250423033133.png",
-    "Images/Misc/Pasted image 20250423033145.png",
     "Puzzles/Sigil doors/Sigils.md",
-    "Items/Metal Detector.md",
-    "Items/File Cabinet Key.md",
-    "Blueprints/Rooms/Numbered/Antechamber.md",
-    "People/Other People/Alzara.md",
-    "Blueprints/Rooms/Numbered/Workshop.md",
-    "Images/Sigils/Fenn Aries.png",
-    "Images/People/Mary Epsen birth certificate.png",
-    "Images/Misc/Pasted image 20250423031017.png",
     "Images/People",
     "Blueprints/Rooms/Shops",
     "Items",
@@ -237,7 +238,6 @@
     "Images/Red letters",
     "Images/Tomb Letter",
     "Images/Misc",
-    "Areas/Underground",
     "Untitled.canvas"
   ]
 }
