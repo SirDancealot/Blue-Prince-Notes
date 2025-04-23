@@ -5,7 +5,7 @@ aliases:
 West wing only:
 - [[Garage]]
 - [[West Wing Hall]]
-- [[Her Ladyship's Chamber]] - only from south facing wall [[TODO]]
+- [[Her Ladyship's Chamber]] - only from south facing door [[TODO]]
 East wing only:
 - [[East Wing Hall]]
 - [[Master Bedroom]]

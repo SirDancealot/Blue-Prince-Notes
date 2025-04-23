@@ -6,11 +6,14 @@ Rooms with [[Pawn]]:
 - [[Drawing Room]]
 - [[Dining Room]]
 - [[Solarium]]
+- [[Storeroom]]
 Rooms with [[Knight]]:
 - [[Observatory]]
 Rooms with [[Bishop]]:
 - [[Chapel]]
 - [[Rumpus Room]]
+- [[Bookshop]]
+- [[Attic]]
 Rooms with [[Rook]]:
 - [[Nook]]
 - [[Clock Tower]]

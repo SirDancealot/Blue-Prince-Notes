@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Chess/Chess.md",
+                "file": "Attic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chess"
-            }
-          },
-          {
-            "id": "fc8c5e22e384f6b2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "Attic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,17 +190,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc8c5e22e384f6b2",
+  "active": "bc2a10e9579d9774",
   "lastOpenFiles": [
-    "Drafting.md",
     "Puzzles/Chess/Chess.md",
+    "Attic.md",
+    "Blueprints/Rooms/Numbered/Storeroom.md",
+    "Blueprints/Rooms/Hallways",
+    "Images/Misc/Pasted image 20250423163854.png",
+    "Blueprints/Rooms/Hallways/Hallway.md",
+    "Images/Misc/Pasted image 20250423163643.png",
+    "Drafting.md",
+    "Blueprints/Rooms/Shops/Bookshop.md",
+    "Images/Misc/Pasted image 20250423163232.png",
     "People/The Family/Mary Epsen.md",
     "Blueprints/Rooms/Green Rooms/Conservatory.md",
     "Items/Items.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Areas/The Manor.md",
     "TODO.md",
-    "Bookshop.md",
     "Items/Silver Spoon.md",
     "Items/Emerald Bracelet.md",
     "Items/Master Key.md",
@@ -236,12 +229,6 @@
     "Images/Sigils/Fenn Aries.png",
     "Images/People/Mary Epsen birth certificate.png",
     "Images/Misc/Pasted image 20250423031017.png",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "Blueprints/Rooms/Red Rooms/Archives.md",
-    "Images/Sigils/Erajes sigil info.png",
-    "Images/Misc/Pasted image 20250423031359.png",
-    "Images/Misc/Pasted image 20250423031349.png",
-    "Puzzles/Sigil doors/Countries.md",
     "Images/People",
     "Blueprints/Rooms/Shops",
     "Items",
@@ -251,7 +238,6 @@
     "Images/Tomb Letter",
     "Images/Misc",
     "Areas/Underground",
-    "Areas",
     "Untitled.canvas"
   ]
 }
