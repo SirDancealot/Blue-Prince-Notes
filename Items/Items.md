@@ -13,6 +13,6 @@ Special items:
 
 Items from [[Showroom]]:
 - [[Moon Pendant]] - 20 [[Gold]]
-- [[Master Key]]
-- [[Emerald Bracelet]]
-- [[Silver Spoon]]
+- [[Master Key]] - 80 [[Gold]]
+- [[Emerald Bracelet]] - 60 [[Gold]]
+- [[Silver Spoon]] - 30 [[Gold]]

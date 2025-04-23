@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Items.md",
+                "file": "Drafting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Items"
+              "title": "Drafting"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Draft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Items.md",
+                "file": "Drafting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Items"
+              "title": "Outline of Drafting"
             }
           },
           {
@@ -217,9 +218,19 @@
   },
   "active": "2b1f97c1d87babc1",
   "lastOpenFiles": [
+    "Items/Items.md",
+    "Drafting.md",
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
+    "Areas/The Manor.md",
+    "TODO.md",
+    "Bookshop.md",
+    "Blueprints/Rooms/Green Rooms/Conservatory.md",
+    "Items/Silver Spoon.md",
+    "Items/Emerald Bracelet.md",
+    "Items/Master Key.md",
+    "Items/Moon Pendant.md",
     "Blueprints/Blueprint list.md",
     "Puzzles/Chess/Chess.md",
-    "Items/Items.md",
     "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
     "Images/Misc/Pasted image 20250423033648.png",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
@@ -243,17 +254,7 @@
     "Images/Misc/Pasted image 20250423031359.png",
     "Images/Misc/Pasted image 20250423031349.png",
     "Puzzles/Sigil doors/Countries.md",
-    "Power.md",
-    "Blueprints/Rooms/Numbered/Aquarium.md",
-    "Blueprints/Rooms/Numbered/Laboratory.md",
-    "Blueprints/Rooms/Numbered/Observatory.md",
-    "Blueprints/Rooms/Green Rooms/Cloister.md",
-    "People/People.md",
-    "Items/Battery Pack.md",
-    "Blueprints/Rooms/Red Rooms/Darkroom.md",
-    "People/The Family/Clara Epsen.md",
     "Images/People",
-    "Blueprints/Rooms/Green Rooms/Solarium.md",
     "Blueprints/Rooms/Shops",
     "Items",
     "Images/Books/The Fixed Stars",
