@@ -3,7 +3,7 @@ Generates Power:
 
 Needs power:
 - [[Pump Room]] - ?
-- [[Laboratory]] - Puzzle
+- [[Laboratory]] - Done, unlocked Blackbridge grotto
 - [[Laundry Room]] - ?
 - [[Furnace]] - Opens furnace, gave a key once might do more
 

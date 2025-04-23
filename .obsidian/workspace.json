@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
+                "file": "Terminal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Her Ladyship's Chamber"
+              "title": "Terminal"
             }
           },
           {
@@ -216,8 +216,14 @@
   },
   "active": "bc2a10e9579d9774",
   "lastOpenFiles": [
-    "Puzzles/Sigil doors/Countries.md",
+    "People/Other People/Mr. Ruota.md",
+    "People/People.md",
+    "TODO.md",
+    "Power.md",
+    "Blueprints/Rooms/Numbered/Laboratory.md",
+    "Images/Mail room letters/MR L4.md",
     "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
+    "Puzzles/Sigil doors/Countries.md",
     "Images/Misc/Pasted image 20250423180652.png",
     "Puzzles/Chess/Chess.md",
     "Drafting.md",
@@ -247,11 +253,6 @@
     "People/Other People/Denny Revane.md",
     "Blueprints/Rooms/Hallways/West Wing Hall.md",
     "People/The Family/Clara Epsen.md",
-    "Blueprints/Rooms/Hallways/Secret Passage.md",
-    "People/The Family/Mary Epsen.md",
-    "Blueprints/Rooms/Numbered/Laboratory.md",
-    "Blueprints/Rooms/Numbered/Mail Room.md",
-    "Images/Mail room letters/MR L4.md",
     "Images/Mail room letters",
     "Blueprints/Rooms/Hallways",
     "Images/People",
