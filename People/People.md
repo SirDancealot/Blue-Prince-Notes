@@ -8,10 +8,10 @@ In the family:
 Other people:
 - [[Anne Babbage]]
 - [[Farro]]
-- [[Mr. Ruota]]
 - [[Hartley]]
 - [[Mrs. Hanna Peterson]]
 - [[M. Lowry]]
 - [[Mr. Nogula]]
+- [[Thomas Kimberly]]
 
 ![[Family tree.png]]
