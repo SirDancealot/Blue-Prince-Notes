@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9016e7496c156225",
+        "id": "9a6b72de0dee9bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "79009f6b4c82260c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Red letters/RL7-1.png"
-              },
-              "icon": "lucide-image",
-              "title": "RL7-1"
-            }
-          },
-          {
-            "id": "90dd5b9888a23a02",
+            "id": "811cd8c42b2156a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Red Letters/Red Letter 7.md",
+                "file": "Blueprints/Rooms/Shops/Commissary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Red Letter 7"
+              "title": "Commissary"
             }
           },
           {
-            "id": "87afff0c61bd092e",
+            "id": "92ee99cef6675c55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Red Letters/Red Letter 2.md",
+                "file": "Items/Running Shoes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,11 +52,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Red Letter 2"
+              "title": "Running Shoes"
+            }
+          },
+          {
+            "id": "8843388fa12ca27a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/The Fixed Stars.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Fixed Stars"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Puzzles/Red Letters/Red Letter 7.md",
+                "file": "Blueprints/Rooms/Shops/Commissary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Red Letter 7"
+              "title": "Outline of Commissary"
             }
           },
           {
@@ -227,53 +238,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90dd5b9888a23a02",
+  "active": "811cd8c42b2156a8",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Shops",
+    "Items/Items.md",
+    "Blueprints/Rooms/Shops/Commissary.md",
+    "Items/Running Shoes.md",
+    "Items/Sledge Hammer.md",
+    "Books/The Fixed Stars.md",
+    "Items",
+    "Images/Books/The Fixed Stars/The Fixed Stars 1.png",
+    "Images/Books/The Fixed Stars/Pasted image 20250423020049.png",
+    "Images/Books/The Fixed Stars",
+    "Images/Books/The Fixed Stars/Pasted image 20250423020154.png",
+    "Images/Books/The Fixed Stars/Pasted image 20250423020146.png",
+    "Images/Books/The Fixed Stars/Pasted image 20250423020132.png",
+    "Images/Books/The Fixed Stars/Pasted image 20250423020122.png",
+    "Images/Books/The Fixed Stars/Pasted image 20250423020112.png",
+    "Images/Books/The Fixed Stars/Pasted image 20250423020101.png",
+    "Blueprints/Rooms/Numbered/Nook.md",
+    "Images/Books",
+    "Blueprints/Rooms/Numbered/Library.md",
+    "Puzzles/Chess/Chess.md",
+    "Images/Red letters/RL7-1.png",
+    "Puzzles/Red Letters/Red Letter 7.md",
     "Puzzles/Red Letters/Red Letter 2.md",
     "Puzzles/Red Letters/Red Letter 8.md",
     "Blueprints/Rooms/Numbered/Office.md",
-    "Shelter.md",
-    "Puzzles/Red Letters/Red Letter 7.md",
+    "Blueprints/Rooms/Outer Rooms/Shelter.md",
     "Dates/Today.md",
     "Images/Misc/Shelter note.png",
     "Books/Books.md",
     "Areas/Outside/The Precipice.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Puzzles/Sigil doors/Sigils.md",
-    "Puzzles/Chess/Chess.md",
     "TODO.md",
-    "Images/Red letters/RL8-1.png",
     "People/Other People/Alzara.md",
     "Puzzles/Red Letters/Red Letters.md",
-    "Images/Red letters/RL8-4.png",
-    "Images/Red letters/RL8-3.png",
-    "Images/Red letters/RL8-2.png",
     "Blueprints/Blueprint list.md",
-    "Images/Red letters/RL7-1.png",
-    "Images/Red letters/RL7-2.png",
-    "Images/Red letters/RL7-3.png",
     "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
     "Blueprints/Rooms/Green Rooms/Conservatory.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
-    "Images/Red letters/RL1-1.png",
-    "Images/Red letters/RL1-3.png",
     "Images/Red letters",
-    "Puzzles/Red Letters/Red Letter 1.md",
-    "Puzzles/Red Letters/Red Letter 6.md",
-    "Puzzles/Red Letters/Red Letter 5.md",
-    "Puzzles/Red Letters/Red Letter 4.md",
-    "Puzzles/Red Letters/Red Letter 3.md",
-    "Areas/Underground/The Underpass.md",
-    "Areas/Underground/Abandoned mine.md",
     "Images/Tomb Letter",
     "Images/Misc",
     "Areas/Underground",
     "Areas",
     "People/Other People",
     "People/The Family",
-    "Puzzles/Angel",
-    "Books",
-    "Dates",
     "Untitled.canvas"
   ]
 }

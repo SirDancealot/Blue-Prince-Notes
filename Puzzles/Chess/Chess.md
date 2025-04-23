@@ -5,7 +5,7 @@ Rooms with [[Knight]]:
 Rooms with [[Bishop]]:
 - ?
 Rooms with [[Rook]]:
-- ?
+- [[Nook]]
 Rooms with [[Queen]]:
 - ?
 Rooms with [[King]]:
