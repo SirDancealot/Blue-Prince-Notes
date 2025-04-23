@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Outside/The Grounds.md",
+                "file": "Books/Pump System User Manual.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Grounds"
+              "title": "Pump System User Manual"
             }
           },
           {
@@ -216,8 +216,16 @@
   },
   "active": "bc2a10e9579d9774",
   "lastOpenFiles": [
-    "Areas/Outside/Grounds Main.md",
+    "Books/Books.md",
+    "Books/Pump System User Manual.md",
+    "Images/Books/Pump System User Manual/Pasted image 20250423175456.png",
+    "Images/Books/Pump System User Manual",
+    "Images/Books/Pump System User Manual/Pasted image 20250423175616.png",
+    "Images/Books/Pump System User Manual/Pasted image 20250423175608.png",
+    "Images/Books/Pump System User Manual/Pasted image 20250423175601.png",
+    "Dates/Today.md",
     "Areas/Outside/The Grounds.md",
+    "Areas/Outside/Grounds Main.md",
     "Blueprints/Rooms/Bedrooms/Master Bedroom.md",
     "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "Images/Misc/Pasted image 20250423173820.png",
@@ -235,24 +243,16 @@
     "Images/Misc/Pasted image 20250423171148.png",
     "Blueprints/Rooms/Hallways/West Wing Hall.md",
     "People/The Family/Clara Epsen.md",
-    "Images/Misc/Pasted image 20250423170843.png",
     "Blueprints/Rooms/Hallways/Secret Passage.md",
     "Puzzles/Chess/Chess.md",
     "People/The Family/Mary Epsen.md",
     "Blueprints/Rooms/Numbered/Laboratory.md",
     "Blueprints/Rooms/Numbered/Mail Room.md",
     "Images/Mail room letters/MR L4.md",
-    "Images/Mail room letters/Pasted image 20250423170126.png",
     "Images/Mail room letters/MR L3.md",
-    "Images/Mail room letters/Pasted image 20250423165939.png",
     "Images/Mail room letters/MR L2.md",
     "Images/Mail room letters/MR L1.md",
-    "Images/Mail room letters/Pasted image 20250423165833.png",
     "Images/Mail room letters",
-    "Blueprints/Rooms/Bedrooms/Guest Bedroom.md",
-    "Blueprints/Rooms/Numbered/Clock Tower.md",
-    "Blueprints/Rooms/Numbered/Attic.md",
-    "Items/Coupon Book.md",
     "Blueprints/Rooms/Hallways",
     "Images/People",
     "Blueprints/Rooms/Shops",
@@ -261,7 +261,6 @@
     "Images/Books",
     "Images/Red letters",
     "Images/Tomb Letter",
-    "Images/Misc",
     "Untitled.canvas"
   ]
 }
