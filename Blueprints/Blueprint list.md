@@ -80,7 +80,7 @@ Numbered rooms (in order):
 - [[Commissary]]
 - [[Kitchen]]
 - [[Locksmith]]
-- ?
+- [[Showroom]]
 - [[Laundry Room]]
 - [[Bookshop]]
 - ?

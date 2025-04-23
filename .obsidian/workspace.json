@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "3f6b5afdd68c85d1",
+            "id": "2b1f97c1d87babc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Sigil doors/Sigil Doors.md",
+                "file": "Items/Items.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,59 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sigil Doors"
-            }
-          },
-          {
-            "id": "80274d36460276b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Other People/Alzara.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Alzara"
-            }
-          },
-          {
-            "id": "28bfb8988e45c8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzles/Sigil doors/Countries.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Countries"
+              "title": "Items"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Other People/Alzara.md",
+                "file": "Items/Items.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Alzara"
+              "title": "Outline of Items"
             }
           },
           {
@@ -263,45 +215,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80274d36460276b8",
+  "active": "2b1f97c1d87babc1",
   "lastOpenFiles": [
-    "Rumpus Room.md",
+    "Blueprints/Blueprint list.md",
+    "Puzzles/Chess/Chess.md",
+    "Items/Items.md",
+    "Blueprints/Rooms/Red Rooms/Closed Exhibit.md",
+    "Images/Misc/Pasted image 20250423033648.png",
+    "Blueprints/Rooms/Numbered/Clock Tower.md",
+    "Images/Misc/Pasted image 20250423033420.png",
+    "Blueprints/Rooms/Numbered/Rumpus Room.md",
+    "Images/Misc/Pasted image 20250423033133.png",
+    "Images/Misc/Pasted image 20250423033145.png",
+    "Puzzles/Sigil doors/Sigils.md",
+    "Items/Metal Detector.md",
+    "Items/File Cabinet Key.md",
+    "Blueprints/Rooms/Numbered/Antechamber.md",
+    "People/Other People/Alzara.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Images/Sigils/Fenn Aries.png",
     "People/The Family/Mary Epsen.md",
     "Images/People/Mary Epsen birth certificate.png",
     "Images/Misc/Pasted image 20250423031017.png",
     "Puzzles/Sigil doors/Sigil Doors.md",
-    "Puzzles/Sigil doors/Sigils.md",
     "Blueprints/Rooms/Red Rooms/Archives.md",
     "Images/Sigils/Erajes sigil info.png",
     "Images/Misc/Pasted image 20250423031359.png",
     "Images/Misc/Pasted image 20250423031349.png",
     "Puzzles/Sigil doors/Countries.md",
     "Power.md",
-    "Items/File Cabinet Key.md",
-    "Items/Items.md",
     "Blueprints/Rooms/Numbered/Aquarium.md",
     "Blueprints/Rooms/Numbered/Laboratory.md",
-    "Images/Misc/Pasted image 20250423025854.png",
-    "Observatory.md",
-    "Puzzles/Chess/Chess.md",
+    "Blueprints/Rooms/Numbered/Observatory.md",
     "Blueprints/Rooms/Green Rooms/Cloister.md",
-    "Images/Misc/Pasted image 20250423025436.png",
     "People/People.md",
-    "Battery Pack.md",
+    "Items/Battery Pack.md",
     "Blueprints/Rooms/Red Rooms/Darkroom.md",
-    "Images/Misc/Print Notes.png",
     "People/The Family/Clara Epsen.md",
-    "Images/People/Clara Epsen.png",
     "Images/People",
     "Blueprints/Rooms/Green Rooms/Solarium.md",
-    "Blueprints/Rooms/Numbered/Dining Room.md",
-    "Puzzles/Math.md",
-    "Dates/Dates.md",
-    "Blueprints/Rooms/Numbered/Drawing Room.md",
-    "Blueprints/Rooms/Bedrooms/Guest Bedroom.md",
-    "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Shops",
     "Items",
     "Images/Books/The Fixed Stars",

@@ -10,8 +10,10 @@ Rooms with [[Knight]]:
 - [[Observatory]]
 Rooms with [[Bishop]]:
 - [[Chapel]]
+- [[Rumpus Room]]
 Rooms with [[Rook]]:
 - [[Nook]]
+- [[Clock Tower]]
 Rooms with [[Queen]]:
 - ?
 Rooms with [[King]]:
