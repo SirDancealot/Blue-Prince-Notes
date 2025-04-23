@@ -2,14 +2,14 @@
 Country info:
 	Kingdoms:
 		oris
-			Fenn Aries
+			[[Fenn Aries]]
 				RED
 				Pentagon
-			Arch Aries
+			[[Arch Aries]]
 				Mountains-shape
 				Northern storms, wild and untamed
-			Eraja
+			[[Eraja]]
 				Hourglass shape
-			Nuance
+			[[Nuance]]
 				Diamond	
 	No BLUE contry

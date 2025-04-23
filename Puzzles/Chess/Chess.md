@@ -20,7 +20,7 @@ Rooms with [[Rook]]:
 - [[Clock Tower]]
 - [[Conservatory]]
 Rooms with [[Queen]]:
-- ?
+- [[Her Ladyship's Chamber]]
 Rooms with [[King]]:
 - ?
 

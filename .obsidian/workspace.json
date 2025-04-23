@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Pump System User Manual.md",
+                "file": "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pump System User Manual"
+              "title": "Her Ladyship's Chamber"
             }
           },
           {
@@ -216,8 +216,14 @@
   },
   "active": "bc2a10e9579d9774",
   "lastOpenFiles": [
-    "Books/Books.md",
+    "Puzzles/Sigil doors/Countries.md",
+    "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
+    "Images/Misc/Pasted image 20250423180652.png",
+    "Puzzles/Chess/Chess.md",
+    "Drafting.md",
+    "Blueprints/Rooms/Shops/Bookshop.md",
     "Books/Pump System User Manual.md",
+    "Books/Books.md",
     "Images/Books/Pump System User Manual/Pasted image 20250423175456.png",
     "Images/Books/Pump System User Manual",
     "Images/Books/Pump System User Manual/Pasted image 20250423175616.png",
@@ -236,22 +242,16 @@
     "Images/Misc/Pasted image 20250423173158.png",
     "Puzzles/Puzzles.md",
     "Images/Misc/Pasted image 20250423172625.png",
-    "Drafting.md",
     "Blueprints/Rooms/Numbered/Garage.md",
     "Images/Misc/Pasted image 20250423171403.png",
     "People/Other People/Denny Revane.md",
-    "Images/Misc/Pasted image 20250423171148.png",
     "Blueprints/Rooms/Hallways/West Wing Hall.md",
     "People/The Family/Clara Epsen.md",
     "Blueprints/Rooms/Hallways/Secret Passage.md",
-    "Puzzles/Chess/Chess.md",
     "People/The Family/Mary Epsen.md",
     "Blueprints/Rooms/Numbered/Laboratory.md",
     "Blueprints/Rooms/Numbered/Mail Room.md",
     "Images/Mail room letters/MR L4.md",
-    "Images/Mail room letters/MR L3.md",
-    "Images/Mail room letters/MR L2.md",
-    "Images/Mail room letters/MR L1.md",
     "Images/Mail room letters",
     "Blueprints/Rooms/Hallways",
     "Images/People",

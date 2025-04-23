@@ -5,7 +5,7 @@ aliases:
 West wing only:
 - [[Garage]]
 - [[West Wing Hall]]
-- [[Her Ladyship's Chamber]] - only from south facing door [[TODO]]
+- [[Her Ladyship's Chamber]] - only from south facing door (i.e. going south)
 East wing only:
 - [[East Wing Hall]]
 - [[Master Bedroom]] - Costs 2 [[Gem]]s
