@@ -1,10 +1,13 @@
 Rooms with [[Pawn]]:
 - [[Bedroom]]
 - [[Parlor]]
+- [[Den]]
+- [[Guest Bedroom|Quest Bedroom]]
+- [[Drawing Room]]
 Rooms with [[Knight]]:
 - ?
 Rooms with [[Bishop]]:
-- ?
+- [[Chapel]]
 Rooms with [[Rook]]:
 - [[Nook]]
 Rooms with [[Queen]]:
