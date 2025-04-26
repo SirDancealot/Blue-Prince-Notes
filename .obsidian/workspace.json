@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/People.md",
+                "file": "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "People"
+              "title": "Her Ladyship's Chamber"
             }
           },
           {
@@ -216,10 +216,11 @@
   },
   "active": "bc2a10e9579d9774",
   "lastOpenFiles": [
-    "Terminal.md",
-    "Pasted image 20250423183525.png",
+    "Puzzles/Chess/Chess.md",
     "People/Other People/Mr. Ruota.md",
     "People/People.md",
+    "Terminal.md",
+    "Pasted image 20250423183525.png",
     "People/Other People/Hartley.md",
     "Pasted image 20250423182831.png",
     "TODO.md",
@@ -229,7 +230,6 @@
     "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
     "Puzzles/Sigil doors/Countries.md",
     "Images/Misc/Pasted image 20250423180652.png",
-    "Puzzles/Chess/Chess.md",
     "Drafting.md",
     "Blueprints/Rooms/Shops/Bookshop.md",
     "Books/Pump System User Manual.md",
