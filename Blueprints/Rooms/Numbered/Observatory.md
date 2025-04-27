@@ -1,3 +1,3 @@
 Contains [[Chess]] piece [[Knight]]
-Should have a hidden floorplan within as hinted in [[MR L7]] [[TODO]]
+Had a hidden floorplan of [[Planetarium]] within as told in [[MR L7]]
 Contains a copy of the book [[The Fixed Stars]]

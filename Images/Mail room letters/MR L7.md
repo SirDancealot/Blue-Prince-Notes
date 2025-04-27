@@ -1,5 +1,5 @@
 Sent by [[Randolph Moore|Randolph]]
-The Fifth letter delivered to [[Mail Room]] via [[Laboratory]] experiments
+The Sixth letter delivered to [[Mail Room]] via [[Laboratory]] experiments
 Hints at hidden Floorplan to be found in [[Observatory]]
 
 ![[Pasted image 20250427183042.png]]

@@ -1,0 +1,1 @@
+Found in [[Observatory]] as told in [[MR L7]] 
