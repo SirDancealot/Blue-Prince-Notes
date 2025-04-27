@@ -2,8 +2,8 @@
 aliases:
   - Country
 ---
-- [[Oris]]?
-- [[Fenn Aries]]
+- [[Orinda Aries]]
+- [[Fenn Aries]] - full sigil
 - [[Arch Aries]]
 - [[Verra Shores]]
 - [[Mora Jai]]

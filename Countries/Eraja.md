@@ -1,5 +1,5 @@
 The [[Countries|Country]] of Eraja
-[[Shape]]: Hourglass
+[[Core]]: Hourglass
 [[Color]]: Pink?
 
 ![[Pasted image 20250427183317.png]]

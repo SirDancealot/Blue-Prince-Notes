@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e96a970d6b909cc",
+        "id": "41793bf8a7cacbe4",
         "type": "tabs",
         "children": [
           {
-            "id": "4c8642151f4b877d",
+            "id": "7f0631944126d983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Sigil doors/Sigils.md",
+                "file": "Countries/Verra Shores.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sigils"
+              "title": "Verra Shores"
             }
           }
         ]
@@ -190,12 +190,72 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c8642151f4b877d",
+  "floating": {
+    "id": "a05a095d49feff6b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ec08ce2721c083b8",
+        "type": "window",
+        "children": [
+          {
+            "id": "5039f35702a67c97",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4c8642151f4b877d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Puzzles/Sigil doors/Sigils.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sigils"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1994,
+        "y": 435,
+        "width": 1576,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7f0631944126d983",
   "lastOpenFiles": [
+    "Countries/Countries.md",
+    "Countries/Arch Aries.md",
+    "Countries/Fenn Aries.md",
+    "Puzzles/Sigil doors/Sigils.md",
+    "Countries/Orinda Aries.md",
+    "Core.md",
+    "Books/Realm & Rune.md",
+    "Pasted image 20250427200046.png",
+    "Pasted image 20250427195812.png",
+    "Pasted image 20250427195801.png",
+    "Areas/Underground/Abandoned mine.md",
+    "Orinn.md",
     "Blueprints/Rooms/Numbered/Library.md",
     "Books/Books.md",
     "Images/Books/Realm & Rune/Pasted image 20250427194802.png",
-    "Books/Realm & Rune.md",
     "Images/Books/Realm & Rune",
     "Images/Books/Realm & Rune/Pasted image 20250427194858.png",
     "Images/Books/Realm & Rune/Pasted image 20250427194851.png",
@@ -203,32 +263,21 @@
     "Images/Books/Realm & Rune/Pasted image 20250427194840.png",
     "Images/Books/Realm & Rune/Pasted image 20250427194834.png",
     "Images/Books/Realm & Rune/Pasted image 20250427194827.png",
-    "Images/Books/Realm & Rune/Pasted image 20250427194819.png",
-    "Images/Books/Realm & Rune/Pasted image 20250427194810.png",
     "Puzzles/Sigil doors/Sigil Doors.md",
-    "Puzzles/Sigil doors/Sigils.md",
     "Areas/Outside/The Precipice.md",
     "TODO.md",
     "Countries/Stamps.md",
-    "Images/Misc/Pasted image 20250427194120.png",
     "Blueprints/Rooms/Misc/Planetarium.md",
     "Books/The Fixed Stars.md",
     "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Numbered/Garage.md",
     "Blueprints/Rooms/Shops/Bookshop.md",
-    "Countries/Countries.md",
     "Countries/Nuance.md",
     "Countries/Mora Jai.md",
     "Countries/Eraja.md",
-    "Countries/Fenn Aries.md",
     "Images/Mail room letters/MR L1.md",
     "People/People.md",
     "Caleb.md",
-    "Puzzles/Red Letters/Red Letter 2.md",
-    "Blueprints/Rooms/Numbered/Observatory.md",
-    "Blueprints/Blueprint list.md",
-    "Images/Mail room letters/MR L7.md",
-    "Images/Mail room letters/MR L10.md",
     "Countries",
     "Images/Books/Pump System User Manual",
     "Images/Mail room letters",
