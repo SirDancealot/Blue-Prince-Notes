@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Observatory.md",
+                "file": "Puzzles/Chess/Chess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Observatory"
+              "title": "Chess"
             }
           },
           {
@@ -253,9 +253,9 @@
   },
   "active": "25d1d6e3e23518ff",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Observatory.md",
     "Blueprints/Rooms/Misc/Planetarium.md",
     "Blueprints/Blueprint list.md",
-    "Blueprints/Rooms/Numbered/Observatory.md",
     "Images/Mail room letters/MR L7.md",
     "Images/Mail room letters/MR L10.md",
     "Images/Mail room letters/MR L8.md",
