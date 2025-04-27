@@ -1,0 +1,10 @@
+Part of the [[Drafting Strategy Series]]
+Found in the [[Library]]
+
+![[Pasted image 20250428004257.png]]
+![[Pasted image 20250428004410.png]]
+![[Pasted image 20250428004426.png]]
+![[Pasted image 20250428004432.png]]![[Pasted image 20250428004438.png]]
+![[Pasted image 20250428004443.png]]
+![[Pasted image 20250428004449.png]]
+![[Pasted image 20250428004455.png]]

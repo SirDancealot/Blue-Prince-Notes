@@ -8,3 +8,6 @@ Has a collection of all [[Stamps]] in the scrapbook on the upper floor
 - [[The Fixed Stars]] also found in [[Observatory]]
 - [[Realm & Rune]] also old version with missing pages found in [[The Precipice]]
 - [[The History of Orindia]]
+- [[Drafting Strategy Vol 3]]
+- [[Drafting Strategy Vol 4]]
+- [[Drafting Strategy Vol 5]]

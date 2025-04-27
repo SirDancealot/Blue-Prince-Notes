@@ -11,24 +11,12 @@
             "id": "0f870901f24a3351",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Items/Power Hammer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004257.png"
               },
-              "icon": "lucide-file",
-              "title": "Power Hammer"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250428004257"
             }
           }
         ]
@@ -190,13 +178,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f870901f24a3351",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
+    "Books/Drafting Strategy Vol 3.md",
+    "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004455.png",
+    "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004449.png",
+    "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004443.png",
+    "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004438.png",
+    "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004432.png",
+    "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004426.png",
+    "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004410.png",
+    "Books/Drafting Strategy Series.md",
+    "Books/Pump System User Manual.md",
+    "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004257.png",
+    "Images/Books/Drafting strategy Vol 3",
+    "Blueprints/Rooms/Numbered/Library.md",
+    "Items/Power Hammer.md",
     "Blueprints/Rooms/Shops/Bookshop.md",
     "Blueprints/Rooms/Green Rooms/Secret Garden.md",
     "Countries/Orinda Aries.md",
     "Images/Sigils/Pasted image 20250428002956.png",
-    "Items/Power Hammer.md",
     "Dowsing Rod.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Items/Items.md",
@@ -214,21 +215,8 @@
     "Countries/Countries.md",
     "Countries/Fenn Aries.md",
     "Countries/Arch Aries.md",
-    "Countries/Eraja.md",
     "Images/Books/The History of Orindia/Pasted image 20250427212307.png",
     "Images/Books/The History of Orindia",
-    "Images/Books/The History of Orindia/Pasted image 20250427210359.png",
-    "Blueprints/Rooms/Misc/Classroom.md",
-    "Images/Books/The History of Orindia/Pasted image 20250427212147.png",
-    "Images/Books/The History of Orindia/Pasted image 20250427211822.png",
-    "Images/Books/The History of Orindia/Pasted image 20250427211643.png",
-    "Images/Books/The History of Orindia/Pasted image 20250427211411.png",
-    "Images/Books/The History of Orindia/Pasted image 20250427211238.png",
-    "Blueprints/Rooms/Numbered/Library.md",
-    "Images/Books/The History of Orindia/Pasted image 20250427210905.png",
-    "Puzzles/Angel/Angel.md",
-    "Puzzles/Angel/Royal Angel.md",
-    "Images/Books/The History of Orindia/Pasted image 20250427210620.png",
     "Images/Books/Realm & Rune",
     "Countries",
     "Images/Books/Pump System User Manual",
@@ -237,7 +225,6 @@
     "Images/People",
     "Blueprints/Rooms/Shops",
     "Items",
-    "Images/Books/The Fixed Stars",
     "Untitled.canvas"
   ]
 }
