@@ -8,7 +8,6 @@ aliases:
 - [[Verra Shores]]
 - [[Mora Jai]]
 - [[Eraja]]
-[[Nuance]]
-	Diamond	
-			
-	No BLUE contry?
+- [[Nuance]]
+
+No BLUE contry?
