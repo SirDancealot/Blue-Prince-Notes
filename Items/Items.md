@@ -12,6 +12,8 @@ Special items:
 - [[Metal Detector]]
 - [[Coupon Book]]
 
+Items from [[The Armory]]
+
 Items from [[Showroom]]:
 - [[Moon Pendant]] - 20 [[Gold]]
 - [[Master Key]] - 80 [[Gold]]

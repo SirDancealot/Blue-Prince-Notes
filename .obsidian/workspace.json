@@ -11,12 +11,24 @@
             "id": "0f870901f24a3351",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004257.png"
+                "file": "The Armory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428004257"
+              "icon": "lucide-file",
+              "title": "The Armory"
             }
           }
         ]
@@ -178,8 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "0f870901f24a3351",
   "lastOpenFiles": [
+    "Items/Items.md",
+    "The Armory.md",
+    "Self Igniting Torch.md",
+    "Burning Glass.md",
+    "Blueprints/Rooms/Numbered/Workshop.md",
+    "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004257.png",
     "Books/Drafting Strategy Vol 3.md",
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004455.png",
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004449.png",
@@ -190,7 +208,6 @@
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004410.png",
     "Books/Drafting Strategy Series.md",
     "Books/Pump System User Manual.md",
-    "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004257.png",
     "Images/Books/Drafting strategy Vol 3",
     "Blueprints/Rooms/Numbered/Library.md",
     "Items/Power Hammer.md",
@@ -199,8 +216,6 @@
     "Countries/Orinda Aries.md",
     "Images/Sigils/Pasted image 20250428002956.png",
     "Dowsing Rod.md",
-    "Blueprints/Rooms/Numbered/Workshop.md",
-    "Items/Items.md",
     "TODO.md",
     "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Numbered/Study.md",
@@ -213,8 +228,6 @@
     "Books/Realm & Rune.md",
     "Countries/Nuance.md",
     "Countries/Countries.md",
-    "Countries/Fenn Aries.md",
-    "Countries/Arch Aries.md",
     "Images/Books/The History of Orindia/Pasted image 20250427212307.png",
     "Images/Books/The History of Orindia",
     "Images/Books/Realm & Rune",
