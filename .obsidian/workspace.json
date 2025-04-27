@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "bac8c8e006dbedc3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ffeccd2323a59536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Countries/Nuance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nuance"
-            }
-          }
-        ]
-      },
-      {
         "id": "ee84af90992d115d",
         "type": "tabs",
         "children": [
@@ -43,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Realm & Rune.md",
+                "file": "Books/Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Realm & Rune"
+              "title": "Books"
             }
           }
         ]
@@ -222,6 +192,12 @@
   },
   "active": "0f870901f24a3351",
   "lastOpenFiles": [
+    "Books/The History of Orindia.md",
+    "Blueprints/Rooms/Shops/Laundry Room.md",
+    "Countries/Core.md",
+    "Items/Power Hammer.md",
+    "Puzzles/Chess/Chess.md",
+    "Books/Realm & Rune.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Countries/Nuance.md",
     "Countries/Countries.md",
@@ -234,7 +210,6 @@
     "Images/Books/The History of Orindia/Pasted image 20250427210359.png",
     "Items/Items.md",
     "Blueprints/Rooms/Misc/Classroom.md",
-    "The History of Orindia.md",
     "Images/Books/The History of Orindia/Pasted image 20250427212147.png",
     "Images/Books/The History of Orindia/Pasted image 20250427211822.png",
     "Images/Books/The History of Orindia/Pasted image 20250427211643.png",
@@ -247,17 +222,13 @@
     "Images/Books/The History of Orindia/Pasted image 20250427210620.png",
     "Images/Books/The History of Orindia/Pasted image 20250427210525.png",
     "Countries/Ajeran.md",
-    "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
-    "Laundry Room.md",
     "Blueprints/Rooms/Numbered/Boiler Room.md",
     "Books/The Fixed Stars.md",
     "Blueprints/Rooms/Misc/Planetarium.md",
     "Countries/Mora Jai.md",
-    "Corarica.md",
+    "Countries/Corarica.md",
     "Countries/Verra Shores.md",
-    "Puzzles/Sigil doors/Sigils.md",
-    "Core.md",
     "Images/Books/Realm & Rune",
     "Countries",
     "Images/Books/Pump System User Manual",
