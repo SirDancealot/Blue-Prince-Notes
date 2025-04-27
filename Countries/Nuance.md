@@ -1,6 +1,9 @@
 The [[Countries|Country]] of Nuance
 
 [[Core]]: Diamond
+[[Transport]]: Aviation: 5 lines upward
+[[Weather]]: Windy? curved lines
+[[Mote]]: ?
 [[Color]]: Green
 
 Stamp of Nuance found in [[Mail Room]] on [[MR L9]]

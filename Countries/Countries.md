@@ -9,5 +9,6 @@ aliases:
 - [[Mora Jai]]
 - [[Eraja]]
 - [[Nuance]]
+- [[Corarica]]
 
 No BLUE contry?
