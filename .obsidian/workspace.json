@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Red Letters/Red Letter 2.md",
+                "file": "Puzzles/Chess/Chess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Red Letter 2"
+              "title": "Chess"
             }
           }
         ]
@@ -192,13 +192,15 @@
   },
   "active": "0f870901f24a3351",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Study.md",
+    "Puzzles/Chess/Chess.md",
+    "Items/Power Hammer.md",
+    "Puzzles/Red Letters/Red Letter 2.md",
     "Puzzles/Red Letters/Red Letters.md",
     "Books/Books.md",
     "Books/The History of Orindia.md",
     "Blueprints/Rooms/Shops/Laundry Room.md",
     "Countries/Core.md",
-    "Items/Power Hammer.md",
-    "Puzzles/Chess/Chess.md",
     "Books/Realm & Rune.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Countries/Nuance.md",
@@ -227,8 +229,6 @@
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Blueprints/Rooms/Numbered/Boiler Room.md",
     "Books/The Fixed Stars.md",
-    "Blueprints/Rooms/Misc/Planetarium.md",
-    "Countries/Mora Jai.md",
     "Images/Books/Realm & Rune",
     "Countries",
     "Images/Books/Pump System User Manual",

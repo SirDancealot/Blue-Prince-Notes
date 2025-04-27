@@ -1,3 +1,6 @@
+When puzzle is solved one of the following effects can be chosen:
+- Pawn: Choose knight, rook, queen, 
+
 Rooms with [[Pawn]]:
 - [[Bedroom]]
 - [[Parlor]]
@@ -22,6 +25,7 @@ Rooms with [[Rook]]:
 - [[Conservatory]]
 Rooms with [[Queen]]:
 - [[Her Ladyship's Chamber]]
+- [[Study]]
 Rooms with [[King]]:
 - [[Office]]
 
