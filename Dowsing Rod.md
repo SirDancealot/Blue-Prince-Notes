@@ -1,0 +1,1 @@
+While drafting items points at rooms that contain more items than normal

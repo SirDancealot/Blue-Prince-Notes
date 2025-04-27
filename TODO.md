@@ -1,2 +1,3 @@
 - Remaining [[Puzzles]]
 - Get to 50 stars to see the new one [[Planetarium]]
+- Draft [[Furnace]] close to [[Freezer]]
