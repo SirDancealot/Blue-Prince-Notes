@@ -1,5 +1,10 @@
 When puzzle is solved one of the following effects can be chosen:
-- Pawn: Choose knight, rook, queen, 
+- Pawn: Choose knight, rook, queen, or bishop when reaching rank 8 during the day, that effect stays for the day
+- knight: Add [[The Armory]] floorplan to the draft pool
+- Queen: Each time a room is drafted on the west wing, lose 5 steps and gain 1 key
+- King: Each day, choose a color, floorplans of that color are more likely to appear when drafting
+- Bishop: Gain 30 [[Gold]] when entering the [[Chapel]] for the first time once a day instead of loosing 1
+- Rook: Redraft up to 4 times in the 4 corners of the manor
 
 Rooms with [[Pawn]]:
 - [[Bedroom]]

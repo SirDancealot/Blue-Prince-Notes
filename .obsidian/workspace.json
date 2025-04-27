@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Chess/Chess.md",
+                "file": "Blueprints/Rooms/Numbered/Workshop.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chess"
+              "title": "Workshop"
             }
           }
         ]
@@ -192,8 +192,10 @@
   },
   "active": "0f870901f24a3351",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Numbered/Study.md",
+    "Items/Items.md",
+    "TODO.md",
     "Puzzles/Chess/Chess.md",
+    "Blueprints/Rooms/Numbered/Study.md",
     "Items/Power Hammer.md",
     "Puzzles/Red Letters/Red Letter 2.md",
     "Puzzles/Red Letters/Red Letters.md",
@@ -212,7 +214,6 @@
     "Images/Books/The History of Orindia/Pasted image 20250427212307.png",
     "Images/Books/The History of Orindia",
     "Images/Books/The History of Orindia/Pasted image 20250427210359.png",
-    "Items/Items.md",
     "Blueprints/Rooms/Misc/Classroom.md",
     "Images/Books/The History of Orindia/Pasted image 20250427212147.png",
     "Images/Books/The History of Orindia/Pasted image 20250427211822.png",
@@ -228,7 +229,6 @@
     "Countries/Ajeran.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Blueprints/Rooms/Numbered/Boiler Room.md",
-    "Books/The Fixed Stars.md",
     "Images/Books/Realm & Rune",
     "Countries",
     "Images/Books/Pump System User Manual",
