@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Workshop.md",
+                "file": "Items/Power Hammer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Workshop"
+              "title": "Power Hammer"
             }
           }
         ]
@@ -192,11 +192,17 @@
   },
   "active": "0f870901f24a3351",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Shops/Bookshop.md",
+    "Blueprints/Rooms/Green Rooms/Secret Garden.md",
+    "Countries/Orinda Aries.md",
+    "Images/Sigils/Pasted image 20250428002956.png",
+    "Items/Power Hammer.md",
+    "Dowsing Rod.md",
+    "Blueprints/Rooms/Numbered/Workshop.md",
     "Items/Items.md",
     "TODO.md",
     "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Numbered/Study.md",
-    "Items/Power Hammer.md",
     "Puzzles/Red Letters/Red Letter 2.md",
     "Puzzles/Red Letters/Red Letters.md",
     "Books/Books.md",
@@ -204,10 +210,8 @@
     "Blueprints/Rooms/Shops/Laundry Room.md",
     "Countries/Core.md",
     "Books/Realm & Rune.md",
-    "Blueprints/Rooms/Numbered/Workshop.md",
     "Countries/Nuance.md",
     "Countries/Countries.md",
-    "Countries/Orinda Aries.md",
     "Countries/Fenn Aries.md",
     "Countries/Arch Aries.md",
     "Countries/Eraja.md",
@@ -225,10 +229,6 @@
     "Puzzles/Angel/Angel.md",
     "Puzzles/Angel/Royal Angel.md",
     "Images/Books/The History of Orindia/Pasted image 20250427210620.png",
-    "Images/Books/The History of Orindia/Pasted image 20250427210525.png",
-    "Countries/Ajeran.md",
-    "Blueprints/Rooms/Numbered/Antechamber.md",
-    "Blueprints/Rooms/Numbered/Boiler Room.md",
     "Images/Books/Realm & Rune",
     "Countries",
     "Images/Books/Pump System User Manual",

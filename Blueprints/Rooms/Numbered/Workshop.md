@@ -5,4 +5,5 @@ Contains [[Node sheets|Node sheet]] [[Node 8.png]]
 
 ### Found combinations:
 - [[Battery Pack]] + [[Broken Lever]] + [[Sledge Hammer]] = [[Power Hammer]]
-- [[Shovel]] + [[Metal Detector]] = [[Detector]]
+- [[Shovel]] + [[Metal Detector]] = [[Detector Shovel]]
+- [[Shovel]] + [[Compass]] = [[Dowsing Rod]]
