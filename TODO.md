@@ -5,3 +5,4 @@
 - Steal from [[Shrine]]
 - Have another look at [[Tomb]]
 - Remaining [[Puzzles]]
+- Get to 50 stars to see the new one [[Planetarium]]
