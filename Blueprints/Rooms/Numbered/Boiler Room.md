@@ -11,4 +11,4 @@ Following rooms need [[Power]] For some functionality
 - [[Pump Room]]
 - [[Laboratory]] - DONE
 - [[Furnace]] - DONE?
-- [[Laundry Room]]
+- [[Laundry Room]] - DONE
