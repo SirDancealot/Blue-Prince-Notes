@@ -1,6 +1,8 @@
 [[TODO]]
 Probably THE main puzzle
 
+A lot of info in [[Countries|Country]]
+
 "[[Ajeran]] symbols"
 
 Where to find the keys to the doors: 

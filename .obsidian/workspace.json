@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e74c82d14fcab8",
+        "id": "e6bfbeba5081e098",
         "type": "tabs",
         "children": [
           {
-            "id": "bc2a10e9579d9774",
+            "id": "8e4e1c919e90c8b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Countries.md",
+                "file": "Blueprints/Rooms/Numbered/Utility Closet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Countries"
-            }
-          },
-          {
-            "id": "aeee48ee1c6c4b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Countries/Arch Aries.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arch Aries"
+              "title": "Utility Closet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +190,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aeee48ee1c6c4b46",
+  "active": "8e4e1c919e90c8b3",
   "lastOpenFiles": [
+    "Mail.md",
+    "Blueprints/Rooms/Numbered/Utility Closet.md",
+    "Images/Misc/Pasted image 20250427181922.png",
+    "Images/Mail room letters/Pasted image 20250423170126.png",
+    "Images/Mail room letters/MR L5.md",
+    "Images/Mail room letters/Pasted image 20250427181744.png",
+    "Images/Mail room letters/MR L2.md",
+    "Images/Mail room letters/MR L1.md",
+    "Images/Mail room letters/MR L4.md",
+    "Images/Misc/Pasted image 20250427181551.png",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Puzzles/Sigil doors/Sigils.md",
     "Countries/Countries.md",
+    "Countries/Mora Jai.md",
+    "Puzzles/Mora Jai Box.md",
+    "Puzzles/Puzzles.md",
+    "Countries/Verra Shores.md",
+    "Images/Misc/Pasted image 20250427181259.png",
     "Countries/Arch Aries.md",
-    "Pasted image 20250427180539.png",
     "Countries/Fenn Aries.md",
-    "Pasted image 20250427180429.png",
+    "Images/Misc/Pasted image 20250427180539.png",
+    "Images/Misc/Pasted image 20250427180429.png",
     "Countries",
     "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Numbered/Office.md",
@@ -234,26 +226,9 @@
     "Apple Orchard.md",
     "Blueprints/Rooms/Numbered/Walk-in Closet.md",
     "Blueprints/Rooms/Outer Rooms/Hovel.md",
-    "Dates/Dates.md",
     "Pasted image 20250427174240.png",
-    "Blueprints/Rooms/Numbered/Mail Room.md",
     "Images/Misc/Pasted image 20250427174030.png",
-    "Images/Misc/Pasted image 20250423182831.png",
-    "Images/Misc/Pasted image 20250423183525.png",
-    "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
-    "People/Other People/Mr. Ruota.md",
-    "Terminal.md",
-    "People/Other People/Hartley.md",
-    "TODO.md",
-    "Power.md",
-    "Blueprints/Rooms/Numbered/Laboratory.md",
-    "Images/Mail room letters/MR L4.md",
-    "Images/Misc/Pasted image 20250423180652.png",
-    "Drafting.md",
-    "Blueprints/Rooms/Shops/Bookshop.md",
-    "Images/Books/Pump System User Manual/Pasted image 20250423175456.png",
     "Images/Books/Pump System User Manual",
-    "Images/Books/Pump System User Manual/Pasted image 20250423175616.png",
     "Images/Mail room letters",
     "Blueprints/Rooms/Hallways",
     "Images/People",

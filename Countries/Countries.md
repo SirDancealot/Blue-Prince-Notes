@@ -1,10 +1,12 @@
-[[TODO]]
-[[Oris]]?
-[[Fenn Aries]]
-	RED
-	Pentagon
-[[Arch Aries]]
-	
+---
+aliases:
+  - Country
+---
+- [[Oris]]?
+- [[Fenn Aries]]
+- [[Arch Aries]]
+- [[Verra Shores]]
+- [[Mora Jai]]
 [[Eraja]]
 	Hourglass shape
 [[Nuance]]

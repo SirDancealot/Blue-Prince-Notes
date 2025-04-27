@@ -1,4 +1,5 @@
 
+Originally from [[Mora Jai]]
 Typically contains 2 [[Gold]] allowance
 
 Found in:
