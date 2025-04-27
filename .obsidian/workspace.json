@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6bfbeba5081e098",
+        "id": "c6fab8a66d4f3563",
         "type": "tabs",
         "children": [
           {
-            "id": "8e4e1c919e90c8b3",
+            "id": "880c338676f67f32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Utility Closet.md",
+                "file": "People/People.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Utility Closet"
+              "title": "People"
+            }
+          },
+          {
+            "id": "25d1d6e3e23518ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Images/Mail room letters/MR L7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MR L7"
+            }
+          },
+          {
+            "id": "aa54350718bb06c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Countries/Eraja.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Eraja"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,44 +239,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e4e1c919e90c8b3",
+  "active": "25d1d6e3e23518ff",
   "lastOpenFiles": [
-    "Mail.md",
+    "Randolph Moore.md",
+    "Images/Mail room letters/MR L7.md",
+    "Images/Mail room letters/MR L6.md",
+    "Images/Mail room letters/MR L5.md",
+    "Images/Mail room letters/MR L4.md",
+    "Images/Mail room letters/MR L3.md",
+    "Images/Mail room letters/MR L2.md",
+    "People/People.md",
+    "Countries/Countries.md",
+    "Countries/Eraja.md",
+    "Images/Misc/Pasted image 20250427183317.png",
+    "Images/Misc/Pasted image 20250427183415.png",
+    "Countries/Fenn Aries.md",
+    "Countries/Mora Jai.md",
+    "Images/Mail room letters/Pasted image 20250427183042.png",
+    "Blueprints/Rooms/Numbered/Observatory.md",
+    "Images/Mail room letters/Pasted image 20250427183101.png",
+    "Images/Mail room letters/Pasted image 20250427182901.png",
+    "Images/Mail room letters/Pasted image 20250427182910.png",
+    "Blueprints/Rooms/Bedrooms/Boudoir.md",
     "Blueprints/Rooms/Numbered/Utility Closet.md",
+    "Mail.md",
     "Images/Misc/Pasted image 20250427181922.png",
     "Images/Mail room letters/Pasted image 20250423170126.png",
-    "Images/Mail room letters/MR L5.md",
     "Images/Mail room letters/Pasted image 20250427181744.png",
-    "Images/Mail room letters/MR L2.md",
     "Images/Mail room letters/MR L1.md",
-    "Images/Mail room letters/MR L4.md",
     "Images/Misc/Pasted image 20250427181551.png",
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Puzzles/Sigil doors/Sigils.md",
-    "Countries/Countries.md",
-    "Countries/Mora Jai.md",
     "Puzzles/Mora Jai Box.md",
     "Puzzles/Puzzles.md",
     "Countries/Verra Shores.md",
-    "Images/Misc/Pasted image 20250427181259.png",
     "Countries/Arch Aries.md",
-    "Countries/Fenn Aries.md",
-    "Images/Misc/Pasted image 20250427180539.png",
-    "Images/Misc/Pasted image 20250427180429.png",
     "Countries",
     "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Numbered/Office.md",
-    "People/People.md",
-    "Blueprints/Rooms/Numbered/Observatory.md",
     "People/Other People/Denny Revane.md",
-    "Books/The Fixed Stars.md",
-    "Images/Misc/Pasted image 20250427174216.png",
-    "People/The Family/Clara Epsen.md",
-    "Apple Orchard.md",
-    "Blueprints/Rooms/Numbered/Walk-in Closet.md",
-    "Blueprints/Rooms/Outer Rooms/Hovel.md",
-    "Pasted image 20250427174240.png",
-    "Images/Misc/Pasted image 20250427174030.png",
     "Images/Books/Pump System User Manual",
     "Images/Mail room letters",
     "Blueprints/Rooms/Hallways",

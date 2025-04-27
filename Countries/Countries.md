@@ -7,8 +7,7 @@ aliases:
 - [[Arch Aries]]
 - [[Verra Shores]]
 - [[Mora Jai]]
-[[Eraja]]
-	Hourglass shape
+- [[Eraja]]
 [[Nuance]]
 	Diamond	
 			

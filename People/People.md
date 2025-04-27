@@ -14,5 +14,6 @@ Other people:
 - [[Mr. Nogula]]
 - [[Thomas Kimberly]]
 - [[Denny Revane]]
+- [[Randolph Moore]]
 
 ![[Family tree.png]]
