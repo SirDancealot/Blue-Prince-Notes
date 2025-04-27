@@ -7,3 +7,4 @@ Has a collection of all [[Stamps]] in the scrapbook on the upper floor
 - [[Pump System User Manual]]
 - [[The Fixed Stars]] also found in [[Observatory]]
 - [[Realm & Rune]] also old version with missing pages found in [[The Precipice]]
+- [[The History of Orindia]]

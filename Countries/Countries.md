@@ -10,5 +10,6 @@ aliases:
 - [[Eraja]]
 - [[Nuance]]
 - [[Corarica]]
+- [[Ajeran]]
 
 No BLUE contry?
