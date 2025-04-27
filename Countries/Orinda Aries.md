@@ -1,6 +1,6 @@
 [[Core]]: Ticket
 [[Transport]]: Train
-[[Color]]: ?
+[[Color]]: Black
 [[Weather]]: Fog
 [[Mote]] Metropolitan
 

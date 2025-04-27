@@ -5,11 +5,11 @@ aliases:
 - [[Orinda Aries]]
 - [[Fenn Aries]] - full sigil
 - [[Arch Aries]]
-- [[Verra Shores]]
+- [[Verra Shores]] - Might be the same as Corarica
 - [[Mora Jai]]
-- [[Eraja]]
+- [[Eraja]] - Solved ?
 - [[Nuance]]
-- [[Corarica]]
-- [[Ajeran]]
+- [[Corarica]] - might be the same as Verra Shores
+- [[Ajeran]] ?
 
 No BLUE contry?

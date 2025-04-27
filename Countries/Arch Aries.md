@@ -4,7 +4,7 @@ The [[Countries|Country]] of Arch Aries
 [[Weather]]: Storm (lightning shape lines)
 [[Color]]: ?
 [[Mote]]: Industrial?
-[[Transport]]: ?
+[[Transport]]: Train
 
 Stamp of Arch Aries Found in [[Mail Room]] on [[MR L2]]
 ![[Pasted image 20250427180539.png]]
