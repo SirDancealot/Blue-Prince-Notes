@@ -8,6 +8,7 @@ Rooms with [[Pawn]]:
 - [[Solarium]]
 - [[Storeroom]]
 - [[Secret Passage]]
+- [[Walk-in Closet]]
 Rooms with [[Knight]]:
 - [[Observatory]]
 Rooms with [[Bishop]]:

@@ -13,5 +13,6 @@ Other people:
 - [[M. Lowry]]
 - [[Mr. Nogula]]
 - [[Thomas Kimberly]]
+- [[Denny Revane]]
 
 ![[Family tree.png]]
