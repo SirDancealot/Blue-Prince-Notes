@@ -11,10 +11,24 @@
             "id": "ffeccd2323a59536",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints/Rooms/Numbered/Boiler Room.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Boiler Room"
             }
           }
         ]
@@ -178,6 +192,7 @@
   },
   "active": "ffeccd2323a59536",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Library.md",
     "Countries/Eraja.md",
     "Books/The Fixed Stars.md",
     "Blueprints/Rooms/Misc/Planetarium.md",
@@ -204,7 +219,6 @@
     "Books/Realm & Rune.md",
     "Areas/Underground/Abandoned mine.md",
     "Orinn.md",
-    "Blueprints/Rooms/Numbered/Library.md",
     "Books/Books.md",
     "Images/Books/Realm & Rune",
     "Images/Books/Realm & Rune/Pasted image 20250427194851.png",
