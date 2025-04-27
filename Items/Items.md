@@ -12,7 +12,7 @@ Special items:
 - [[Metal Detector]]
 - [[Coupon Book]]
 
-Items from [[The Armory]]
+![[The Armory#Items for purchase in The Armory]]
 
 Items from [[Showroom]]:
 - [[Moon Pendant]] - 20 [[Gold]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Armory.md",
+                "file": "Items/Burning Glass.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Armory"
+              "title": "Burning Glass"
             }
           }
         ]
@@ -192,10 +192,12 @@
   },
   "active": "0f870901f24a3351",
   "lastOpenFiles": [
+    "Items/Self Igniting Torch.md",
+    "Items/Burning Glass.md",
     "Items/Items.md",
-    "The Armory.md",
-    "Self Igniting Torch.md",
-    "Burning Glass.md",
+    "Blueprints/Rooms/Shops/The Armory.md",
+    "Items/Morning Star.md",
+    "Items/Knight's Shield.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004257.png",
     "Books/Drafting Strategy Vol 3.md",
@@ -215,7 +217,7 @@
     "Blueprints/Rooms/Green Rooms/Secret Garden.md",
     "Countries/Orinda Aries.md",
     "Images/Sigils/Pasted image 20250428002956.png",
-    "Dowsing Rod.md",
+    "Items/Dowsing Rod.md",
     "TODO.md",
     "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Numbered/Study.md",
@@ -226,8 +228,6 @@
     "Blueprints/Rooms/Shops/Laundry Room.md",
     "Countries/Core.md",
     "Books/Realm & Rune.md",
-    "Countries/Nuance.md",
-    "Countries/Countries.md",
     "Images/Books/The History of Orindia/Pasted image 20250427212307.png",
     "Images/Books/The History of Orindia",
     "Images/Books/Realm & Rune",
