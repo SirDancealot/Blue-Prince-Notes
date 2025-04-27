@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/People.md",
+                "file": "Countries/Countries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "People"
+              "title": "Countries"
             }
           },
           {
-            "id": "c305d119b7494fb7",
+            "id": "aeee48ee1c6c4b46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Other People/Denny Revane.md",
+                "file": "Countries/Arch Aries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,71 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Denny Revane"
-            }
-          },
-          {
-            "id": "2f62baf138ee013b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Numbered/Walk-in Closet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Walk-in Closet"
-            }
-          },
-          {
-            "id": "a9add391ecdf9983",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Misc/Pasted image 20250427174216.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250427174216"
-            }
-          },
-          {
-            "id": "2636e7800b58fbaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/The Family/Clara Epsen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Clara Epsen"
+              "title": "Arch Aries"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,17 +215,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "aeee48ee1c6c4b46",
   "lastOpenFiles": [
+    "Countries/Countries.md",
+    "Countries/Arch Aries.md",
+    "Pasted image 20250427180539.png",
+    "Countries/Fenn Aries.md",
+    "Pasted image 20250427180429.png",
+    "Countries",
     "Puzzles/Chess/Chess.md",
+    "Blueprints/Rooms/Numbered/Office.md",
+    "People/People.md",
+    "Blueprints/Rooms/Numbered/Observatory.md",
+    "People/Other People/Denny Revane.md",
+    "Books/The Fixed Stars.md",
+    "Images/Misc/Pasted image 20250427174216.png",
+    "People/The Family/Clara Epsen.md",
+    "Apple Orchard.md",
     "Blueprints/Rooms/Numbered/Walk-in Closet.md",
     "Blueprints/Rooms/Outer Rooms/Hovel.md",
     "Dates/Dates.md",
-    "People/Other People/Denny Revane.md",
     "Pasted image 20250427174240.png",
-    "Images/Misc/Pasted image 20250427174216.png",
-    "Apple Orchard.md",
-    "People/People.md",
     "Blueprints/Rooms/Numbered/Mail Room.md",
     "Images/Misc/Pasted image 20250427174030.png",
     "Images/Misc/Pasted image 20250423182831.png",
@@ -298,22 +248,12 @@
     "Power.md",
     "Blueprints/Rooms/Numbered/Laboratory.md",
     "Images/Mail room letters/MR L4.md",
-    "Puzzles/Sigil doors/Countries.md",
     "Images/Misc/Pasted image 20250423180652.png",
     "Drafting.md",
     "Blueprints/Rooms/Shops/Bookshop.md",
-    "Books/Pump System User Manual.md",
-    "Books/Books.md",
     "Images/Books/Pump System User Manual/Pasted image 20250423175456.png",
     "Images/Books/Pump System User Manual",
     "Images/Books/Pump System User Manual/Pasted image 20250423175616.png",
-    "Images/Books/Pump System User Manual/Pasted image 20250423175608.png",
-    "Images/Books/Pump System User Manual/Pasted image 20250423175601.png",
-    "Dates/Today.md",
-    "Areas/Outside/The Grounds.md",
-    "Areas/Outside/Grounds Main.md",
-    "Blueprints/Rooms/Bedrooms/Master Bedroom.md",
-    "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "Images/Mail room letters",
     "Blueprints/Rooms/Hallways",
     "Images/People",
@@ -322,7 +262,6 @@
     "Images/Books/The Fixed Stars",
     "Images/Books",
     "Images/Red letters",
-    "Images/Tomb Letter",
     "Untitled.canvas"
   ]
 }

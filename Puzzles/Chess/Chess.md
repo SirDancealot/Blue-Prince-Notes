@@ -23,7 +23,7 @@ Rooms with [[Rook]]:
 Rooms with [[Queen]]:
 - [[Her Ladyship's Chamber]]
 Rooms with [[King]]:
-- ?
+- [[Office]]
 
 Think i need a room with one of each piece type drafted, and then place them as they are located in the manor
 ![[Chess puzzle.png]]
