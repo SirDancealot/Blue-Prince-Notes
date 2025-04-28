@@ -10,5 +10,7 @@ Found in:
 Color mechanics:
 - White = swap all colors in a + pattern
 - Yellow = swap with tile above
+- Green = jump to opposite edge
+- Black = move entire row to the right
 
-![[Pasted image 20250423173158.png]]
+![[Pasted image 20250423173158.png]]![[Pasted image 20250428032050.png]]

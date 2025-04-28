@@ -1,3 +1,5 @@
+Sanctum key was in black moon
+[[Allowance]] tokens (3) were in white sun
 Resevoir memo puzzle:
 - (True) Blue memo in pink sun: "GREEN MEMOS IN WHITE BOXES ARE LIES"
 - (True) Blue memo in pink sun: "ALL BOXES MARKED BY SUN CONTAIN TRUE MEMOS"
@@ -9,6 +11,7 @@ Resevoir memo puzzle:
 - (False) Red memo in black moon "THE BOX CONTAINING ALLOWANCE TOKENS IS MARKED BY MOON"
 - (False) Green in black wave "THE SNACTUM KEY IS NOT IN A BOX. IT IS BURIED."
 - (False) Red in black wave "THE SANCTUM KEY IS IN A BLUE BOX"
+- (True) Blue in black moon "THIS BOX CONTAINED A SANCTUM KEY"
 
 According to [[Security]]
 - Blue memos are true
