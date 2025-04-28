@@ -15,5 +15,6 @@ Other people:
 - [[Thomas Kimberly]]
 - [[Denny Revane]]
 - [[Randolph Moore]]
+- [[Kirk Darren]]
 
 ![[Family tree.png]]

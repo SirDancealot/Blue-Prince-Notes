@@ -6,7 +6,7 @@ Numbered rooms (in order):
 5. [[Parlor]]
 6. [[Billiard Room]]
 7. [[Gallery]]
-8. ?
+8. [[Room 8]]
 9. [[Closet]]
 10. [[Walk-in Closet]]
 11. [[Attic]]

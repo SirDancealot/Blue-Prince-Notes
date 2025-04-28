@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4be30c3b83b7e0fd",
+            "id": "7d52a0c583865c89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Underground/The Underpass.md",
+                "file": "People/Other People/Randolph Moore.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Underpass"
-            }
-          },
-          {
-            "id": "081514b259284894",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Misc/Train Map.png"
-              },
-              "icon": "lucide-image",
-              "title": "Train Map"
+              "title": "Randolph Moore"
             }
           }
         ]
@@ -202,8 +190,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be30c3b83b7e0fd",
+  "active": "7d52a0c583865c89",
   "lastOpenFiles": [
+    "People/People.md",
+    "Images/Mail room letters/MR L12.md",
+    "Pasted image 20250429002158.png",
+    "Blueprints/Rooms/Numbered/Mail Room.md",
+    "People/Other People/Kirk Darren.md",
+    "People/Other People/Anne Babbage.md",
+    "Images/Mail room letters/MR L11.md",
+    "Books/Drafting Strategy Series.md",
+    "Images/Mail room letters/MR L10.md",
+    "Images/Mail room letters/Pasted image 20250429001824.png",
+    "Blueprints/Rooms/Numbered/Room 8.md",
+    "Blueprints/Blueprint list.md",
+    "Areas/Underground/The Underpass.md",
     "Areas/Underground/Safehouse.md",
     "Courtney.md",
     "Images/Misc/Train Map.png",
@@ -214,14 +215,11 @@
     "Puzzles/Red Letters/Red Letter 2.md",
     "Countries/Countries.md",
     "Books/Realm & Rune.md",
-    "Areas/Underground/The Underpass.md",
     "Areas/Underground/Underground.md",
     "Terminal/Terminal.md",
-    "People/People.md",
     "Books/A New Clue.md",
     "Books/The Fixed Stars.md",
     "Books/The Red Prince.md",
-    "People/The Family/Mary Epsen.md",
     "Images/Books/A New Clue/Pasted image 20250428223936.png",
     "Images/Books/A New Clue/Pasted image 20250428230244.png",
     "Images/Books/A New Clue/Pasted image 20250428230225.png",
@@ -230,16 +228,6 @@
     "Images/Red letters/RL6-1.png",
     "Images/Red letters/RL6-3.png",
     "Images/Red letters/RL6-2.png",
-    "Images/Books/A New Clue/Pasted image 20250428230217.png",
-    "Images/Books/A New Clue/Pasted image 20250428230200.png",
-    "TODO.md",
-    "Blueprints/Rooms/Numbered/Drawing Room.md",
-    "Dates/Dates.md",
-    "Safe.md",
-    "Drafting.md",
-    "Memos.md",
-    "Puzzles/Mora Jai Box.md",
-    "Countries/Arch Aries.md",
     "Terminal/Mail",
     "Terminal",
     "Images/Mail",

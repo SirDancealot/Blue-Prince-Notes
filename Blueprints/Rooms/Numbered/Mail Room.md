@@ -12,6 +12,8 @@ Letters:
 - [[MR L8]]
 - [[MR L9]]
 - [[MR L10]]
+- [[MR L11]]
+- [[MR L12]]
 
 Has a note about [[Denny Revane]]
 Small text reads: "Did they ever prove he was the one that stole the barons mail?"
