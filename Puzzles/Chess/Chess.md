@@ -21,6 +21,7 @@ Rooms with [[Rook]]:
 - [[Conservatory]]
 Rooms with [[Queen]]:
 - [[Her Ladyship's Chamber]]
+- [[Study]]
 Rooms with [[King]]:
 - ?
 
