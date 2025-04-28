@@ -1,0 +1,5 @@
+![[Pasted image 20250428015137.png]]
+![[Pasted image 20250428015108.png]]
+There is likely another [[Antechamber]] lever in the [[Weight Room]]
+![[Pasted image 20250428015000.png]]
+![[Pasted image 20250428014947.png]]

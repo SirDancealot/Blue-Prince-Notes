@@ -9,5 +9,6 @@ To turn on;
 
 Following rooms need [[Power]] For some functionality
 - [[Pump Room]]
-- [[Laboratory]]
-- ?
+- [[Laboratory]] - DONE
+- [[Furnace]] - DONE?
+- [[Laundry Room]] - DONE

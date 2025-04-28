@@ -1,0 +1,1 @@
+Can open both west and east side of [[Antechamber]] now that 3 crank is revealed by [[Power Hammer]] (before only west-side)

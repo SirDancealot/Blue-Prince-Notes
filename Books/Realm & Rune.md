@@ -1,0 +1,10 @@
+Contains information on how to assemble [[Sigils]]
+Look at [[Stamps]], [[Countries]] and [[Sigil Doors]] puzzle
+![[Pasted image 20250427194802.png]]![[Pasted image 20250427194810.png]]
+![[Pasted image 20250427194819.png]]
+![[Pasted image 20250427194827.png]]
+![[Pasted image 20250427194834.png]]
+![[Pasted image 20250427194840.png]]
+![[Pasted image 20250427194845.png]]
+![[Pasted image 20250427194851.png]]
+![[Pasted image 20250427194858.png]]

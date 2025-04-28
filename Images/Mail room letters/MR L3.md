@@ -1,3 +1,4 @@
+Sent by [[Randolph Moore|Randolph]]
 Second letter delivered to [[Mail Room]] via [[Laboratory]] experiment
 
 Directly gives the [[Terminal]] password

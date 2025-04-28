@@ -5,8 +5,4 @@ Written by [[Mary Epsen]] under the pen name [[Mary Epsen|Marionn Marigold]]:
 - [[Swim Bird]]
 - [[A New Clue]]
 
-Available for order in the [[Library]]:
-- [[Pump System User Manual]]
-
-Other books:
-- [[Realm & Rune]]
+![[Library#Books Within]]

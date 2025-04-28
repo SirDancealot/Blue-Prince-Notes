@@ -2,6 +2,7 @@
 aliases:
   - RL2
 ---
+Found in [[Study]]
 Written by [[Caleb]]
 ![[RL1-1.png]]
 
