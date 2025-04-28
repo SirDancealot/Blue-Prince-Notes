@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e74c82d14fcab8",
+        "id": "63ee774466c8790e",
         "type": "tabs",
         "children": [
           {
-            "id": "bc2a10e9579d9774",
+            "id": "7050fc773d531c08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal.md",
+                "file": "Terminal/Terminal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,81 +30,8 @@
               "icon": "lucide-file",
               "title": "Terminal"
             }
-          },
-          {
-            "id": "7c155073c0b5559d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzles/Chess/Chess.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chess"
-            }
-          },
-          {
-            "id": "2636e7800b58fbaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/The Family/Mary Epsen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mary Epsen"
-            }
-          },
-          {
-            "id": "54439ce15d7ec500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,18 +189,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54439ce15d7ec500",
+  "active": "7050fc773d531c08",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Numbered/Study.md",
-    "conflict-files-obsidian-git.md",
+    "Terminal",
     "People/The Family/Mary Epsen.md",
+    "Terminal/Terminal.md",
+    "Puzzles/Chess/Chess.md",
+    "conflict-files-obsidian-git.md",
+    "Blueprints/Rooms/Numbered/Study.md",
     "Puzzles/Sigil doors/Behind the doors.md",
     "Puzzles/Mora Jai Box.md",
     "People/Other People/Randolph Moore.md",
-    "Mail/Shelter Mail.md",
-    "Mail/Security Mail.md",
-    "Mail/Mail.md",
-    "Mail",
+    "Terminal/Mail/Shelter Mail.md",
+    "Terminal/Mail/Security Mail.md",
+    "Terminal/Mail/Mail.md",
+    "Terminal/Mail",
     "Items/Self Igniting Torch.md",
     "Items/Power Hammer.md",
     "Items/Morning Star.md",
@@ -302,9 +232,6 @@
     "Images/Books/The History of Orindia",
     "Images/Books/Realm & Rune",
     "Images/Books/Drafting strategy Vol 3",
-    "Countries/Verra Shores.md",
-    "Countries/Nuance.md",
-    "Countries/Orinda Aries.md",
     "Countries",
     "Images/Books/Pump System User Manual",
     "Images/Mail room letters",
