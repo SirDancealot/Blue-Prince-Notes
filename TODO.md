@@ -1,3 +1,4 @@
 - Remaining [[Puzzles]]
 - Get to 50 stars to see the new one [[Planetarium]]
 - Draft [[Furnace]] close to [[Freezer]]
+- Find the correct trunk in the base of the resevoir in the [[Underground]]

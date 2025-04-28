@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Sigil doors/Sigil Doors.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sigil Doors"
+              "title": "TODO"
             }
           }
         ]
@@ -192,6 +192,7 @@
   },
   "active": "0f870901f24a3351",
   "lastOpenFiles": [
+    "Puzzles/Sigil doors/Sigil Doors.md",
     "Areas/Underground/Inner Sanctum.md",
     "Room 46.md",
     "People/Other People/Alzara.md",
@@ -229,7 +230,6 @@
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004438.png",
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004432.png",
     "Books/Drafting Strategy Series.md",
-    "Books/Pump System User Manual.md",
     "Images/Books/Drafting strategy Vol 3",
     "Images/Books/The History of Orindia",
     "Images/Books/Realm & Rune",
