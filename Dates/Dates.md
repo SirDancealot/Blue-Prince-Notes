@@ -6,7 +6,8 @@ Confirmed usefull dates: (should probably be 8 in total according to paintings p
 - 1225 opens [[Boudoir]] safe
 - [[Today]] in at least 1 hour opens [[Shelter]] safe
 - 0812 opens [[Study]] safe
-
+- 1504 opens [[Drawing Room]] safe
+ 
 Various other found dates and years:
 - 1231 year found in [[Wine Cellar]]
 - 07-02-15 foreman log 3 found down elevator unlocked by [[Gas Valve]] puzzle
