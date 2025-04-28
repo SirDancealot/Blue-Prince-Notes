@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Mail Room.md",
+                "file": "Items/Ornate Compass.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mail Room"
+              "title": "Ornate Compass"
             }
           },
           {
-            "id": "c1b00246396482eb",
+            "id": "98928a991adf2c6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Showroom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Showroom"
+            }
+          },
+          {
+            "id": "2324a262a0d66ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drafting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Drafting"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,8 +263,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1b00246396482eb",
+  "active": "2324a262a0d66ef8",
   "lastOpenFiles": [
+    "Images/Misc/Pasted image 20250428034031.png",
+    "Showroom.md",
+    "Items/Chronograph.md",
+    "Items/Ornate Compass.md",
+    "Items/Items.md",
+    "Items/Emerald Bracelet.md",
+    "Blueprints/Rooms/Numbered/Workshop.md",
+    "Blueprints/Rooms/Numbered/Library.md",
+    "Books/Drafting Strategy Vol 3.md",
+    "TODO.md",
     "Blueprints/Rooms/Numbered/Mail Room.md",
     "conflict-files-obsidian-git.md",
     "Terminal/Mail/Shelter Mail.md",
@@ -251,7 +285,6 @@
     "Terminal",
     "Images/Mail room letters/MR L5.md",
     "Images/Mail room letters/MR L1.md",
-    "TODO.md",
     "Areas/Underground/Underground.md",
     "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
     "Blueprints/Rooms/Misc/Planetarium.md",
@@ -259,18 +292,8 @@
     "Blueprints/Rooms/Shops/Bookshop.md",
     "Areas/Underground/The Underpass.md",
     "Blueprints/Rooms/Numbered/Boiler Room.md",
-    "Pasted image 20250428034031.png",
     "Blueprints/Rooms/Red Rooms/Archives.md",
-    "Terminal.md",
     "Images/Misc/Pasted image 20250428033518.png",
-    "Blueprints/Rooms/Numbered/Pump Room.md",
-    "Countries/Countries.md",
-    "Countries/Nuance.md",
-    "Countries/Arch Aries.md",
-    "Countries/Fenn Aries.md",
-    "Countries/Orinda Aries.md",
-    "Countries/Eraja.md",
-    "Puzzles/Mora Jai Box.md",
     "Images/Misc/Pasted image 20250428032212.png",
     "Images/Misc/Pasted image 20250428032806.png",
     "Images/Misc/Pasted image 20250428032655.png",
