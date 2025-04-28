@@ -257,7 +257,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Terminal/Terminal.md",
+                    "file": "Areas/Underground/Safehouse.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -272,7 +272,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Terminal"
+                  "title": "Safehouse"
                 }
               },
               {
@@ -315,8 +315,9 @@
   },
   "active": "8d9807b5b19ccd43",
   "lastOpenFiles": [
-    "People/People.md",
+    "Areas/Underground/The Underpass.md",
     "Terminal/Terminal.md",
+    "People/People.md",
     "Books/A New Clue.md",
     "Books/The Fixed Stars.md",
     "Books/Realm & Rune.md",
@@ -351,7 +352,6 @@
     "Terminal/Mail/Mail.md",
     "Blueprints/Rooms/Numbered/Boiler Room.md",
     "Countries/Fenn Aries.md",
-    "Puzzles/Sigil doors/Sigils.md",
     "Terminal/Mail",
     "Terminal",
     "Images/Mail",

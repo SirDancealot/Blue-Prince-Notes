@@ -11,8 +11,8 @@ When logged into network, [[Mail]] can be read, if enableded in [[Blackbridge gr
 [[Blackbridge grotto]] requires an admin key, i currently know of the following
 Also:
 - LeeB which gives:
-- ProvC
-- HounU
+- ProvC - Doesn't seem to exist anymore
+- HounU - Does't seem to exist anymore
 ![[Pasted image 20250423182831.png]]
 
 Some new secret admin key:

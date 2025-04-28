@@ -5,7 +5,7 @@ One of the screens in the [[Security]] room
 ![[Pasted image 20250428214651.png]]
 
 ![[Pasted image 20250428214733.png]]
-[[Mary Epsen]] that other writer, and someone
+[[Mary Epsen]] [[Manning]] and [[White]]
 ![[Pasted image 20250428214541.png]]
 
 Where [[Mary Epsen]] went
