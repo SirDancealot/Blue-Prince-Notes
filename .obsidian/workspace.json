@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3a4e52a4e8e3e5b",
+        "id": "f43d5cac279bfd74",
         "type": "tabs",
         "children": [
           {
-            "id": "09962fc8f29fd471",
+            "id": "4be30c3b83b7e0fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/A New Clue.md",
+                "file": "Areas/Underground/Safehouse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A New Clue"
+              "title": "Safehouse"
+            }
+          },
+          {
+            "id": "081514b259284894",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Misc/Pasted image 20250428215314.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250428215314"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,19 +203,72 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "860bcb7766e821ef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1b8764039b99236a",
+        "type": "window",
+        "children": [
+          {
+            "id": "0bb28774448d7f91",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "09962fc8f29fd471",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Books/A New Clue.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "A New Clue"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3013,
+        "y": 381,
+        "width": 1576,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "09962fc8f29fd471",
   "lastOpenFiles": [
-    "Pasted image 20250428225014.png",
-    "Pasted image 20250428225002.png",
-    "Pasted image 20250428224927.png",
-    "Pasted image 20250428224901.png",
-    "Pasted image 20250428224850.png",
-    "Pasted image 20250428224750.png",
-    "Pasted image 20250428224724.png",
-    "Pasted image 20250428224154.png",
-    "Pasted image 20250428224027.png",
-    "Pasted image 20250428223959.png",
-    "Pasted image 20250428223942.png",
+    "Images/Misc/Pasted image 20250428215314.png",
+    "Areas/Underground/Safehouse.md",
+    "People/The Family/Mary Epsen.md",
+    "Images/Books/A New Clue/Pasted image 20250428223936.png",
+    "Books/A New Clue.md",
+    "Images/Books/A New Clue/Pasted image 20250428230244.png",
+    "Images/Books/A New Clue/Pasted image 20250428230225.png",
+    "Images/Books/A New Clue/Pasted image 20250428224154.png",
+    "Images/Books/A New Clue",
+    "Images/Red letters/RL6-1.png",
+    "Images/Red letters/RL6-3.png",
+    "Images/Red letters/RL6-2.png",
+    "Images/Books/A New Clue/Pasted image 20250428230217.png",
+    "Images/Books/A New Clue/Pasted image 20250428230200.png",
+    "Images/Books/A New Clue/Pasted image 20250428230154.png",
     "TODO.md",
     "Puzzles/Red Letters/Red Letter 6.md",
     "Blueprints/Rooms/Numbered/Drawing Room.md",
@@ -223,11 +289,8 @@
     "Countries/Fenn Aries.md",
     "Puzzles/Sigil doors/Sigils.md",
     "Blueprints/Rooms/Shops/Showroom.md",
-    "Areas/Underground/Safehouse.md",
     "Areas/Outside/The Precipice.md",
     "Items/Power Hammer.md",
-    "Terminal/Mail/Laboratory Mail.md",
-    "Terminal/Mail/Security Mail.md",
     "Terminal/Mail",
     "Terminal",
     "Images/Mail",
@@ -237,7 +300,6 @@
     "Images/Books/Realm & Rune",
     "Countries",
     "Images/Books/Pump System User Manual",
-    "Images/Mail room letters",
     "Untitled.canvas"
   ]
 }
