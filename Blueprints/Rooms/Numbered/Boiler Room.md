@@ -8,7 +8,7 @@ To turn on;
 - Return upper generator power to the door
 
 Following rooms need [[Power]] For some functionality
-- [[Pump Room]]
+- [[Pump Room]] - DONE
 - [[Laboratory]] - DONE
 - [[Furnace]] - DONE?
 - [[Laundry Room]] - DONE
