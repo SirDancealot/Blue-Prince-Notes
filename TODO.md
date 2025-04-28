@@ -4,3 +4,4 @@
 - Draft [[Furnace]] close to [[Freezer]]
 - Find the correct trunk in the base of the reservoir in the [[Underground]]
 - Set the reservoir height so that you can exit by boat
+- figure out 4-letter/number password for lock behind red door in [[The Underpass]] 
