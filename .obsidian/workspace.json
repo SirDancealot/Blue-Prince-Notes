@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Books/A New Clue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "A New Clue"
             }
           }
         ]
@@ -192,23 +192,27 @@
   },
   "active": "09962fc8f29fd471",
   "lastOpenFiles": [
+    "Pasted image 20250428225014.png",
+    "Pasted image 20250428225002.png",
+    "Pasted image 20250428224927.png",
+    "Pasted image 20250428224901.png",
+    "Pasted image 20250428224850.png",
+    "Pasted image 20250428224750.png",
+    "Pasted image 20250428224724.png",
+    "Pasted image 20250428224154.png",
+    "Pasted image 20250428224027.png",
+    "Pasted image 20250428223959.png",
+    "Pasted image 20250428223942.png",
+    "TODO.md",
     "Puzzles/Red Letters/Red Letter 6.md",
-    "Pasted image 20250428222752.png",
     "Blueprints/Rooms/Numbered/Drawing Room.md",
     "Dates/Dates.md",
     "Safe.md",
     "Puzzles/Red Letters/Red Letters.md",
-    "Pasted image 20250428222625.png",
-    "Pasted image 20250428222619.png",
     "Puzzles/Red Letters/Red Letter 7.md",
     "Puzzles/Red Letters/Red Letter 2.md",
     "Drafting.md",
     "Memos.md",
-    "Images/Tomb Letter/Tomb letter 4.png",
-    "Images/Tomb Letter/Tomb letter 2.png",
-    "Images/Tomb Letter/Tomb letter 1.png",
-    "Images/Misc/Pasted image 20250428215920.png",
-    "Images/Misc/Pasted image 20250428221652.png",
     "Countries/Countries.md",
     "Puzzles/Mora Jai Box.md",
     "Countries/Arch Aries.md",
@@ -216,8 +220,6 @@
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Terminal/Mail/Mail.md",
     "Blueprints/Rooms/Numbered/Boiler Room.md",
-    "Images/Misc/Pasted image 20250428214541.png",
-    "Images/Misc/Pasted image 20250428215314.png",
     "Countries/Fenn Aries.md",
     "Puzzles/Sigil doors/Sigils.md",
     "Blueprints/Rooms/Shops/Showroom.md",
@@ -226,7 +228,6 @@
     "Items/Power Hammer.md",
     "Terminal/Mail/Laboratory Mail.md",
     "Terminal/Mail/Security Mail.md",
-    "Terminal/Mail/Shelter Mail.md",
     "Terminal/Mail",
     "Terminal",
     "Images/Mail",
