@@ -11,12 +11,24 @@
             "id": "0f870901f24a3351",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Mail/Pasted image 20250428014947.png"
+                "file": "Puzzles/Sigil doors/Sigil Doors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428014947"
+              "icon": "lucide-file",
+              "title": "Sigil Doors"
             }
           }
         ]
@@ -178,8 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "0f870901f24a3351",
   "lastOpenFiles": [
+    "Areas/Underground/Inner Sanctum.md",
+    "Room 46.md",
+    "People/Other People/Alzara.md",
+    "Blueprints/Rooms/Numbered/Rumpus Room.md",
+    "Images/Mail/Pasted image 20250428014947.png",
     "Images/Mail/Pasted image 20250428015137.png",
     "Images/Mail",
     "Mail/Security Mail.md",
@@ -189,7 +206,6 @@
     "People/Other People/Denny Revane.md",
     "Images/Mail/Pasted image 20250428015108.png",
     "Images/Mail/Pasted image 20250428015000.png",
-    "Images/Mail/Pasted image 20250428014947.png",
     "Mail/Mail.md",
     "Mail",
     "Untitled.md",
@@ -215,9 +231,6 @@
     "Books/Drafting Strategy Series.md",
     "Books/Pump System User Manual.md",
     "Images/Books/Drafting strategy Vol 3",
-    "Blueprints/Rooms/Numbered/Library.md",
-    "Items/Power Hammer.md",
-    "Blueprints/Rooms/Shops/Bookshop.md",
     "Images/Books/The History of Orindia",
     "Images/Books/Realm & Rune",
     "Countries",
