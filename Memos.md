@@ -18,7 +18,7 @@ According to [[Security]]
 - Hand-written red memos are true (Can be read with [[Magnifying Glass]])
 - Red memos are false
 
-Green memos in [[Servant's Quarters]] (aka. [[Hartley]]'s room) are false
+Green memos in [[Servant's Quarters]] (aka. [[Hartley Ruota]]'s room) are false
 
 Found memos:
 - Green in [[Servant's Quarters]]: "THERE ARE TWELVE MAJOR KEYS", likely a lie

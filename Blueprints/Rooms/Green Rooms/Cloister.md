@@ -7,4 +7,4 @@ On back of statue is written:
 
 Statue is of the [[Royal Angel|Royal]] [[Angel]]
 
-Message to [[Mr. Nogula]] from [[Anne Babbage]] ![[Pasted image 20250423025436.png]]
+Message to [[Robert Nogula]] from [[Anne Babbage]] ![[Pasted image 20250423025436.png]]

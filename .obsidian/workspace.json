@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Other People/Randolph Moore.md",
+                "file": "Blueprints/Rooms/Numbered/Mail Room.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Randolph Moore"
+              "title": "Mail Room"
+            }
+          },
+          {
+            "id": "895cc862cf95d0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Puzzles/Sigil doors/Sigil Doors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sigil Doors"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,44 +215,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d52a0c583865c89",
+  "active": "895cc862cf95d0a4",
   "lastOpenFiles": [
-    "People/People.md",
-    "Images/Mail room letters/MR L12.md",
-    "Pasted image 20250429002158.png",
+    "Pasted image 20250429003542.png",
+    "Images/Mail room letters/Pasted image 20250429003109.png",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "MR L14.md",
     "Blueprints/Rooms/Numbered/Mail Room.md",
+    "Images/Mail room letters/MR L13.md",
+    "Images/Mail room letters/Pasted image 20250429002917.png",
+    "Images/Mail room letters/MR L12.md",
+    "Images/Mail room letters/MR L9.md",
+    "Countries/Arch Aries.md",
+    "Images/Misc/Pasted image 20250428221652.png",
+    "Images/Misc/Pasted image 20250427181922.png",
+    "Images/Misc/Pasted image 20250423183525.png",
+    "Images/Misc/Pasted image 20250423164253.png",
+    "Images/Misc/Pasted image 20250427180539.png",
+    "Countries/Stamps.md",
+    "Countries/Orinda Aries.md",
+    "Images/Misc/Pasted image 20250429002724.png",
+    "Countries/Verra Shores.md",
+    "People/People.md",
+    "People/Other People/M. Lowry.md",
+    "People/Other People/Robert Nogula.md",
+    "People/Other People/Christoph.md",
+    "People/Other People/Hartley Ruota.md",
+    "Images/Mail room letters/Pasted image 20250429002158.png",
+    "People/Other People/Chef DeCAMP.md",
+    "People/Other People/Kimberly Thompson.md",
+    "People/Other People/Randolph Moore.md",
     "People/Other People/Kirk Darren.md",
     "People/Other People/Anne Babbage.md",
     "Images/Mail room letters/MR L11.md",
     "Books/Drafting Strategy Series.md",
     "Images/Mail room letters/MR L10.md",
-    "Images/Mail room letters/Pasted image 20250429001824.png",
     "Blueprints/Rooms/Numbered/Room 8.md",
     "Blueprints/Blueprint list.md",
-    "Areas/Underground/The Underpass.md",
-    "Areas/Underground/Safehouse.md",
-    "Courtney.md",
-    "Images/Misc/Train Map.png",
-    "Puzzles/Red Letters/Red Letter 8.md",
-    "Puzzles/Red Letters/Red Letters.md",
-    "Puzzles/Red Letters/Red Letter 7.md",
-    "Puzzles/Red Letters/Red Letter 6.md",
-    "Puzzles/Red Letters/Red Letter 2.md",
-    "Countries/Countries.md",
-    "Books/Realm & Rune.md",
-    "Areas/Underground/Underground.md",
-    "Terminal/Terminal.md",
-    "Books/A New Clue.md",
-    "Books/The Fixed Stars.md",
-    "Books/The Red Prince.md",
-    "Images/Books/A New Clue/Pasted image 20250428223936.png",
-    "Images/Books/A New Clue/Pasted image 20250428230244.png",
-    "Images/Books/A New Clue/Pasted image 20250428230225.png",
-    "Images/Books/A New Clue/Pasted image 20250428224154.png",
     "Images/Books/A New Clue",
-    "Images/Red letters/RL6-1.png",
-    "Images/Red letters/RL6-3.png",
-    "Images/Red letters/RL6-2.png",
     "Terminal/Mail",
     "Terminal",
     "Images/Mail",

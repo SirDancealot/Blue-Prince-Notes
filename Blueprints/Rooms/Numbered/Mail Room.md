@@ -1,5 +1,4 @@
-Contains 1 letter by default, more can be gotten via [[Laboratory]] experiments
-Based on space on table, an additional 7 can be ordered in total [[TODO]]
+Contains 1 letter by default, more can be gotten via [[Laboratory]] experiments [[TODO]]
 
 Letters:
 - [[MR L1]]
@@ -14,6 +13,8 @@ Letters:
 - [[MR L10]]
 - [[MR L11]]
 - [[MR L12]]
+- [[MR L13]]
+- [[MR L14]]
 
 Has a note about [[Denny Revane]]
 Small text reads: "Did they ever prove he was the one that stole the barons mail?"
