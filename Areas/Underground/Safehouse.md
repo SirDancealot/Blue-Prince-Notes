@@ -12,4 +12,7 @@ Where [[Mary Epsen]] went
 ![[Pasted image 20250428214944.png]]
 ![[Pasted image 20250428214952.png]]
 The plan for stealing the crown
+
 ![[Pasted image 20250428215105.png]]
+Metro map, can the train somehow be called?
+![[Pasted image 20250428215314.png]]

@@ -13,6 +13,8 @@ Color mechanics:
 - Green = jump to opposite edge
 - Black = move entire row to the right
 - Orange = copy the tile arround it with the biggest amount present
+- RED = Black -> red & white -> black
 
 ![[Pasted image 20250423173158.png]]![[Pasted image 20250428032050.png]]
 ![[Pasted image 20250428032806.png]]
+![[Pasted image 20250428215920.png]]

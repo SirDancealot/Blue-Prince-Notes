@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Boiler Room.md",
+                "file": "Puzzles/Mora Jai Box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boiler Room"
-            }
-          },
-          {
-            "id": "c766814dbcf3d8e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Ornate Compass.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ornate Compass"
-            }
-          },
-          {
-            "id": "98928a991adf2c6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Shops/Showroom.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Showroom"
-            }
-          },
-          {
-            "id": "2324a262a0d66ef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Underground/Safehouse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Safehouse"
+              "title": "Mora Jai Box"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,44 +190,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2324a262a0d66ef8",
+  "active": "0f870901f24a3351",
   "lastOpenFiles": [
-    "Pasted image 20250428215105.png",
-    "Pasted image 20250428214952.png",
-    "Pasted image 20250428214944.png",
+    "Pasted image 20250428215920.png",
+    "Blueprints/Rooms/Numbered/Boiler Room.md",
+    "Images/Misc/Pasted image 20250428214541.png",
+    "Images/Misc/Pasted image 20250428215314.png",
+    "Images/Misc/Pasted image 20250428215105.png",
+    "Images/Misc/Pasted image 20250428214952.png",
+    "Images/Misc/Pasted image 20250428214944.png",
+    "Images/Misc/Pasted image 20250428214733.png",
+    "Images/Misc/Pasted image 20250428214651.png",
+    "Puzzles/Mora Jai Box.md",
+    "Books/Realm & Rune.md",
+    "Countries/Countries.md",
+    "Countries/Fenn Aries.md",
+    "Puzzles/Sigil doors/Sigils.md",
+    "Blueprints/Rooms/Shops/Showroom.md",
+    "Areas/Underground/Safehouse.md",
     "Areas/Outside/The Precipice.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
-    "Areas/Underground/Safehouse.md",
-    "Pasted image 20250428214733.png",
-    "Pasted image 20250428214651.png",
-    "Pasted image 20250428214541.png",
     "Items/Power Hammer.md",
     "Images/Mail/Pasted image 20250428212636.png",
     "Terminal/Mail/Laboratory Mail.md",
     "Images/Mail/Pasted image 20250428212732.png",
     "Images/Mail/Pasted image 20250428212721.png",
-    "Images/Mail/Pasted image 20250428212655.png",
     "Terminal/Mail/Mail.md",
     "Terminal/Mail/Security Mail.md",
     "Terminal/Mail/Shelter Mail.md",
-    "Blueprints/Rooms/Numbered/Boiler Room.md",
     "Blueprints/Rooms/Numbered/Pump Room.md",
     "Areas/Underground/The Underpass.md",
     "Blueprints/Rooms/Misc/Classroom.md",
     "Drafting.md",
-    "Images/Misc/Pasted image 20250428034031.png",
-    "Blueprints/Rooms/Shops/Showroom.md",
     "Items/Chronograph.md",
     "Items/Ornate Compass.md",
     "Items/Items.md",
     "Items/Emerald Bracelet.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Blueprints/Rooms/Numbered/Library.md",
-    "Books/Drafting Strategy Vol 3.md",
-    "TODO.md",
-    "Blueprints/Rooms/Numbered/Mail Room.md",
-    "conflict-files-obsidian-git.md",
-    "Terminal/Terminal.md",
     "Terminal/Mail",
     "Terminal",
     "Images/Mail",
