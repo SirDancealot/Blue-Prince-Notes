@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Underground/Safehouse.md",
+                "file": "Areas/Underground/The Underpass.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Safehouse"
-            }
-          },
-          {
-            "id": "7410de219ede5124",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Misc/Train Map.png"
-              },
-              "icon": "lucide-image",
-              "title": "Train Map"
+              "title": "The Underpass"
             }
           },
           {
@@ -55,8 +43,7 @@
               "title": "Train Map"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,115 +202,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "860bcb7766e821ef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1b8764039b99236a",
-        "type": "window",
-        "children": [
-          {
-            "id": "0bb28774448d7f91",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "09962fc8f29fd471",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Books/Realm & Rune.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Realm & Rune"
-                }
-              },
-              {
-                "id": "8d9807b5b19ccd43",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Areas/Underground/Safehouse.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Safehouse"
-                }
-              },
-              {
-                "id": "4984f80027c01be6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Books/The Fixed Stars.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Fixed Stars"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 3013,
-        "y": 381,
-        "width": 1576,
-        "height": 1000,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8d9807b5b19ccd43",
+  "active": "4be30c3b83b7e0fd",
   "lastOpenFiles": [
+    "Areas/Underground/Safehouse.md",
+    "Courtney.md",
+    "Images/Misc/Train Map.png",
+    "Puzzles/Red Letters/Red Letter 8.md",
+    "Puzzles/Red Letters/Red Letters.md",
+    "Puzzles/Red Letters/Red Letter 7.md",
+    "Puzzles/Red Letters/Red Letter 6.md",
+    "Puzzles/Red Letters/Red Letter 2.md",
+    "Countries/Countries.md",
+    "Books/Realm & Rune.md",
     "Areas/Underground/The Underpass.md",
+    "Areas/Underground/Underground.md",
     "Terminal/Terminal.md",
     "People/People.md",
     "Books/A New Clue.md",
     "Books/The Fixed Stars.md",
-    "Books/Realm & Rune.md",
     "Books/The Red Prince.md",
-    "Images/Misc/Train Map.png",
-    "Areas/Underground/Safehouse.md",
     "People/The Family/Mary Epsen.md",
     "Images/Books/A New Clue/Pasted image 20250428223936.png",
     "Images/Books/A New Clue/Pasted image 20250428230244.png",
@@ -336,22 +233,13 @@
     "Images/Books/A New Clue/Pasted image 20250428230217.png",
     "Images/Books/A New Clue/Pasted image 20250428230200.png",
     "TODO.md",
-    "Puzzles/Red Letters/Red Letter 6.md",
     "Blueprints/Rooms/Numbered/Drawing Room.md",
     "Dates/Dates.md",
     "Safe.md",
-    "Puzzles/Red Letters/Red Letters.md",
-    "Puzzles/Red Letters/Red Letter 7.md",
-    "Puzzles/Red Letters/Red Letter 2.md",
     "Drafting.md",
     "Memos.md",
-    "Countries/Countries.md",
     "Puzzles/Mora Jai Box.md",
     "Countries/Arch Aries.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "Terminal/Mail/Mail.md",
-    "Blueprints/Rooms/Numbered/Boiler Room.md",
-    "Countries/Fenn Aries.md",
     "Terminal/Mail",
     "Terminal",
     "Images/Mail",
