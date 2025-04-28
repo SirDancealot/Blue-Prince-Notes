@@ -1,4 +1,5 @@
 - Remaining [[Puzzles]]
 - Get to 50 stars to see the new one [[Planetarium]]
 - Draft [[Furnace]] close to [[Freezer]]
-- Find the correct trunk in the base of the resevoir in the [[Underground]]
+- Find the correct trunk in the base of the reservoir in the [[Underground]]
+- Set the reservoir height so that you can exit by boat
