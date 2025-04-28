@@ -29,6 +29,11 @@ Book annagrams:
 - Violet: Uncle Awe -> A new Clue
 - Blue: Draft the Sixes -> The Fixed Stars
 
+[[The Red Prince]] page 10 word 8: 
+[[Realm & Rune]] page 13 word 10: scorched?
+[[A New Clue]] page 1 word 7: sundial?
+[[The Fixed Stars]] page 3 word 8: Base
+
 Released after author [[Mary Epsen|Marionn Marigold]]s disappearance
 ![[Pasted image 20250428223936.png]]
 ![[Pasted image 20250428223942.png]]
@@ -44,6 +49,7 @@ Released after author [[Mary Epsen|Marionn Marigold]]s disappearance
 ![[Pasted image 20250428225014.png]]
 
 Magnefied:
+With true "The suspect is minor", and knowledge about new [[Terminal]] admin password having the wrong lenght "Bo Lee" is only viable suspect as such admin password is "LeeB"
 ![[Pasted image 20250428225750.png]]
 ![[Pasted image 20250428225903.png]]
 ![[Pasted image 20250428230154.png]]
