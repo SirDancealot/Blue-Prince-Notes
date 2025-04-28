@@ -1,4 +1,4 @@
-Available books for purchase: [[TODO]]
+Available books for purchase: 
 - [[History of Orindia FE]] - Purchased
 - [[A New Clue]] - Purchased
 - [[The Curse of Black Bridge]] - Purchased

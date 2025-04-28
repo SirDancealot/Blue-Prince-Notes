@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Blueprints/Rooms/Numbered/Boiler Room.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Boiler Room"
+            }
+          },
+          {
+            "id": "c766814dbcf3d8e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints/Rooms/Numbered/Mail Room.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mail Room"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +215,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f870901f24a3351",
+  "active": "c766814dbcf3d8e0",
   "lastOpenFiles": [
+    "Images/Mail room letters/MR L5.md",
+    "Blueprints/Rooms/Numbered/Mail Room.md",
+    "Images/Mail room letters/MR L1.md",
+    "TODO.md",
+    "Areas/Underground/Underground.md",
+    "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
+    "Blueprints/Rooms/Misc/Planetarium.md",
+    "Blueprints/Rooms/Numbered/Clock Tower.md",
+    "Blueprints/Rooms/Shops/Bookshop.md",
+    "Areas/Underground/The Underpass.md",
+    "Blueprints/Rooms/Numbered/Boiler Room.md",
+    "Pasted image 20250428034031.png",
     "Blueprints/Rooms/Red Rooms/Archives.md",
     "Terminal.md",
     "Images/Misc/Pasted image 20250428033518.png",
@@ -211,23 +248,11 @@
     "Countries/Corarica.md",
     "Countries/Ajeran.md",
     "Countries/Mora Jai.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "Room 46.md",
     "Images/Misc/Pasted image 20250428032050.png",
-    "Areas/Underground/Inner Sanctum.md",
-    "Memos.md",
-    "TODO.md",
     "Images/Mail/Pasted image 20250428025035.png",
     "Images/Mail/Pasted image 20250428024758.png",
-    "Mail/Shelter Mail.md",
     "Images/Mail/Pasted image 20250428024912.png",
     "Images/Mail/Pasted image 20250428024819.png",
-    "Mail/Security Mail.md",
-    "Mail/Mail.md",
-    "Images/Misc/Underground map.png",
-    "Drafting.md",
-    "Items/Burning Glass.md",
-    "Items/Items.md",
     "Images/Mail",
     "Mail",
     "Images/Books/Drafting strategy Vol 3",

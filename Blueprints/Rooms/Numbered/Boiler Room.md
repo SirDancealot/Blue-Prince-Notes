@@ -12,3 +12,6 @@ Following rooms need [[Power]] For some functionality
 - [[Laboratory]] - DONE
 - [[Furnace]] - DONE?
 - [[Laundry Room]] - DONE
+
+Can open the red door in [[The Underpass]]
+Give power to red box
