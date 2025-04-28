@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Mail Room"
             }
+          },
+          {
+            "id": "c1b00246396482eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,10 +239,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c766814dbcf3d8e0",
+  "active": "c1b00246396482eb",
   "lastOpenFiles": [
-    "Images/Mail room letters/MR L5.md",
     "Blueprints/Rooms/Numbered/Mail Room.md",
+    "conflict-files-obsidian-git.md",
+    "Terminal/Mail/Shelter Mail.md",
+    "Terminal/Mail/Security Mail.md",
+    "Terminal/Mail/Mail.md",
+    "Terminal/Terminal.md",
+    "Terminal/Mail",
+    "Terminal",
+    "Images/Mail room letters/MR L5.md",
     "Images/Mail room letters/MR L1.md",
     "TODO.md",
     "Areas/Underground/Underground.md",
@@ -243,11 +274,6 @@
     "Images/Misc/Pasted image 20250428032212.png",
     "Images/Misc/Pasted image 20250428032806.png",
     "Images/Misc/Pasted image 20250428032655.png",
-    "Puzzles/Sigil doors/Behind the doors.md",
-    "Puzzles/Sigil doors/Sigils.md",
-    "Countries/Corarica.md",
-    "Countries/Ajeran.md",
-    "Countries/Mora Jai.md",
     "Images/Misc/Pasted image 20250428032050.png",
     "Images/Mail/Pasted image 20250428025035.png",
     "Images/Mail/Pasted image 20250428024758.png",
@@ -261,8 +287,6 @@
     "Countries",
     "Images/Books/Pump System User Manual",
     "Images/Mail room letters",
-    "Blueprints/Rooms/Hallways",
-    "Images/People",
     "Untitled.canvas"
   ]
 }
