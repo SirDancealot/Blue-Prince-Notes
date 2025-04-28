@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Memos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Memos"
             }
           }
         ]
@@ -192,6 +192,11 @@
   },
   "active": "0f870901f24a3351",
   "lastOpenFiles": [
+    "Drafting.md",
+    "Items/Burning Glass.md",
+    "Items/Items.md",
+    "Items/Magnifying Glass.md",
+    "TODO.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Areas/Underground/Inner Sanctum.md",
     "Room 46.md",
@@ -211,25 +216,20 @@
     "Mail",
     "Untitled.md",
     "People/Other People/Randolph Moore.md",
-    "TODO.md",
     "Dowsing Rod.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Compass.md",
     "Items/Detector Shovel.md",
-    "Items/Items.md",
-    "Items/Burning Glass.md",
     "Items/Self Igniting Torch.md",
     "Blueprints/Rooms/Shops/The Armory.md",
     "Items/Morning Star.md",
     "Items/Knight's Shield.md",
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004257.png",
-    "Books/Drafting Strategy Vol 3.md",
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004455.png",
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004449.png",
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004443.png",
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004438.png",
     "Images/Books/Drafting strategy Vol 3/Pasted image 20250428004432.png",
-    "Books/Drafting Strategy Series.md",
     "Images/Books/Drafting strategy Vol 3",
     "Images/Books/The History of Orindia",
     "Images/Books/Realm & Rune",
