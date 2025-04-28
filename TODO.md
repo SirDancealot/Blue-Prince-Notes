@@ -1,4 +1,5 @@
 - Remaining [[Puzzles]]
+- [[Boiler Room]] to open red door in the sanctum
 - Get to 50 stars to see the new one [[Planetarium]]
 - Draft [[Furnace]] close to [[Freezer]]
 - Find the correct trunk in the base of the reservoir in the [[Underground]]

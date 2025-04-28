@@ -7,6 +7,8 @@ Resevoir memo puzzle:
 - (False) Red memo in black moon "MORE THAN TWO BOXES CONTAIN PRIZES"
 - (True) Green memo in blue moon: "THE SANCTUM KEY IS IN A BLACK BOX"
 - (False) Red memo in black moon "THE BOX CONTAINING ALLOWANCE TOKENS IS MARKED BY MOON"
+- (False) Green in black wave "THE SNACTUM KEY IS NOT IN A BOX. IT IS BURIED."
+- (False) Red in black wave "THE SANCTUM KEY IS IN A BLUE BOX"
 
 According to [[Security]]
 - Blue memos are true

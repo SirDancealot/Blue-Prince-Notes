@@ -11,12 +11,24 @@
             "id": "0f870901f24a3351",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Mail/Pasted image 20250428025035.png"
+                "file": "Memos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428025035"
+              "icon": "lucide-file",
+              "title": "Memos"
             }
           }
         ]
@@ -178,12 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "0f870901f24a3351",
   "lastOpenFiles": [
+    "TODO.md",
+    "Images/Mail/Pasted image 20250428025035.png",
     "Images/Mail/Pasted image 20250428024758.png",
     "Mail/Shelter Mail.md",
-    "Images/Mail/Pasted image 20250428025035.png",
-    "TODO.md",
     "Images/Mail/Pasted image 20250428024912.png",
     "Images/Mail/Pasted image 20250428024819.png",
     "Mail/Security Mail.md",
