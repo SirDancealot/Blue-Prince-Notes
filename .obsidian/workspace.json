@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Mora Jai Box.md",
+                "file": "Countries/Countries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mora Jai Box"
+              "title": "Countries"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b7e019005c0824a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6afefafc5b8c8ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Realm & Rune.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Realm & Rune"
             }
           }
         ]
@@ -192,7 +222,14 @@
   },
   "active": "0f870901f24a3351",
   "lastOpenFiles": [
+    "Puzzles/Mora Jai Box.md",
+    "Pasted image 20250428221652.png",
     "Pasted image 20250428215920.png",
+    "Countries/Arch Aries.md",
+    "Books/Realm & Rune.md",
+    "Countries/Countries.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Terminal/Mail/Mail.md",
     "Blueprints/Rooms/Numbered/Boiler Room.md",
     "Images/Misc/Pasted image 20250428214541.png",
     "Images/Misc/Pasted image 20250428215314.png",
@@ -201,21 +238,14 @@
     "Images/Misc/Pasted image 20250428214944.png",
     "Images/Misc/Pasted image 20250428214733.png",
     "Images/Misc/Pasted image 20250428214651.png",
-    "Puzzles/Mora Jai Box.md",
-    "Books/Realm & Rune.md",
-    "Countries/Countries.md",
     "Countries/Fenn Aries.md",
     "Puzzles/Sigil doors/Sigils.md",
     "Blueprints/Rooms/Shops/Showroom.md",
     "Areas/Underground/Safehouse.md",
     "Areas/Outside/The Precipice.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
     "Items/Power Hammer.md",
     "Images/Mail/Pasted image 20250428212636.png",
     "Terminal/Mail/Laboratory Mail.md",
-    "Images/Mail/Pasted image 20250428212732.png",
-    "Images/Mail/Pasted image 20250428212721.png",
-    "Terminal/Mail/Mail.md",
     "Terminal/Mail/Security Mail.md",
     "Terminal/Mail/Shelter Mail.md",
     "Blueprints/Rooms/Numbered/Pump Room.md",
@@ -227,7 +257,6 @@
     "Items/Items.md",
     "Items/Emerald Bracelet.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
-    "Blueprints/Rooms/Numbered/Library.md",
     "Terminal/Mail",
     "Terminal",
     "Images/Mail",

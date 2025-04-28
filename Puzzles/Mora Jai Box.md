@@ -18,3 +18,4 @@ Color mechanics:
 ![[Pasted image 20250423173158.png]]![[Pasted image 20250428032050.png]]
 ![[Pasted image 20250428032806.png]]
 ![[Pasted image 20250428215920.png]]
+![[Pasted image 20250428221652.png]]

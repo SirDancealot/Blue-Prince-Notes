@@ -4,7 +4,7 @@ aliases:
 ---
 - [[Orinda Aries]] - ticket solved
 - [[Fenn Aries]] - Pentagon solved
-- [[Arch Aries]]
+- [[Arch Aries]] - Mountain solved
 - [[Verra Shores]] - Might be the same as Corarica
 - [[Mora Jai]]
 - [[Eraja]] - Solved ?

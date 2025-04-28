@@ -24,7 +24,7 @@ Location guesses:
 4. Found: Remove water from [[Underground]] Resevoir with help from [[Power]]d [[Pump Room]]
 5. ?
 6. Found: Past the boat ride in the [[Underground]] resevoir
-7. Guess: [[Music Room]] if all other [[Major Key]] [[Items]] are held
+7. Found: [[Music Room]] if all other [[Major Key]] [[Items]] are held
 8. Guess: Literally behind the 8th of the doors [[Underground]]
 
 Behind each door is a [[Sigils|Sigil]] i need to set to look correct
