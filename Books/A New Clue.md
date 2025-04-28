@@ -10,18 +10,24 @@ checked corner case rooms are:
 - pantry
 
 Signs:
-Route 8
-Depart
-Keep left
-To Tanner Fork
-"Right arrow"
-Dead End
-Record
-Each
-Stop
-On The Way
+- Route 8
+- Depart
+- Keep left
+- To Tanner Fork
+- "Right arrow"
+- Dead End
+- Record
+- Each
+- Stop
+- On The Way
+	- 8-7-3-10-1-13
+	- Royal Station - Angel Tower - Aries Crossing - Tanner Fork - Oris Train Hall - Dead End
 
-
+Book annagrams:
+- RED: tender cipher -> The Red Prince
+- Green: Lundar Renamed -> Realm and Rune
+- Violet: Uncle Awe -> A new Clue
+- Blue: Draft the Sixes -> The Fixed Stars
 
 Released after author [[Mary Epsen|Marionn Marigold]]s disappearance
 ![[Pasted image 20250428223936.png]]

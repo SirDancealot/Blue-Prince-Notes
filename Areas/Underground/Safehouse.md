@@ -15,4 +15,4 @@ The plan for stealing the crown
 
 ![[Pasted image 20250428215105.png]]
 Metro map, can the train somehow be called?
-![[Pasted image 20250428215314.png]]
+![[Train Map.png]]

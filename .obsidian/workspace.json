@@ -32,15 +32,27 @@
             }
           },
           {
+            "id": "7410de219ede5124",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Misc/Train Map.png"
+              },
+              "icon": "lucide-image",
+              "title": "Train Map"
+            }
+          },
+          {
             "id": "081514b259284894",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Misc/Pasted image 20250428215314.png"
+                "file": "Images/Misc/Train Map.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250428215314"
+              "title": "Train Map"
             }
           }
         ],
@@ -254,11 +266,11 @@
   },
   "active": "09962fc8f29fd471",
   "lastOpenFiles": [
-    "Images/Misc/Pasted image 20250428215314.png",
+    "Images/Misc/Train Map.png",
     "Areas/Underground/Safehouse.md",
+    "Books/A New Clue.md",
     "People/The Family/Mary Epsen.md",
     "Images/Books/A New Clue/Pasted image 20250428223936.png",
-    "Books/A New Clue.md",
     "Images/Books/A New Clue/Pasted image 20250428230244.png",
     "Images/Books/A New Clue/Pasted image 20250428230225.png",
     "Images/Books/A New Clue/Pasted image 20250428224154.png",
@@ -268,7 +280,6 @@
     "Images/Red letters/RL6-2.png",
     "Images/Books/A New Clue/Pasted image 20250428230217.png",
     "Images/Books/A New Clue/Pasted image 20250428230200.png",
-    "Images/Books/A New Clue/Pasted image 20250428230154.png",
     "TODO.md",
     "Puzzles/Red Letters/Red Letter 6.md",
     "Blueprints/Rooms/Numbered/Drawing Room.md",
