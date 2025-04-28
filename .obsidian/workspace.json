@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafting.md",
+                "file": "Blueprints/Rooms/Numbered/Pump Room.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Drafting"
+              "title": "Pump Room"
             }
           }
         ],
@@ -265,6 +265,9 @@
   },
   "active": "2324a262a0d66ef8",
   "lastOpenFiles": [
+    "Areas/Underground/The Underpass.md",
+    "Blueprints/Rooms/Misc/Classroom.md",
+    "Drafting.md",
     "Images/Misc/Pasted image 20250428034031.png",
     "Showroom.md",
     "Items/Chronograph.md",
@@ -290,9 +293,7 @@
     "Blueprints/Rooms/Misc/Planetarium.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
     "Blueprints/Rooms/Shops/Bookshop.md",
-    "Areas/Underground/The Underpass.md",
     "Blueprints/Rooms/Numbered/Boiler Room.md",
-    "Blueprints/Rooms/Red Rooms/Archives.md",
     "Images/Misc/Pasted image 20250428033518.png",
     "Images/Misc/Pasted image 20250428032212.png",
     "Images/Misc/Pasted image 20250428032806.png",
