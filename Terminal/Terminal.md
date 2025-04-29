@@ -9,6 +9,10 @@ Network password is "SWANSONG" found with [[Magnifying Glass]] either in [[Secur
 When logged into network, [[Mail]] can be read, if enableded in [[Blackbridge grotto]] mail can be read on all terminals, otherwise just in office
 
 [[Blackbridge grotto]] requires an admin key, i currently know of the following
+Also:
+- LeeB which gives:
+- ProvC - Doesn't seem to exist anymore
+- HounU - Does't seem to exist anymore
 ![[Pasted image 20250423182831.png]]
 
 Some new secret admin key:

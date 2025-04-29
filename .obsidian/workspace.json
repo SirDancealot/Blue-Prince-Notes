@@ -11,13 +11,88 @@
             "id": "7050fc773d531c08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Terminal/Terminal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Terminal"
+            }
+          },
+          {
+            "id": "deab6343defbf8df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "3b4d00b62a11b45d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Books/A New Clue/Pasted image 20250428225014.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250428225014"
+            }
+          },
+          {
+            "id": "beb24417cd99ea51",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Books/A New Clue/Pasted image 20250428224027.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250428224027"
+            }
+          },
+          {
+            "id": "8d8e43ef129fc4b4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Books/A New Clue/Pasted image 20250428224154.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250428224154"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,53 +251,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7050fc773d531c08",
+  "active": "deab6343defbf8df",
   "lastOpenFiles": [
     "Terminal/Terminal.md",
-    "Terminal",
-    "People/The Family/Mary Epsen.md",
-    "Puzzles/Chess/Chess.md",
     "conflict-files-obsidian-git.md",
-    "Blueprints/Rooms/Numbered/Study.md",
-    "Puzzles/Sigil doors/Behind the doors.md",
-    "Puzzles/Mora Jai Box.md",
-    "People/Other People/Randolph Moore.md",
-    "Terminal/Mail/Shelter Mail.md",
-    "Terminal/Mail/Security Mail.md",
-    "Terminal/Mail/Mail.md",
+    "Blackbridge grotto.md",
+    "Books/A New Clue.md",
+    "Areas/Underground/Safehouse.md",
+    "Images/Books/A New Clue/Pasted image 20250428225014.png",
+    "Images/Books/A New Clue/Pasted image 20250428224027.png",
+    "Images/Books/A New Clue/Pasted image 20250428224154.png",
+    "Books/The History of Orindia.md",
+    "Areas/Underground/The Underpass.md",
+    "Puzzles/Chess/Chess.md",
+    "Countries/Countries.md",
+    "Books/Books.md",
+    "Countries/Nuance.md",
+    "Books/Realm & Rune.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Puzzles/Sigil doors/Sigils.md",
+    "Areas/Underground/Inner Sanctum.md",
+    "Room 46.md",
+    "Items/Items.md",
+    "Blueprints/Rooms/Shops/The Armory.md",
+    "Blueprints/Rooms/Shops/Showroom.md",
+    "Gold.md",
+    "Blueprints/Rooms/Numbered/Mail Room.md",
+    "Shops.md",
+    "MR L14.md",
+    "Terminal/Mail/Laboratory Mail.md",
+    "Puzzles/Red Letters/Red Letter 6.md",
+    "People/Other People/Robert Nogula.md",
+    "Images/Red letters/RL6-3.png",
+    "Images/Red letters/RL6-2.png",
+    "Images/Red letters/RL6-1.png",
+    "Images/Misc/Train Map.png",
+    "Images/Misc/Pasted image 20250429002724.png",
+    "Images/Misc/Pasted image 20250428221652.png",
+    "Images/Misc/Pasted image 20250428215920.png",
+    "Images/Books/A New Clue",
+    "Terminal",
     "Terminal/Mail",
-    "Items/Self Igniting Torch.md",
-    "Items/Power Hammer.md",
-    "Items/Morning Star.md",
-    "Items/Magnifying Glass.md",
-    "Items/Knight's Shield.md",
-    "Items/Dowsing Rod.md",
-    "Items/Detector Shovel.md",
-    "Items/Burning Glass.md",
-    "Images/Sigils/Pasted image 20250428002956.png",
-    "Images/Misc/Pasted image 20250428033518.png",
-    "Images/Misc/Pasted image 20250428032806.png",
-    "Images/Misc/Pasted image 20250428032655.png",
-    "Images/Misc/Pasted image 20250428032212.png",
-    "Images/Misc/Pasted image 20250428032050.png",
-    "Images/Misc/Pasted image 20250427194146.png",
-    "Images/Misc/Pasted image 20250427194120.png",
-    "Images/Misc/Pasted image 20250427184247.png",
-    "Images/Misc/Pasted image 20250427183415.png",
     "Images/Mail",
-    "Images/Mail room letters/MR L9.md",
-    "Images/Mail room letters/MR L8.md",
-    "Images/Mail room letters/MR L7.md",
-    "Images/Mail room letters/MR L6.md",
-    "Images/Mail room letters/MR L5.md",
-    "Images/Mail room letters/MR L10.md",
     "Images/Books/The History of Orindia",
     "Images/Books/Realm & Rune",
     "Images/Books/Drafting strategy Vol 3",
     "Countries",
     "Images/Books/Pump System User Manual",
     "Images/Mail room letters",
-    "Blueprints/Rooms/Hallways",
     "Untitled.canvas"
   ]
 }

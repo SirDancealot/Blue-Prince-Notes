@@ -3,8 +3,8 @@ aliases:
   - Country
 ---
 - [[Orinda Aries]] - ticket solved
-- [[Fenn Aries]] - full sigil
-- [[Arch Aries]]
+- [[Fenn Aries]] - Pentagon solved
+- [[Arch Aries]] - Mountain solved
 - [[Verra Shores]] - Might be the same as Corarica
 - [[Mora Jai]]
 - [[Eraja]] - Solved ?

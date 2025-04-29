@@ -8,12 +8,15 @@ In the family:
 Other people:
 - [[Anne Babbage]]
 - [[Farro]]
-- [[Hartley]]
+- [[Hartley Ruota]]
 - [[Mrs. Hanna Peterson]]
 - [[M. Lowry]]
-- [[Mr. Nogula]]
-- [[Thomas Kimberly]]
+- [[Robert Nogula]]
+- [[Kimberly Thompson]]
 - [[Denny Revane]]
 - [[Randolph Moore]]
+- [[Kirk Darren]]
+- [[Chef DeCAMP]]
+- [[Christoph]]
 
 ![[Family tree.png]]
