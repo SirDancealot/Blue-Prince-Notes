@@ -11,24 +11,10 @@
             "id": "7050fc773d531c08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminal/Terminal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Terminal"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,9 +178,9 @@
   },
   "active": "7050fc773d531c08",
   "lastOpenFiles": [
+    "Terminal/Terminal.md",
     "Terminal",
     "People/The Family/Mary Epsen.md",
-    "Terminal/Terminal.md",
     "Puzzles/Chess/Chess.md",
     "conflict-files-obsidian-git.md",
     "Blueprints/Rooms/Numbered/Study.md",
@@ -236,7 +223,6 @@
     "Images/Books/Pump System User Manual",
     "Images/Mail room letters",
     "Blueprints/Rooms/Hallways",
-    "Images/People",
     "Untitled.canvas"
   ]
 }
