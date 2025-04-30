@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Underground/Underground.md",
+                "file": "Books/A New Clue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Underground"
+              "title": "A New Clue"
             }
           }
         ]
@@ -192,6 +192,7 @@
   },
   "active": "e0bffae3dc2a82c0",
   "lastOpenFiles": [
+    "Areas/Underground/Underground.md",
     "Books/A New Clue.md",
     "TODO.md",
     "Blueprints/Rooms/Numbered/Library.md",
