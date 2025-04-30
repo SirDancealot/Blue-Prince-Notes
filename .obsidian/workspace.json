@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63ee774466c8790e",
+        "id": "f43d5cac279bfd74",
         "type": "tabs",
         "children": [
           {
-            "id": "7050fc773d531c08",
+            "id": "7d52a0c583865c89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/Terminal.md",
+                "file": "Blueprints/Rooms/Numbered/Mail Room.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Terminal"
+              "title": "Mail Room"
             }
           },
           {
-            "id": "deab6343defbf8df",
+            "id": "895cc862cf95d0a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Books/A New Clue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,43 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "3b4d00b62a11b45d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428225014.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428225014"
-            }
-          },
-          {
-            "id": "beb24417cd99ea51",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428224027.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428224027"
-            }
-          },
-          {
-            "id": "8d8e43ef129fc4b4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428224154.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428224154"
+              "title": "A New Clue"
             }
           }
         ],
@@ -228,12 +192,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -251,54 +215,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "deab6343defbf8df",
+  "active": "895cc862cf95d0a4",
   "lastOpenFiles": [
-    "Terminal/Terminal.md",
-    "conflict-files-obsidian-git.md",
-    "Blackbridge grotto.md",
-    "Books/A New Clue.md",
-    "Areas/Underground/Safehouse.md",
-    "Images/Books/A New Clue/Pasted image 20250428225014.png",
-    "Images/Books/A New Clue/Pasted image 20250428224027.png",
-    "Images/Books/A New Clue/Pasted image 20250428224154.png",
-    "Books/The History of Orindia.md",
-    "Areas/Underground/The Underpass.md",
-    "Puzzles/Chess/Chess.md",
-    "Countries/Countries.md",
+    "TODO.md",
+    "Blueprints/Rooms/Numbered/Library.md",
     "Books/Books.md",
-    "Countries/Nuance.md",
-    "Books/Realm & Rune.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
-    "Puzzles/Sigil doors/Sigils.md",
-    "Areas/Underground/Inner Sanctum.md",
-    "Room 46.md",
-    "Items/Items.md",
-    "Blueprints/Rooms/Shops/The Armory.md",
-    "Blueprints/Rooms/Shops/Showroom.md",
-    "Gold.md",
-    "Blueprints/Rooms/Numbered/Mail Room.md",
     "Shops.md",
+    "Room 46.md",
+    "Gold.md",
+    "Blackbridge grotto.md",
+    "Pasted image 20250429003542.png",
+    "Images/Mail room letters/Pasted image 20250429003109.png",
     "MR L14.md",
-    "Terminal/Mail/Laboratory Mail.md",
-    "Puzzles/Red Letters/Red Letter 6.md",
-    "People/Other People/Robert Nogula.md",
-    "Images/Red letters/RL6-3.png",
-    "Images/Red letters/RL6-2.png",
-    "Images/Red letters/RL6-1.png",
-    "Images/Misc/Train Map.png",
-    "Images/Misc/Pasted image 20250429002724.png",
+    "Blueprints/Rooms/Numbered/Mail Room.md",
+    "Images/Mail room letters/MR L13.md",
+    "Images/Mail room letters/Pasted image 20250429002917.png",
+    "Images/Mail room letters/MR L12.md",
+    "Images/Mail room letters/MR L9.md",
+    "Countries/Arch Aries.md",
     "Images/Misc/Pasted image 20250428221652.png",
-    "Images/Misc/Pasted image 20250428215920.png",
+    "Images/Misc/Pasted image 20250427181922.png",
+    "Images/Misc/Pasted image 20250423183525.png",
+    "Images/Misc/Pasted image 20250423164253.png",
+    "Images/Misc/Pasted image 20250427180539.png",
+    "Countries/Stamps.md",
+    "Countries/Orinda Aries.md",
+    "Images/Misc/Pasted image 20250429002724.png",
+    "Countries/Verra Shores.md",
+    "People/People.md",
+    "People/Other People/M. Lowry.md",
+    "People/Other People/Robert Nogula.md",
+    "People/Other People/Christoph.md",
+    "People/Other People/Hartley Ruota.md",
+    "Images/Mail room letters/Pasted image 20250429002158.png",
+    "People/Other People/Chef DeCAMP.md",
+    "People/Other People/Kimberly Thompson.md",
+    "People/Other People/Randolph Moore.md",
+    "People/Other People/Kirk Darren.md",
     "Images/Books/A New Clue",
-    "Terminal",
     "Terminal/Mail",
+    "Terminal",
     "Images/Mail",
+    "Mail",
+    "Images/Books/Drafting strategy Vol 3",
     "Images/Books/The History of Orindia",
     "Images/Books/Realm & Rune",
-    "Images/Books/Drafting strategy Vol 3",
     "Countries",
     "Images/Books/Pump System User Manual",
-    "Images/Mail room letters",
     "Untitled.canvas"
   ]
 }
