@@ -1,4 +1,5 @@
 - Remaining [[Puzzles]]
+- Read [[The Curse of Black Bridge]]
 - More with [[Chamber of Mirrors]]
 - Get to 50 stars to see the new one [[Planetarium]]
 - Draft [[Furnace]] close to [[Freezer]]

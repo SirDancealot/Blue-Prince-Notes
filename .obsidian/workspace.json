@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f43d5cac279bfd74",
+        "id": "e8ee533216532756",
         "type": "tabs",
         "children": [
           {
-            "id": "7d52a0c583865c89",
+            "id": "e0bffae3dc2a82c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/A New Clue.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A New Clue"
+              "title": "TODO"
             }
           }
         ]
@@ -190,21 +190,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d52a0c583865c89",
+  "active": "e0bffae3dc2a82c0",
   "lastOpenFiles": [
-    "Books/The Red Prince.md",
+    "Blueprints/Rooms/Numbered/Library.md",
+    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225120.png",
+    "Books/The Curse of Black Bridge.md",
+    "Images/Books/The Curse of Black Bridge",
+    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225504.png",
+    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225457.png",
+    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225451.png",
+    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225445.png",
+    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225436.png",
+    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225423.png",
+    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225417.png",
+    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225411.png",
+    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225403.png",
+    "Books/Books.md",
     "Books/A New Clue.md",
-    "Images/Books/The Red Prince/Pasted image 20250430224007.png",
-    "Images/Books/The Red Prince/Pasted image 20250430223904.png",
+    "Books/The Red Prince.md",
     "Images/Books/The Red Prince",
-    "Images/Books/The Red Prince/Pasted image 20250430224001.png",
-    "Images/Books/The Red Prince/Pasted image 20250430223955.png",
-    "Images/Books/The Red Prince/Pasted image 20250430223949.png",
-    "Images/Books/The Red Prince/Pasted image 20250430223943.png",
-    "Images/Books/The Red Prince/Pasted image 20250430223939.png",
-    "Images/Books/The Red Prince/Pasted image 20250430223933.png",
-    "Images/Books/The Red Prince/Pasted image 20250430223926.png",
-    "Images/Books/The Red Prince/Pasted image 20250430223916.png",
     "Blueprints/Rooms/Numbered/Mail Room.md",
     "People/The Family/Mary Epsen.md",
     "Blueprints/Rooms/Numbered/Locker Room.md",
@@ -216,8 +220,6 @@
     "Gold.md",
     "People/People.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
-    "Blueprints/Rooms/Numbered/Library.md",
-    "Books/Books.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Shops.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
@@ -227,7 +229,6 @@
     "Images/Mail room letters/MR L9.md",
     "Countries/Arch Aries.md",
     "Countries/Stamps.md",
-    "Countries/Orinda Aries.md",
     "Images/Books/A New Clue",
     "Terminal/Mail",
     "Terminal",
@@ -236,7 +237,6 @@
     "Images/Books/Drafting strategy Vol 3",
     "Images/Books/The History of Orindia",
     "Images/Books/Realm & Rune",
-    "Countries",
     "Untitled.canvas"
   ]
 }
