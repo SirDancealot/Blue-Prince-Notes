@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Mail Room.md",
+                "file": "Books/A New Clue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mail Room"
-            }
-          },
-          {
-            "id": "895cc862cf95d0a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
+              "title": "A New Clue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,8 +190,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "895cc862cf95d0a4",
+  "active": "7d52a0c583865c89",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Mail Room.md",
+    "Images/Misc/Pasted image 20250430222215.png",
+    "Images/Misc/Pasted image 20250430221547.png",
+    "Images/Misc/Pasted image 20250430221338.png",
+    "People/The Family/Mary Epsen.md",
+    "Blueprints/Rooms/Numbered/Locker Room.md",
+    "TODO.md",
     "Power.md",
     "Items/Jack Hammer.md",
     "Blackbridge grotto.md",
@@ -226,7 +208,6 @@
     "People/People.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Books/A New Clue.md",
-    "TODO.md",
     "Blueprints/Rooms/Numbered/Library.md",
     "Books/Books.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
@@ -235,7 +216,6 @@
     "Pasted image 20250429003542.png",
     "Images/Mail room letters/Pasted image 20250429003109.png",
     "Images/Mail room letters/MR L14.md",
-    "Blueprints/Rooms/Numbered/Mail Room.md",
     "Images/Mail room letters/MR L13.md",
     "Images/Mail room letters/Pasted image 20250429002917.png",
     "Images/Mail room letters/MR L12.md",
@@ -244,15 +224,9 @@
     "Images/Misc/Pasted image 20250428221652.png",
     "Images/Misc/Pasted image 20250427181922.png",
     "Images/Misc/Pasted image 20250423183525.png",
-    "Images/Misc/Pasted image 20250423164253.png",
-    "Images/Misc/Pasted image 20250427180539.png",
     "Countries/Stamps.md",
     "Countries/Orinda Aries.md",
-    "Images/Misc/Pasted image 20250429002724.png",
     "Countries/Verra Shores.md",
-    "People/Other People/M. Lowry.md",
-    "People/Other People/Robert Nogula.md",
-    "People/Other People/Christoph.md",
     "Images/Books/A New Clue",
     "Terminal/Mail",
     "Terminal",

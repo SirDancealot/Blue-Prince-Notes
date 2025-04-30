@@ -4,7 +4,7 @@ Clue found on 3rd page:
 "all checked corner case rooms had a low case clue found in the rooms"
 checked corner case rooms are: [[TODO]]
 - patio
-- nook
+- nook - beside
 - office - west
 - pantry
 
