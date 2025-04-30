@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/A New Clue.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A New Clue"
+              "title": "TODO"
             }
           }
         ],
@@ -217,17 +217,24 @@
   },
   "active": "895cc862cf95d0a4",
   "lastOpenFiles": [
+    "Power.md",
+    "Items/Jack Hammer.md",
+    "Blackbridge grotto.md",
+    "People/Other People/Kirk Darren.md",
+    "Gold.md",
+    "Images/Misc/Pasted image 20250430221145.png",
+    "People/People.md",
+    "Blueprints/Rooms/Numbered/Workshop.md",
+    "Books/A New Clue.md",
     "TODO.md",
     "Blueprints/Rooms/Numbered/Library.md",
     "Books/Books.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Shops.md",
-    "Room 46.md",
-    "Gold.md",
-    "Blackbridge grotto.md",
+    "Blueprints/Rooms/Numbered/Room 46.md",
     "Pasted image 20250429003542.png",
     "Images/Mail room letters/Pasted image 20250429003109.png",
-    "MR L14.md",
+    "Images/Mail room letters/MR L14.md",
     "Blueprints/Rooms/Numbered/Mail Room.md",
     "Images/Mail room letters/MR L13.md",
     "Images/Mail room letters/Pasted image 20250429002917.png",
@@ -243,16 +250,9 @@
     "Countries/Orinda Aries.md",
     "Images/Misc/Pasted image 20250429002724.png",
     "Countries/Verra Shores.md",
-    "People/People.md",
     "People/Other People/M. Lowry.md",
     "People/Other People/Robert Nogula.md",
     "People/Other People/Christoph.md",
-    "People/Other People/Hartley Ruota.md",
-    "Images/Mail room letters/Pasted image 20250429002158.png",
-    "People/Other People/Chef DeCAMP.md",
-    "People/Other People/Kimberly Thompson.md",
-    "People/Other People/Randolph Moore.md",
-    "People/Other People/Kirk Darren.md",
     "Images/Books/A New Clue",
     "Terminal/Mail",
     "Terminal",

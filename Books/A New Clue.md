@@ -5,7 +5,7 @@ Clue found on 3rd page:
 checked corner case rooms are: [[TODO]]
 - patio
 - nook
-- office
+- office - west
 - pantry
 
 Signs:
