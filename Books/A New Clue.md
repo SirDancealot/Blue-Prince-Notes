@@ -28,9 +28,9 @@ Book annagrams:
 - Violet: Uncle Awe -> A new Clue
 - Blue: Draft the Sixes -> The Fixed Stars
 
-[[The Red Prince]] page 10 word 8: 
-[[Realm & Rune]] page 13 word 10: scorched?
-[[A New Clue]] page 1 word 7: sundial?
+[[The Red Prince]] page 10 word 8: turn
+[[Realm & Rune]] page 13 word 10: scorched
+[[A New Clue]] page 1 word 7: sundial
 [[The Fixed Stars]] page 3 word 8: Base
 
 Released after author [[Mary Epsen|Marionn Marigold]]s disappearance
