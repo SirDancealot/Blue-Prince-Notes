@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Areas/Underground/Underground.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Underground"
             }
           }
         ]
@@ -192,6 +192,8 @@
   },
   "active": "e0bffae3dc2a82c0",
   "lastOpenFiles": [
+    "Books/A New Clue.md",
+    "TODO.md",
     "Blueprints/Rooms/Numbered/Library.md",
     "Images/Books/The Curse of Black Bridge/Pasted image 20250430225120.png",
     "Books/The Curse of Black Bridge.md",
@@ -206,13 +208,11 @@
     "Images/Books/The Curse of Black Bridge/Pasted image 20250430225411.png",
     "Images/Books/The Curse of Black Bridge/Pasted image 20250430225403.png",
     "Books/Books.md",
-    "Books/A New Clue.md",
     "Books/The Red Prince.md",
     "Images/Books/The Red Prince",
     "Blueprints/Rooms/Numbered/Mail Room.md",
     "People/The Family/Mary Epsen.md",
     "Blueprints/Rooms/Numbered/Locker Room.md",
-    "TODO.md",
     "Power.md",
     "Items/Jack Hammer.md",
     "Blackbridge grotto.md",
