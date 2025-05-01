@@ -1,4 +1,4 @@
-[[Core]]: ? Heart? might be [[Corarica]]
+[[Core]]: puzzle-piece
 [[Transport]]: 5-lines, turtleback
 [[Weather]]: Heat? wavy line
 [[Mote]]: ?
