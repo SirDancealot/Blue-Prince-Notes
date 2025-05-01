@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Math.md",
+                "file": "Areas/Underground/Safehouse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Math"
+              "title": "Safehouse"
             }
           },
           {
-            "id": "66d1e82b0b8539fb",
+            "id": "cb5f17d43ca7e400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/language.md",
+                "file": "Countries/Countries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "language"
+              "title": "Countries"
+            }
+          },
+          {
+            "id": "7ba11bfc12b252a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Puzzles/Angel/Royal Angel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Royal Angel"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,15 +239,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66d1e82b0b8539fb",
+  "active": "7ba11bfc12b252a6",
   "lastOpenFiles": [
-    "Pasted image 20250501211915.png",
-    "Pasted image 20250501211906.png",
-    "Books/A New Clue.md",
-    "Misc info/language.md",
-    "Images/Classroom puzzles/7th.png",
-    "Puzzles/Math.md",
+    "Puzzles/Angel/Angel.md",
+    "Countries/Countries.md",
     "Blueprints/Rooms/Misc/Classroom.md",
+    "Blueprints/Rooms/Numbered/Laboratory.md",
+    "Countries/Nuance.md",
+    "Countries/Corarica.md",
+    "Areas/Underground/Safehouse.md",
+    "Puzzles/Math.md",
+    "Images/Classroom puzzles/8th.png",
+    "Images/Classroom puzzles/8th nouns.png",
+    "Images/Classroom puzzles/8th pre-suff words.png",
+    "Misc info/language.md",
+    "Books/A New Clue.md",
+    "Images/Classroom puzzles/7th.png",
     "Images/Classroom puzzles/6th.png",
     "Blueprints/Rooms/Shops/Bookshop.md",
     "Shops.md",
@@ -237,10 +268,7 @@
     "Images/Classroom puzzles/6th slide 2.png",
     "Books/The History of Orindia.md",
     "Blueprints/Rooms/Numbered/Library.md",
-    "Countries/Countries.md",
     "Countries/Verra Shores.md",
-    "Images/Classroom puzzles/5th.png",
-    "Images/Misc/Pasted image 20250501203343.png",
     "Countries/Ajeran.md",
     "Countries/Eraja.md",
     "Untitled.md",
@@ -252,10 +280,6 @@
     "Books/The Red Prince.md",
     "Images/Books/The Red Prince",
     "Blueprints/Rooms/Numbered/Mail Room.md",
-    "People/The Family/Mary Epsen.md",
-    "Blueprints/Rooms/Numbered/Locker Room.md",
-    "Misc info/Power.md",
-    "Items/Jack Hammer.md",
     "Images/Books/A New Clue",
     "Terminal/Mail",
     "Terminal",
