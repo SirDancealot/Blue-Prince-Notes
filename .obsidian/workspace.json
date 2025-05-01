@@ -11,79 +11,12 @@
             "id": "e0bffae3dc2a82c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Books/A New Clue.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Pasted image 20250501204425.png"
               },
-              "icon": "lucide-file",
-              "title": "A New Clue"
-            }
-          },
-          {
-            "id": "74d9b87ed33ca01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Misc/Classroom.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Classroom"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9f3fa3c0917be6c5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c49c0f9044b88b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Countries/Countries.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Countries"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250501204425"
             }
           }
         ]
@@ -245,16 +178,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "e0bffae3dc2a82c0",
   "lastOpenFiles": [
+    "6th slide 4.png",
+    "6th slide 3.png",
+    "6th slide 2.png",
+    "6th slide 1.png",
+    "Pasted image 20250501204425.png",
+    "Blueprints/Rooms/Misc/Classroom.md",
+    "Pasted image 20250501205037.png",
+    "Books/The History of Orindia.md",
+    "Blueprints/Rooms/Numbered/Library.md",
+    "History of Orindia FE.md",
+    "6th grade.md",
+    "Books/A New Clue.md",
+    "Countries/Countries.md",
+    "Countries/Verra Shores.md",
+    "Images/Classroom puzzles/5th.png",
     "Images/Misc/Pasted image 20250501203343.png",
     "Countries/Ajeran.md",
-    "Countries/Countries.md",
     "Countries/Eraja.md",
-    "Countries/Verra Shores.md",
-    "Blueprints/Rooms/Misc/Classroom.md",
-    "Blueprints/Rooms/Numbered/Library.md",
-    "Books/A New Clue.md",
     "Untitled.md",
     "Areas/Underground/Underground.md",
     "TODO.md",
@@ -262,14 +205,6 @@
     "Books/The Curse of Black Bridge.md",
     "Images/Books/The Curse of Black Bridge",
     "Images/Books/The Curse of Black Bridge/Pasted image 20250430225504.png",
-    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225457.png",
-    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225451.png",
-    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225445.png",
-    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225436.png",
-    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225423.png",
-    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225417.png",
-    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225411.png",
-    "Images/Books/The Curse of Black Bridge/Pasted image 20250430225403.png",
     "Books/Books.md",
     "Books/The Red Prince.md",
     "Images/Books/The Red Prince",
@@ -282,9 +217,6 @@
     "People/Other People/Kirk Darren.md",
     "Gold.md",
     "People/People.md",
-    "Blueprints/Rooms/Numbered/Workshop.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "Shops.md",
     "Images/Books/A New Clue",
     "Terminal/Mail",
     "Terminal",

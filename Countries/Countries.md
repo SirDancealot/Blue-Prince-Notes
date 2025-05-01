@@ -5,7 +5,7 @@ aliases:
 - [[Orinda Aries]] - ticket solved
 - [[Fenn Aries]] - Pentagon solved
 - [[Arch Aries]] - Mountain solved
-- [[Verra Shores]] - puzzle-piece
+- [[Verra Shores]] - cannon
 - [[Mora Jai]] - igloo
 - [[Eraja]] - hourglass
 - [[Nuance]] - Diamond solved

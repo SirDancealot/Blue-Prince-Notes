@@ -1,0 +1,5 @@
+[[Orinda Aries]] fighting [[Fenn Aries]]
+![[6th slide 1.png]]
+![[6th slide 2.png]]![[6th slide 3.png]]
+![[6th slide 4.png]]
+![[6th slide 5.png]]

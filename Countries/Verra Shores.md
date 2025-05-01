@@ -1,4 +1,4 @@
-[[Core]]: puzzle-piece
+[[Core]]: cannon
 [[Transport]]: 5-lines, turtleback
 [[Weather]]: Heat? wavy line
 [[Mote]]: ?
