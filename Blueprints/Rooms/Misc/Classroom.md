@@ -10,4 +10,4 @@ Symbol of all [[Countries]]
 ![[5th.png]]
 
 [[6th grade]]
-![[Pasted image 20250501205037.png]]
+![[6th.png]]

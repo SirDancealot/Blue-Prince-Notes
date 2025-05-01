@@ -11,12 +11,24 @@
             "id": "e0bffae3dc2a82c0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250501204425.png"
+                "file": "Puzzles/Math.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250501204425"
+              "icon": "lucide-file",
+              "title": "Math"
             }
           }
         ]
@@ -180,17 +192,20 @@
   },
   "active": "e0bffae3dc2a82c0",
   "lastOpenFiles": [
-    "6th slide 4.png",
-    "6th slide 3.png",
-    "6th slide 2.png",
-    "6th slide 1.png",
-    "Pasted image 20250501204425.png",
+    "Images/Classroom puzzles/6th.png",
+    "Blueprints/Rooms/Shops/Bookshop.md",
+    "Shops.md",
+    "Misc info",
+    "Misc info/6th grade.md",
+    "History of Orindia FE.md",
+    "Images/Classroom puzzles/6th slide 1.png",
+    "Images/Classroom puzzles/6th slide 5.png",
+    "Images/Classroom puzzles/6th slide 4.png",
+    "Images/Classroom puzzles/6th slide 3.png",
+    "Images/Classroom puzzles/6th slide 2.png",
     "Blueprints/Rooms/Misc/Classroom.md",
-    "Pasted image 20250501205037.png",
     "Books/The History of Orindia.md",
     "Blueprints/Rooms/Numbered/Library.md",
-    "History of Orindia FE.md",
-    "6th grade.md",
     "Books/A New Clue.md",
     "Countries/Countries.md",
     "Countries/Verra Shores.md",
@@ -211,12 +226,10 @@
     "Blueprints/Rooms/Numbered/Mail Room.md",
     "People/The Family/Mary Epsen.md",
     "Blueprints/Rooms/Numbered/Locker Room.md",
-    "Power.md",
+    "Misc info/Power.md",
     "Items/Jack Hammer.md",
     "Blackbridge grotto.md",
     "People/Other People/Kirk Darren.md",
-    "Gold.md",
-    "People/People.md",
     "Images/Books/A New Clue",
     "Terminal/Mail",
     "Terminal",
@@ -224,7 +237,6 @@
     "Mail",
     "Images/Books/Drafting strategy Vol 3",
     "Images/Books/The History of Orindia",
-    "Images/Books/Realm & Rune",
     "Untitled.canvas"
   ]
 }
