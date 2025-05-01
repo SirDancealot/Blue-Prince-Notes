@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/language.md",
+                "file": "Blueprints/Rooms/Misc/Classroom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "language"
+              "title": "Classroom"
             }
           }
         ],
@@ -265,9 +265,10 @@
   },
   "active": "f3c71d66854dfddb",
   "lastOpenFiles": [
+    "Pasted image 20250501221137.png",
     "Books/A New Clue.md",
-    "Misc info/6th grade.md",
     "Misc info/language.md",
+    "Misc info/6th grade.md",
     "Puzzles/Math.md",
     "Blueprints/Rooms/Misc/Classroom.md",
     "Countries/Countries.md",
@@ -302,7 +303,6 @@
     "Books/The Curse of Black Bridge.md",
     "Images/Books/The Curse of Black Bridge",
     "Books/Books.md",
-    "Books/The Red Prince.md",
     "Images/Books/The Red Prince",
     "Images/Books/A New Clue",
     "Terminal/Mail",

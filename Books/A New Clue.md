@@ -2,7 +2,7 @@ There is a LOT in this book, i must have a closer look with magnefying glass
 
 Clue found on 3rd page:
 "all checked corner case rooms had a low case clue found in the rooms"
-checked corner case rooms are: [[TODO]]
+checked corner case rooms are: (had the "large" microchip)
 - patio - buried
 - nook - beside
 - office - west
