@@ -11,3 +11,4 @@ Symbol of all [[Countries]]
 
 [[6th grade]]
 ![[6th.png]]
+![[7th.png]]

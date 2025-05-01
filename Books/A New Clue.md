@@ -6,7 +6,7 @@ checked corner case rooms are: [[TODO]]
 - patio - buried
 - nook - beside
 - office - west
-- pantry
+- pantry - bridge
 
 Signs:
 - Route 8
