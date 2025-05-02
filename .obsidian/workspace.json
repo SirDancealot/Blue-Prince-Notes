@@ -11,12 +11,24 @@
             "id": "7ba11bfc12b252a6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Books/Drafting strategy Vol 4/Pasted image 20250502162142.png"
+                "file": "Blueprints/Rooms/Misc/Planetarium.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250502162142"
+              "icon": "lucide-file",
+              "title": "Planetarium"
             }
           }
         ]
@@ -178,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "7ba11bfc12b252a6",
   "lastOpenFiles": [
+    "TODO.md",
+    "Images/Books/Drafting strategy Vol 4/Pasted image 20250502162142.png",
     "Books/Drafting Strategy Vol 4.md",
     "Images/Books/Drafting strategy Vol 4/Pasted image 20250502163153.png",
     "Images/Books/Drafting strategy Vol 4/Pasted image 20250502163029.png",
@@ -190,7 +204,6 @@
     "Images/Books/Drafting strategy Vol 4/Pasted image 20250502162250.png",
     "Books/Books.md",
     "Blueprints/Rooms/Numbered/Library.md",
-    "Images/Books/Drafting strategy Vol 4/Pasted image 20250502162142.png",
     "Images/Books/Drafting strategy Vol 4",
     "Areas/Underground/Abandoned mine.md",
     "Terminal/Terminal.md",

@@ -1,4 +1,5 @@
 Found in [[Observatory]] as told in [[MR L7]] 
+Star at 50 allows you to use stars to reroll rooms 
 
 Interesting star info
 new star at 50!
