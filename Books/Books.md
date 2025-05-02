@@ -5,4 +5,4 @@ Written by [[Mary Epsen]] under the pen name [[Mary Epsen|Marionn Marigold]]:
 - [[Swim Bird]]
 - [[A New Clue]]
 
-![[Library#Books Within]]
+![[Library#Books Within Library]]
