@@ -4,203 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ee533216532756",
+        "id": "047296d99222bad7",
         "type": "tabs",
         "children": [
           {
-            "id": "960a4d6436879a27",
+            "id": "9d1bedbf41e094ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Underground/Safehouse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Safehouse"
-            }
-          },
-          {
-            "id": "4dfb3d8ddb02a036",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Misc/Train Map.png"
-              },
-              "icon": "lucide-image",
-              "title": "Train Map"
-            }
-          },
-          {
-            "id": "61b12c1515d74406",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428224027.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428224027"
-            }
-          },
-          {
-            "id": "7ba11bfc12b252a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/A New Clue.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "A New Clue"
-            }
-          },
-          {
-            "id": "f1413df8252ff299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Images/Mail room letters/MR L10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MR L10"
-            }
-          },
-          {
-            "id": "afd0a44c734bb028",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428225014.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428225014"
-            }
-          },
-          {
-            "id": "8c26cc1e2da675f0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428224850.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428224850"
-            }
-          },
-          {
-            "id": "fbb4401cd5060c61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc info/language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "language"
-            }
-          },
-          {
-            "id": "e3446fb0e81948b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/The Red Prince.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Red Prince"
-            }
-          },
-          {
-            "id": "28accee33201367d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Items.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Items"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -359,9 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1413df8252ff299",
+  "active": "9d1bedbf41e094ac",
   "lastOpenFiles": [
+    "Books/A New Clue.md",
+    "Images/Books/A New Clue/Pasted image 20250428225014.png",
     "Blueprints/Rooms/Numbered/Mail Room.md",
+    "Images/Mail room letters/MR L14.md",
+    "Images/Mail room letters/MR L6.md",
+    "Images/Mail room letters/MR L10.md",
     "Images/Mail room letters/MR L11.md",
     "Images/Mail room letters/MR L12.md",
     "Images/Mail room letters/MR L13.md",
@@ -371,8 +193,6 @@
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Blueprints/Rooms/Shops/Laundry Room.md",
     "Terminal/Terminal.md",
-    "Books/A New Clue.md",
-    "Images/Books/A New Clue/Pasted image 20250428225014.png",
     "Images/Books/A New Clue/Pasted image 20250428224850.png",
     "Misc info/language.md",
     "Images/Books/A New Clue/Pasted image 20250428224154.png",
@@ -393,11 +213,7 @@
     "Images/Books/Drafting strategy Vol 4/Pasted image 20250502163153.png",
     "Images/Books/Drafting strategy Vol 4/Pasted image 20250502163029.png",
     "Books/Books.md",
-    "Blueprints/Rooms/Numbered/Library.md",
     "Images/Books/Drafting strategy Vol 4",
-    "Areas/Underground/Abandoned mine.md",
-    "Blueprints/Rooms/Misc/Tunnel.md",
-    "Blueprints/Rooms/Misc/Classroom.md",
     "Misc info",
     "Images/Books/The Curse of Black Bridge",
     "Images/Books/The Red Prince",
