@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ba11bfc12b252a6",
+            "id": "960a4d6436879a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Red Rooms/Chapel.md",
+                "file": "Areas/Underground/Safehouse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,151 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapel"
+              "title": "Safehouse"
+            }
+          },
+          {
+            "id": "4dfb3d8ddb02a036",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Misc/Train Map.png"
+              },
+              "icon": "lucide-image",
+              "title": "Train Map"
+            }
+          },
+          {
+            "id": "61b12c1515d74406",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Books/A New Clue/Pasted image 20250428224027.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250428224027"
+            }
+          },
+          {
+            "id": "7ba11bfc12b252a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/A New Clue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A New Clue"
+            }
+          },
+          {
+            "id": "f1413df8252ff299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Images/Mail room letters/MR L10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MR L10"
+            }
+          },
+          {
+            "id": "afd0a44c734bb028",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Books/A New Clue/Pasted image 20250428225014.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250428225014"
+            }
+          },
+          {
+            "id": "8c26cc1e2da675f0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Books/A New Clue/Pasted image 20250428224850.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250428224850"
+            }
+          },
+          {
+            "id": "fbb4401cd5060c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc info/language.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "language"
+            }
+          },
+          {
+            "id": "e3446fb0e81948b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/The Red Prince.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Red Prince"
             }
           },
           {
@@ -55,7 +199,8 @@
               "title": "Items"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,46 +359,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ba11bfc12b252a6",
+  "active": "f1413df8252ff299",
   "lastOpenFiles": [
-    "Items/Items.md",
+    "Blueprints/Rooms/Numbered/Mail Room.md",
+    "Images/Mail room letters/MR L11.md",
+    "Images/Mail room letters/MR L12.md",
+    "Images/Mail room letters/MR L13.md",
+    "Blueprints/Blueprint list.md",
+    "Blueprints/Rooms/Numbered/Garage.md",
+    "Blueprints/Rooms/Numbered/Laboratory.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Blueprints/Rooms/Shops/Laundry Room.md",
+    "Terminal/Terminal.md",
+    "Books/A New Clue.md",
+    "Images/Books/A New Clue/Pasted image 20250428225014.png",
+    "Images/Books/A New Clue/Pasted image 20250428224850.png",
+    "Misc info/language.md",
+    "Images/Books/A New Clue/Pasted image 20250428224154.png",
+    "Books/The Red Prince.md",
+    "Images/Books/A New Clue/Pasted image 20250428224027.png",
+    "Images/Books/A New Clue/Pasted image 20250428225002.png",
+    "Images/Books/A New Clue/Pasted image 20250428224724.png",
+    "Items/Burning Glass.md",
+    "Books/The Fixed Stars.md",
+    "Images/Misc/Train Map.png",
+    "Areas/Underground/Safehouse.md",
     "Blueprints/Rooms/Red Rooms/Chapel.md",
+    "Items/Items.md",
     "Blueprints/Rooms/Misc/Planetarium.md",
     "TODO.md",
     "Images/Books/Drafting strategy Vol 4/Pasted image 20250502162142.png",
     "Books/Drafting Strategy Vol 4.md",
     "Images/Books/Drafting strategy Vol 4/Pasted image 20250502163153.png",
     "Images/Books/Drafting strategy Vol 4/Pasted image 20250502163029.png",
-    "Blueprints/Blueprint list.md",
-    "Images/Books/Drafting strategy Vol 4/Pasted image 20250502162819.png",
-    "Images/Books/Drafting strategy Vol 4/Pasted image 20250502162616.png",
-    "Images/Books/Drafting strategy Vol 4/Pasted image 20250502162417.png",
-    "Images/Books/Drafting strategy Vol 4/Pasted image 20250502162250.png",
     "Books/Books.md",
     "Blueprints/Rooms/Numbered/Library.md",
     "Images/Books/Drafting strategy Vol 4",
     "Areas/Underground/Abandoned mine.md",
-    "Terminal/Terminal.md",
-    "Areas/Underground/Safehouse.md",
-    "Books/A New Clue.md",
-    "Images/Classroom puzzles/Pasted image 20250501221137.png",
     "Blueprints/Rooms/Misc/Tunnel.md",
     "Blueprints/Rooms/Misc/Classroom.md",
-    "Misc info/language.md",
-    "Misc info/6th grade.md",
-    "Puzzles/Math.md",
-    "Countries/Countries.md",
-    "Puzzles/Angel/Royal Angel.md",
-    "Puzzles/Angel/Angel.md",
-    "Blueprints/Rooms/Numbered/Laboratory.md",
-    "Countries/Nuance.md",
-    "Countries/Corarica.md",
-    "Images/Classroom puzzles/8th.png",
-    "Images/Classroom puzzles/8th nouns.png",
-    "Blueprints/Rooms/Shops/Bookshop.md",
-    "Shops.md",
     "Misc info",
-    "History of Orindia FE.md",
     "Images/Books/The Curse of Black Bridge",
     "Images/Books/The Red Prince",
     "Images/Books/A New Clue",
