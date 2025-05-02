@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/A New Clue.md",
+                "file": "Areas/Underground/Abandoned mine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A New Clue"
-            }
-          },
-          {
-            "id": "f3c71d66854dfddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Misc/Classroom.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Classroom"
+              "title": "Abandoned mine"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,16 +239,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3c71d66854dfddb",
+  "active": "7ba11bfc12b252a6",
   "lastOpenFiles": [
-    "Pasted image 20250501221137.png",
+    "Terminal/Terminal.md",
+    "Areas/Underground/Safehouse.md",
     "Books/A New Clue.md",
+    "Images/Classroom puzzles/Pasted image 20250501221137.png",
+    "Blueprints/Rooms/Misc/Tunnel.md",
+    "Blueprints/Blueprint list.md",
+    "Blueprints/Rooms/Misc/Classroom.md",
     "Misc info/language.md",
     "Misc info/6th grade.md",
     "Puzzles/Math.md",
-    "Blueprints/Rooms/Misc/Classroom.md",
     "Countries/Countries.md",
-    "Areas/Underground/Safehouse.md",
     "Puzzles/Angel/Royal Angel.md",
     "Puzzles/Angel/Angel.md",
     "Blueprints/Rooms/Numbered/Laboratory.md",
@@ -291,18 +270,15 @@
     "Images/Classroom puzzles/6th slide 5.png",
     "Images/Classroom puzzles/6th slide 4.png",
     "Images/Classroom puzzles/6th slide 3.png",
-    "Images/Classroom puzzles/6th slide 2.png",
     "Books/The History of Orindia.md",
     "Blueprints/Rooms/Numbered/Library.md",
     "Countries/Verra Shores.md",
     "Countries/Ajeran.md",
     "Countries/Eraja.md",
-    "Untitled.md",
     "Areas/Underground/Underground.md",
     "TODO.md",
     "Books/The Curse of Black Bridge.md",
     "Images/Books/The Curse of Black Bridge",
-    "Books/Books.md",
     "Images/Books/The Red Prince",
     "Images/Books/A New Clue",
     "Terminal/Mail",

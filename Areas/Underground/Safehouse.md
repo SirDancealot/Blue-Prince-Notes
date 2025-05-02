@@ -2,6 +2,7 @@ Gotten to by boat from [[Underground]] resevoir
 
 
 One of the screens in the [[Security]] room
+it is the image of the archives next to the ladder
 ![[Pasted image 20250428214651.png]]
 
 ![[Pasted image 20250428214733.png]]

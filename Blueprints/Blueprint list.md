@@ -105,6 +105,7 @@ Found floorplans
 - [[Conservatory]]
 - [[Closed Exhibit]]
 - [[Planetarium]]
+- [[Tunnel]]
 
 [[Outer Rooms]]
 - [[Toolshed]]
