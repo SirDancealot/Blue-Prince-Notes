@@ -9,7 +9,7 @@ Confirmed usefull dates: (should probably be 8 in total according to paintings p
 - 1504 opens [[Drawing Room]] safe
  
 Various other found dates and years:
-- 1231 year found in [[Wine Cellar]]
+- 1213 year found in [[Wine Cellar]]
 - 07-02-15 foreman log 3 found down elevator unlocked by [[Gas Valve]] puzzle
 - 1506 (june 15th) found in staff notice in [[West Wing Hall]]
 - 1951/1952? year of marriage between [[Simon H Sinclair]] and [[Clara Epsen]] found in [[Ballroom]]? 
