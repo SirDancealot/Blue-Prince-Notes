@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dates/Dates.md",
+                "file": "Areas/Underground/Underground.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dates"
+              "title": "Underground"
             }
           }
         ]
@@ -192,8 +192,10 @@
   },
   "active": "9d1bedbf41e094ac",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Numbered/Wine Cellar.md",
+    "Pasted image 20250504002124.png",
+    "Items/Items.md",
     "Dates/Dates.md",
+    "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "TODO.md",
     "Puzzles/Puzzles.md",
     "Freezer.md",
@@ -223,9 +225,7 @@
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Numbered/Garage.md",
     "Blueprints/Rooms/Numbered/Laboratory.md",
-    "Blueprints/Rooms/Shops/Laundry Room.md",
     "Images/Books/A New Clue/Pasted image 20250428224850.png",
-    "Misc info/language.md",
     "Images/Books/A New Clue/Pasted image 20250428224154.png",
     "Images/Books/A New Clue/Pasted image 20250428224027.png",
     "Images/Books/Drafting strategy Vol 4",
