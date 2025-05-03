@@ -1,6 +1,6 @@
 Grades for the exam
 ![[Pasted image 20250504013600.png]]
-Luckily A- is good enough for the [[Trophy Room|Tro]]
+Luckily A- is good enough for the [[Trophy Room|Trophy]]
 
 My latest answers to the final exam
 ![[Pasted image 20250504012836.png]]

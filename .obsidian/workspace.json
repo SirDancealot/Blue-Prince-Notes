@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam.md",
+                "file": "Puzzles/Chess/Chess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exam"
+              "title": "Chess"
             }
           }
         ],
@@ -241,6 +241,9 @@
   },
   "active": "5a9cb2a7bc4e7a59",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Library.md",
+    "Misc info/language.md",
+    "Exam.md",
     "Pasted image 20250504013600.png",
     "Puzzles/Angel/Cleaning angel.md",
     "Puzzles/Angel/Chimney Sweeper angel.md",
@@ -250,13 +253,10 @@
     "Images/The Exam/Pasted image 20250504013034.png",
     "Images/The Exam/Pasted image 20250504012851.png",
     "Images/The Exam",
-    "Exam.md",
     "Images/The Exam/Pasted image 20250504013028.png",
     "Images/The Exam/Pasted image 20250504013018.png",
     "Images/The Exam/Pasted image 20250504013011.png",
     "Images/The Exam/Pasted image 20250504012959.png",
-    "Images/The Exam/Pasted image 20250504012950.png",
-    "Misc info/language.md",
     "Countries/Eraja.md",
     "Puzzles/Math.md",
     "Misc info/6th grade.md",
@@ -276,7 +276,6 @@
     "Books/Drafting Strategy Vol 5.md",
     "Puzzles/Angel/Angel.md",
     "Death.md",
-    "Blueprints/Rooms/Numbered/Library.md",
     "Images/Books/Drafting Strategy Vol 5",
     "Areas/Underground/Underground.md",
     "Images/Books/Drafting strategy Vol 4",
