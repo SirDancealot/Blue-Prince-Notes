@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Library.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Library"
+              "title": "TODO"
             }
           }
         ]
@@ -192,6 +192,16 @@
   },
   "active": "9d1bedbf41e094ac",
   "lastOpenFiles": [
+    "Freezer.md",
+    "Pasted image 20250503023639.png",
+    "Pasted image 20250503023524.png",
+    "Pasted image 20250503023451.png",
+    "Pasted image 20250503023408.png",
+    "Pasted image 20250503023319.png",
+    "Pasted image 20250503023201.png",
+    "Terminal/Terminal.md",
+    "Puzzles/Chess/Chess.md",
+    "Blueprints/Rooms/Numbered/Library.md",
     "TODO.md",
     "Areas/Outside/The Precipice.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
@@ -211,23 +221,12 @@
     "Blueprints/Rooms/Numbered/Garage.md",
     "Blueprints/Rooms/Numbered/Laboratory.md",
     "Blueprints/Rooms/Shops/Laundry Room.md",
-    "Terminal/Terminal.md",
     "Images/Books/A New Clue/Pasted image 20250428224850.png",
     "Misc info/language.md",
     "Images/Books/A New Clue/Pasted image 20250428224154.png",
     "Books/The Red Prince.md",
     "Images/Books/A New Clue/Pasted image 20250428224027.png",
-    "Images/Books/A New Clue/Pasted image 20250428225002.png",
-    "Images/Books/A New Clue/Pasted image 20250428224724.png",
     "Items/Burning Glass.md",
-    "Books/The Fixed Stars.md",
-    "Images/Misc/Train Map.png",
-    "Areas/Underground/Safehouse.md",
-    "Blueprints/Rooms/Red Rooms/Chapel.md",
-    "Items/Items.md",
-    "Images/Books/Drafting strategy Vol 4/Pasted image 20250502162142.png",
-    "Images/Books/Drafting strategy Vol 4/Pasted image 20250502163153.png",
-    "Images/Books/Drafting strategy Vol 4/Pasted image 20250502163029.png",
     "Images/Books/Drafting strategy Vol 4",
     "Misc info",
     "Images/Books/The Curse of Black Bridge",

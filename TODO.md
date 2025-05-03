@@ -1,8 +1,6 @@
 - Remaining [[Puzzles]]
 - Read [[The Curse of Black Bridge]]
 - More with [[Chamber of Mirrors]]
-- Get to 50 stars to see the new one [[Planetarium]]
-- Draft [[Furnace]] close to [[Freezer]]
 - Try connecting [[Power]] from [[Boiler Room]] to [[The Foundation]]
 - figure out 4-letter/number password for lock behind red door in [[The Underpass]] 
 - Complete the Circuit in [[Blackbridge Grotto]]
