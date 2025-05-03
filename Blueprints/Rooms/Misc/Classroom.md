@@ -1,3 +1,5 @@
+If you get to the 9th classroom you get to take the [[Exam]]
+
 ![[1st.png]]
 
 ![[2nd.png]]
