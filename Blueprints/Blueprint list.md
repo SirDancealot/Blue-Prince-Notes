@@ -101,6 +101,7 @@ Numbered rooms (in order):
 - [[Solarium]]
 - [[Dovecote]]
 - [[Casino]]
+- [[Dormitory]]
 
 Found floorplans
 - [[Mechanarium]]
