@@ -99,6 +99,7 @@ Numbered rooms (in order):
 - [[Clock Tower]]
 - [[Classroom]]
 - [[Solarium]]
+- [[Dovecote]]
 
 Found floorplans
 - [[Mechanarium]]

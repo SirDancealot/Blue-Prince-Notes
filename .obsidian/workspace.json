@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Countries.md",
+                "file": "Blueprints/Rooms/Green Rooms/Green Rooms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,41 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Countries"
+              "title": "Green Rooms"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "9470c2ceb2357c9b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "821f2f674c312e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Realm & Rune.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Realm & Rune"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -295,8 +265,11 @@
   },
   "active": "add2c9b9daa91c92",
   "lastOpenFiles": [
-    "Countries/Verra Shores.md",
+    "Apple Orchard.md",
+    "Blueprints/Blueprint list.md",
+    "People/Other People/Alzara.md",
     "Countries/Countries.md",
+    "Countries/Verra Shores.md",
     "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504155310.png",
     "Countries/Nuance.md",
     "Countries/Mora Jai.md",
@@ -330,8 +303,6 @@
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Puzzles/Mora Jai Box.md",
     "Misc info/language.md",
-    "Blueprints/Rooms/Numbered/Clock Tower.md",
-    "Puzzles/Chess/Chess.md",
     "Images/The Exam",
     "Images/Books/Drafting Strategy Vol 5",
     "Images/Books/Drafting strategy Vol 4",
