@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7110278a15e2dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Drafting Strategy Vol 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Drafting Strategy Vol 2"
-            }
-          },
-          {
             "id": "1f1611b8525e0dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Realm & Rune.md",
+                "file": "Dates/Dates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Realm & Rune"
+              "title": "Dates"
             }
           }
         ]
@@ -214,20 +190,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7110278a15e2dcb",
+  "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
-    "Pasted image 20250504220047.png",
-    "Pasted image 20250504215940.png",
-    "Blueprints/Rooms/Numbered/Freezer.md",
-    "Books/Drafting Strategy Vol 2.md",
-    "Pasted image 20250504215632.png",
-    "Misc info/Drafting.md",
-    "Pasted image 20250504215430.png",
-    "Countries/Corarica.md",
     "Books/Realm & Rune.md",
-    "Pasted image 20250504215128.png",
-    "Pasted image 20250504215007.png",
-    "Pasted image 20250504214946.png",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504220047.png",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504214946.png",
+    "Books/Drafting Strategy Vol 2.md",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215940.png",
+    "Blueprints/Rooms/Numbered/Freezer.md",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215632.png",
+    "Misc info/Drafting.md",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215430.png",
+    "Countries/Corarica.md",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215128.png",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215007.png",
     "Images/Books/Drafting Strategy Vol 2",
     "Books/Drafting Strategy Series.md",
     "Books/Drafting Strategy Vol 1.md",
@@ -239,7 +215,6 @@
     "Books/The original Gardener's Logbook.md",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/Original Gardener's Logbook/Pasted image 20250504213259.png",
-    "Images/Books/Original Gardener's Logbook/Pasted image 20250504213215.png",
     "Books/Books.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Items/Detector Shovel.md",
