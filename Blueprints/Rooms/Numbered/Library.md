@@ -4,6 +4,7 @@ Has a collection of all [[Stamps]] in the scrapbook on the upper floor
 [[Books]] can be ordered in here
 
 ### Books Within [[Library]]:
+- [[A Sightseer's Guide to Reddington]]
 - [[Pump System User Manual]]
 - [[The Fixed Stars]] also found in [[Observatory]]
 - [[The Curse of Black Bridge]]
