@@ -1,5 +1,4 @@
-[[TODO]]
-At 7 or 8 (hard to read) something might happen (According to timestamp on ground)
+at 1:30 a secret door opens up with a key to the [[Inner Sanctum]] for one of the [[Sigil Doors]]
 ![[Pasted image 20250423033420.png]]
 
 ![[Pasted image 20250423033133.png]]
