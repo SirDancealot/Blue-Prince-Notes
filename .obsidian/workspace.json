@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Math.md",
+                "file": "Blueprints/Blueprint list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Math"
+              "title": "Blueprint list"
             }
           },
           {
-            "id": "4c73768c62227170",
+            "id": "0b9600d16e7809b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The History of Orindia.md",
+                "file": "Casino.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,59 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The History of Orindia"
-            }
-          },
-          {
-            "id": "5a9cb2a7bc4e7a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Books.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Books"
-            }
-          },
-          {
-            "id": "add2c9b9daa91c92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Green Rooms/Green Rooms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Green Rooms"
+              "title": "Casino"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,10 +215,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "add2c9b9daa91c92",
+  "active": "0b9600d16e7809b0",
   "lastOpenFiles": [
-    "Apple Orchard.md",
+    "Pasted image 20250504165049.png",
+    "Pasted image 20250504165018.png",
+    "Pasted image 20250504164945.png",
+    "Casino.md",
     "Blueprints/Blueprint list.md",
+    "Puzzles/Math.md",
+    "Books/The History of Orindia.md",
+    "Books/Books.md",
+    "Blueprints/Rooms/Green Rooms/Green Rooms.md",
+    "Apple Orchard.md",
     "People/Other People/Alzara.md",
     "Countries/Countries.md",
     "Countries/Verra Shores.md",
@@ -285,24 +245,16 @@
     "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504155011.png",
     "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504154908.png",
     "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504154802.png",
-    "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504154711.png",
     "Images/Books/A Sightseer's Guide to Reddington",
     "Books/Drafting Strategy Vol 5.md",
     "Blueprints/Rooms/Numbered/Freezer.md",
     "Puzzles/Angel/Death.md",
     "Puzzles/Exam.md",
-    "Images/Misc/Pasted image 20250504023909.png",
     "Books/Drafting Strategy Vol 1.md",
     "Images/Books/Drafting Strategy Vol 1",
     "Images/Books/Drafting Strategy Vol 1.md",
-    "Books/Books.md",
     "Dates/Dates.md",
     "Border.md",
-    "Blueprints/Rooms/Misc/Tunnel.md",
-    "Items/Power Hammer.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "Puzzles/Mora Jai Box.md",
-    "Misc info/language.md",
     "Images/The Exam",
     "Images/Books/Drafting Strategy Vol 5",
     "Images/Books/Drafting strategy Vol 4",

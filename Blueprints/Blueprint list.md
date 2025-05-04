@@ -100,6 +100,7 @@ Numbered rooms (in order):
 - [[Classroom]]
 - [[Solarium]]
 - [[Dovecote]]
+- [[Casino]]
 
 Found floorplans
 - [[Mechanarium]]
