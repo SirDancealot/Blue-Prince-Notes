@@ -8,6 +8,6 @@
 - [[Gallery]] - Solved
 - [[Paintings]] - Solved
 - [[Red Letters]]
-- [[Classroom]] - just complete the exam 4head
+- [[Classroom]] - Solved
 - [[Sigil Doors]]
 - [[Mora Jai Box]]

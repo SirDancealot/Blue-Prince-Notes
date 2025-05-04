@@ -2,7 +2,7 @@ According to [[Paintings]] puzzle dates are very important as they open safes an
 
 Confirmed usefull dates: (should probably be 8 in total according to paintings puzzle)
 - 0303 opens [[Office]] [[Safe]]
-- 1121? opens [[Apple Orchard]] gate
+- 1128 opens [[Apple Orchard]] gate
 - 1225 opens [[Boudoir]] safe
 - [[Today]] in at least 1 hour opens [[Shelter]] safe
 - 0812 opens [[Study]] safe
