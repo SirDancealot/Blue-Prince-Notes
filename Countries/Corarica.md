@@ -1,7 +1,10 @@
 The [[Countries|Country]] of Corarica: Might be the same as [[Verra Shores]]
 
 [[Core]]: heart
-[[Transport]]: ?
-[[Weather]]: ?
+[[Transport]]: Probably horseback, 4 lines 2 horizontal, and two diagonal down
+[[Weather]]: Snow, a dotted line
 [[Mote]]: ?
-[[Color]]: ?
+[[Color]]: White or pink
+
+Stamp found in [[Mail Room]]
+![[Pasted image 20250504160013.png]]

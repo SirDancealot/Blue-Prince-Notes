@@ -80,36 +80,12 @@
             }
           },
           {
-            "id": "821f2f674c312e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Numbered/Library.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Library"
-            }
-          },
-          {
             "id": "add2c9b9daa91c92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/A Sightseer's Guide to Reddington.md",
+                "file": "Countries/Countries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +100,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A Sightseer's Guide to Reddington"
+              "title": "Countries"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "9470c2ceb2357c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "821f2f674c312e11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Realm & Rune.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Realm & Rune"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,45 +295,44 @@
   },
   "active": "add2c9b9daa91c92",
   "lastOpenFiles": [
-    "Pasted image 20250504155310.png",
-    "Pasted image 20250504155212.png",
-    "Pasted image 20250504155057.png",
-    "Pasted image 20250504155011.png",
-    "Pasted image 20250504154908.png",
-    "Pasted image 20250504154802.png",
-    "Pasted image 20250504154711.png",
-    "Pasted image 20250504154700.png",
-    "Images/Books/A Sightseer's Guide to Reddington",
-    "Books/A Sightseer's Guide to Reddington.md",
+    "Countries/Verra Shores.md",
+    "Countries/Countries.md",
+    "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504155310.png",
+    "Countries/Nuance.md",
+    "Countries/Mora Jai.md",
+    "Books/Realm & Rune.md",
     "Blueprints/Rooms/Numbered/Library.md",
+    "Countries/Eraja.md",
+    "Countries/Corarica.md",
+    "Images/Misc/Pasted image 20250504160013.png",
+    "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504154700.png",
+    "Books/A Sightseer's Guide to Reddington.md",
+    "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504155212.png",
+    "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504155057.png",
+    "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504155011.png",
+    "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504154908.png",
+    "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504154802.png",
+    "Images/Books/A Sightseer's Guide to Reddington/Pasted image 20250504154711.png",
+    "Images/Books/A Sightseer's Guide to Reddington",
     "Books/Drafting Strategy Vol 5.md",
     "Blueprints/Rooms/Numbered/Freezer.md",
     "Puzzles/Angel/Death.md",
     "Puzzles/Exam.md",
     "Images/Misc/Pasted image 20250504023909.png",
-    "Images/Misc/Pasted image 20250504013600.png",
-    "Images/Books/Drafting Strategy Vol 1/Pasted image 20250504150604.png",
     "Books/Drafting Strategy Vol 1.md",
     "Images/Books/Drafting Strategy Vol 1",
     "Images/Books/Drafting Strategy Vol 1.md",
     "Books/Books.md",
     "Dates/Dates.md",
-    "Countries/Verra Shores.md",
     "Border.md",
     "Blueprints/Rooms/Misc/Tunnel.md",
     "Items/Power Hammer.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
-    "Countries/Countries.md",
     "Puzzles/Mora Jai Box.md",
     "Misc info/language.md",
-    "Countries/Eraja.md",
-    "Books/Realm & Rune.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
     "Puzzles/Chess/Chess.md",
-    "Puzzles/Angel/Cleaning angel.md",
-    "Puzzles/Angel/Chimney Sweeper angel.md",
     "Images/The Exam",
-    "Puzzles/Math.md",
     "Images/Books/Drafting Strategy Vol 5",
     "Images/Books/Drafting strategy Vol 4",
     "Misc info",
