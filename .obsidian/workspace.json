@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Freezer.md",
+                "file": "Books/Drafting Strategy Vol 5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Freezer"
+              "title": "Drafting Strategy Vol 5"
             }
           }
         ],
@@ -263,8 +263,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "821f2f674c312e11",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Freezer.md",
     "Puzzles/Angel/Death.md",
     "Puzzles/Exam.md",
     "Images/Misc/Pasted image 20250504023909.png",
@@ -302,7 +303,6 @@
     "Misc info/6th grade.md",
     "Blueprints/Rooms/Misc/Classroom.md",
     "Books/The History of Orindia.md",
-    "Puzzles/Angel/Royal Angel.md",
     "Images/Books/Drafting Strategy Vol 5",
     "Images/Books/Drafting strategy Vol 4",
     "Misc info",
