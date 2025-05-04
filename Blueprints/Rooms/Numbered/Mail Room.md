@@ -1,4 +1,4 @@
-Contains 1 letter by default, more can be gotten via [[Laboratory]] experiments [[TODO]]
+Contains 1 letter by default, more can be gotten via [[Laboratory]] experiments
 
 Letters:
 - [[MR L1]]

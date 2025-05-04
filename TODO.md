@@ -4,4 +4,4 @@
 - More with [[Chamber of Mirrors]]
 - Try connecting [[Power]] from [[Boiler Room]] to [[The Foundation]]
 - figure out 4-letter/number password for lock behind red door in [[The Underpass]] 
-- Complete the Circuit in [[Blackbridge Grotto]]/[[Apl]]
+- Complete the Circuit in [[Blackbridge Grotto]]/[[Apple Orchard]]
