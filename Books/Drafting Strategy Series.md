@@ -1,5 +1,5 @@
 Books included:
-- [[Drafting Strategy Vol 1]] - in [[Dormitory]]
+- [[Books/Drafting Strategy Vol 1]] - in [[Dormitory]]
 - [[Drafting Strategy Vol 2]] - in [[Drafting Studio]]
 - [[Drafting Strategy Vol 3]] - in [[Library]]
 - [[Drafting Strategy Vol 4]] - in [[Library]] (Purchased)
