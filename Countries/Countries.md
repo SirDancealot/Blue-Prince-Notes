@@ -7,7 +7,7 @@ aliases:
 - [[Arch Aries]] - Mountain solved
 - [[Verra Shores]] - cannon
 - [[Mora Jai]] - igloo
-- [[Eraja]] - hourglass
+- [[Eraja]] - hourglass Solved
 - [[Nuance]] - Diamond solved
 - [[Corarica]] - heart
 
