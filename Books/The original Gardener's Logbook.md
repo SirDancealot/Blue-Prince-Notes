@@ -3,4 +3,7 @@
 ![[Pasted image 20250504212505.png]]
 ![[Pasted image 20250504212628.png]]
 ![[Pasted image 20250504212818.png]]
+One of the [[Outer Rooms]] has a fake wall to be broken with [[Power Hammer]] [[TODO]]
 ![[Pasted image 20250504212952.png]]
+![[Pasted image 20250504213215.png]]
+![[Pasted image 20250504213259.png]]
