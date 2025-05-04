@@ -2,7 +2,7 @@
 [[Transport]]: 5-lines, turtleback
 [[Weather]]: Heat? wavy line
 [[Mote]]: ?
-[[Border]]: Orange/triangles
+[[Color]]: Orange/triangles
 
 The [[Countries|Country]] of Verra Shores ?
 

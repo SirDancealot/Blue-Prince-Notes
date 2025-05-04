@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Tunnel.md",
+                "file": "Countries/Verra Shores.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tunnel"
+              "title": "Verra Shores"
             }
           }
         ],
@@ -241,6 +241,9 @@
   },
   "active": "5a9cb2a7bc4e7a59",
   "lastOpenFiles": [
+    "Border.md",
+    "Countries/Verra Shores.md",
+    "Blueprints/Rooms/Misc/Tunnel.md",
     "Items/Power Hammer.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Countries/Countries.md",
@@ -275,9 +278,6 @@
     "Countries/Arch Aries.md",
     "Areas/Underground/Safehouse.md",
     "Dates/Dates.md",
-    "Blueprints/Rooms/Numbered/Mail Room.md",
-    "Images/Mail room letters/MR L16.md",
-    "Images/Mail room letters/MR L17.md",
     "Images/Books/Drafting Strategy Vol 5",
     "Images/Books/Drafting strategy Vol 4",
     "Misc info",
