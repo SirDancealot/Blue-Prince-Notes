@@ -3,7 +3,7 @@ The [[Countries|Country]] of Corarica: Might be the same as [[Verra Shores]]
 [[Core]]: heart
 [[Transport]]: Probably horseback, 4 lines 2 horizontal, and two diagonal down
 [[Weather]]: Snow, a dotted line
-[[Mote]]: ?
+[[Mote]]: Academic, 3 vertical bars
 [[Color]]: White or pink
 
 Stamp found in [[Mail Room]]
