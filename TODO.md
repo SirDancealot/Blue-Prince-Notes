@@ -1,6 +1,7 @@
 - Remaining [[Puzzles]]
+- Figure out how to open the cursed box in the [[Shrine]]
 - Read [[The Curse of Black Bridge]]
 - More with [[Chamber of Mirrors]]
 - Try connecting [[Power]] from [[Boiler Room]] to [[The Foundation]]
 - figure out 4-letter/number password for lock behind red door in [[The Underpass]] 
-- Complete the Circuit in [[Blackbridge Grotto]]
+- Complete the Circuit in [[Blackbridge Grotto]]/[[Apl]]

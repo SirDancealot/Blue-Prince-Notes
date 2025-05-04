@@ -4,3 +4,5 @@ If you take your money back you get cursed with:
 - Draft [[Green Rooms]] = loose 1 [[Gem]]
 - Draft [[Shops]] = loose 1 [[Gold]]
 - Draft [[Red Rooms]] = all of above
+
+A cursed box could be purchased in [[Mount Holly Gift Shop]] which requires some unknown key
