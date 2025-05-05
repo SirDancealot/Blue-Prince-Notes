@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Angel/Angel.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Angel"
+              "title": "TODO"
             }
           }
         ]
@@ -192,6 +192,9 @@
   },
   "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
+    "Books/The original Gardener's Logbook.md",
+    "TODO.md",
+    "Puzzles/Angel/Angel.md",
     "Dates/Dates.md",
     "Areas/Outside/Apple Orchard.md",
     "Office Mail.md",
@@ -217,9 +220,7 @@
     "Books/Drafting Strategy Vol 1.md",
     "Images/Misc/Family tree.png",
     "Misc info/language.md",
-    "TODO.md",
     "Images/Books/Original Gardener's Logbook/Pasted image 20250504212340.png",
-    "Books/The original Gardener's Logbook.md",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/Original Gardener's Logbook/Pasted image 20250504213259.png",
     "Books/Books.md",
@@ -229,7 +230,6 @@
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Blueprints/Rooms/Shops/Casino.md",
-    "Puzzles/Math.md",
     "Images/Books/A Sightseer's Guide to Reddington",
     "Images/Books/Drafting Strategy Vol 1",
     "Images/The Exam",
