@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Outside/Blackbridge Grotto.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blackbridge Grotto"
+              "title": "TODO"
             }
           }
         ]
@@ -190,11 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
+    "Areas/Outside/Blackbridge Grotto.md",
     "Images/Misc/Pasted image 20250505231519.png",
     "Images/Misc/Pasted image 20250505204842.png",
-    "Areas/Outside/Blackbridge Grotto.md",
     "TODO.md",
     "Blueprints/Rooms/Numbered/Security.md",
     "Puzzles/Chess/Chess.md",
@@ -226,7 +226,6 @@
     "Books/Drafting Strategy Vol 2.md",
     "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215940.png",
     "Blueprints/Rooms/Numbered/Freezer.md",
-    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215632.png",
     "Misc info/Drafting.md",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
