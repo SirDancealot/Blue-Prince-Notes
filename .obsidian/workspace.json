@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Areas/Outside/Blackbridge Grotto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Blackbridge Grotto"
             }
           }
         ]
@@ -190,14 +190,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f1611b8525e0dc6",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
+    "Images/Misc/Pasted image 20250505231519.png",
+    "Images/Misc/Pasted image 20250505204842.png",
+    "Areas/Outside/Blackbridge Grotto.md",
+    "TODO.md",
     "Blueprints/Rooms/Numbered/Security.md",
     "Puzzles/Chess/Chess.md",
     "Puzzles/Angel/Angel.md",
     "Puzzles/Angel/Death.md",
     "Areas/Underground/Underground.md",
-    "Pasted image 20250505204842.png",
     "Images/Misc/Train Map.png",
     "Images/Misc/Underground map.png",
     "Images/Misc/Pasted image 20250504165018.png",
@@ -206,7 +209,6 @@
     "Blueprints/Rooms/Green Rooms/Greenhouse.md",
     "Images/Misc/Family tree.png",
     "Misc info/language.md",
-    "TODO.md",
     "Countries/Countries.md",
     "Blueprints/Rooms/Shops/Mount Holly Gift Shop.md",
     "Office Mail.md",
@@ -226,9 +228,7 @@
     "Blueprints/Rooms/Numbered/Freezer.md",
     "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215632.png",
     "Misc info/Drafting.md",
-    "Countries/Corarica.md",
     "Images/Books/Drafting Strategy Vol 2",
-    "Books/Drafting Strategy Series.md",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",
     "Images/Books/Drafting Strategy Vol 1",
