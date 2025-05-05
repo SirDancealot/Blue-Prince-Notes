@@ -102,6 +102,7 @@ Numbered rooms (in order):
 - [[Dovecote]]
 - [[Casino]]
 - [[Dormitory]]
+- [[The Kennel]]
 
 Found floorplans
 - [[Mechanarium]]

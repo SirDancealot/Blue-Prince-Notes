@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Blueprints/Blueprint list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Blueprint list"
+            }
+          },
+          {
+            "id": "eb87d7c4eb4fb413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints/Rooms/Misc/The Kennel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Kennel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,13 +215,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f1611b8525e0dc6",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
+    "Images/Misc/Pasted image 20250506013701.png",
+    "Blueprints/Rooms/Misc/The Kennel.md",
+    "Blueprints/Blueprint list.md",
+    "Blueprints/Rooms/Shops/Laundry Room.md",
+    "TODO.md",
     "Images/Misc/Pasted image 20250506000602.png",
     "Items/Gear Wrench.md",
     "Items/Items.md",
     "Blueprints/Rooms/Outer Rooms/Trading Post.md",
-    "TODO.md",
     "Blueprints/Rooms/Outer Rooms/Shelter.md",
     "Blueprints/Rooms/Numbered/Library.md",
     "Books/The History of Orindia.md",
@@ -222,9 +251,6 @@
     "Blueprints/Rooms/Misc/Mechanarium.md",
     "Dates/Dates.md",
     "Areas/Outside/Apple Orchard.md",
-    "Terminal/Mail/Mail.md",
-    "Blueprints/Rooms/Numbered/Utility Closet.md",
-    "Puzzles/Puzzles.md",
     "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504220047.png",
     "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504214946.png",
     "Images/Books/Drafting Strategy Vol 2",
