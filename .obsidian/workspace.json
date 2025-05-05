@@ -11,24 +11,12 @@
             "id": "1f1611b8525e0dc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Library.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Images/Misc/Pasted image 20250506000602.png"
               },
-              "icon": "lucide-file",
-              "title": "Library"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250506000602"
             }
           }
         ]
@@ -190,11 +178,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f1611b8525e0dc6",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
-    "Books/The History of Orindia.md",
-    "Blueprints/Rooms/Numbered/Library.md",
+    "Items/Gear Wrench.md",
+    "Items/Items.md",
+    "Blueprints/Rooms/Outer Rooms/Trading Post.md",
     "TODO.md",
+    "Blueprints/Rooms/Outer Rooms/Shelter.md",
+    "Images/Misc/Pasted image 20250506000602.png",
+    "Blueprints/Rooms/Numbered/Library.md",
+    "Books/The History of Orindia.md",
     "Areas/Outside/Blackbridge Grotto.md",
     "Images/Misc/Pasted image 20250505231519.png",
     "Images/Misc/Pasted image 20250505204842.png",
@@ -221,13 +214,8 @@
     "Blueprints/Rooms/Numbered/Utility Closet.md",
     "Puzzles/Puzzles.md",
     "Blueprints/Rooms/Numbered/Mail Room.md",
-    "Images/Mail room letters/MR L10.md",
-    "Books/Realm & Rune.md",
     "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504220047.png",
     "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504214946.png",
-    "Books/Drafting Strategy Vol 2.md",
-    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215940.png",
-    "Blueprints/Rooms/Numbered/Freezer.md",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",

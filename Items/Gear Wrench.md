@@ -1,0 +1,1 @@
+When [[Drafting]] a Gear-room its rarity can be permanently adjusted
