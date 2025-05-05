@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "deab6343defbf8df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "3b4d00b62a11b45d",
             "type": "leaf",
             "state": {
@@ -91,8 +67,7 @@
               "title": "Pasted image 20250428224154"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,10 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "deab6343defbf8df",
+  "active": "7050fc773d531c08",
   "lastOpenFiles": [
-    "Terminal/Terminal.md",
     "conflict-files-obsidian-git.md",
+    "Terminal/Terminal.md",
     "Blackbridge grotto.md",
     "Books/A New Clue.md",
     "Areas/Underground/Safehouse.md",
