@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63ee774466c8790e",
+        "id": "4f9d3b68782e2c7e",
         "type": "tabs",
         "children": [
           {
-            "id": "7050fc773d531c08",
+            "id": "1f1611b8525e0dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/Terminal.md",
+                "file": "Puzzles/Angel/Angel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,71 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Terminal"
-            }
-          },
-          {
-            "id": "ad9073219e29dda6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "3b4d00b62a11b45d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428225014.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428225014"
-            }
-          },
-          {
-            "id": "beb24417cd99ea51",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428224027.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428224027"
-            }
-          },
-          {
-            "id": "8d8e43ef129fc4b4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428224154.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428224154"
+              "title": "Angel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,12 +167,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -251,54 +190,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad9073219e29dda6",
+  "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
-    "Terminal/Terminal.md",
-    "conflict-files-obsidian-git.md",
-    "Puzzles/Exam.md",
-    "Puzzles/Angel/Death.md",
-    "Puzzles/Angel/Chimney Sweeper angel.md",
+    "Dates/Dates.md",
+    "Areas/Outside/Apple Orchard.md",
     "Office Mail.md",
-    "Misc info/Power.md",
-    "Misc info/Memos.md",
-    "Misc info/language.md",
-    "Misc info/Drafting.md",
-    "Misc info/6th grade.md",
-    "Misc info",
-    "Items/Jack Hammer.md",
-    "Images/The Exam/Pasted image 20250504013041.png",
-    "Images/The Exam/Pasted image 20250504013048.png",
-    "Images/The Exam/Pasted image 20250504013028.png",
-    "Images/The Exam/Pasted image 20250504013034.png",
-    "Images/The Exam/Pasted image 20250504013018.png",
-    "Images/The Exam/Pasted image 20250504012959.png",
-    "Images/The Exam/Pasted image 20250504013011.png",
-    "Images/The Exam/Pasted image 20250504012943.png",
-    "Images/The Exam/Pasted image 20250504012930.png",
-    "Images/The Exam/Pasted image 20250504012950.png",
-    "Images/The Exam",
-    "Images/Mail room letters/MR L17.md",
-    "Images/Mail room letters/MR L16.md",
-    "Images/Mail room letters/MR L15.md",
-    "Images/Mail room letters/MR L14.md",
-    "Images/Books/The Red Prince",
-    "Images/Books/The Curse of Black Bridge",
-    "Images/Books/Original Gardener's Logbook",
-    "Images/Books/Drafting strategy Vol 4",
-    "Images/Books/Drafting Strategy Vol 5",
-    "Images/Books/Drafting Strategy Vol 2",
-    "Images/Books/Drafting Strategy Vol 1",
-    "Images/Books/A Sightseer's Guide to Reddington",
-    "Books/The original Gardener's Logbook.md",
-    "Books/The Curse of Black Bridge.md",
-    "Books/Drafting Strategy Vol 5.md",
-    "Books/Drafting Strategy Vol 4.md",
+    "Terminal/Mail/Mail.md",
+    "Blueprints/Rooms/Numbered/Utility Closet.md",
+    "Puzzles/Puzzles.md",
+    "Blueprints/Rooms/Numbered/Mail Room.md",
+    "Images/Mail room letters/MR L10.md",
+    "Books/Realm & Rune.md",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504220047.png",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504214946.png",
     "Books/Drafting Strategy Vol 2.md",
-    "Books/Drafting Strategy Vol 1.md",
-    "Books/A Sightseer's Guide to Reddington.md",
-    "Blueprints/Rooms/Shops/Casino.md",
-    "Blueprints/Rooms/Numbered/Room 46.md",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215940.png",
     "Blueprints/Rooms/Numbered/Freezer.md",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215632.png",
+    "Misc info/Drafting.md",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215430.png",
+    "Countries/Corarica.md",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215128.png",
+    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215007.png",
+    "Images/Books/Drafting Strategy Vol 2",
+    "Books/Drafting Strategy Series.md",
+    "Books/Drafting Strategy Vol 1.md",
+    "Images/Misc/Family tree.png",
+    "Misc info/language.md",
+    "TODO.md",
+    "Images/Books/Original Gardener's Logbook/Pasted image 20250504212340.png",
+    "Books/The original Gardener's Logbook.md",
+    "Images/Books/Original Gardener's Logbook",
+    "Images/Books/Original Gardener's Logbook/Pasted image 20250504213259.png",
+    "Books/Books.md",
+    "Blueprints/Rooms/Numbered/Workshop.md",
+    "Items/Detector Shovel.md",
+    "Blueprints/Blueprint list.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
+    "Blueprints/Rooms/Shops/Casino.md",
+    "Puzzles/Math.md",
+    "Images/Books/A Sightseer's Guide to Reddington",
+    "Images/Books/Drafting Strategy Vol 1",
+    "Images/The Exam",
+    "Images/Books/Drafting Strategy Vol 5",
+    "Images/Books/Drafting strategy Vol 4",
+    "Misc info",
+    "Images/Books/The Curse of Black Bridge",
+    "Images/Books/The Red Prince",
     "Untitled.canvas"
   ]
 }
