@@ -5,11 +5,16 @@ Has a collection of all [[Stamps]] in the scrapbook on the upper floor
 
 ### Books Within [[Library]]:
 - [[A Sightseer's Guide to Reddington]]
-- [[Pump System User Manual]]
-- [[The Fixed Stars]] also found in [[Observatory]]
+- [[Swim Bird]]
+- Non FE History of Orindia
+- [[The History of Orindia|The History of Orindia First Edition]]
 - [[The Curse of Black Bridge]]
 - [[Realm & Rune]] also old version with missing pages found in [[The Precipice]]
-- [[The History of Orindia]]
+
+
+- [[The Fixed Stars]] also found in [[Observatory]]
+- [[Pump System User Manual]]
 - [[Drafting Strategy Vol 3]]
 - [[Drafting Strategy Vol 4]]
 - [[Drafting Strategy Vol 5]]
+- [[A New Clue]]

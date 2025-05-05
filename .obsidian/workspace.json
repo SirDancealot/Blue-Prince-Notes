@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Blueprints/Rooms/Numbered/Library.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Library"
             }
           }
         ]
@@ -192,10 +192,12 @@
   },
   "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
+    "Books/The History of Orindia.md",
+    "Blueprints/Rooms/Numbered/Library.md",
+    "TODO.md",
     "Areas/Outside/Blackbridge Grotto.md",
     "Images/Misc/Pasted image 20250505231519.png",
     "Images/Misc/Pasted image 20250505204842.png",
-    "TODO.md",
     "Blueprints/Rooms/Numbered/Security.md",
     "Puzzles/Chess/Chess.md",
     "Puzzles/Angel/Angel.md",
@@ -226,7 +228,6 @@
     "Books/Drafting Strategy Vol 2.md",
     "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215940.png",
     "Blueprints/Rooms/Numbered/Freezer.md",
-    "Misc info/Drafting.md",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",
