@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mount Holly Gift Shop.md",
+                "file": "Misc info/language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mount Holly Gift Shop"
+              "title": "language"
             }
           }
         ]
@@ -192,9 +192,10 @@
   },
   "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
-    "Office Mail.md",
-    "Mount Holly Gift Shop.md",
     "TODO.md",
+    "Countries/Countries.md",
+    "Blueprints/Rooms/Shops/Mount Holly Gift Shop.md",
+    "Office Mail.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
     "Books/The original Gardener's Logbook.md",
     "Puzzles/Angel/Angel.md",
@@ -229,7 +230,6 @@
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Items/Detector Shovel.md",
     "Blueprints/Blueprint list.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
     "Images/Books/A Sightseer's Guide to Reddington",
     "Images/Books/Drafting Strategy Vol 1",
     "Images/The Exam",

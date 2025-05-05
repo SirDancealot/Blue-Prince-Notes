@@ -7,4 +7,5 @@
 - Complete the Circuit in [[Blackbridge Grotto]]/[[Apple Orchard]]
 - Open the sealed wall in [[Root Cellar]] as hinted in [[The original Gardener's Logbook]]
 - Try to light fuse on dynamite in [[Trading Post]]?
-- Purchase [[Blue Tents]] from the [[Mount Holly Gift Shop]]
+- Purchase [[Blue Tents]] from the [[Mount Holly Gift Shop]] for 400 [[Gold]]
+- Unlock the Diary in [[Her Ladyship's Chamber]]
