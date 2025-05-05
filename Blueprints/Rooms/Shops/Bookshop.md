@@ -1,5 +1,5 @@
 Available books for purchase: 
-- [[History of Orindia FE]] - Purchased
+- [[The History of Orindia]] first edition - Purchased
 - [[A New Clue]] - Purchased
 - [[The Curse of Black Bridge]] - Purchased
 - [[Realm & Rune]] - Purchased

@@ -1,6 +1,6 @@
 The [[Countries|Country]] of Eraja
 [[Core]]: Hourglass
-[[Color]]: Pink? probably violet Purple according to [[Classroom]], connected line turning 90 degrees
+[[Color]]: violet
 [[Transport]]: Train
 [[Weather]]: Rain, 3 lines pr line
 [[Mote]]: Poetic

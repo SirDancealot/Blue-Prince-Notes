@@ -1,0 +1,22 @@
+Grades for the exam
+![[Pasted image 20250504013600.png]]
+Luckily A- is good enough for the [[Trophy Room|Trophy]]
+
+My latest answers to the final exam
+![[Pasted image 20250504012836.png]]
+![[Pasted image 20250504012844.png]]
+![[Pasted image 20250504012851.png]]
+![[Pasted image 20250504012859.png]]
+![[Pasted image 20250504012909.png]]
+![[Pasted image 20250504012917.png]]
+![[Pasted image 20250504012924.png]]
+![[Pasted image 20250504012930.png]]
+![[Pasted image 20250504012943.png]]
+![[Pasted image 20250504012950.png]]
+![[Pasted image 20250504012959.png]]
+![[Pasted image 20250504013011.png]]
+![[Pasted image 20250504013018.png]]
+![[Pasted image 20250504013028.png]]
+![[Pasted image 20250504013034.png]]
+![[Pasted image 20250504013041.png]]
+![[Pasted image 20250504013048.png]]

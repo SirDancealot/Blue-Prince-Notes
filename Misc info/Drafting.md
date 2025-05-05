@@ -12,3 +12,6 @@ East wing only:
 Other Special cases:
 - [[Conservatory]] - Only in a corner
 - [[Bookshop]] - Only draftable from [[Library]]
+
+
+Drafting from a door that is powered by the [[Boiler Room]] increases the chance of getting a room that has steam ducts

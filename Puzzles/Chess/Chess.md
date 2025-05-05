@@ -17,6 +17,7 @@ Rooms with [[Pawn]]:
 - [[Storeroom]]
 - [[Secret Passage]]
 - [[Walk-in Closet]]
+- [[Freezer]]
 Rooms with [[Knight]]:
 - [[Observatory]]
 Rooms with [[Bishop]]:

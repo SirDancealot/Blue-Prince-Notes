@@ -19,3 +19,7 @@ pattering steps of children running in the forrest
 the joyful echoes of laughter in the courtyard
 i see an old man sitting in an even older chair - painting room -  is simon/me
 all the old people sitting the same chair
+
+5th fortune:
+knight angle statue in courtyard of sentinel stone
+quarter past 12? waiting somewhere

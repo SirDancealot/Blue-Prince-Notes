@@ -1,13 +1,13 @@
 - [[Node sheets]] [[Decryption]] - Solved
 - [[Gas Valve]] - Solved
 - [[Tomb]] door/[[Angel]] - Solved
-- [[Laboratory]] lever puzzle
-- [[Chess]]
+- [[Laboratory]] - Solved
+- [[Chess]] - Solved
 - [[Billiard Room|Billiard Room]]/[[Math]] - Solved ish
 - [[Parlor|Parlor/Logic]] - Solved ish
-- [[Gallery]]
+- [[Gallery]] - Solved
 - [[Paintings]] - Solved
 - [[Red Letters]]
-- [[Classroom]]
+- [[Classroom]] - Solved
 - [[Sigil Doors]]
 - [[Mora Jai Box]]

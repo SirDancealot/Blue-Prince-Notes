@@ -99,12 +99,16 @@ Numbered rooms (in order):
 - [[Clock Tower]]
 - [[Classroom]]
 - [[Solarium]]
+- [[Dovecote]]
+- [[Casino]]
+- [[Dormitory]]
 
 Found floorplans
 - [[Mechanarium]]
 - [[Conservatory]]
 - [[Closed Exhibit]]
 - [[Planetarium]]
+- [[Tunnel]]
 
 [[Outer Rooms]]
 - [[Toolshed]]

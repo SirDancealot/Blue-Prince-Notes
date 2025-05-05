@@ -2,11 +2,11 @@ There is a LOT in this book, i must have a closer look with magnefying glass
 
 Clue found on 3rd page:
 "all checked corner case rooms had a low case clue found in the rooms"
-checked corner case rooms are: [[TODO]]
-- patio
-- nook
-- office
-- pantry
+checked corner case rooms are: (had the "large" microchip)
+- patio - buried
+- nook - beside
+- office - west
+- pantry - bridge
 
 Signs:
 - Route 8
@@ -28,9 +28,9 @@ Book annagrams:
 - Violet: Uncle Awe -> A new Clue
 - Blue: Draft the Sixes -> The Fixed Stars
 
-[[The Red Prince]] page 10 word 8: 
-[[Realm & Rune]] page 13 word 10: scorched?
-[[A New Clue]] page 1 word 7: sundial?
+[[The Red Prince]] page 10 word 8: turn
+[[Realm & Rune]] page 13 word 10: scorched
+[[A New Clue]] page 1 word 7: sundial
 [[The Fixed Stars]] page 3 word 8: Base
 
 Released after author [[Mary Epsen|Marionn Marigold]]s disappearance

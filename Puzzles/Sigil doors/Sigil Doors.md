@@ -20,7 +20,7 @@ Source: [[Basement Key locations.png]]
 Location guesses:
 1. Found: in room 46
 2. Guess: In some specific [[Vault]] box
-3. Guess: [[Clock Tower]]
+3. Found: [[Clock Tower]] at 1:30 a secret room opens
 4. Found: Remove water from [[Underground]] Resevoir with help from [[Power]]d [[Pump Room]]
 5. ?
 6. Found: Past the boat ride in the [[Underground]] resevoir

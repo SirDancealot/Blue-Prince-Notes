@@ -10,6 +10,7 @@ Found in:
 Color mechanics:
 - White = swap all colors in a + pattern
 - Yellow = swap with tile above
+- Violet = swap with tile bellow
 - Green = jump to opposite edge
 - Black = move entire row to the right
 - Orange = copy the tile arround it with the biggest amount present
@@ -19,3 +20,4 @@ Color mechanics:
 ![[Pasted image 20250428032806.png]]
 ![[Pasted image 20250428215920.png]]
 ![[Pasted image 20250428221652.png]]
+![[Pasted image 20250504023909.png]]
