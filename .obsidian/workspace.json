@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/language.md",
+                "file": "Blueprints/Rooms/Numbered/Security.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "language"
+              "title": "Security"
             }
           }
         ]
@@ -192,13 +192,24 @@
   },
   "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
+    "Puzzles/Chess/Chess.md",
+    "Puzzles/Angel/Angel.md",
+    "Puzzles/Angel/Death.md",
+    "Areas/Underground/Underground.md",
+    "Pasted image 20250505204842.png",
+    "Images/Misc/Train Map.png",
+    "Images/Misc/Underground map.png",
+    "Images/Misc/Pasted image 20250504165018.png",
+    "Images/Misc/Pasted image 20250504165049.png",
+    "Books/The original Gardener's Logbook.md",
+    "Blueprints/Rooms/Green Rooms/Greenhouse.md",
+    "Images/Misc/Family tree.png",
+    "Misc info/language.md",
     "TODO.md",
     "Countries/Countries.md",
     "Blueprints/Rooms/Shops/Mount Holly Gift Shop.md",
     "Office Mail.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
-    "Books/The original Gardener's Logbook.md",
-    "Puzzles/Angel/Angel.md",
     "Dates/Dates.md",
     "Areas/Outside/Apple Orchard.md",
     "Terminal/Mail/Mail.md",
@@ -214,22 +225,11 @@
     "Blueprints/Rooms/Numbered/Freezer.md",
     "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215632.png",
     "Misc info/Drafting.md",
-    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215430.png",
     "Countries/Corarica.md",
-    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215128.png",
-    "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504215007.png",
     "Images/Books/Drafting Strategy Vol 2",
     "Books/Drafting Strategy Series.md",
     "Books/Drafting Strategy Vol 1.md",
-    "Images/Misc/Family tree.png",
-    "Misc info/language.md",
-    "Images/Books/Original Gardener's Logbook/Pasted image 20250504212340.png",
     "Images/Books/Original Gardener's Logbook",
-    "Images/Books/Original Gardener's Logbook/Pasted image 20250504213259.png",
-    "Books/Books.md",
-    "Blueprints/Rooms/Numbered/Workshop.md",
-    "Items/Detector Shovel.md",
-    "Blueprints/Blueprint list.md",
     "Images/Books/A Sightseer's Guide to Reddington",
     "Images/Books/Drafting Strategy Vol 1",
     "Images/The Exam",

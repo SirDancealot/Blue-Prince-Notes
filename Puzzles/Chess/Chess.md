@@ -20,6 +20,7 @@ Rooms with [[Pawn]]:
 - [[Freezer]]
 Rooms with [[Knight]]:
 - [[Observatory]]
+- [[Security]]
 Rooms with [[Bishop]]:
 - [[Chapel]]
 - [[Rumpus Room]]

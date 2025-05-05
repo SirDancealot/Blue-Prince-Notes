@@ -1,4 +1,5 @@
 Has a [[Terminal]]
+Contains the [[Chess]] piece [[Knight]]
 
 Gives information about [[Memos]]
 
