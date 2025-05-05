@@ -9,3 +9,4 @@
 - Try to light fuse on dynamite in [[Trading Post]]?
 - Purchase [[Blue Tents]] from the [[Mount Holly Gift Shop]] for 400 [[Gold]]
 - Unlock the Diary in [[Her Ladyship's Chamber]]
+- Trigger a lot of experiments from the [[Laboratory]], then visit shelter-terminal to look at radiation levels

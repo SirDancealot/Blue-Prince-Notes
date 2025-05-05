@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Security.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Security"
+              "title": "TODO"
             }
           }
         ]
@@ -192,6 +192,7 @@
   },
   "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Security.md",
     "Puzzles/Chess/Chess.md",
     "Puzzles/Angel/Angel.md",
     "Puzzles/Angel/Death.md",
@@ -228,7 +229,6 @@
     "Countries/Corarica.md",
     "Images/Books/Drafting Strategy Vol 2",
     "Books/Drafting Strategy Series.md",
-    "Books/Drafting Strategy Vol 1.md",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",
     "Images/Books/Drafting Strategy Vol 1",
