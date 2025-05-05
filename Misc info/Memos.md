@@ -1,3 +1,7 @@
+Rank 8, blue tent memos:
+- 
+
+
 Sanctum key was in black moon
 [[Allowance]] tokens (3) were in white sun
 Resevoir memo puzzle:
