@@ -11,12 +11,24 @@
             "id": "1f1611b8525e0dc6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Misc/Pasted image 20250506000602.png"
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250506000602"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ]
@@ -178,14 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
+    "Images/Misc/Pasted image 20250506000602.png",
     "Items/Gear Wrench.md",
     "Items/Items.md",
     "Blueprints/Rooms/Outer Rooms/Trading Post.md",
     "TODO.md",
     "Blueprints/Rooms/Outer Rooms/Shelter.md",
-    "Images/Misc/Pasted image 20250506000602.png",
     "Blueprints/Rooms/Numbered/Library.md",
     "Books/The History of Orindia.md",
     "Areas/Outside/Blackbridge Grotto.md",
@@ -213,7 +225,6 @@
     "Terminal/Mail/Mail.md",
     "Blueprints/Rooms/Numbered/Utility Closet.md",
     "Puzzles/Puzzles.md",
-    "Blueprints/Rooms/Numbered/Mail Room.md",
     "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504220047.png",
     "Images/Books/Drafting Strategy Vol 2/Pasted image 20250504214946.png",
     "Images/Books/Drafting Strategy Vol 2",

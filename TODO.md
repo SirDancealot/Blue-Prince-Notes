@@ -5,6 +5,4 @@
 - Try connecting [[Power]] from [[Boiler Room]] to [[The Foundation]]
 - figure out 4-letter/number password for lock behind red door in [[The Underpass]] 
 - Complete the Circuit in [[Blackbridge Grotto]]/[[Apple Orchard]]
-- Purchase [[Blue Tents]] from the [[Mount Holly Gift Shop]] for 400 [[Gold]]
 - Unlock the Diary in [[Her Ladyship's Chamber]]
-- Trigger a lot of experiments from the [[Laboratory]], then visit shelter-terminal to look at radiation levels
