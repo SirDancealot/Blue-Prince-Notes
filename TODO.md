@@ -1,4 +1,5 @@
 - Remaining [[Puzzles]]
+- Find all the [[Blue Tents]] [[Memos]]
 - Figure out what to do with the cursed idol in the cursed box in [[Shrine]] (opened with [[Sledge Hammer]] or [[Morning Star]])
 - Read [[The Curse of Black Bridge]]
 - More with [[Chamber of Mirrors]]
