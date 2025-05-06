@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "b07443966f9633eb",
+            "id": "3b4d00b62a11b45d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Countries/Corarica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,19 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "3b4d00b62a11b45d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428225014.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428225014"
+              "title": "Corarica"
             }
           },
           {
@@ -91,8 +79,7 @@
               "title": "Pasted image 20250428224154"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,8 +238,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b07443966f9633eb",
+  "active": "7050fc773d531c08",
   "lastOpenFiles": [
+    "Countries/Corarica.md",
+    "Images/Books/A New Clue/Pasted image 20250428225014.png",
     "Puzzles/Exam.md",
     "conflict-files-obsidian-git.md",
     "Items/Gear Wrench.md",
@@ -282,14 +271,12 @@
     "Puzzles/Angel/Death.md",
     "Puzzles/Angel/Chimney Sweeper angel.md",
     "Office Mail.md",
-    "Misc info/Power.md",
     "Misc info",
     "Images/The Exam/Pasted image 20250504013041.png",
     "Images/The Exam/Pasted image 20250504013048.png",
     "Images/The Exam/Pasted image 20250504013028.png",
     "Images/The Exam/Pasted image 20250504013034.png",
     "Images/The Exam/Pasted image 20250504013018.png",
-    "Images/The Exam/Pasted image 20250504012959.png",
     "Images/The Exam",
     "Images/Books/The Red Prince",
     "Images/Books/The Curse of Black Bridge",
