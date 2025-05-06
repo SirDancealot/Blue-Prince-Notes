@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Exam.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exam"
+              "title": "TODO"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Corarica.md",
+                "file": "Blueprints/Rooms/Numbered/Room 8.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,19 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Corarica"
+              "title": "Room 8"
             }
           },
           {
             "id": "beb24417cd99ea51",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428224027.png"
+                "file": "Puzzles/Sigil doors/Sigil Doors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428224027"
+              "icon": "lucide-file",
+              "title": "Sigil Doors"
             }
           },
           {
@@ -79,7 +91,8 @@
               "title": "Pasted image 20250428224154"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,45 +251,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7050fc773d531c08",
+  "active": "beb24417cd99ea51",
   "lastOpenFiles": [
+    "TODO.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Blueprints/Rooms/Numbered/Room 8.md",
+    "Blueprints/Blueprint list.md",
+    "Images/Books/A New Clue/Pasted image 20250428224027.png",
+    "Blueprints/Rooms/Shops/Mount Holly Gift Shop.md",
+    "Misc info/Memos.md",
+    "Blueprints/Rooms/Shops/Casino.md",
     "Countries/Corarica.md",
-    "Images/Books/A New Clue/Pasted image 20250428225014.png",
+    "Areas/Underground/Underground.md",
+    "Puzzles/Angel/Angel.md",
+    "Books/A New Clue.md",
+    "Misc info/language.md",
     "Puzzles/Exam.md",
+    "Images/Books/A New Clue/Pasted image 20250428225014.png",
     "conflict-files-obsidian-git.md",
     "Items/Gear Wrench.md",
     "Images/Misc/Pasted image 20250506013701.png",
     "Images/Misc/Pasted image 20250506000602.png",
     "Images/Misc/Pasted image 20250505231519.png",
     "Images/Misc/Pasted image 20250505204842.png",
-    "Blueprints/Rooms/Shops/Mount Holly Gift Shop.md",
     "Blueprints/Rooms/Outer Rooms/Trading Post.md",
     "Blueprints/Rooms/Misc/The Kennel.md",
     "Areas/Outside/Blackbridge Grotto.md",
-    "Books/A New Clue.md",
     "Books/Drafting Strategy Vol 5.md",
     "Books/Drafting Strategy Vol 4.md",
     "Books/The Curse of Black Bridge.md",
     "Puzzles/Sigil doors/Sigils.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
     "Puzzles/Sigil doors/Behind the doors.md",
     "Puzzles/Nodes/Node sheets.md",
     "Puzzles/Puzzles.md",
     "Terminal/Terminal.md",
-    "Blueprints/Rooms/Green Rooms/Secret Garden.md",
-    "Items/Power Hammer.md",
-    "Blueprints/Rooms/Numbered/Workshop.md",
-    "Items/Jack Hammer.md",
-    "Books/Drafting Strategy Vol 1.md",
-    "Puzzles/Angel/Death.md",
-    "Puzzles/Angel/Chimney Sweeper angel.md",
-    "Office Mail.md",
     "Misc info",
     "Images/The Exam/Pasted image 20250504013041.png",
     "Images/The Exam/Pasted image 20250504013048.png",
     "Images/The Exam/Pasted image 20250504013028.png",
     "Images/The Exam/Pasted image 20250504013034.png",
-    "Images/The Exam/Pasted image 20250504013018.png",
     "Images/The Exam",
     "Images/Books/The Red Prince",
     "Images/Books/The Curse of Black Bridge",
