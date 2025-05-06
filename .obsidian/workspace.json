@@ -43,7 +43,8 @@
               "title": "TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,8 +203,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "eb87d7c4eb4fb413",
   "lastOpenFiles": [
+    "Puzzles/Red Letters/Red Letters.md",
+    "Puzzles/Red Letters/Red Letter 2.md",
+    "Blueprints/Rooms/Numbered/Study.md",
+    "Dates/Dates.md",
+    "TODO.md",
+    "Images/Books/Dare Bird/Pasted image 20250506193706.png",
     "Books/Swim Bird.md",
     "Images/Books/Dare Bird",
     "Images/Books/Dare Bird/Pasted image 20250506193853.png",
@@ -215,11 +222,9 @@
     "Images/Books/Dare Bird/Pasted image 20250506193802.png",
     "Images/Books/Dare Bird/Pasted image 20250506193753.png",
     "Images/Books/Dare Bird/Pasted image 20250506193732.png",
-    "Images/Books/Dare Bird/Pasted image 20250506193716.png",
     "Books/Drafting Strategy Vol 2.md",
     "Blueprints/Rooms/Numbered/Library.md",
     "Misc info/Memos.md",
-    "TODO.md",
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Misc/The Kennel.md",
     "Untitled.md",
@@ -237,9 +242,6 @@
     "Areas/Underground/Underground.md",
     "Books/The original Gardener's Logbook.md",
     "Blueprints/Rooms/Green Rooms/Greenhouse.md",
-    "Misc info/language.md",
-    "Countries/Countries.md",
-    "Blueprints/Rooms/Shops/Mount Holly Gift Shop.md",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",
