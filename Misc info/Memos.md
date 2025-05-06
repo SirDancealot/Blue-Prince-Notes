@@ -1,3 +1,8 @@
+Rank 8, blue tent memos:
+- [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]]
+- [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]]
+
+
 Sanctum key was in black moon
 [[Allowance]] tokens (3) were in white sun
 Resevoir memo puzzle:

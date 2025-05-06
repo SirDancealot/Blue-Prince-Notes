@@ -13,10 +13,10 @@ Numbered rooms (in order):
 12. [[Storeroom]]
 13. [[Nook|Reading Nook]]
 14. [[Garage]]
-15. [[Music Room]]
+15. [[Music Room]] - Memo found
 16. [[Locker Room]]
 17. [[Den]]
-18. [[Wine Cellar]]
+18. [[Wine Cellar]] - Memo found
 19. [[Trophy Room]]
 20. [[Ballroom]]
 21. [[Pantry]]
@@ -102,6 +102,7 @@ Numbered rooms (in order):
 - [[Dovecote]]
 - [[Casino]]
 - [[Dormitory]]
+- [[The Kennel]]
 
 Found floorplans
 - [[Mechanarium]]

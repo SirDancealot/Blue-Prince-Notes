@@ -1,8 +1,9 @@
 - Remaining [[Puzzles]]
-- Figure out how to open the cursed box in the [[Shrine]]
+- Find all the [[Blue Tents]] [[Memos]]
+- Figure out what to do with the cursed idol in the cursed box in [[Shrine]] (opened with [[Sledge Hammer]] or [[Morning Star]])
 - Read [[The Curse of Black Bridge]]
 - More with [[Chamber of Mirrors]]
 - Try connecting [[Power]] from [[Boiler Room]] to [[The Foundation]]
 - figure out 4-letter/number password for lock behind red door in [[The Underpass]] 
 - Complete the Circuit in [[Blackbridge Grotto]]/[[Apple Orchard]]
-- Open the sealed wall in [[Root Cellar]] as hinted in [[The original Gardener's Logbook]]
+- Unlock the Diary in [[Her Ladyship's Chamber]]
