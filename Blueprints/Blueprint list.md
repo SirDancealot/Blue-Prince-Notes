@@ -32,7 +32,7 @@ Numbered rooms (in order):
 31. [[Utility Closet]]
 32. [[Boiler Room]]
 33. [[Pump Room]]
-34. [[Security]]
+34. [[Security]] - Memo found
 35. [[Workshop]]
 36. [[Laboratory]]
 37. [[Sauna]]
@@ -40,7 +40,7 @@ Numbered rooms (in order):
 39. [[Mail Room]]
 40. [[Freezer]]
 41. [[Dining Room]]
-42. [[Observatory]]
+42. [[Observatory]] - Memo found
 43. [[Conference Room]]
 44. [[Aquarium]]
 45. [[Antechamber]]

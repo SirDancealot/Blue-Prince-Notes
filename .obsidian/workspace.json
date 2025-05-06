@@ -11,21 +11,9 @@
             "id": "1f1611b8525e0dc6",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/Dare Bird/Pasted image 20250506193706.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250506193706"
-            }
-          },
-          {
-            "id": "eb87d7c4eb4fb413",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Misc info/Memos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Memos"
+            }
+          },
+          {
+            "id": "eb87d7c4eb4fb413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc info/Memos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Memos"
             }
           }
         ],
@@ -205,12 +217,15 @@
   },
   "active": "eb87d7c4eb4fb413",
   "lastOpenFiles": [
+    "Blueprints/Blueprint list.md",
+    "Misc info/Memos.md",
+    "Images/Books/Dare Bird/Pasted image 20250506193706.png",
+    "Blueprints/Rooms/Numbered/Pump Room.md",
+    "TODO.md",
     "Puzzles/Red Letters/Red Letters.md",
     "Puzzles/Red Letters/Red Letter 2.md",
     "Blueprints/Rooms/Numbered/Study.md",
     "Dates/Dates.md",
-    "TODO.md",
-    "Images/Books/Dare Bird/Pasted image 20250506193706.png",
     "Books/Swim Bird.md",
     "Images/Books/Dare Bird",
     "Images/Books/Dare Bird/Pasted image 20250506193853.png",
@@ -224,8 +239,6 @@
     "Images/Books/Dare Bird/Pasted image 20250506193732.png",
     "Books/Drafting Strategy Vol 2.md",
     "Blueprints/Rooms/Numbered/Library.md",
-    "Misc info/Memos.md",
-    "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Misc/The Kennel.md",
     "Untitled.md",
     "Blueprints/Rooms/Shops/Laundry Room.md",
@@ -240,8 +253,6 @@
     "Puzzles/Angel/Angel.md",
     "Puzzles/Angel/Death.md",
     "Areas/Underground/Underground.md",
-    "Books/The original Gardener's Logbook.md",
-    "Blueprints/Rooms/Green Rooms/Greenhouse.md",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",
