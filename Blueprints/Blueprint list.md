@@ -14,7 +14,7 @@ Numbered rooms (in order):
 13. [[Nook|Reading Nook]]
 14. [[Garage]]
 15. [[Music Room]] - Memo found
-16. [[Locker Room]]
+16. [[Locker Room]] - Memo found
 17. [[Den]] - Memo found
 18. [[Wine Cellar]] - Memo found
 19. [[Trophy Room]]
@@ -36,7 +36,7 @@ Numbered rooms (in order):
 35. [[Workshop]]
 36. [[Laboratory]]
 37. [[Sauna]]
-38. [[Coat Check]]
+38. [[Coat Check]] - Memo found
 39. [[Mail Room]]
 40. [[Freezer]]
 41. [[Dining Room]] - Memo found

@@ -37,30 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/The Family/Mary Epsen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mary Epsen"
-            }
-          },
-          {
-            "id": "261a13bee859a49c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Blueprints/Blueprint list.md",
                 "mode": "source",
                 "source": false,
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "Blueprint list"
+            }
+          },
+          {
+            "id": "261a13bee859a49c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electromagnet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Electromagnet"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,11 +263,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65020642ef387803",
+  "active": "261a13bee859a49c",
   "lastOpenFiles": [
-    "People/Other People/Alzara.md",
+    "Blueprints/Rooms/Numbered/Workshop.md",
+    "Electromagnet.md",
+    "Items/Items.md",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
+    "People/Other People/Kirk Darren.md",
+    "People/The Family/Mary Epsen.md",
+    "TODO.md",
+    "Coat Check.md",
+    "People/Other People/Alzara.md",
     "Misc info/language.md",
     "Puzzles/Red Letters/Red Letters.md",
     "Puzzles/Red Letters/Red Letter 6.md",
@@ -275,7 +282,6 @@
     "Puzzles/Red Letters/Red Letter 7.md",
     "Puzzles/Red Letters/Red Letter 8.md",
     "Areas/Underground/The Underpass.md",
-    "People/The Family/Mary Epsen.md",
     "Areas/Underground/Safehouse.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Blueprints/Rooms/Red Rooms/Archives.md",
@@ -285,23 +291,17 @@
     "Images/Misc/Pasted image 20250507142128.png",
     "Images/Misc/Pasted image 20250507142118.png",
     "Blueprints/Rooms/Numbered/Library.md",
-    "TODO.md",
     "Books/The original Gardener's Logbook.md",
     "Areas/Underground/Abandoned mine.md",
     "Images/Books/Dare Bird/Pasted image 20250506193706.png",
     "Blueprints/Rooms/Numbered/Pump Room.md",
     "Blueprints/Rooms/Numbered/Study.md",
     "Dates/Dates.md",
-    "Books/Swim Bird.md",
     "Images/Books/Dare Bird",
     "Images/Books/Dare Bird/Pasted image 20250506193853.png",
     "Images/Books/Dare Bird/Pasted image 20250506193843.png",
     "Images/Books/Dare Bird/Pasted image 20250506193835.png",
     "Images/Books/Dare Bird/Pasted image 20250506193829.png",
-    "Books/Drafting Strategy Vol 2.md",
-    "Blueprints/Rooms/Misc/The Kennel.md",
-    "Untitled.md",
-    "Blueprints/Rooms/Shops/Laundry Room.md",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",

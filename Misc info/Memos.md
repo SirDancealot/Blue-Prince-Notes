@@ -9,6 +9,8 @@ Rank 8, blue tent memos:
 - [[Billiard Room]]: The bullseye operatrion can trigger multiple times
 - [[Dining Room]]: There are 10 different dishes that can be served in this room
 - [[Pantry]]: "There is a letter missing" (same as [[Alzara]], 8 red letters, you will only find 7?)
+- [[Coat Check]]: Is drawn slightly more often the day after checking a new item
+- [[Locker Room]]: the mome next to this is a lie (i.e. kirk darren is not a pseydonym)
 
 
 Sanctum key was in black moon
