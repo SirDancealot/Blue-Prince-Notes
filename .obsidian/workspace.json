@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Exam.md",
+                "file": "Puzzles/Angel/Angel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exam"
+              "title": "Angel"
             }
           },
           {
@@ -265,6 +265,7 @@
   },
   "active": "261a13bee859a49c",
   "lastOpenFiles": [
+    "Puzzles/Exam.md",
     "Terminal/Terminal.md",
     "Electromagnet.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
@@ -296,7 +297,6 @@
     "Areas/Underground/Abandoned mine.md",
     "Images/Books/Dare Bird/Pasted image 20250506193706.png",
     "Blueprints/Rooms/Numbered/Pump Room.md",
-    "Blueprints/Rooms/Numbered/Study.md",
     "Images/Books/Dare Bird",
     "Images/Books/Dare Bird/Pasted image 20250506193853.png",
     "Images/Books/Dare Bird/Pasted image 20250506193843.png",
