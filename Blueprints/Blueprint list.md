@@ -30,7 +30,7 @@ Numbered rooms (in order):
 29. [[The Pool]]
 30. [[Drafting Studio]]
 31. [[Utility Closet]]
-32. [[Boiler Room]]
+32. [[Boiler Room]] - Memo found
 33. [[Pump Room]]
 34. [[Security]] - Memo found
 35. [[Workshop]]

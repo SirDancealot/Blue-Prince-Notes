@@ -1,5 +1,6 @@
 Rank 8, blue tent memos:
 - [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]]
+- [[Boiler Room]]: The high pressure condenser box is connected to two remote power boxes [[TODO]]
 - [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]]
 - [[Security]]: Surveillance recordings can only be accessed via the terminal located in security [[TODO]]
 - [[Observatory]]: The largest planet in the night sky is named after the paragon of ash
