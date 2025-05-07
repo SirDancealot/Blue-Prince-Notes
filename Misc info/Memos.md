@@ -6,6 +6,7 @@ Rank 8, blue tent memos:
 - [[Den]]: The sin associated with this room is often associated with one's use of time, hint for [[Room 8]]
 - [[Drawing Room]]: Months are slightly longer than days
 - [[Billiard Room]]: The bullseye operatrion can trigger multiple times
+- [[Dining Room]]: There are 10 different dishes that can be served in this room
 
 
 Sanctum key was in black moon

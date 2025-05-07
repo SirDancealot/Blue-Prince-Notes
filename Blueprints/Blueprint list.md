@@ -4,7 +4,7 @@ Numbered rooms (in order):
 3. [[Spare Room|Spare Greenroom]]
 4. [[Rotunda]]
 5. [[Parlor]]
-6. [[Billiard Room]] - Memo found
+6. [[Billiard Room]] - [[Memos|Memo]] found
 7. [[Gallery]]
 8. [[Room 8]]
 9. [[Closet]]
@@ -39,7 +39,7 @@ Numbered rooms (in order):
 38. [[Coat Check]]
 39. [[Mail Room]]
 40. [[Freezer]]
-41. [[Dining Room]]
+41. [[Dining Room]] - Memo found
 42. [[Observatory]] - Memo found
 43. [[Conference Room]]
 44. [[Aquarium]]

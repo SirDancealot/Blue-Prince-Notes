@@ -1,5 +1,7 @@
 ul/lu = you will/you won't
 el/le = i will/i wont
+
+jor = name
 other words:
 - east: ett
 - south: iss

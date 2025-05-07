@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/The Family/Mary Epsen.md",
+                "file": "Areas/Underground/The Underpass.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mary Epsen"
+              "title": "The Underpass"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "Areas/Underground/Safehouse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "Safehouse"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,17 +214,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb87d7c4eb4fb413",
+  "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
-    "Blueprints/Blueprint list.md",
+    "Areas/Underground/Safehouse.md",
+    "Misc info/Memos.md",
+    "Areas/Underground/The Underpass.md",
+    "Misc info/language.md",
     "People/The Family/Mary Epsen.md",
+    "Blueprints/Blueprint list.md",
+    "Blueprints/Rooms/Numbered/Antechamber.md",
     "Blueprints/Rooms/Red Rooms/Archives.md",
     "Images/Misc/Pasted image 20250507142111.png",
     "Images/Misc/Pasted image 20250507142144.png",
     "Images/Misc/Pasted image 20250507142136.png",
     "Images/Misc/Pasted image 20250507142128.png",
     "Images/Misc/Pasted image 20250507142118.png",
-    "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Library.md",
     "TODO.md",
     "Books/The original Gardener's Logbook.md",
@@ -250,10 +253,6 @@
     "Items/Items.md",
     "Blueprints/Rooms/Outer Rooms/Trading Post.md",
     "Blueprints/Rooms/Outer Rooms/Shelter.md",
-    "Books/The History of Orindia.md",
-    "Areas/Outside/Blackbridge Grotto.md",
-    "Blueprints/Rooms/Numbered/Security.md",
-    "Puzzles/Chess/Chess.md",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",
