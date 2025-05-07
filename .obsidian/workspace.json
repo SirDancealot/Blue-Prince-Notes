@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Blueprint list.md",
+                "file": "Lost and Found.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blueprint list"
+              "title": "Lost and Found"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "Countries/Verra Shores.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "Verra Shores"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Books/Realm & Rune.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Realm & Rune"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,11 +263,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "261a13bee859a49c",
+  "active": "eb87d7c4eb4fb413",
   "lastOpenFiles": [
-    "Misc info/language.md",
     "Blueprints/Blueprint list.md",
+    "Lost and Found.md",
+    "Countries/Verra Shores.md",
+    "Countries/Countries.md",
+    "Countries/Corarica.md",
+    "Countries/Mora Jai.md",
+    "Books/Realm & Rune.md",
+    "TODO.md",
+    "Countries/Fenn Aries.md",
+    "Countries/Orinda Aries.md",
+    "Courtney.md",
+    "Items/Battery Pack.md",
     "Misc info/Memos.md",
+    "Misc info/language.md",
     "Puzzles/Angel/Angel.md",
     "Puzzles/Exam.md",
     "Terminal/Terminal.md",
@@ -276,26 +287,15 @@
     "Items/Items.md",
     "People/Other People/Kirk Darren.md",
     "People/The Family/Mary Epsen.md",
-    "TODO.md",
     "Coat Check.md",
     "People/Other People/Alzara.md",
     "Puzzles/Red Letters/Red Letters.md",
     "Puzzles/Red Letters/Red Letter 6.md",
-    "Puzzles/Red Letters/Red Letter 2.md",
-    "Puzzles/Red Letters/Red Letter 7.md",
-    "Puzzles/Red Letters/Red Letter 8.md",
-    "Areas/Underground/The Underpass.md",
-    "Areas/Underground/Safehouse.md",
-    "Blueprints/Rooms/Numbered/Antechamber.md",
-    "Blueprints/Rooms/Red Rooms/Archives.md",
     "Images/Misc/Pasted image 20250507142111.png",
     "Images/Misc/Pasted image 20250507142144.png",
     "Images/Misc/Pasted image 20250507142136.png",
     "Images/Misc/Pasted image 20250507142128.png",
     "Images/Misc/Pasted image 20250507142118.png",
-    "Blueprints/Rooms/Numbered/Library.md",
-    "Books/The original Gardener's Logbook.md",
-    "Areas/Underground/Abandoned mine.md",
     "Images/Books/Dare Bird/Pasted image 20250506193706.png",
     "Images/Books/Dare Bird",
     "Images/Books/Dare Bird/Pasted image 20250506193853.png",

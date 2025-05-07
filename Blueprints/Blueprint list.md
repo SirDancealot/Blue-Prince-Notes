@@ -94,6 +94,7 @@ Numbered rooms (in order):
 - [[Darkroom]]
 - [[Weight Room]]
 - [[Furnace]]
+- [[Lost and Found]]
 
 [[Drafting Studio|Studio]] additions:
 - [[Clock Tower]] - Memo found

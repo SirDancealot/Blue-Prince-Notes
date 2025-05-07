@@ -1,4 +1,8 @@
 Name: "A large battery pack"
 "Provides juice to battery-powered contraptions"
 
-Likely usefull in [[Workshop]]
+found in following rooms:
+- [[Darkroom]]
+- [[Storeroom]]
+- [[Attic]]
+- [[Workshop]]
