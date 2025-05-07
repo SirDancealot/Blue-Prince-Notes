@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electromagnet.md",
+                "file": "Puzzles/Exam.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Electromagnet"
+              "title": "Exam"
             }
           },
           {
@@ -265,8 +265,9 @@
   },
   "active": "261a13bee859a49c",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Numbered/Workshop.md",
+    "Terminal/Terminal.md",
     "Electromagnet.md",
+    "Blueprints/Rooms/Numbered/Workshop.md",
     "Items/Items.md",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
@@ -296,7 +297,6 @@
     "Images/Books/Dare Bird/Pasted image 20250506193706.png",
     "Blueprints/Rooms/Numbered/Pump Room.md",
     "Blueprints/Rooms/Numbered/Study.md",
-    "Dates/Dates.md",
     "Images/Books/Dare Bird",
     "Images/Books/Dare Bird/Pasted image 20250506193853.png",
     "Images/Books/Dare Bird/Pasted image 20250506193843.png",
