@@ -11,6 +11,8 @@ Rank 8, blue tent memos:
 - [[Pantry]]: "There is a letter missing" (same as [[Alzara]], 8 red letters, you will only find 7?)
 - [[Coat Check]]: Is drawn slightly more often the day after checking a new item
 - [[Locker Room]]: the mome next to this is a lie (i.e. kirk darren is not a pseydonym)
+- [[Clock Tower]]: Inneclipses only appear in the north sky
+- [[Gallery]]: The titles are synonyms
 
 
 Sanctum key was in black moon

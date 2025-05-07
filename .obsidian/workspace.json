@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Angel/Angel.md",
+                "file": "Misc info/Memos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Angel"
+              "title": "Memos"
             }
           },
           {
@@ -265,19 +265,20 @@
   },
   "active": "261a13bee859a49c",
   "lastOpenFiles": [
+    "Misc info/language.md",
+    "Blueprints/Blueprint list.md",
+    "Misc info/Memos.md",
+    "Puzzles/Angel/Angel.md",
     "Puzzles/Exam.md",
     "Terminal/Terminal.md",
     "Electromagnet.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Items/Items.md",
-    "Misc info/Memos.md",
-    "Blueprints/Blueprint list.md",
     "People/Other People/Kirk Darren.md",
     "People/The Family/Mary Epsen.md",
     "TODO.md",
     "Coat Check.md",
     "People/Other People/Alzara.md",
-    "Misc info/language.md",
     "Puzzles/Red Letters/Red Letters.md",
     "Puzzles/Red Letters/Red Letter 6.md",
     "Puzzles/Red Letters/Red Letter 2.md",
@@ -296,7 +297,6 @@
     "Books/The original Gardener's Logbook.md",
     "Areas/Underground/Abandoned mine.md",
     "Images/Books/Dare Bird/Pasted image 20250506193706.png",
-    "Blueprints/Rooms/Numbered/Pump Room.md",
     "Images/Books/Dare Bird",
     "Images/Books/Dare Bird/Pasted image 20250506193853.png",
     "Images/Books/Dare Bird/Pasted image 20250506193843.png",

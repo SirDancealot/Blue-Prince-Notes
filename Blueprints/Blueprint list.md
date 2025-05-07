@@ -5,7 +5,7 @@ Numbered rooms (in order):
 4. [[Rotunda]]
 5. [[Parlor]]
 6. [[Billiard Room]] - [[Memos|Memo]] found
-7. [[Gallery]]
+7. [[Gallery]] - Memo found
 8. [[Room 8]]
 9. [[Closet]]
 10. [[Walk-in Closet]]
@@ -96,7 +96,7 @@ Numbered rooms (in order):
 - [[Furnace]]
 
 [[Drafting Studio|Studio]] additions:
-- [[Clock Tower]]
+- [[Clock Tower]] - Memo found
 - [[Classroom]]
 - [[Solarium]]
 - [[Dovecote]]
