@@ -8,3 +8,4 @@
 - Complete the Circuit in [[Blackbridge Grotto]]/[[Apple Orchard]]
 - Unlock the Diary in [[Her Ladyship's Chamber]]
 - Open Very detailed safe found in miniature-version of [[Study]] in [[Drawing Room]] (Requires [[Magnifying Glass]])
+- Try reaching 100 [[Stars]]

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Blueprints/Blueprint list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Blueprint list"
             }
           }
         ],
@@ -217,9 +217,10 @@
   },
   "active": "eb87d7c4eb4fb413",
   "lastOpenFiles": [
-    "Books/The original Gardener's Logbook.md",
-    "TODO.md",
     "Misc info/Memos.md",
+    "Blueprints/Rooms/Numbered/Library.md",
+    "TODO.md",
+    "Books/The original Gardener's Logbook.md",
     "Areas/Underground/Abandoned mine.md",
     "Blueprints/Blueprint list.md",
     "Images/Books/Dare Bird/Pasted image 20250506193706.png",
@@ -240,7 +241,6 @@
     "Images/Books/Dare Bird/Pasted image 20250506193753.png",
     "Images/Books/Dare Bird/Pasted image 20250506193732.png",
     "Books/Drafting Strategy Vol 2.md",
-    "Blueprints/Rooms/Numbered/Library.md",
     "Blueprints/Rooms/Misc/The Kennel.md",
     "Untitled.md",
     "Blueprints/Rooms/Shops/Laundry Room.md",

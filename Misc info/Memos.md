@@ -3,6 +3,7 @@ Rank 8, blue tent memos:
 - [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]]
 - [[Security]]: Surveillance recordings can only be accessed via the terminal located in security [[TODO]]
 - [[Observatory]]: The largest planet in the night sky is named after the paragon of ash
+- [[Den]]: The sin associated with this room is often associated with one's use of time, hint for [[Room 8]]
 
 
 Sanctum key was in black moon
