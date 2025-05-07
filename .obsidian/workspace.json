@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "People/The Family/Mary Epsen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mary Epsen"
+            }
+          },
+          {
+            "id": "eb87d7c4eb4fb413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Misc info/Memos.md",
                 "mode": "source",
                 "source": false,
@@ -29,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Memos"
-            }
-          },
-          {
-            "id": "eb87d7c4eb4fb413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Blueprint list.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Blueprint list"
             }
           }
         ],
@@ -217,12 +217,19 @@
   },
   "active": "eb87d7c4eb4fb413",
   "lastOpenFiles": [
+    "Blueprints/Blueprint list.md",
+    "People/The Family/Mary Epsen.md",
+    "Blueprints/Rooms/Red Rooms/Archives.md",
+    "Images/Misc/Pasted image 20250507142111.png",
+    "Images/Misc/Pasted image 20250507142144.png",
+    "Images/Misc/Pasted image 20250507142136.png",
+    "Images/Misc/Pasted image 20250507142128.png",
+    "Images/Misc/Pasted image 20250507142118.png",
     "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Library.md",
     "TODO.md",
     "Books/The original Gardener's Logbook.md",
     "Areas/Underground/Abandoned mine.md",
-    "Blueprints/Blueprint list.md",
     "Images/Books/Dare Bird/Pasted image 20250506193706.png",
     "Blueprints/Rooms/Numbered/Pump Room.md",
     "Puzzles/Red Letters/Red Letters.md",
@@ -235,11 +242,6 @@
     "Images/Books/Dare Bird/Pasted image 20250506193843.png",
     "Images/Books/Dare Bird/Pasted image 20250506193835.png",
     "Images/Books/Dare Bird/Pasted image 20250506193829.png",
-    "Images/Books/Dare Bird/Pasted image 20250506193819.png",
-    "Images/Books/Dare Bird/Pasted image 20250506193811.png",
-    "Images/Books/Dare Bird/Pasted image 20250506193802.png",
-    "Images/Books/Dare Bird/Pasted image 20250506193753.png",
-    "Images/Books/Dare Bird/Pasted image 20250506193732.png",
     "Books/Drafting Strategy Vol 2.md",
     "Blueprints/Rooms/Misc/The Kennel.md",
     "Untitled.md",
@@ -252,8 +254,6 @@
     "Areas/Outside/Blackbridge Grotto.md",
     "Blueprints/Rooms/Numbered/Security.md",
     "Puzzles/Chess/Chess.md",
-    "Puzzles/Angel/Angel.md",
-    "Puzzles/Angel/Death.md",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",

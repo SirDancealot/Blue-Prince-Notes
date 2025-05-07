@@ -4,6 +4,8 @@ Rank 8, blue tent memos:
 - [[Security]]: Surveillance recordings can only be accessed via the terminal located in security [[TODO]]
 - [[Observatory]]: The largest planet in the night sky is named after the paragon of ash
 - [[Den]]: The sin associated with this room is often associated with one's use of time, hint for [[Room 8]]
+- [[Drawing Room]]: Months are slightly longer than days
+- [[Billiard Room]]: The bullseye operatrion can trigger multiple times
 
 
 Sanctum key was in black moon
