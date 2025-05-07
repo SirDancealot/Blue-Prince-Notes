@@ -19,7 +19,7 @@ Numbered rooms (in order):
 18. [[Wine Cellar]] - Memo found
 19. [[Trophy Room]]
 20. [[Ballroom]]
-21. [[Pantry]]
+21. [[Pantry]] - Memo round
 22. [[Rumpus Room]]
 23. [[Vault]]
 24. [[Office]]

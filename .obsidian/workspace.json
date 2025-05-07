@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "TODO"
             }
           }
         ],
@@ -265,9 +265,10 @@
   },
   "active": "65020642ef387803",
   "lastOpenFiles": [
+    "People/Other People/Alzara.md",
+    "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
     "Misc info/language.md",
-    "Misc info/Memos.md",
     "Puzzles/Red Letters/Red Letters.md",
     "Puzzles/Red Letters/Red Letter 6.md",
     "Puzzles/Red Letters/Red Letter 2.md",
@@ -301,7 +302,6 @@
     "Blueprints/Rooms/Misc/The Kennel.md",
     "Untitled.md",
     "Blueprints/Rooms/Shops/Laundry Room.md",
-    "Items/Gear Wrench.md",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",

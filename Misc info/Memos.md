@@ -8,6 +8,7 @@ Rank 8, blue tent memos:
 - [[Drawing Room]]: Months are slightly longer than days
 - [[Billiard Room]]: The bullseye operatrion can trigger multiple times
 - [[Dining Room]]: There are 10 different dishes that can be served in this room
+- [[Pantry]]: "There is a letter missing" (same as [[Alzara]], 8 red letters, you will only find 7?)
 
 
 Sanctum key was in black moon
