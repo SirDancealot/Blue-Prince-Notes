@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lost and Found.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lost and Found"
+              "title": "TODO"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Verra Shores.md",
+                "file": "Blueprints/Rooms/Numbered/Workshop.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Verra Shores"
-            }
-          },
-          {
-            "id": "65020642ef387803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Realm & Rune.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Realm & Rune"
+              "title": "Workshop"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,16 +239,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb87d7c4eb4fb413",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
-    "Blueprints/Blueprint list.md",
-    "Lost and Found.md",
+    "Images/Red letters/RL4-2.png",
+    "Images/Red letters/RL4-1.png",
+    "Images/Red letters/RL6-3.png",
+    "Red Letter 4.md",
+    "Images/Red letters/RL4-3.png",
+    "Puzzles/Red Letters/Red Letters.md",
+    "Books/Realm & Rune.md",
+    "Blueprints/Rooms/Numbered/Workshop.md",
     "Countries/Verra Shores.md",
+    "TODO.md",
+    "Blueprints/Rooms/Red Rooms/Lost and Found.md",
+    "Blueprints/Blueprint list.md",
     "Countries/Countries.md",
     "Countries/Corarica.md",
     "Countries/Mora Jai.md",
-    "Books/Realm & Rune.md",
-    "TODO.md",
     "Countries/Fenn Aries.md",
     "Countries/Orinda Aries.md",
     "Courtney.md",
@@ -282,15 +265,11 @@
     "Puzzles/Angel/Angel.md",
     "Puzzles/Exam.md",
     "Terminal/Terminal.md",
-    "Electromagnet.md",
-    "Blueprints/Rooms/Numbered/Workshop.md",
+    "Items/Electromagnet.md",
     "Items/Items.md",
     "People/Other People/Kirk Darren.md",
     "People/The Family/Mary Epsen.md",
-    "Coat Check.md",
-    "People/Other People/Alzara.md",
-    "Puzzles/Red Letters/Red Letters.md",
-    "Puzzles/Red Letters/Red Letter 6.md",
+    "Blueprints/Rooms/Numbered/Coat Check.md",
     "Images/Misc/Pasted image 20250507142111.png",
     "Images/Misc/Pasted image 20250507142144.png",
     "Images/Misc/Pasted image 20250507142136.png",
@@ -299,9 +278,6 @@
     "Images/Books/Dare Bird/Pasted image 20250506193706.png",
     "Images/Books/Dare Bird",
     "Images/Books/Dare Bird/Pasted image 20250506193853.png",
-    "Images/Books/Dare Bird/Pasted image 20250506193843.png",
-    "Images/Books/Dare Bird/Pasted image 20250506193835.png",
-    "Images/Books/Dare Bird/Pasted image 20250506193829.png",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",

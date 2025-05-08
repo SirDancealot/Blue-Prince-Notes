@@ -3,7 +3,6 @@
 - Figure out what to do with the cursed idol in the cursed box in [[Shrine]] (opened with [[Sledge Hammer]] or [[Morning Star]]), maybe take to the safehouse?
 - Read [[The Curse of Black Bridge]]
 - More with [[Chamber of Mirrors]]
-- Try connecting [[Power]] from [[Boiler Room]] to [[The Foundation]]
 - figure out 4-letter/number password for lock behind red door in [[The Underpass]] 
 - Complete the Circuit in [[Blackbridge Grotto]]/[[Apple Orchard]]
 - Unlock the Diary in [[Her Ladyship's Chamber]]
