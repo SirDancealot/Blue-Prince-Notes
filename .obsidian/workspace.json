@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Misc info/Memos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Memos"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Workshop.md",
+                "file": "Blueprints/Blueprint list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Workshop"
+              "title": "Blueprint list"
             }
           }
         ],
@@ -239,18 +239,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "261a13bee859a49c",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Workshop.md",
+    "Misc info/Memos.md",
+    "TODO.md",
+    "Areas/Underground/The Underpass.md",
+    "Images/Red letters/RL4-3.png",
     "Images/Red letters/RL4-2.png",
     "Images/Red letters/RL4-1.png",
     "Images/Red letters/RL6-3.png",
     "Red Letter 4.md",
-    "Images/Red letters/RL4-3.png",
     "Puzzles/Red Letters/Red Letters.md",
     "Books/Realm & Rune.md",
-    "Blueprints/Rooms/Numbered/Workshop.md",
     "Countries/Verra Shores.md",
-    "TODO.md",
     "Blueprints/Rooms/Red Rooms/Lost and Found.md",
     "Blueprints/Blueprint list.md",
     "Countries/Countries.md",
@@ -260,7 +262,6 @@
     "Countries/Orinda Aries.md",
     "Courtney.md",
     "Items/Battery Pack.md",
-    "Misc info/Memos.md",
     "Misc info/language.md",
     "Puzzles/Angel/Angel.md",
     "Puzzles/Exam.md",
@@ -277,7 +278,6 @@
     "Images/Misc/Pasted image 20250507142118.png",
     "Images/Books/Dare Bird/Pasted image 20250506193706.png",
     "Images/Books/Dare Bird",
-    "Images/Books/Dare Bird/Pasted image 20250506193853.png",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
     "Images/Books/A Sightseer's Guide to Reddington",

@@ -13,6 +13,7 @@ Rank 8, blue tent memos:
 - [[Locker Room]]: the mome next to this is a lie (i.e. kirk darren is not a pseydonym)
 - [[Clock Tower]]: Inneclipses only appear in the north sky
 - [[Gallery]]: The titles are synonyms
+- [[The Pool]]: There is only one location in the estate where every room in the drafting pool can be drafted (bottom left? her ladyships requires going down,)
 
 
 Sanctum key was in black moon
