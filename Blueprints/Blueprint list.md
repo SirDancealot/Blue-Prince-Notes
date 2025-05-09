@@ -27,7 +27,7 @@ Numbered rooms (in order):
 26. [[Study]]
 27. [[Library]]
 28. [[Chamber of Mirrors]]
-29. [[The Pool]]
+29. [[The Pool]] - Memo found
 30. [[Drafting Studio]]
 31. [[Utility Closet]]
 32. [[Boiler Room]] - Memo found

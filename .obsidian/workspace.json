@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,8 +239,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "261a13bee859a49c",
+  "active": "eb87d7c4eb4fb413",
   "lastOpenFiles": [
+    "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Misc info/Memos.md",
     "TODO.md",
@@ -254,7 +255,6 @@
     "Books/Realm & Rune.md",
     "Countries/Verra Shores.md",
     "Blueprints/Rooms/Red Rooms/Lost and Found.md",
-    "Blueprints/Blueprint list.md",
     "Countries/Countries.md",
     "Countries/Corarica.md",
     "Countries/Mora Jai.md",
