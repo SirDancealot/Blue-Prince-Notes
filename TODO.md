@@ -8,4 +8,3 @@
 - Try reaching 100 [[Stars]]
 - Decode [[language|Erajan]] message found in [[Tomb]] [[Message by Clara epsens grave.png]]
 - Try forcing [[Antechamber]] in [[Outer Rooms]] (one of the shrine-effects can do it) (hinted in final page of [[Diary]])
-- Have a look arround [[Safehouse]] with a [[Power Hammer]]
