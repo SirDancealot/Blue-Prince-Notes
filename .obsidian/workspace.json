@@ -13,55 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Red Letters/Red Letters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Red Letters"
-            }
-          },
-          {
-            "id": "eb87d7c4eb4fb413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "45476462b11e704b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tomorrow.md",
+                "file": "Misc info/Tomorrow.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Sigil doors/Sigil Doors.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sigil Doors"
+              "title": "TODO"
             }
           }
         ]
@@ -264,29 +216,32 @@
   },
   "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
-    "Images/Red letters/RL1-2.png",
+    "Misc info/Tomorrow.md",
     "TODO.md",
-    "Images/Books/Claras diary/Pasted image 20250509164757.png",
-    "Images/Books/Claras diary/Pasted image 20250509164856.png",
-    "Images/Books/Claras diary",
-    "Puzzles/Red Letters/Red Letters.md",
-    "Misc info/language.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
+    "Dates/Dates.md",
+    "Images/Misc/Pasted image 20250509172740.png",
+    "Blueprints/Rooms/Bedrooms/Bunk Room.md",
+    "Images/Misc/Pasted image 20250509172808.png",
+    "Images/Misc/Pasted image 20250509172802.png",
+    "Images/Misc/Pasted image 20250509172757.png",
+    "Images/Misc/Pasted image 20250509172751.png",
+    "Images/Misc/Pasted image 20250509172745.png",
+    "Images/Red letters/RL5-1.png",
+    "Images/Red letters/RL5-2.png",
+    "Puzzles/Red Letters/Red letter 5.md",
+    "Blueprints/Rooms/Numbered/Study.md",
+    "Puzzles/Red Letters/Red Letters.md",
+    "Images/Red letters/RL1-2.png",
+    "Images/Books/Claras diary/Pasted image 20250509164757.png",
+    "Images/Books/Claras diary",
+    "Misc info/language.md",
     "Blueprints/Blueprint list.md",
-    "Tomorrow.md",
     "Books/Diary.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
-    "Images/Misc/room letter puzzle.png",
-    "Blueprints/Rooms/Bedrooms/Bunk Room.md",
     "Blueprints/Rooms/Bedrooms/Bedroom.md",
     "Bedrooms.md",
-    "Images/Books/Claras diary/Pasted image 20250509164843.png",
-    "Images/Books/Claras diary/Pasted image 20250509164835.png",
-    "Images/Books/Claras diary/Pasted image 20250509164830.png",
-    "Images/Books/Claras diary/Pasted image 20250509164825.png",
-    "Images/Books/Claras diary/Pasted image 20250509164819.png",
-    "Images/Books/Claras diary/Pasted image 20250509164812.png",
     "People/The Family/Clara Epsen.md",
     "Areas/Underground/The Underpass.md",
     "Puzzles/Puzzles.md",
@@ -294,13 +249,10 @@
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
-    "Red Letter 4.md",
+    "Puzzles/Red Letters/Red Letter 4.md",
     "Books/Realm & Rune.md",
     "Countries/Verra Shores.md",
     "Blueprints/Rooms/Red Rooms/Lost and Found.md",
-    "Countries/Countries.md",
-    "Countries/Corarica.md",
-    "Countries/Mora Jai.md",
     "Images/Books/Dare Bird",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",

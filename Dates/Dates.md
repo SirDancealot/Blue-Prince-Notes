@@ -7,6 +7,7 @@ Confirmed usefull dates: (should probably be 8 in total according to paintings p
 - [[Today]] in at least 1 hour opens [[Shelter]] safe
 - 0812 opens [[Study]] safe
 - 1504 opens [[Drawing Room]] safe
+- 1108 opens [[Drafting Studio]] miniature safe
  
 Various other found dates and years:
 - 1213 year found in [[Wine Cellar]]

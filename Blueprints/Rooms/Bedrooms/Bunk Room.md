@@ -1,1 +1,7 @@
 the childhood room of [[Herbert S Sinclair|HSS]] and [[Simon H Sinclair]]
+![[Pasted image 20250509172740.png]]
+![[Pasted image 20250509172745.png]]
+![[Pasted image 20250509172751.png]]
+![[Pasted image 20250509172757.png]]
+![[Pasted image 20250509172802.png]]
+![[Pasted image 20250509172808.png]]
