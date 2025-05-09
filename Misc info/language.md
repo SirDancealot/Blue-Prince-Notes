@@ -1,3 +1,9 @@
+---
+aliases:
+  - Erajan
+---
+The language of [[Eraja]]
+
 ul/lu = you will/you won't
 el/le = i will/i wont
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Underground/The Underpass.md",
+                "file": "Misc info/language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Underpass"
+              "title": "language"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "Puzzles/Paintings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "Paintings"
+            }
+          },
+          {
+            "id": "ff7986b02508e999",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Misc/room letter puzzle.png"
+              },
+              "icon": "lucide-image",
+              "title": "room letter puzzle"
             }
           },
           {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,13 +251,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb87d7c4eb4fb413",
+  "active": "ff7986b02508e999",
   "lastOpenFiles": [
-    "Blueprints/Blueprint list.md",
-    "Blueprints/Rooms/Numbered/Workshop.md",
-    "Misc info/Memos.md",
+    "Images/Misc/room letter puzzle.png.0.pdnSave",
+    "Puzzles/Paintings.md",
+    "Puzzles/Puzzles.md",
     "TODO.md",
+    "Images/Misc/Message by Clara epsens grave.png",
+    "Blueprints/Blueprint list.md",
+    "Misc info/language.md",
+    "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Areas/Underground/The Underpass.md",
+    "Misc info/Memos.md",
+    "Blueprints/Rooms/Numbered/Workshop.md",
     "Images/Red letters/RL4-3.png",
     "Images/Red letters/RL4-2.png",
     "Images/Red letters/RL4-1.png",
@@ -262,21 +280,15 @@
     "Countries/Orinda Aries.md",
     "Courtney.md",
     "Items/Battery Pack.md",
-    "Misc info/language.md",
     "Puzzles/Angel/Angel.md",
     "Puzzles/Exam.md",
     "Terminal/Terminal.md",
     "Items/Electromagnet.md",
-    "Items/Items.md",
-    "People/Other People/Kirk Darren.md",
-    "People/The Family/Mary Epsen.md",
-    "Blueprints/Rooms/Numbered/Coat Check.md",
     "Images/Misc/Pasted image 20250507142111.png",
     "Images/Misc/Pasted image 20250507142144.png",
     "Images/Misc/Pasted image 20250507142136.png",
     "Images/Misc/Pasted image 20250507142128.png",
     "Images/Misc/Pasted image 20250507142118.png",
-    "Images/Books/Dare Bird/Pasted image 20250506193706.png",
     "Images/Books/Dare Bird",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
