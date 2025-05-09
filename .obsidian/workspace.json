@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Paintings.md",
+                "file": "Areas/Underground/The Underpass.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Paintings"
+              "title": "The Underpass"
             }
           },
           {
-            "id": "ff7986b02508e999",
+            "id": "45476462b11e704b",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,17 +251,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff7986b02508e999",
+  "active": "eb87d7c4eb4fb413",
   "lastOpenFiles": [
-    "Images/Misc/room letter puzzle.png.0.pdnSave",
-    "Puzzles/Paintings.md",
-    "Puzzles/Puzzles.md",
+    "Images/Misc/room letter puzzle.png",
+    "Areas/Underground/The Underpass.md",
     "TODO.md",
-    "Images/Misc/Message by Clara epsens grave.png",
+    "Puzzles/Puzzles.md",
+    "Puzzles/Paintings.md",
     "Blueprints/Blueprint list.md",
+    "Images/Misc/room letter puzzle.png.0.pdnSave",
+    "Images/Misc/Message by Clara epsens grave.png",
     "Misc info/language.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
-    "Areas/Underground/The Underpass.md",
     "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
     "Images/Red letters/RL4-3.png",
@@ -288,7 +289,6 @@
     "Images/Misc/Pasted image 20250507142144.png",
     "Images/Misc/Pasted image 20250507142136.png",
     "Images/Misc/Pasted image 20250507142128.png",
-    "Images/Misc/Pasted image 20250507142118.png",
     "Images/Books/Dare Bird",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
@@ -298,7 +298,6 @@
     "Images/Books/Drafting Strategy Vol 5",
     "Images/Books/Drafting strategy Vol 4",
     "Misc info",
-    "Images/Books/The Curse of Black Bridge",
     "Untitled.canvas"
   ]
 }
