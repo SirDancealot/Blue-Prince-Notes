@@ -1,0 +1,1 @@
+the childhood room of [[Herbert S Sinclair|HSS]] and [[Simon H Sinclair]]
