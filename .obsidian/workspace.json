@@ -55,7 +55,8 @@
               "title": "TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f1611b8525e0dc6",
+  "active": "261a13bee859a49c",
   "lastOpenFiles": [
-    "TODO.md",
     "Misc info/Tomorrow.md",
+    "TODO.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Dates/Dates.md",
     "Images/Misc/Pasted image 20250509172740.png",
