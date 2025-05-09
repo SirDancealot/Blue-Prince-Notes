@@ -5,7 +5,7 @@
 - More with [[Chamber of Mirrors]]
 - figure out 4-letter/number password for lock behind red door in [[The Underpass]] 
 - Complete the Circuit in [[Blackbridge Grotto]]/[[Apple Orchard]]
-- Unlock the Diary in [[Her Ladyship's Chamber]] requires [[Tomb]] and [[Self Igniting Torch]]
 - Open Very detailed safe found in miniature-version of [[Study]] in [[Drawing Room]] (Requires [[Magnifying Glass]])
 - Try reaching 100 [[Stars]]
 - Decode [[language|Erajan]] message found in [[Tomb]] [[Message by Clara epsens grave.png]]
+- Try forcing [[Antechamber]] in [[Outer Rooms]] (one of the shrine-effects can do it) (hinted in final page of [[Diary]])

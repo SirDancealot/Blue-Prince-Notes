@@ -3,7 +3,7 @@ Which leads to the [[Underground]] [[Catacombs]]
 
 More secret doors can be unlocked with a light source i.e. [[Burning Glass]] or [[Self Igniting Torch]]
 One of these contained an [[Upgrade Disks]]
-Another the tomb of [[Clara Epsen]], which had a [[Mora Jai Box]] and the key to her diary found in [[Her Ladyship's Chamber]] [[TODO]]
+Another the tomb of [[Clara Epsen]], which had a [[Mora Jai Box]] and the key to her diary found in [[Her Ladyship's Chamber]] 
 Also cointains the following letter written in [[language|Erajan]]
 ![[Message by Clara epsens grave.png]]
 
