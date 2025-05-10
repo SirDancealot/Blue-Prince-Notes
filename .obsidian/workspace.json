@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Sigil doors/Sigil Doors.md",
+                "file": "Blueprints/Rooms/Numbered/Room 46.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,47 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sigil Doors"
-            }
-          },
-          {
-            "id": "315a629421cc11f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzles/Chess/Chess.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chess"
-            }
-          },
-          {
-            "id": "a982c93a640d38f4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Misc/Pasted image 20250510171516.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250510171516"
+              "title": "Room 46"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,26 +215,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "261a13bee859a49c",
   "lastOpenFiles": [
-    "Images/Red letters/Red Letter 1.md",
+    "Pasted image 20250511000805.png",
+    "Pasted image 20250511000758.png",
+    "Books/The Curse of Black Bridge.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Images/Red letters/RL1-3.png",
+    "Images/Red letters/RL1-2.png",
+    "Images/Red letters/RL1-1.png",
+    "Images/Red letters/RL2-3.png",
+    "Puzzles/Red Letters/Red Letter 2.md",
+    "Images/Red letters/RL2-2.png",
+    "Images/Red letters/RL2-1.png",
+    "Puzzles/Red Letters/Red Letter 1.md",
+    "Puzzles/Chess/Chess.md",
+    "Images/Red letters/RL1-4.png",
+    "Images/Misc/Pasted image 20250510171516.png",
     "Puzzles/Red Letters/Red Letters.md",
     "Areas/Underground/The Underpass.md",
-    "Puzzles/Chess/Chess.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
     "Blueprints/Rooms/Green Rooms/Green Rooms.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "TODO.md",
     "Misc info/Tomorrow.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
-    "Images/Misc/Pasted image 20250510171516.png",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
     "Untitled.md",
     "Puzzles/Mora Jai Box.md",
     "Images/Misc/Family tree.png",
     "Blueprints/Rooms/Numbered/Pump Room.md",
-    "Images/Misc/Pasted image 20250510154918.png",
     "Books/Realm & Rune.md",
     "Countries/Orinda Aries.md",
     "Countries/Countries.md",
@@ -278,17 +252,7 @@
     "Blueprints/Rooms/Green Rooms/Cloister.md",
     "Countries/Mora Jai.md",
     "Countries/Corarica.md",
-    "Images/Misc/Pasted image 20250510154355.png",
-    "Images/Books/Original Gardener's Logbook/2nd lever positions.png",
-    "Images/Books/Original Gardener's Logbook/Pasted image 20250504212952.png",
-    "Images/Books/Original Gardener's Logbook/Pasted image 20250504213215.png",
-    "Images/Books/Original Gardener's Logbook/Pasted image 20250504213259.png",
     "Blueprints/Rooms/Green Rooms/Greenhouse.md",
-    "Images/Misc/Antechamber Lever locations.png",
-    "Images/Misc/Basement Key locations.png",
-    "Blueprints/Rooms/Misc/Mechanarium.md",
-    "Areas/Underground/Inner Sanctum.md",
-    "Blueprints/Rooms/Green Rooms/Secret Garden.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",

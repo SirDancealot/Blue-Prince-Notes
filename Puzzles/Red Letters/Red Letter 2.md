@@ -4,8 +4,8 @@ aliases:
 ---
 Found in [[Study]]
 Written by [[Caleb]]
-![[RL1-1.png]]
+![[RL2-1.png]]
 
-![[RL1-2.png]]
+![[RL2-2.png]]
 
-![[RL1-3.png]]
+![[RL2-3.png]]
