@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Tomorrow.md",
+                "file": "Misc info/Memos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tomorrow"
+              "title": "Memos"
             }
           },
           {
@@ -265,10 +265,10 @@
   },
   "active": "315a629421cc11f8",
   "lastOpenFiles": [
+    "Misc info/Tomorrow.md",
     "TODO.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Untitled.md",
-    "Misc info/Tomorrow.md",
     "Blueprints/Blueprint list.md",
     "Puzzles/Mora Jai Box.md",
     "Images/Misc/Family tree.png",
