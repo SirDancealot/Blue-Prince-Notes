@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Outer Rooms/Shrine.md",
+                "file": "Misc info/Tomorrow.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shrine"
+              "title": "Tomorrow"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,10 +263,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a982c93a640d38f4",
+  "active": "315a629421cc11f8",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Numbered/Antechamber.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
+    "Blueprints/Rooms/Green Rooms/Green Rooms.md",
+    "Blueprints/Rooms/Numbered/Antechamber.md",
     "Pasted image 20250510171516.png",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
@@ -300,7 +301,6 @@
     "Misc info/Experiments.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
     "Puzzles/Chess/Chess.md",
-    "Blueprints/Rooms/Misc/Throne Room.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
