@@ -78,6 +78,30 @@
               "icon": "lucide-file",
               "title": "Tomorrow"
             }
+          },
+          {
+            "id": "a982c93a640d38f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints/Rooms/Numbered/Antechamber.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Antechamber"
+            }
           }
         ],
         "currentTab": 2
@@ -242,6 +266,8 @@
   "active": "315a629421cc11f8",
   "lastOpenFiles": [
     "TODO.md",
+    "Blueprints/Rooms/Numbered/Antechamber.md",
+    "Untitled.md",
     "Misc info/Tomorrow.md",
     "Blueprints/Blueprint list.md",
     "Puzzles/Mora Jai Box.md",
@@ -258,7 +284,6 @@
     "Countries/Mora Jai.md",
     "Countries/Corarica.md",
     "Images/Misc/Pasted image 20250510154355.png",
-    "Blueprints/Rooms/Numbered/Antechamber.md",
     "Images/Books/Original Gardener's Logbook/2nd lever positions.png",
     "Images/Books/Original Gardener's Logbook/Pasted image 20250504212952.png",
     "Images/Books/Original Gardener's Logbook/Pasted image 20250504213215.png",
