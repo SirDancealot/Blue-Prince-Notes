@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasure Trove.md",
+                "file": "Areas/Outside/Unknown.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Treasure Trove"
+              "title": "Unknown"
             }
           },
           {
@@ -239,16 +239,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a84f170b49300a4",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
+    "TODO.md",
+    "Areas/Outside/Unknown.md",
+    "Blueprints/Rooms/Green Rooms/Cloister.md",
+    "Misc info/language.md",
+    "Images/Misc/Pasted image 20250511000758.png",
+    "Images/Misc/Pasted image 20250511000805.png",
     "Treasure Trove.md",
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Blueprints/Rooms/Numbered/Room 8.md",
     "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
-    "Pasted image 20250511000805.png",
-    "Pasted image 20250511000758.png",
     "Books/The Curse of Black Bridge.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Images/Red letters/RL1-3.png",
@@ -266,7 +270,6 @@
     "Areas/Underground/The Underpass.md",
     "Blueprints/Rooms/Green Rooms/Green Rooms.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
-    "TODO.md",
     "Misc info/Tomorrow.md",
     "Untitled.md",
     "Puzzles/Mora Jai Box.md",
@@ -274,9 +277,6 @@
     "Books/Realm & Rune.md",
     "Countries/Orinda Aries.md",
     "Countries/Countries.md",
-    "Countries/Verra Shores.md",
-    "Blueprints/Rooms/Green Rooms/Cloister.md",
-    "Countries/Mora Jai.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",

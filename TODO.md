@@ -9,5 +9,5 @@
 - Decode [[language|Erajan]] message found in [[Tomb]] [[Message by Clara epsens grave.png]]
 - Try forcing [[Antechamber]] in [[Outer Rooms]] (one of the shrine-effects can do it) (hinted in final page of [[Diary]])
 - use [[Experiments]] to remove all water from fountain (12 more)
-- use [[Experiments]] to remove all crates from tunnel
 - use [[Experiments]] to gain permanent lockpicking skill
+- Enter "[[Unknown]]" area
