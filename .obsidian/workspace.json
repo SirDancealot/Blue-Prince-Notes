@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Antechamber.md",
+                "file": "Blueprints/Rooms/Green Rooms/Green Rooms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Antechamber"
+              "title": "Green Rooms"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,14 +263,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "315a629421cc11f8",
+  "active": "a982c93a640d38f4",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Antechamber.md",
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Pasted image 20250510171516.png",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
     "Misc info/Tomorrow.md",
     "TODO.md",
-    "Blueprints/Rooms/Numbered/Antechamber.md",
     "Untitled.md",
     "Puzzles/Mora Jai Box.md",
     "Images/Misc/Family tree.png",
@@ -292,7 +293,6 @@
     "Blueprints/Rooms/Green Rooms/Greenhouse.md",
     "Images/Misc/Antechamber Lever locations.png",
     "Images/Misc/Basement Key locations.png",
-    "Images/Misc/Calendar of now.png",
     "Blueprints/Rooms/Misc/Mechanarium.md",
     "Areas/Underground/Inner Sanctum.md",
     "Blueprints/Rooms/Green Rooms/Secret Garden.md",
