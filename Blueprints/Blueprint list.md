@@ -111,6 +111,7 @@ Found floorplans
 - [[Closed Exhibit]]
 - [[Planetarium]]
 - [[Tunnel]]
+- [[Throne Room]]
 
 [[Outer Rooms]]
 - [[Toolshed]]

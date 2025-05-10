@@ -107,28 +107,16 @@
             "id": "995b49f7e78ac4ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Areas/Underground/The Underpass.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Images/Misc/Shelter note.png"
               },
-              "icon": "lucide-file",
-              "title": "The Underpass"
+              "icon": "lucide-image",
+              "title": "Shelter note"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,15 +275,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac471c9c275bea7c",
+  "active": "995b49f7e78ac4ae",
   "lastOpenFiles": [
-    "Misc info/Tomorrow.md",
-    "Misc info/Memos.md",
-    "TODO.md",
-    "Blueprints/Blueprint list.md",
-    "Areas/Underground/The Underpass.md",
+    "Images/Misc/Staff Notice.png",
+    "Images/Misc/Train Map.png",
+    "Images/Misc/Underground map.png",
+    "Blueprints/Rooms/Numbered/Antechamber.md",
+    "Blueprints/Rooms/Misc/Mechanarium.md",
+    "Areas/Underground/Inner Sanctum.md",
+    "Blueprints/Rooms/Green Rooms/Secret Garden.md",
+    "Terminal/Mail/Security Mail.md",
+    "Misc info/Experiments.md",
+    "Blueprints/Rooms/Numbered/Room 46.md",
     "Puzzles/Chess/Chess.md",
-    "Experiments.md",
+    "Blueprints/Rooms/Misc/Throne Room.md",
+    "Blueprints/Blueprint list.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Areas/Underground/The Underpass.md",
+    "Misc info/Memos.md",
+    "Misc info/Tomorrow.md",
+    "TODO.md",
     "Terminal/Security Footage.md",
     "Misc info/language.md",
     "Images/Misc/Pasted image 20250510041353.png",
@@ -307,25 +306,14 @@
     "Countries/Verra Shores.md",
     "Countries/Corarica.md",
     "Images/Misc/Pasted image 20250510033044.png",
-    "Puzzles/Sigil doors/Sigil Doors.md",
     "Dates/Dates.md",
     "Images/Misc/Pasted image 20250509172740.png",
-    "Blueprints/Rooms/Bedrooms/Bunk Room.md",
     "Images/Misc/Pasted image 20250509172808.png",
     "Images/Misc/Pasted image 20250509172802.png",
     "Images/Misc/Pasted image 20250509172757.png",
     "Images/Misc/Pasted image 20250509172751.png",
     "Images/Misc/Pasted image 20250509172745.png",
-    "Images/Red letters/RL5-1.png",
-    "Images/Red letters/RL5-2.png",
-    "Puzzles/Red Letters/Red letter 5.md",
-    "Blueprints/Rooms/Numbered/Study.md",
-    "Puzzles/Red Letters/Red Letters.md",
     "Images/Books/Claras diary",
-    "Books/Diary.md",
-    "Blueprints/Rooms/Outer Rooms/Tomb.md",
-    "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
-    "Blueprints/Rooms/Bedrooms/Bedroom.md",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
     "Images/Books/Drafting Strategy Vol 2",
