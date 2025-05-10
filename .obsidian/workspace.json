@@ -37,6 +37,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Areas/Outside/The Precipice.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Precipice"
+            }
+          },
+          {
+            "id": "fd841f18a61aca7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Outside/Blackbridge Grotto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Blackbridge Grotto"
+            }
+          },
+          {
+            "id": "261a13bee859a49c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Areas/Outside/Unknown.md",
                 "mode": "source",
                 "source": false,
@@ -56,12 +104,12 @@
             }
           },
           {
-            "id": "261a13bee859a49c",
+            "id": "f0d8780154aa8ba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Room 8.md",
+                "file": "Books/Diary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Room 8"
+              "title": "Diary"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,18 +287,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "261a13bee859a49c",
   "lastOpenFiles": [
     "TODO.md",
+    "Areas/Outside/The Precipice.md",
+    "Books/Diary.md",
+    "Misc info/language.md",
+    "Areas/Outside/Blackbridge Grotto.md",
+    "Blueprints/Rooms/Numbered/Antechamber.md",
+    "Blueprints/Rooms/Numbered/Room 8.md",
+    "Blueprints/Rooms/Numbered/Locker Room.md",
+    "Pasted image 20250511012849.png",
+    "Puzzles/Chess/Chess.md",
     "Areas/Outside/Unknown.md",
     "Blueprints/Rooms/Green Rooms/Cloister.md",
-    "Misc info/language.md",
     "Images/Misc/Pasted image 20250511000758.png",
     "Images/Misc/Pasted image 20250511000805.png",
     "Treasure Trove.md",
     "Blueprints/Blueprint list.md",
-    "Blueprints/Rooms/Numbered/Antechamber.md",
-    "Blueprints/Rooms/Numbered/Room 8.md",
     "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
     "Books/The Curse of Black Bridge.md",
@@ -263,9 +317,7 @@
     "Images/Red letters/RL2-2.png",
     "Images/Red letters/RL2-1.png",
     "Puzzles/Red Letters/Red Letter 1.md",
-    "Puzzles/Chess/Chess.md",
     "Images/Red letters/RL1-4.png",
-    "Images/Misc/Pasted image 20250510171516.png",
     "Puzzles/Red Letters/Red Letters.md",
     "Areas/Underground/The Underpass.md",
     "Blueprints/Rooms/Green Rooms/Green Rooms.md",
@@ -273,10 +325,6 @@
     "Misc info/Tomorrow.md",
     "Untitled.md",
     "Puzzles/Mora Jai Box.md",
-    "Blueprints/Rooms/Numbered/Pump Room.md",
-    "Books/Realm & Rune.md",
-    "Countries/Orinda Aries.md",
-    "Countries/Countries.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
