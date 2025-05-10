@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Chess/Chess.md",
+                "file": "Areas/Underground/The Underpass.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chess"
+              "title": "The Underpass"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,15 +287,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "315a629421cc11f8",
+  "active": "995b49f7e78ac4ae",
   "lastOpenFiles": [
+    "Puzzles/Chess/Chess.md",
+    "Misc info/Tomorrow.md",
     "Blueprints/Blueprint list.md",
     "TODO.md",
     "Experiments.md",
     "Terminal/Security Footage.md",
-    "Misc info/Tomorrow.md",
     "Misc info/Memos.md",
-    "Puzzles/Chess/Chess.md",
     "Misc info/language.md",
     "Images/Misc/Pasted image 20250510041353.png",
     "Terminal/Terminal.md",
