@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Blueprints/Rooms/Outer Rooms/Shrine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Shrine"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,8 +263,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "315a629421cc11f8",
+  "active": "261a13bee859a49c",
   "lastOpenFiles": [
+    "TODO.md",
+    "Puzzles/Chess/Chess.md",
     "Misc info/Tomorrow.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Blueprints/Rooms/Green Rooms/Green Rooms.md",
@@ -272,7 +274,6 @@
     "Pasted image 20250510171516.png",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
-    "TODO.md",
     "Untitled.md",
     "Puzzles/Mora Jai Box.md",
     "Images/Misc/Family tree.png",
@@ -300,7 +301,6 @@
     "Terminal/Mail/Security Mail.md",
     "Misc info/Experiments.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
-    "Puzzles/Chess/Chess.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
