@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Outer Rooms/Shrine.md",
+                "file": "Puzzles/Sigil doors/Sigil Doors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shrine"
+              "title": "Sigil Doors"
             }
           },
           {
@@ -265,10 +265,10 @@
   },
   "active": "261a13bee859a49c",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "TODO.md",
     "Puzzles/Chess/Chess.md",
     "Misc info/Tomorrow.md",
-    "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Blueprints/Rooms/Green Rooms/Green Rooms.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Pasted image 20250510171516.png",
