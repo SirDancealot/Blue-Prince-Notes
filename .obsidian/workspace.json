@@ -78,57 +78,9 @@
               "icon": "lucide-file",
               "title": "Tomorrow"
             }
-          },
-          {
-            "id": "ac471c9c275bea7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc info/Memos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Memos"
-            }
-          },
-          {
-            "id": "6fdff287525a4ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzles/Mora Jai Box.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mora Jai Box"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,10 +239,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "315a629421cc11f8",
   "lastOpenFiles": [
-    "Images/Misc/Pasted image 20250510154918.png",
+    "TODO.md",
+    "Misc info/Tomorrow.md",
+    "Blueprints/Blueprint list.md",
+    "Puzzles/Mora Jai Box.md",
+    "Images/Misc/Family tree.png",
     "Misc info/Memos.md",
+    "Blueprints/Rooms/Numbered/Pump Room.md",
+    "Areas/Underground/The Underpass.md",
+    "Images/Misc/Pasted image 20250510154918.png",
     "Books/Realm & Rune.md",
     "Countries/Orinda Aries.md",
     "Countries/Countries.md",
@@ -308,8 +267,6 @@
     "Images/Misc/Antechamber Lever locations.png",
     "Images/Misc/Basement Key locations.png",
     "Images/Misc/Calendar of now.png",
-    "Images/Misc/Chess puzzle.png",
-    "Images/Misc/Family tree.png",
     "Blueprints/Rooms/Misc/Mechanarium.md",
     "Areas/Underground/Inner Sanctum.md",
     "Blueprints/Rooms/Green Rooms/Secret Garden.md",
@@ -318,13 +275,7 @@
     "Blueprints/Rooms/Numbered/Room 46.md",
     "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Misc/Throne Room.md",
-    "Blueprints/Blueprint list.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
-    "Areas/Underground/The Underpass.md",
-    "Misc info/Tomorrow.md",
-    "TODO.md",
-    "Terminal/Security Footage.md",
-    "Misc info/language.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",

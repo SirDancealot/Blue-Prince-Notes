@@ -13,3 +13,5 @@ S R E M
 B M K N
 R N B S
 L A M Z
+
+might be SCSM or SESM (if it is hinted based on family crest year and blue [[Memos|Memo]] from [[Vault]])

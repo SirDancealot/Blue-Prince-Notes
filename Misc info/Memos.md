@@ -3,6 +3,7 @@ Rank 8, blue tent memos:
 - [[Boiler Room]]: The high pressure condenser box is connected to two remote power boxes [[TODO]]
 - [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]]
 - [[Office]]: The king can castle by swapping with another piece? [[TODO]]
+- [[Vault]]: The family core is unlocked only by the sum of its digits [[TODO]]
 - [[Security]]: Surveillance recordings can only be accessed via the terminal located in security 
 - [[Observatory]]: The largest planet in the night sky is named after the paragon of ash
 - [[Den]]: The sin associated with this room is often associated with one's use of time, hint for [[Room 8]]
@@ -17,6 +18,7 @@ Rank 8, blue tent memos:
 - [[The Pool]]: There is only one location in the estate where every room in the drafting pool can be drafted
 - [[Attic]]: [[Simon H Sinclair]] was born three years after [[Herbert S Sinclair|HSS]]
 - [[Classroom|Grade 1]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
+- [[Aquarium]]: This tank contains a red herring (probably that 1 of the 3 spots shown has no hidden archive key)
 
 
 Sanctum key was in black moon
