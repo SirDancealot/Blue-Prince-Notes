@@ -22,7 +22,7 @@ Numbered rooms (in order):
 21. [[Pantry]] - Memo round
 22. [[Rumpus Room]]
 23. [[Vault]]
-24. [[Office]]
+24. [[Office]] - Memo found
 25. [[Drawing Room]] - Memo found
 26. [[Study]]
 27. [[Library]]
