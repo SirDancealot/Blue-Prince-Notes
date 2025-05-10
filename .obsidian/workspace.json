@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,12 +287,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "995b49f7e78ac4ae",
+  "active": "315a629421cc11f8",
   "lastOpenFiles": [
+    "TODO.md",
+    "Blueprints/Blueprint list.md",
+    "Areas/Underground/The Underpass.md",
     "Puzzles/Chess/Chess.md",
     "Misc info/Tomorrow.md",
-    "Blueprints/Blueprint list.md",
-    "TODO.md",
     "Experiments.md",
     "Terminal/Security Footage.md",
     "Misc info/Memos.md",
@@ -325,7 +326,6 @@
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
     "Blueprints/Rooms/Bedrooms/Bedroom.md",
-    "Bedrooms.md",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
     "Images/Books/Drafting Strategy Vol 2",
