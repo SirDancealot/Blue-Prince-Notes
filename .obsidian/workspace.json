@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Tomorrow.md",
+                "file": "Puzzles/Chess/Chess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tomorrow"
+              "title": "Chess"
             }
           },
           {
@@ -265,13 +265,13 @@
   },
   "active": "315a629421cc11f8",
   "lastOpenFiles": [
+    "Misc info/Tomorrow.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Blueprints/Rooms/Green Rooms/Green Rooms.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Pasted image 20250510171516.png",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
-    "Misc info/Tomorrow.md",
     "TODO.md",
     "Untitled.md",
     "Puzzles/Mora Jai Box.md",
