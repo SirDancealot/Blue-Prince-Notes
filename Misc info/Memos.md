@@ -15,6 +15,7 @@ Rank 8, blue tent memos:
 - [[Gallery]]: The titles are synonyms
 - [[The Pool]]: There is only one location in the estate where every room in the drafting pool can be drafted
 - [[Attic]]: [[Simon H Sinclair]] was born three years after [[Herbert S Sinclair|HSS]]
+- [[Classroom|Grade 1]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 
 
 Sanctum key was in black moon

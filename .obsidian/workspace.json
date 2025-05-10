@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "Blueprints/Blueprint list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "Blueprint list"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Underground/Safehouse.md",
+                "file": "Misc info/Tomorrow.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Safehouse"
+              "title": "Tomorrow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +215,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "261a13bee859a49c",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Numbered/Security.md",
     "Areas/Underground/Safehouse.md",
+    "Blueprints/Blueprint list.md",
+    "Misc info/Memos.md",
+    "Countries/Nuance.md",
+    "Countries/Verra Shores.md",
+    "Countries/Corarica.md",
+    "Blueprints/Rooms/Numbered/Security.md",
     "TODO.md",
     "Images/Misc/Pasted image 20250510033044.png",
     "Misc info/Tomorrow.md",
@@ -238,7 +244,6 @@
     "Images/Red letters/RL1-2.png",
     "Images/Books/Claras diary",
     "Misc info/language.md",
-    "Blueprints/Blueprint list.md",
     "Books/Diary.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
@@ -249,11 +254,7 @@
     "Puzzles/Puzzles.md",
     "Puzzles/Paintings.md",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
-    "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Workshop.md",
-    "Puzzles/Red Letters/Red Letter 4.md",
-    "Books/Realm & Rune.md",
-    "Countries/Verra Shores.md",
     "Images/Books/Dare Bird",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",

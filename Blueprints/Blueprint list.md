@@ -9,7 +9,7 @@ Numbered rooms (in order):
 8. [[Room 8]]
 9. [[Closet]]
 10. [[Walk-in Closet]]
-11. [[Attic]]
+11. [[Attic]] - Memo found
 12. [[Storeroom]]
 13. [[Nook|Reading Nook]]
 14. [[Garage]]
@@ -98,7 +98,7 @@ Numbered rooms (in order):
 
 [[Drafting Studio|Studio]] additions:
 - [[Clock Tower]] - Memo found
-- [[Classroom]]
+- [[Classroom]] - Memos found: 1st
 - [[Solarium]]
 - [[Dovecote]]
 - [[Casino]]
