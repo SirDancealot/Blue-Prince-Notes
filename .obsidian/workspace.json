@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Tomorrow.md",
+                "file": "Misc info/Memos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tomorrow"
+              "title": "Memos"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Areas/Underground/Safehouse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Safehouse"
             }
           }
         ]
@@ -214,9 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f1611b8525e0dc6",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Security.md",
+    "Areas/Underground/Safehouse.md",
     "TODO.md",
+    "Images/Misc/Pasted image 20250510033044.png",
     "Misc info/Tomorrow.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Dates/Dates.md",
@@ -233,7 +236,6 @@
     "Blueprints/Rooms/Numbered/Study.md",
     "Puzzles/Red Letters/Red Letters.md",
     "Images/Red letters/RL1-2.png",
-    "Images/Books/Claras diary/Pasted image 20250509164757.png",
     "Images/Books/Claras diary",
     "Misc info/language.md",
     "Blueprints/Blueprint list.md",
@@ -252,7 +254,6 @@
     "Puzzles/Red Letters/Red Letter 4.md",
     "Books/Realm & Rune.md",
     "Countries/Verra Shores.md",
-    "Blueprints/Rooms/Red Rooms/Lost and Found.md",
     "Images/Books/Dare Bird",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",

@@ -9,5 +9,6 @@ Various rooms have tomorrow effects, some stated obviously, some not, the follow
 - [[Nursery]]: ?
 - [[Aquarium]]: ?
 - [[Hovel]]: ?
+- [[Dormitory]]: ?
 
 [[TODO]] find the remaining bedroom effects
