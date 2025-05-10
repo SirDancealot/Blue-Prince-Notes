@@ -6,7 +6,7 @@ Numbered rooms (in order):
 5. [[Parlor]]
 6. [[Billiard Room]] - [[Memos|Memo]] found
 7. [[Gallery]] - Memo found
-8. [[Room 8]]
+8. [[Room 8]] - Memo found
 9. [[Closet]]
 10. [[Walk-in Closet]]
 11. [[Attic]] - Memo found
@@ -112,6 +112,7 @@ Found floorplans
 - [[Planetarium]]
 - [[Tunnel]]
 - [[Throne Room]]
+- [[Treasure Trove]]
 
 [[Outer Rooms]]
 - [[Toolshed]]

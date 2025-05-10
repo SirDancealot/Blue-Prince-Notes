@@ -20,6 +20,7 @@ Rank 8, blue tent memos:
 - [[Classroom|Grade 1]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 - [[Aquarium]]: This tank contains a red herring (probably that 1 of the 3 spots shown has no hidden archive key)
 - [[Trophy Room]]: There were a total of eight gems removed from the ruby crown of [[Orinda Aries]]
+- [[Room 8]]: The elefant belongs in this bin (WRATH)
 
 
 Sanctum key was in black moon

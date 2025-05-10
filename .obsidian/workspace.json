@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "261a13bee859a49c",
+            "id": "9a84f170b49300a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Room 46.md",
+                "file": "Treasure Trove.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Room 46"
+              "title": "Treasure Trove"
+            }
+          },
+          {
+            "id": "261a13bee859a49c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints/Rooms/Numbered/Room 8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Room 8"
             }
           }
         ],
@@ -215,8 +239,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "261a13bee859a49c",
+  "active": "9a84f170b49300a4",
   "lastOpenFiles": [
+    "Treasure Trove.md",
+    "Blueprints/Blueprint list.md",
+    "Blueprints/Rooms/Numbered/Antechamber.md",
+    "Blueprints/Rooms/Numbered/Room 8.md",
+    "Misc info/Memos.md",
+    "Blueprints/Rooms/Numbered/Room 46.md",
     "Pasted image 20250511000805.png",
     "Pasted image 20250511000758.png",
     "Books/The Curse of Black Bridge.md",
@@ -238,12 +268,8 @@
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "TODO.md",
     "Misc info/Tomorrow.md",
-    "Blueprints/Rooms/Numbered/Antechamber.md",
-    "Misc info/Memos.md",
-    "Blueprints/Blueprint list.md",
     "Untitled.md",
     "Puzzles/Mora Jai Box.md",
-    "Images/Misc/Family tree.png",
     "Blueprints/Rooms/Numbered/Pump Room.md",
     "Books/Realm & Rune.md",
     "Countries/Orinda Aries.md",
@@ -251,8 +277,6 @@
     "Countries/Verra Shores.md",
     "Blueprints/Rooms/Green Rooms/Cloister.md",
     "Countries/Mora Jai.md",
-    "Countries/Corarica.md",
-    "Blueprints/Rooms/Green Rooms/Greenhouse.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
