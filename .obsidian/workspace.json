@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Outside/Unknown.md",
+                "file": "Treasure Trove.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unknown"
+              "title": "Treasure Trove"
             }
           },
           {
@@ -289,6 +289,7 @@
   },
   "active": "261a13bee859a49c",
   "lastOpenFiles": [
+    "Areas/Outside/Unknown.md",
     "TODO.md",
     "Areas/Outside/The Precipice.md",
     "Books/Diary.md",
@@ -299,7 +300,6 @@
     "Blueprints/Rooms/Numbered/Locker Room.md",
     "Pasted image 20250511012849.png",
     "Puzzles/Chess/Chess.md",
-    "Areas/Outside/Unknown.md",
     "Blueprints/Rooms/Green Rooms/Cloister.md",
     "Images/Misc/Pasted image 20250511000758.png",
     "Images/Misc/Pasted image 20250511000805.png",
