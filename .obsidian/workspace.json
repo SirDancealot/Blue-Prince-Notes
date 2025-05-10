@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Footage.md",
+                "file": "Experiments.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Security Footage"
+              "title": "Experiments"
             }
           },
           {
@@ -289,12 +289,14 @@
   },
   "active": "261a13bee859a49c",
   "lastOpenFiles": [
+    "TODO.md",
+    "Experiments.md",
+    "Terminal/Security Footage.md",
     "Misc info/Tomorrow.md",
     "Blueprints/Blueprint list.md",
     "Misc info/Memos.md",
     "Puzzles/Chess/Chess.md",
     "Misc info/language.md",
-    "Security Footage.md",
     "Images/Misc/Pasted image 20250510041353.png",
     "Terminal/Terminal.md",
     "Blueprints/Rooms/Numbered/Security.md",
@@ -303,7 +305,6 @@
     "Countries/Nuance.md",
     "Countries/Verra Shores.md",
     "Countries/Corarica.md",
-    "TODO.md",
     "Images/Misc/Pasted image 20250510033044.png",
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Dates/Dates.md",
@@ -325,7 +326,6 @@
     "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
     "Blueprints/Rooms/Bedrooms/Bedroom.md",
     "Bedrooms.md",
-    "People/The Family/Clara Epsen.md",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
     "Images/Books/Drafting Strategy Vol 2",
