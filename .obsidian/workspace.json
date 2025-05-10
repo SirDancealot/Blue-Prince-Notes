@@ -83,28 +83,16 @@
             "id": "a982c93a640d38f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Blueprints/Rooms/Green Rooms/Green Rooms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Images/Misc/Pasted image 20250510171516.png"
               },
-              "icon": "lucide-file",
-              "title": "Green Rooms"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250510171516"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,22 +251,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "261a13bee859a49c",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
+    "Images/Red letters/Red Letter 1.md",
+    "Puzzles/Red Letters/Red Letters.md",
+    "Areas/Underground/The Underpass.md",
+    "Puzzles/Chess/Chess.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Blueprints/Rooms/Green Rooms/Green Rooms.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "TODO.md",
-    "Puzzles/Chess/Chess.md",
     "Misc info/Tomorrow.md",
-    "Blueprints/Rooms/Green Rooms/Green Rooms.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
-    "Pasted image 20250510171516.png",
+    "Images/Misc/Pasted image 20250510171516.png",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
     "Untitled.md",
     "Puzzles/Mora Jai Box.md",
     "Images/Misc/Family tree.png",
     "Blueprints/Rooms/Numbered/Pump Room.md",
-    "Areas/Underground/The Underpass.md",
     "Images/Misc/Pasted image 20250510154918.png",
     "Books/Realm & Rune.md",
     "Countries/Orinda Aries.md",
@@ -298,9 +289,6 @@
     "Blueprints/Rooms/Misc/Mechanarium.md",
     "Areas/Underground/Inner Sanctum.md",
     "Blueprints/Rooms/Green Rooms/Secret Garden.md",
-    "Terminal/Mail/Security Mail.md",
-    "Misc info/Experiments.md",
-    "Blueprints/Rooms/Numbered/Room 46.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
