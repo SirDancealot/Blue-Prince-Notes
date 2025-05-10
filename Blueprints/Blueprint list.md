@@ -17,7 +17,7 @@ Numbered rooms (in order):
 16. [[Locker Room]] - Memo found
 17. [[Den]] - Memo found
 18. [[Wine Cellar]] - Memo found
-19. [[Trophy Room]]
+19. [[Trophy Room]] - Memo found
 20. [[Ballroom]]
 21. [[Pantry]] - Memo found
 22. [[Rumpus Room]]

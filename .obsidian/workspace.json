@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "Blueprints/Rooms/Outer Rooms/Shrine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "Shrine"
             }
           },
           {
@@ -265,14 +265,15 @@
   },
   "active": "315a629421cc11f8",
   "lastOpenFiles": [
+    "Pasted image 20250510171516.png",
+    "Misc info/Memos.md",
+    "Blueprints/Blueprint list.md",
     "Misc info/Tomorrow.md",
     "TODO.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Untitled.md",
-    "Blueprints/Blueprint list.md",
     "Puzzles/Mora Jai Box.md",
     "Images/Misc/Family tree.png",
-    "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Pump Room.md",
     "Areas/Underground/The Underpass.md",
     "Images/Misc/Pasted image 20250510154918.png",
@@ -300,7 +301,6 @@
     "Blueprints/Rooms/Numbered/Room 46.md",
     "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Misc/Throne Room.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
