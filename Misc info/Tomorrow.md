@@ -6,7 +6,7 @@ Various rooms have tomorrow effects, some stated obviously, some not, the follow
 - end day in [[Master Bedroom]]: "more steps than usual" the following day
 - [[Bedroom]]: No immediately obvious effect
 - [[Boudoir]]: No effect
-- [[Nursery]]: ?
+- [[Nursery]]: No effect
 - [[Aquarium]]: No effect
 - [[Hovel]]: No effect
 - [[Dormitory]]: No effect
