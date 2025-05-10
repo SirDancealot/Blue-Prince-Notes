@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,8 +287,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac471c9c275bea7c",
+  "active": "315a629421cc11f8",
   "lastOpenFiles": [
+    "Misc info/Memos.md",
     "Misc info/Tomorrow.md",
     "TODO.md",
     "Blueprints/Blueprint list.md",
@@ -296,7 +297,6 @@
     "Puzzles/Chess/Chess.md",
     "Experiments.md",
     "Terminal/Security Footage.md",
-    "Misc info/Memos.md",
     "Misc info/language.md",
     "Images/Misc/Pasted image 20250510041353.png",
     "Terminal/Terminal.md",
