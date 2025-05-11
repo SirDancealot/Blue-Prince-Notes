@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -311,10 +311,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0d8780154aa8ba0",
+  "active": "261a13bee859a49c",
   "lastOpenFiles": [
-    "Misc info/Memos.md",
     "Areas/Outside/Unknown.md",
+    "Misc info/Memos.md",
     "Areas/Outside/The Precipice.md",
     "Blueprints/Blueprint list.md",
     "Areas/Outside/Blackbridge Grotto.md",
