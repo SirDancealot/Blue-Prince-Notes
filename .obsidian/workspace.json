@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Blueprint list.md",
+                "file": "Misc info/Memos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blueprint list"
+              "title": "Memos"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Arch Aries.md",
+                "file": "Treasure Trove.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arch Aries"
+              "title": "Treasure Trove"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -311,12 +311,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "261a13bee859a49c",
+  "active": "fd841f18a61aca7f",
   "lastOpenFiles": [
-    "Countries/Countries.md",
-    "Countries/Arch Aries.md",
-    "Treasure Trove.md",
     "Blueprints/Blueprint list.md",
+    "Treasure Trove.md",
+    "Countries/Arch Aries.md",
+    "Countries/Countries.md",
     "TODO.md",
     "Puzzles/Mora Jai Box.md",
     "Blueprints/Rooms/Misc/Throne Room.md",
