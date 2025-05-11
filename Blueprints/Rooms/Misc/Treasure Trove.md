@@ -2,9 +2,11 @@
 Important info:
 - If forced into the [[Outer Rooms]] a special box spawns instead of a [[Memos|memo]] box
 
+() = guess
 Known info:
 - Sun = True
 - Green in white = false
+- () pink+moon = false
 
 
 Contains a lock-box with a [[Memos|memo]], probably a new one each time
@@ -17,4 +19,5 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - green, machine, black, moon (False): "Boxes marked with moon always contain false statements" (they do sometimes, i.e. this time)
 - red, machine, white, wind (false): "The true treasure of the trove is not in this room"
 - blue, machine, black, sun (true): "All boxes marked by sun contain memos that are true"
-- green, machine, blue, moon (?): "Pink boxes marked with moon always contain false statements"
+- green, machine, blue, moon (true?): "Pink boxes marked with moon always contain false statements"
+- green, hand, pink, moon (false): "There is no realm that flies the white flag"
