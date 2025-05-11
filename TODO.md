@@ -4,6 +4,6 @@
 - Decode [[language|Erajan]] message found in [[Tomb]] [[Message by Clara epsens grave.png]]
 - use [[Experiments]] to remove all water from fountain (12 more)
 - use [[Experiments]] to gain permanent lockpicking skill
-- Enter "[[Unknown]]" area
+- Enter "[[Unknown]]" area (maybe requires all trophies being unlocked?)
 - Get last [[Sigil Doors]] key (probably from [[Vault]])
-- Figure out travel order of [[Herbert S Sinclair|HSS]] for [[Room 46]]w
+- Figure out travel order of [[Herbert S Sinclair|HSS]] for [[Room 46]] (probably after last sigil door)

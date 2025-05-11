@@ -151,8 +151,7 @@
               "title": "Throne Room"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,8 +310,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd841f18a61aca7f",
+  "active": "1f1611b8525e0dc6",
   "lastOpenFiles": [
+    "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
     "Treasure Trove.md",
     "Countries/Arch Aries.md",
@@ -329,7 +329,6 @@
     "Misc info/Tomorrow.md",
     "Countries/Mora Jai.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
-    "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
     "Areas/Outside/The Precipice.md",
     "Areas/Outside/Blackbridge Grotto.md",
