@@ -9,7 +9,7 @@ aliases:
 - [[Mora Jai]] - igloo
 - [[Eraja]] - hourglass Solved
 - [[Nuance]] - Diamond solved
-- [[Corarica]] - heart
+- [[Corarica]] - heart solved
 
 ![[Pasted image 20250501203343.png]]
 
