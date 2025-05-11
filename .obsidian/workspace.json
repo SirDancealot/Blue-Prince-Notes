@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Diary.md",
+                "file": "Areas/Outside/Unknown.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Diary"
+              "title": "Unknown"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,14 +287,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "261a13bee859a49c",
+  "active": "f0d8780154aa8ba0",
   "lastOpenFiles": [
+    "Books/Diary.md",
+    "Blueprints/Blueprint list.md",
+    "Areas/Outside/The Precipice.md",
+    "Areas/Outside/Blackbridge Grotto.md",
+    "Treasure Trove.md",
     "Areas/Outside/Unknown.md",
     "TODO.md",
-    "Areas/Outside/The Precipice.md",
-    "Books/Diary.md",
     "Misc info/language.md",
-    "Areas/Outside/Blackbridge Grotto.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Blueprints/Rooms/Numbered/Room 8.md",
     "Blueprints/Rooms/Numbered/Locker Room.md",
@@ -303,8 +305,6 @@
     "Blueprints/Rooms/Green Rooms/Cloister.md",
     "Images/Misc/Pasted image 20250511000758.png",
     "Images/Misc/Pasted image 20250511000805.png",
-    "Treasure Trove.md",
-    "Blueprints/Blueprint list.md",
     "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
     "Books/The Curse of Black Bridge.md",
