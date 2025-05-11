@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Outside/The Precipice.md",
+                "file": "Misc info/Memos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Precipice"
+              "title": "Memos"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Outside/Blackbridge Grotto.md",
+                "file": "Blueprints/Blueprint list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blackbridge Grotto"
+              "title": "Blueprint list"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -311,14 +311,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "059589acfae77b96",
+  "active": "f0d8780154aa8ba0",
   "lastOpenFiles": [
+    "Misc info/Memos.md",
     "Areas/Outside/Unknown.md",
-    "Books/Diary.md",
-    "Blueprints/Blueprint list.md",
     "Areas/Outside/The Precipice.md",
+    "Blueprints/Blueprint list.md",
     "Areas/Outside/Blackbridge Grotto.md",
     "Treasure Trove.md",
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
+    "Books/Diary.md",
     "TODO.md",
     "Misc info/language.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
@@ -329,7 +331,6 @@
     "Blueprints/Rooms/Green Rooms/Cloister.md",
     "Images/Misc/Pasted image 20250511000758.png",
     "Images/Misc/Pasted image 20250511000805.png",
-    "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
     "Books/The Curse of Black Bridge.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
@@ -345,7 +346,6 @@
     "Puzzles/Red Letters/Red Letters.md",
     "Areas/Underground/The Underpass.md",
     "Blueprints/Rooms/Green Rooms/Green Rooms.md",
-    "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Misc info/Tomorrow.md",
     "Untitled.md",
     "Puzzles/Mora Jai Box.md",

@@ -1,9 +1,9 @@
 Rank 8, blue tent memos:
 - [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]]
-- [[Boiler Room]]: The high pressure condenser box is connected to two remote power boxes [[TODO]]
 - [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]]
 - [[Office]]: The king can castle by swapping with another piece? [[TODO]]
 - [[Vault]]: The family core is unlocked only by the sum of its digits [[TODO]]
+- [[Boiler Room]]: The high pressure condenser box is connected to two remote power boxes ([[The Underpass]] and [[Unknown]])
 - [[Security]]: Surveillance recordings can only be accessed via the terminal located in security 
 - [[Observatory]]: The largest planet in the night sky is named after the paragon of ash
 - [[Den]]: The sin associated with this room is often associated with one's use of time, hint for [[Room 8]]
