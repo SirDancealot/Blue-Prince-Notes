@@ -1,9 +1,9 @@
 - Remaining [[Puzzles]]
 - Find all the [[Blue Tents]] [[Memos]]
 - Figure out what to do with the cursed idol in the cursed box in [[Shrine]] (opened with [[Sledge Hammer]] or [[Morning Star]]), maybe take to the safehouse?
-- Complete the Circuit in [[Blackbridge Grotto]]/[[Apple Orchard]]
-- Try reaching 100 [[Stars]]
 - Decode [[language|Erajan]] message found in [[Tomb]] [[Message by Clara epsens grave.png]]
 - use [[Experiments]] to remove all water from fountain (12 more)
 - use [[Experiments]] to gain permanent lockpicking skill
 - Enter "[[Unknown]]" area
+- Get last [[Sigil Doors]] key (probably from [[Vault]])
+- Figure out travel order of [[Herbert S Sinclair|HSS]] for [[Room 46]]w
