@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasure Trove.md",
+                "file": "Countries/Arch Aries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Treasure Trove"
+              "title": "Arch Aries"
             }
           },
           {
@@ -313,6 +313,9 @@
   },
   "active": "261a13bee859a49c",
   "lastOpenFiles": [
+    "Countries/Countries.md",
+    "Countries/Arch Aries.md",
+    "Treasure Trove.md",
     "Blueprints/Blueprint list.md",
     "TODO.md",
     "Puzzles/Mora Jai Box.md",
@@ -324,12 +327,10 @@
     "Countries/Corarica.md",
     "Books/Realm & Rune.md",
     "Misc info/Tomorrow.md",
-    "Countries/Countries.md",
     "Countries/Mora Jai.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
     "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
-    "Treasure Trove.md",
     "Areas/Outside/The Precipice.md",
     "Areas/Outside/Blackbridge Grotto.md",
     "Books/Diary.md",
