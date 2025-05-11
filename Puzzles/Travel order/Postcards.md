@@ -18,6 +18,8 @@ Travel order:
 7. [[Nuance]]
 8. [[Fenn Aries]]
 
+![[Pasted image 20250511190704.png]]
+
 Definetly first, going south?
 ![[Pasted image 20250511171321.png]]
 

@@ -3,6 +3,6 @@
 - Figure out what to do with the cursed idol in the cursed box in [[Shrine]] (opened with [[Sledge Hammer]] or [[Morning Star]]), maybe take to the safehouse?
 - Decode [[language|Erajan]] message found in [[Tomb]] [[Message by Clara epsens grave.png]]
 - use [[Experiments]] to gain permanent lockpicking skill
-- Enter "[[Unknown]]" area (maybe requires all trophies being unlocked?)
+- Enter "[[Unknown]]" area 
 - Figure out [[Travel order]] of [[Herbert S Sinclair|HSS]] for [[Room 46]] (probably after last sigil door)
 - [[Numeric Core]]

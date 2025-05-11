@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Numeric Core.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Numeric Core"
             }
           },
           {
-            "id": "46b96e5ef40c6b4e",
+            "id": "1125044590635fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "Puzzles/Travel order/Postcards.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,77 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "Postcards"
             }
           }
+        ]
+      },
+      {
+        "id": "bb442e9dec2a3892",
+        "type": "split",
+        "children": [
+          {
+            "id": "01c9fd5481c95b14",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "65479ebb029d1866",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Blueprints/Rooms/Misc/Classroom.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Classroom"
+                }
+              }
+            ]
+          },
+          {
+            "id": "80048aa8d8a02688",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "46b96e5ef40c6b4e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Countries/Countries.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Countries"
+                }
+              }
+            ]
+          }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -215,13 +281,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46b96e5ef40c6b4e",
+  "active": "059589acfae77b96",
   "lastOpenFiles": [
-    "TODO.md",
-    "Numeric Core.md",
-    "Pasted image 20250511184634.png",
-    "Pasted image 20250511184627.png",
+    "Misc info/Memos.md",
+    "Puzzles/Travel order/Postcards.md",
+    "Pasted image 20250511190704.png",
+    "Blueprints/Rooms/Misc/Classroom.md",
+    "Countries/Countries.md",
+    "Images/Misc/Family tree.png",
+    "Puzzles/Travel order/Travel order.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
+    "TODO.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
+    "Images/Misc/Pasted image 20250511184634.png",
+    "Misc info/Experiments.md",
+    "Images/Misc/Pasted image 20250511184627.png",
+    "Numeric Core.md",
     "Blueprints/Rooms/Outer Rooms/Hovel.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Images/Misc/Pasted image 20250511173904.png",
@@ -235,25 +311,15 @@
     "Images/Misc/Pasted image 20250511173922.png",
     "Images/Misc/Pasted image 20250511173916.png",
     "Images/Postcards/Pasted image 20250511171321.png",
-    "Countries/Countries.md",
     "Images/Postcards",
-    "Blueprints/Rooms/Misc/Classroom.md",
-    "Puzzles/Travel order/Postcards.md",
     "Countries/Verra Shores.md",
     "Countries/Mora Jai.md",
     "Countries/Corarica.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
     "Areas/Outside/Unknown.md",
     "Puzzles/Sigil doors/Sigils.md",
-    "Images/Postcards/Pasted image 20250511171600.png",
-    "Images/Postcards/Pasted image 20250511171542.png",
-    "Puzzles/Travel order/Travel order.md",
     "Puzzles/Travel order",
     "Puzzles/Untitled.md",
     "Countries/Nuance.md",
-    "Countries/Eraja.md",
-    "Countries/Arch Aries.md",
-    "Countries/Fenn Aries.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",

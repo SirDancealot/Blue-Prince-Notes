@@ -17,7 +17,7 @@ Where to find the keys to the doors:
 - And the last key is waiting, behind the last door of eight.
 Source: [[Basement Key locations.png]]
 
-Location guesses:
+Locations:
 1. Found: in room 46
 2. Found: In [[Vault]] box 370
 3. Found: [[Clock Tower]] at 1:30 a secret room opens
@@ -26,5 +26,3 @@ Location guesses:
 6. Found: Past the boat ride in the [[Underground]] resevoir
 7. Found: [[Music Room]] if all other [[Major Key]] [[Items]] are held
 8. Found: Behind the last door to spawn in the [[Mechanarium]]
-
-Behind each door is a [[Sigils|Sigil]] i need to set to look correct

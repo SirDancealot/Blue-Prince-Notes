@@ -9,11 +9,11 @@ Triggers:
 - Each time you draft a tomorrow room
 
 Effects:
-- Lover the reservoir by 1 ([[TODO]] use this to remove all water from fountain)
+- Lover the reservoir by 1
 - Stock [[Pantry]] with fruit
 - unseal one of the [[Antechamber]] doors
 - Permanently increase your lockpicking skill ([[TODO]] do this a lot :D)
 - gain 1 random item, then set your keys to 0
-- remove a crate from the tunnel ([[TODO]] remove them all)
+- remove a crate from the tunnel
 - gain 1 key for each 40 steps you have
 - lose half your steps, then gain 4 ivory die
