@@ -25,6 +25,6 @@ Location guesses:
 5. Found: In the [[Throne Room]]
 6. Found: Past the boat ride in the [[Underground]] resevoir
 7. Found: [[Music Room]] if all other [[Major Key]] [[Items]] are held
-8. Guess: Literally behind the 8th of the doors [[Underground]], or [[Mechanarium]]
+8. Found: Behind the last door to spawn in the [[Mechanarium]]
 
 Behind each door is a [[Sigils|Sigil]] i need to set to look correct
