@@ -11,24 +11,12 @@
             "id": "059589acfae77b96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Puzzles/Angel/Angel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Images/Misc/Pasted image 20250511173904.png"
               },
-              "icon": "lucide-file",
-              "title": "Angel"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250511173904"
             }
           }
         ]
@@ -190,16 +178,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "059589acfae77b96",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
-    "Puzzles/Angel/Cleaning angel.md",
+    "Images/Misc/Pasted image 20250511173911.png",
+    "Images/Misc/Pasted image 20250511173904.png",
     "Puzzles/Angel/Angel.md",
+    "Puzzles/Angel/Gardening angel.md",
+    "Puzzles/Angel/Chimney Sweeper angel.md",
+    "Puzzles/Angel/Cleaning angel.md",
     "Testament.md",
-    "Pasted image 20250511173933.png",
-    "Pasted image 20250511173922.png",
-    "Pasted image 20250511173916.png",
-    "Pasted image 20250511173911.png",
-    "Pasted image 20250511173904.png",
+    "Images/Misc/Pasted image 20250511173933.png",
+    "Images/Misc/Pasted image 20250511173922.png",
+    "Images/Misc/Pasted image 20250511173916.png",
     "Blueprints/Rooms/Numbered/Room 46.md",
     "TODO.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
@@ -227,9 +217,6 @@
     "Countries/Fenn Aries.md",
     "Countries/Orinda Aries.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
-    "Books/Realm & Rune.md",
-    "Blueprints/Rooms/Misc/Throne Room.md",
-    "Blueprints/Rooms/Numbered/Vault.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",

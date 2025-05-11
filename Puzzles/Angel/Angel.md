@@ -12,13 +12,13 @@ Order as found in [[Chapel]]
 When interacted with in the correct order in the [[Tomb]] a secret door to the [[Catacombs]], which further lead to the [[Underground]] opened up
 
 The names of the angels are:
-- Orinda
+- Orinda = [[Royal Angel]]
 - Lydia
-- Rynna
+- Rynna = [[Gardening angel]]
 - Joya
 - Dauja
-- Veia
-- Mila
-- Draxus
+- Veia = [[Chimney Sweeper angel]]
+- Mila = [[Cleaning angel]]
+- Draxus = [[Death]]
 
 Additionally [[Death]] exists
