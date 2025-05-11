@@ -8,4 +8,32 @@ Images of postcards from the different [[Countries]] in order:
 - [[Verra Shores]]
 - [[Nuance]]
 
-![[Pasted image 20250511171321.png]]![[Pasted image 20250511171344.png]]
+Travel order:
+1. [[Orinda Aries]]
+2. [[Eraja]]
+3. .
+4. .
+5. .
+6. .
+7. .
+8. [[Fenn Aries]]
+
+Definetly first, going south?
+![[Pasted image 20250511171321.png]]
+
+Definetly last, has lost books
+![[Pasted image 20250511171344.png]]
+
+After a long sailing trip, likely after Mora jai
+![[Pasted image 20250511171408.png]]
+
+[[Eraja]]:
+![[Pasted image 20250511171430.png]]
+
+[[Corarica]] Still has books, might get rid of them here, right after [[Verra Shores]]
+![[Pasted image 20250511171505.png]]
+
+[[Mora Jai]]: short sailing trip, probably after [[Corarica]], Before loosing books
+![[Pasted image 20250511171524.png]]
+![[Pasted image 20250511171542.png]]
+![[Pasted image 20250511171600.png]]

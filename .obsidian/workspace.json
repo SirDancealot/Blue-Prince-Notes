@@ -4,112 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f9d3b68782e2c7e",
+        "id": "7efd2f00c9d7000d",
         "type": "tabs",
         "children": [
-          {
-            "id": "1f1611b8525e0dc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "fd841f18a61aca7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc info/Memos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Memos"
-            }
-          },
-          {
-            "id": "261a13bee859a49c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "f0d8780154aa8ba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Outside/Unknown.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unknown"
-            }
-          },
           {
             "id": "059589acfae77b96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Countries/Countries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +28,42 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Countries"
             }
           },
           {
             "id": "0bf3036347854408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints/Rooms/Misc/Classroom.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Classroom"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4f9d3b68782e2c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0d8780154aa8ba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -151,8 +86,7 @@
               "title": "Postcards"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,19 +245,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bf3036347854408",
+  "active": "f0d8780154aa8ba0",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Misc/Classroom.md",
+    "Countries/Countries.md",
+    "Puzzles/Sigil doors/Sigil Doors.md",
+    "Puzzles/Travel order/Postcards.md",
+    "Areas/Outside/Unknown.md",
+    "Puzzles/Sigil doors/Sigils.md",
+    "TODO.md",
+    "Pasted image 20250511171600.png",
+    "Pasted image 20250511171542.png",
+    "Pasted image 20250511171524.png",
+    "Pasted image 20250511171505.png",
+    "Pasted image 20250511171430.png",
     "Pasted image 20250511171408.png",
     "Pasted image 20250511171344.png",
     "Pasted image 20250511171321.png",
-    "Countries/Countries.md",
-    "Puzzles/Travel order/Postcards.md",
     "Puzzles/Travel order/Travel order.md",
     "Images/Misc/Pasted image 20250511165446.png",
-    "TODO.md",
     "Puzzles/Travel order",
     "Puzzles/Untitled.md",
-    "Blueprints/Rooms/Misc/Classroom.md",
     "Countries/Nuance.md",
     "Countries/Mora Jai.md",
     "Countries/Corarica.md",
@@ -341,15 +283,7 @@
     "Blueprints/Rooms/Numbered/Room 8.md",
     "Blueprints/Blueprint list.md",
     "Puzzles/Mora Jai Box.md",
-    "Areas/Outside/Unknown.md",
     "Images/Misc/Pasted image 20250511012849.png",
-    "Images/Misc/Pasted image 20250511035246.png",
-    "Misc info/Tomorrow.md",
-    "Images/Misc/Pasted image 20250511000758.png",
-    "Images/Misc/Pasted image 20250511000805.png",
-    "Images/Red letters/RL1-3.png",
-    "Images/Red letters/RL1-2.png",
-    "Images/Red letters/RL1-1.png",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
