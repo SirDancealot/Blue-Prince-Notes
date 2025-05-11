@@ -1,6 +1,6 @@
 Rank 8, blue tent memos:
 - [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]]
-- [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]]
+- [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]] [[]]
 - [[Office]]: The king can castle by swapping with another piece? [[TODO]]
 - [[Vault]]: The family core is unlocked only by the sum of its digits [[TODO]]
 - [[Boiler Room]]: The high pressure condenser box is connected to two remote power boxes ([[The Underpass]] and [[Unknown]])
