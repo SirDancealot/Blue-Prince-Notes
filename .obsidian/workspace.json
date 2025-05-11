@@ -151,7 +151,8 @@
               "title": "Throne Room"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -310,10 +311,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f1611b8525e0dc6",
+  "active": "f0d8780154aa8ba0",
   "lastOpenFiles": [
-    "Images/Misc/Pasted image 20250511012849.png",
     "Puzzles/Mora Jai Box.md",
+    "Images/Misc/Pasted image 20250511012849.png",
     "Images/Misc/Pasted image 20250511035246.png",
     "Countries/Corarica.md",
     "Books/Realm & Rune.md",
