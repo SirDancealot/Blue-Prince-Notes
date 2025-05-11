@@ -1,4 +1,11 @@
-If forced into the [[Outer Rooms]] a special box spawns instead of a [[Memos|memo]] box
+
+Important info:
+- If forced into the [[Outer Rooms]] a special box spawns instead of a [[Memos|memo]] box
+
+Known info:
+- Sun = True
+- Green in white = false
+
 
 Contains a lock-box with a [[Memos|memo]], probably a new one each time
 in order; (information in order, memo color, typeface, box color, box symbol, (working theory))
@@ -9,3 +16,4 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - Green, Machine, White, wind (False): "Two realms have the same color banner"
 - green, machine, black, moon (False): "Boxes marked with moon always contain false statements" (they do sometimes, i.e. this time)
 - red, machine, white, wind (false): "The true treasure of the trove is not in this room"
+- blue, machine, black, sun (true): "All boxes marked by sun contain memos that are true"
