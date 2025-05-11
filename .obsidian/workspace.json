@@ -151,7 +151,8 @@
               "title": "Throne Room"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -310,14 +311,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f1611b8525e0dc6",
+  "active": "261a13bee859a49c",
   "lastOpenFiles": [
     "Misc info/Memos.md",
+    "TODO.md",
     "Blueprints/Blueprint list.md",
     "Treasure Trove.md",
     "Countries/Arch Aries.md",
     "Countries/Countries.md",
-    "TODO.md",
     "Puzzles/Mora Jai Box.md",
     "Blueprints/Rooms/Misc/Throne Room.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",

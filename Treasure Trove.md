@@ -7,3 +7,4 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - Green, Machine, Blue, Sun (True): "The true treasure of the trove is not in the house"
 - Red, Hand, White, wind (True): "The previous box in this room contained a true statement"
 - Green, Machine, White, wind (False): "Two realms have the same color banner"
+- green, machine, black, moon (False): "Boxes marked with moon always contain false statements" (they do sometimes, i.e. this time)
