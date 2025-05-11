@@ -2,7 +2,7 @@
 - Find all the [[Blue Tents]] [[Memos]]
 - Figure out what to do with the cursed idol in the cursed box in [[Shrine]] (opened with [[Sledge Hammer]] or [[Morning Star]]), maybe take to the safehouse?
 - Decode [[language|Erajan]] message found in [[Tomb]] [[Message by Clara epsens grave.png]]
-- use [[Experiments]] to remove all water from fountain (6 more)
+- use [[Experiments]] to remove all water from fountain (4 more)
 - use [[Experiments]] to gain permanent lockpicking skill
 - Enter "[[Unknown]]" area (maybe requires all trophies being unlocked?)
 - Get last [[Sigil Doors]] key (probably from [[Vault]])
