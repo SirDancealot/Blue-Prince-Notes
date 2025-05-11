@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
+                "file": "Blueprints/Rooms/Outer Rooms/Hovel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Treasure Trove"
+              "title": "Hovel"
             }
           }
         ]
@@ -192,6 +192,7 @@
   },
   "active": "059589acfae77b96",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Images/Misc/Pasted image 20250511173904.png",
     "Images/Misc/Pasted image 20250511173911.png",
     "Puzzles/Angel/Angel.md",
@@ -204,7 +205,6 @@
     "Images/Misc/Pasted image 20250511173916.png",
     "Blueprints/Rooms/Numbered/Room 46.md",
     "TODO.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Images/Postcards/Pasted image 20250511171321.png",
     "Countries/Countries.md",
     "Images/Postcards",
