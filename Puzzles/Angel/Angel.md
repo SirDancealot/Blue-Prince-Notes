@@ -11,4 +11,14 @@ Order as found in [[Chapel]]
 7. [[Royal Angel]]
 When interacted with in the correct order in the [[Tomb]] a secret door to the [[Catacombs]], which further lead to the [[Underground]] opened up
 
+The names of the angels are:
+- Orinda
+- Lydia
+- Rynna
+- Joya
+- Dauja
+- Veia
+- Mila
+- Draxus
+
 Additionally [[Death]] exists
