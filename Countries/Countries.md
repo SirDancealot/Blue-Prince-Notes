@@ -6,7 +6,7 @@ aliases:
 - [[Fenn Aries]] - Pentagon solved
 - [[Arch Aries]] - Mountain solved
 - [[Verra Shores]] - cannon solved
-- [[Mora Jai]] - igloo
+- [[Mora Jai]] - igloo solved
 - [[Eraja]] - hourglass Solved
 - [[Nuance]] - Diamond solved
 - [[Corarica]] - heart solved

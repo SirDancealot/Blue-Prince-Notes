@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Outer Rooms/Shrine.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shrine"
+              "title": "TODO"
             }
           },
           {
-            "id": "7a83f99755fb6b92",
+            "id": "0bf3036347854408",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Realm & Rune.md",
+                "file": "Puzzles/Travel order/Postcards.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,41 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Realm & Rune"
+              "title": "Postcards"
             }
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "d60fd9fff8d469d1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "03debe6dfb00f793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Countries/Mora Jai.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mora Jai"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -341,44 +311,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a83f99755fb6b92",
+  "active": "0bf3036347854408",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Misc/Throne Room.md",
-    "Countries/Mora Jai.md",
+    "Pasted image 20250511171408.png",
+    "Pasted image 20250511171344.png",
+    "Pasted image 20250511171321.png",
     "Countries/Countries.md",
+    "Puzzles/Travel order/Postcards.md",
+    "Puzzles/Travel order/Travel order.md",
+    "Images/Misc/Pasted image 20250511165446.png",
+    "TODO.md",
+    "Puzzles/Travel order",
+    "Puzzles/Untitled.md",
+    "Blueprints/Rooms/Misc/Classroom.md",
+    "Countries/Nuance.md",
+    "Countries/Mora Jai.md",
+    "Countries/Corarica.md",
+    "Countries/Eraja.md",
+    "Countries/Verra Shores.md",
+    "Countries/Arch Aries.md",
+    "Countries/Fenn Aries.md",
+    "Countries/Orinda Aries.md",
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
+    "Books/Realm & Rune.md",
+    "Blueprints/Rooms/Misc/Throne Room.md",
     "Blueprints/Rooms/Numbered/Vault.md",
-    "Pasted image 20250511165446.png",
     "Treasure Trove.md",
     "Misc info/Memos.md",
-    "TODO.md",
     "Blueprints/Rooms/Numbered/Room 8.md",
     "Blueprints/Blueprint list.md",
-    "Countries/Arch Aries.md",
     "Puzzles/Mora Jai Box.md",
-    "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Areas/Outside/Unknown.md",
     "Images/Misc/Pasted image 20250511012849.png",
     "Images/Misc/Pasted image 20250511035246.png",
-    "Countries/Corarica.md",
-    "Books/Realm & Rune.md",
     "Misc info/Tomorrow.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "Blueprints/Rooms/Numbered/Clock Tower.md",
-    "Areas/Outside/The Precipice.md",
-    "Areas/Outside/Blackbridge Grotto.md",
-    "Books/Diary.md",
-    "Misc info/language.md",
-    "Blueprints/Rooms/Numbered/Antechamber.md",
-    "Blueprints/Rooms/Numbered/Locker Room.md",
-    "Puzzles/Chess/Chess.md",
-    "Blueprints/Rooms/Green Rooms/Cloister.md",
     "Images/Misc/Pasted image 20250511000758.png",
     "Images/Misc/Pasted image 20250511000805.png",
     "Images/Red letters/RL1-3.png",
     "Images/Red letters/RL1-2.png",
     "Images/Red letters/RL1-1.png",
-    "Images/Red letters/RL2-3.png",
-    "Images/Red letters/RL2-2.png",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
@@ -388,7 +359,6 @@
     "Images/Books/Drafting Strategy Vol 1",
     "Images/The Exam",
     "Images/Books/Drafting Strategy Vol 5",
-    "Images/Books/Drafting strategy Vol 4",
     "Untitled.canvas"
   ]
 }
