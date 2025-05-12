@@ -6,6 +6,7 @@ Important info:
 Known info:
 - Sun = True
 - Green in white = false
+- blue box+wind = false
 - () pink+moon = false
 
 
@@ -20,6 +21,7 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - red, machine, white, wind (false): "The true treasure of the trove is not in this room"
 - blue, machine, black, sun (true): "All boxes marked by sun contain memos that are true"
 - green, machine, blue, moon (true?): "Pink boxes marked with moon always contain false statements"
-- green, hand, pink, moon (True): "There is no realm that flies the white flag"
+- green, hand, pink, moon (False): "There is no realm that flies the white flag"
 - Red, machine, pink, wind (False): "The previous box in this room contained a true statement"
 - Green, machine, black, sun (True): "You will need a key to obtain the true treasure of the trove"
+- Blue, machine, blue, moon (true): "Blue boxes marked by wind contain false statements"

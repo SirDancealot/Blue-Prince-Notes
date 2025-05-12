@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Treasure Trove"
             }
           }
         ],
@@ -289,6 +289,9 @@
   },
   "active": "3c0b81273e90f57d",
   "lastOpenFiles": [
+    "Misc info/Tomorrow.md",
+    "Simon H Sinclair.md",
+    "TODO.md",
     "Misc info/Memos.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
     "Numeric Core.md",
@@ -299,7 +302,6 @@
     "Images/Misc/Pasted image 20250513000832.png",
     "Images/Misc/Pasted image 20250511190704.png",
     "Areas/Underground/Underground.md",
-    "TODO.md",
     "conflict-files-obsidian-git.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Misc info/language.md",
@@ -320,12 +322,10 @@
     "Puzzles/Angel/Gardening angel.md",
     "Puzzles/Angel/Chimney Sweeper angel.md",
     "Puzzles/Angel/Cleaning angel.md",
-    "Testament.md",
     "Images/Misc/Pasted image 20250511173933.png",
     "Images/Misc/Pasted image 20250511173922.png",
     "Images/Misc/Pasted image 20250511173916.png",
     "Images/Postcards",
-    "Countries/Verra Shores.md",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
