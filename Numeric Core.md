@@ -15,3 +15,6 @@ Maybe some split up of MCCXIII
 
 Deed in [[Room 46]]
 05121912
+
+[[Testament]] date:
+18 03 19 93
