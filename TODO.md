@@ -4,5 +4,4 @@
 - Decode [[language|Erajan]] message found in [[Tomb]] [[Message by Clara epsens grave.png]]
 - use [[Experiments]] to gain permanent lockpicking skill
 - Enter "[[Unknown]]" area 
-- Figure out [[Travel order]] of [[Herbert S Sinclair|HSS]] for [[Room 46]] (probably after last sigil door)
 - [[Numeric Core]]

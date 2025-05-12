@@ -3,6 +3,7 @@
 +3,  -6, /1, \*4 = -12
 
 
+[[TODO]]
 [[Wine Cellar]]
 1213:
 1, 2, 1, 3
@@ -14,3 +15,6 @@ Maybe some split up of MCCXIII
 
 Deed in [[Room 46]]
 05121912
+
+[[Testament]] date:
+18 03 19 93

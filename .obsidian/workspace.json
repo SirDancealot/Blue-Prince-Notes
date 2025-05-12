@@ -11,10 +11,24 @@
             "id": "5daa892efd014ae3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -178,6 +192,7 @@
   },
   "active": "5daa892efd014ae3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Misc info/language.md",
     "Countries/Countries.md",
@@ -215,7 +230,6 @@
     "Areas/Outside/Unknown.md",
     "Puzzles/Sigil doors/Sigils.md",
     "Puzzles/Travel order",
-    "Puzzles/Untitled.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
