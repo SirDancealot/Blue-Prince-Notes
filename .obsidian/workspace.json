@@ -4,125 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7efd2f00c9d7000d",
+        "id": "9d174316ab19679e",
         "type": "tabs",
         "children": [
           {
-            "id": "059589acfae77b96",
+            "id": "5daa892efd014ae3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Numeric Core.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Numeric Core"
-            }
-          },
-          {
-            "id": "1125044590635fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzles/Travel order/Postcards.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Postcards"
+              "title": "New tab"
             }
           }
         ]
-      },
-      {
-        "id": "bb442e9dec2a3892",
-        "type": "split",
-        "children": [
-          {
-            "id": "01c9fd5481c95b14",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "65479ebb029d1866",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Blueprints/Rooms/Misc/Classroom.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Classroom"
-                }
-              }
-            ]
-          },
-          {
-            "id": "80048aa8d8a02688",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "46b96e5ef40c6b4e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Countries/Countries.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Countries"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -281,13 +176,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "059589acfae77b96",
+  "active": "5daa892efd014ae3",
   "lastOpenFiles": [
-    "Misc info/Memos.md",
-    "Puzzles/Travel order/Postcards.md",
-    "Pasted image 20250511190704.png",
-    "Blueprints/Rooms/Misc/Classroom.md",
+    "Blueprints/Rooms/Outer Rooms/Tomb.md",
+    "Misc info/language.md",
     "Countries/Countries.md",
+    "Blueprints/Rooms/Misc/Classroom.md",
+    "Puzzles/Travel order/Postcards.md",
+    "Numeric Core.md",
+    "Misc info/Memos.md",
+    "Pasted image 20250511190704.png",
     "Images/Misc/Family tree.png",
     "Puzzles/Travel order/Travel order.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
@@ -297,7 +195,6 @@
     "Images/Misc/Pasted image 20250511184634.png",
     "Misc info/Experiments.md",
     "Images/Misc/Pasted image 20250511184627.png",
-    "Numeric Core.md",
     "Blueprints/Rooms/Outer Rooms/Hovel.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Images/Misc/Pasted image 20250511173904.png",
@@ -319,7 +216,6 @@
     "Puzzles/Sigil doors/Sigils.md",
     "Puzzles/Travel order",
     "Puzzles/Untitled.md",
-    "Countries/Nuance.md",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
