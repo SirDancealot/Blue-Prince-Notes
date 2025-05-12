@@ -1,6 +1,7 @@
 Rank 8, blue tent memos:
 - [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]] (was it the metro map?)
 - [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]] [[Numeric Core]]
+- [[Mechanarium]]: On the coat of arms the first number is one numeral, the rest are each two numerals
 - [[Office]]: The king can castle by swapping with another piece? [[TODO]]
 - [[Vault]]: The family core is unlocked only by the sum of its digits [[TODO]]
 - [[Boiler Room]]: The high pressure condenser box is connected to two remote power boxes ([[The Underpass]] and [[Unknown]])
@@ -22,6 +23,7 @@ Rank 8, blue tent memos:
 - [[Trophy Room]]: There were a total of eight gems removed from the ruby crown of [[Orinda Aries]]
 - [[Room 8]]: The elefant belongs in this bin (WRATH)
 - [[The Kennel]]: [[Herbert S Sinclair|HSS]]'s four canine companions are named "Carter", "Thoughtless", "Hot Sauce" and "Drawbridge"
+- [[Closet]]: "The closet was one of the original 46 rooms of mount holly"
 
 
 Sanctum key was in black moon

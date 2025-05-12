@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
+                "file": "Numeric Core.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Treasure Trove"
+              "title": "Numeric Core"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Angel/Angel.md",
+                "file": "Blueprints/Rooms/Misc/Mechanarium.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Angel"
+              "title": "Mechanarium"
+            }
+          },
+          {
+            "id": "42a447fa6692821f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc info/Memos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Memos"
+            }
+          },
+          {
+            "id": "4064709b4b208afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc info/Memos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Memos"
+            }
+          },
+          {
+            "id": "3c0b81273e90f57d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,9 +287,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f82a8ec6739d08b",
+  "active": "3c0b81273e90f57d",
   "lastOpenFiles": [
+    "Misc info/Memos.md",
+    "Blueprints/Rooms/Misc/Mechanarium.md",
+    "Numeric Core.md",
+    "Blueprints/Blueprint list.md",
+    "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
+    "Puzzles/Angel/Angel.md",
     "Images/Misc/Pasted image 20250513000832.png",
     "Images/Misc/Pasted image 20250511190704.png",
     "Areas/Underground/Underground.md",
@@ -228,8 +306,6 @@
     "Countries/Countries.md",
     "Blueprints/Rooms/Misc/Classroom.md",
     "Puzzles/Travel order/Postcards.md",
-    "Numeric Core.md",
-    "Misc info/Memos.md",
     "Images/Misc/Family tree.png",
     "Puzzles/Travel order/Travel order.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
@@ -241,7 +317,6 @@
     "Blueprints/Rooms/Outer Rooms/Hovel.md",
     "Images/Misc/Pasted image 20250511173904.png",
     "Images/Misc/Pasted image 20250511173911.png",
-    "Puzzles/Angel/Angel.md",
     "Puzzles/Angel/Gardening angel.md",
     "Puzzles/Angel/Chimney Sweeper angel.md",
     "Puzzles/Angel/Cleaning angel.md",
@@ -251,8 +326,6 @@
     "Images/Misc/Pasted image 20250511173916.png",
     "Images/Postcards",
     "Countries/Verra Shores.md",
-    "Countries/Mora Jai.md",
-    "Countries/Corarica.md",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",

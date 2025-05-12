@@ -10,7 +10,10 @@
 +1\*2/1-3 = -2
 +1-2/1\*3 = -3
 
-Maybe some split up of MCCXIII
+By blue memo in [[Mechanarium]]: On the coat of arms the first number is one numeral, the rest are each two numerals
+Maybe some split up of M CC XI II
+1000, 200, 11, 2
++1000/200\*11-2=53
 
 
 Deed in [[Room 46]]

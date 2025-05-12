@@ -7,7 +7,7 @@ Numbered rooms (in order):
 6. [[Billiard Room]] - [[Memos|Memo]] found
 7. [[Gallery]] - Memo found
 8. [[Room 8]] - Memo found
-9. [[Closet]]
+9. [[Closet]] -  Memo found
 10. [[Walk-in Closet]]
 11. [[Attic]] - Memo found
 12. [[Storeroom]]
@@ -106,7 +106,7 @@ Numbered rooms (in order):
 - [[The Kennel]] - Memo found
 
 Found floorplans
-- [[Mechanarium]]
+- [[Mechanarium]] - Memo found
 - [[Conservatory]]
 - [[Closed Exhibit]]
 - [[Planetarium]]
