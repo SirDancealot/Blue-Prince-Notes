@@ -20,4 +20,5 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - red, machine, white, wind (false): "The true treasure of the trove is not in this room"
 - blue, machine, black, sun (true): "All boxes marked by sun contain memos that are true"
 - green, machine, blue, moon (true?): "Pink boxes marked with moon always contain false statements"
-- green, hand, pink, moon (false): "There is no realm that flies the white flag"
+- green, hand, pink, moon (True): "There is no realm that flies the white flag"
+- Red, machine, pink, wind (False): "The previous box in this room contained a true statement"
