@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Sigil doors/Sigil Doors.md",
+                "file": "Blueprints/Rooms/Outer Rooms/Tomb.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sigil Doors"
+              "title": "Tomb"
             }
           },
           {
@@ -253,8 +253,8 @@
   },
   "active": "beb24417cd99ea51",
   "lastOpenFiles": [
-    "TODO.md",
     "Puzzles/Sigil doors/Sigil Doors.md",
+    "TODO.md",
     "Blueprints/Rooms/Numbered/Room 8.md",
     "Blueprints/Blueprint list.md",
     "Images/Books/A New Clue/Pasted image 20250428224027.png",
