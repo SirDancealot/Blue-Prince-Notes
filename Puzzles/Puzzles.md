@@ -7,7 +7,7 @@
 - [[Parlor|Parlor/Logic]] - Solved ish
 - [[Gallery]] - Solved
 - [[Paintings]] - Solved
-- [[Red Letters]]
+- [[Red Letters]] - Solved?
 - [[Classroom]] - Solved
-- [[Sigil Doors]]
-- [[Mora Jai Box]]
+- [[Sigil Doors]] - Solved
+- [[Mora Jai Box]] - Solved

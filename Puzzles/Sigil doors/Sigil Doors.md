@@ -1,4 +1,3 @@
-[[TODO]]
 might be THE main puzzle
 there are interesting things [[Behind the doors]]
 

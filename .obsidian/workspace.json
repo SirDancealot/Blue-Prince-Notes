@@ -6,7 +6,6 @@
       {
         "id": "63ee774466c8790e",
         "type": "tabs",
-        "dimension": 68.10606060606061,
         "children": [
           {
             "id": "99018dd957b63a0f",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Outer Rooms/Shrine.md",
+                "file": "Puzzles/Sigil doors/Sigil Doors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shrine"
+              "title": "Sigil Doors"
             }
           },
           {
@@ -38,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
+                "file": "Blueprints/Rooms/Misc/The Kennel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,47 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Her Ladyship's Chamber"
-            }
-          }
-        ]
-      },
-      {
-        "id": "23a89d7db6558dc3",
-        "type": "tabs",
-        "dimension": 31.893939393939398,
-        "children": [
-          {
-            "id": "962fb48dffbe4eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Drafting Strategy Vol 5.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Drafting Strategy Vol 5"
+              "title": "The Kennel"
             }
           },
           {
-            "id": "7050fc773d531c08",
+            "id": "97129a57ac7f91e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
+                "file": "Areas/Underground/The Underpass.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -108,11 +76,58 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Treasure Trove"
+              "title": "The Underpass"
+            }
+          },
+          {
+            "id": "0002f05ef8ccdb8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Outside/Blackbridge Grotto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Blackbridge Grotto"
+            }
+          },
+          {
+            "id": "2b99bc08c28e0de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Underground/The Underpass.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Underpass"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Draft",
+                "query": "Pasted image 20250511012849",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +180,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -271,45 +287,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7050fc773d531c08",
+  "active": "99018dd957b63a0f",
   "lastOpenFiles": [
+    "TODO.md",
+    "Puzzles/Paintings.md",
+    "Blueprints/Rooms/Misc/The Kennel.md",
+    "Areas/Underground/The Underpass.md",
+    "Blueprints/Rooms/Numbered/Locker Room.md",
+    "Misc info/language.md",
+    "Areas/Outside/The Precipice.md",
+    "Areas/Outside/Blackbridge Grotto.md",
+    "Numeric Core.md",
+    "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
+    "Images/Misc/Pasted image 20250511012849.png",
+    "Images/Misc/Pasted image 20250511035246.png",
+    "Images/Misc/Pasted image 20250511165446.png",
+    "Images/Misc/Pasted image 20250511173904.png",
+    "Images/Misc/Pasted image 20250511173911.png",
+    "Images/Misc/Pasted image 20250511173916.png",
+    "Images/Misc/Pasted image 20250511173922.png",
+    "Images/Misc/Pasted image 20250511173933.png",
+    "Images/Misc/Pasted image 20250511184627.png",
+    "Images/Misc/Pasted image 20250511184634.png",
+    "Areas/Underground/Abandoned mine.md",
+    "Puzzles/Red Letters/Red Letters.md",
+    "Puzzles/Puzzles.md",
+    "Puzzles/Math.md",
+    "Areas/Outside/Unknown.md",
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
+    "Books/Drafting Strategy Vol 5.md",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Books/The Curse of Black Bridge.md",
     "Blueprints/Rooms/Misc/Throne Room.md",
-    "Blueprints/Rooms/Outer Rooms/Shrine.md",
-    "TODO.md",
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Misc/Planetarium.md",
     "Books/The Fixed Stars.md",
-    "Blueprints/Rooms/Bedrooms/Her Ladyship's Chamber.md",
-    "Books/Drafting Strategy Vol 5.md",
     "Books/A New Clue.md",
     "Blueprints/Rooms/Numbered/Security.md",
     "People/Other People/Alzara.md",
-    "Blueprints/Rooms/Numbered/Rumpus Room.md",
-    "Areas/Underground/Safehouse.md",
-    "Misc info/language.md",
-    "Terminal/Terminal.md",
-    "Blueprints/Rooms/Numbered/Attic.md",
-    "Terminal/Security Footage.md",
-    "Blueprints/Rooms/Numbered/Entrance Hall.md",
-    "Blueprints/Rooms/Outer Rooms/Tomb.md",
-    "Blueprints/Rooms/Numbered/Room 8.md",
-    "conflict-files-obsidian-git.md",
-    "Testament.md",
-    "Puzzles/Travel order/Postcards.md",
-    "Puzzles/Travel order/Travel order.md",
     "Puzzles/Travel order",
-    "Puzzles/Red Letters/Red letter 5.md",
-    "Pasted image 20250511190704.png",
-    "Images/Red letters/RL5-2.png",
-    "Images/Red letters/RL5-1.png",
-    "Images/Red letters/RL4-3.png",
-    "Images/Red letters/RL4-2.png",
-    "Images/Red letters/RL4-1.png",
-    "Images/Red letters/RL2-3.png",
-    "Images/Red letters/RL2-2.png",
-    "Images/Red letters/RL2-1.png",
-    "Images/Red letters/RL1-4.png",
     "Images/Postcards",
     "Images/Books/Dare Bird",
     "Images/Books/Claras diary",
