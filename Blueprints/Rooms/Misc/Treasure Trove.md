@@ -1,6 +1,7 @@
 
 Important info:
 - If forced into the [[Outer Rooms]] a special box spawns instead of a [[Memos|memo]] box
+- A key is required to unlock the special box that appears
 
 () = guess
 Known info:
