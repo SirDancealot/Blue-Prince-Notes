@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Books/The Fixed Stars.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,95 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "3b4d00b62a11b45d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Numbered/Room 8.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Room 8"
-            }
-          },
-          {
-            "id": "beb24417cd99ea51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Outer Rooms/Tomb.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tomb"
-            }
-          },
-          {
-            "id": "bf680ec3f1d441df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "8d8e43ef129fc4b4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Books/A New Clue/Pasted image 20250428224154.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428224154"
+              "title": "The Fixed Stars"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,12 +190,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf680ec3f1d441df",
+  "active": "7050fc773d531c08",
   "lastOpenFiles": [
+    "Books/A New Clue.md",
+    "Blueprints/Rooms/Numbered/Security.md",
+    "People/Other People/Alzara.md",
+    "Blueprints/Rooms/Numbered/Rumpus Room.md",
+    "Areas/Underground/Safehouse.md",
+    "Misc info/language.md",
+    "Terminal/Terminal.md",
+    "Blueprints/Rooms/Numbered/Attic.md",
+    "TODO.md",
+    "Terminal/Security Footage.md",
+    "Blueprints/Rooms/Numbered/Entrance Hall.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
+    "Blueprints/Rooms/Numbered/Room 8.md",
     "conflict-files-obsidian-git.md",
     "Testament.md",
-    "Terminal/Security Footage.md",
     "Puzzles/Travel order/Postcards.md",
     "Puzzles/Travel order/Travel order.md",
     "Puzzles/Travel order",
@@ -306,17 +232,6 @@
     "Images/Books/Claras diary",
     "Books/Swim Bird.md",
     "Books/Diary.md",
-    "Blueprints/Rooms/Red Rooms/Lost and Found.md",
-    "Blueprints/Rooms/Numbered/Coat Check.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
-    "Blueprints/Rooms/Misc/Throne Room.md",
-    "Blueprints/Rooms/Bedrooms/Bunk Room.md",
-    "Areas/Outside/Unknown.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "TODO.md",
-    "Blueprints/Rooms/Numbered/Room 8.md",
-    "Blueprints/Blueprint list.md",
-    "Blueprints/Rooms/Shops/Mount Holly Gift Shop.md",
     "Misc info",
     "Images/The Exam",
     "Images/Books/The Red Prince",
