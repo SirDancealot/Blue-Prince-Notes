@@ -1,9 +1,8 @@
 - Remaining [[Puzzles]]
 - Find all the [[Blue Tents]] [[Memos]]
-- Figure out what to do with the cursed idol in the cursed box in [[Shrine]] (opened with [[Sledge Hammer]] or [[Morning Star]])
-- Read [[The Curse of Black Bridge]]
-- More with [[Chamber of Mirrors]]
-- Try connecting [[Power]] from [[Boiler Room]] to [[The Foundation]]
-- figure out 4-letter/number password for lock behind red door in [[The Underpass]] 
-- Complete the Circuit in [[Blackbridge Grotto]]/[[Apple Orchard]]
-- Unlock the Diary in [[Her Ladyship's Chamber]]
+- Figure out what to do with the cursed idol in the cursed box in [[Shrine]] (opened with [[Sledge Hammer]] or [[Morning Star]]), maybe take to the safehouse?
+- Decode [[language|Erajan]] message found in [[Tomb]] [[Message by Clara epsens grave.png]]
+- use [[Experiments]] to gain permanent lockpicking skill
+- Enter "[[Unknown]]" area 
+- Figure out [[Travel order]] of [[Herbert S Sinclair|HSS]] for [[Room 46]] (probably after last sigil door)
+- [[Numeric Core]]

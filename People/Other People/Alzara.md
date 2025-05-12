@@ -23,3 +23,13 @@ all the old people sitting the same chair
 5th fortune:
 knight angle statue in courtyard of sentinel stone
 quarter past 12? waiting somewhere
+
+6th and last fortune:
+subway station
+infinity room with statues?
+outside nder bridge by river
+"in the dim i see cavern walls of stone"
+"a hollow lit by a sea of a thousand burning stars"
+"i see a treasure buried beneath the cliff rocks", just outside
+"a black mirror hidden a figure standing in sullen snow"
+"all of what i have told you my young baron, I whish you to know "

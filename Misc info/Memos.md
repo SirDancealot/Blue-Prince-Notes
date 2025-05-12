@@ -1,6 +1,27 @@
 Rank 8, blue tent memos:
-- [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]]
-- [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]]
+- [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]] (was it the metro map?)
+- [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]] [[Numeric Core]]
+- [[Office]]: The king can castle by swapping with another piece? [[TODO]]
+- [[Vault]]: The family core is unlocked only by the sum of its digits [[TODO]]
+- [[Boiler Room]]: The high pressure condenser box is connected to two remote power boxes ([[The Underpass]] and [[Unknown]])
+- [[Security]]: Surveillance recordings can only be accessed via the terminal located in security 
+- [[Observatory]]: The largest planet in the night sky is named after the paragon of ash
+- [[Den]]: The sin associated with this room is often associated with one's use of time, hint for [[Room 8]]
+- [[Drawing Room]]: Months are slightly longer than days
+- [[Billiard Room]]: The bullseye operatrion can trigger multiple times
+- [[Dining Room]]: There are 10 different dishes that can be served in this room
+- [[Pantry]]: "There is a letter missing" (same as [[Alzara]], 8 red letters, you will only find 7?)
+- [[Coat Check]]: Is drawn slightly more often the day after checking a new item
+- [[Locker Room]]: the mome next to this is a lie (i.e. kirk darren is not a pseydonym)
+- [[Clock Tower]]: Inneclipses only appear in the north sky
+- [[Gallery]]: The titles are synonyms
+- [[The Pool]]: There is only one location in the estate where every room in the drafting pool can be drafted
+- [[Attic]]: [[Simon H Sinclair]] was born three years after [[Herbert S Sinclair|HSS]]
+- [[Classroom|Grade 1]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
+- [[Aquarium]]: This tank contains a red herring (probably that 1 of the 3 spots shown has no hidden archive key)
+- [[Trophy Room]]: There were a total of eight gems removed from the ruby crown of [[Orinda Aries]]
+- [[Room 8]]: The elefant belongs in this bin (WRATH)
+- [[The Kennel]]: [[Herbert S Sinclair|HSS]]'s four canine companions are named "Carter", "Thoughtless", "Hot Sauce" and "Drawbridge"
 
 
 Sanctum key was in black moon

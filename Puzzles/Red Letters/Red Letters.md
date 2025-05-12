@@ -5,7 +5,7 @@ Letters:
 2. [[Red Letter 2]]
 3. [[Red Letter 3]]
 4. [[Red Letter 4]]
-5. [[Red Letter 5]]
+5. [[Red letter 5]]
 6. [[Red Letter 6]]
 7. [[Red Letter 7]]
 8. [[Red Letter 8]]

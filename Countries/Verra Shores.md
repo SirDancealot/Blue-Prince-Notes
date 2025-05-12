@@ -1,8 +1,8 @@
 [[Core]]: cannon
 [[Transport]]: 5-lines, turtleback
-[[Weather]]: Heat? wavy line
-[[Mote]]: ?
-[[Color]]: Orange/triangles
+[[Weather]]: Heat, wavy line
+[[Mote]]: spiritual
+[[Color]]: pink: jagged lines
 
 The [[Countries|Country]] of Verra Shores ?
 

@@ -10,6 +10,5 @@ Contains [[Node sheets|Node sheet]] [[Node 8.png]]
 - [[Shovel]] + [[Compass]] = [[Dowsing Rod]]
 - [[Magnifying Glass]] + [[Metal Detector]] = [[Burning Glass]]
 - [[Lock Pick]] + [[Metal Detector]] = [[Pick Sound Amplifier]]
-
-Not made yet:
 - [[Compass]] + [[Battery Pack]] = [[Electromagnet]]
+- [[Coin Purse]] + [[Rabbit's Foot]] = [[Lucky Purse]]
