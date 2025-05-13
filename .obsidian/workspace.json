@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Outside/Unknown.md",
+                "file": "Terminal/Mail/Mail.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unknown"
+              "title": "Mail"
+            }
+          },
+          {
+            "id": "2aa1ed372f0fbb30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminal/Mail/Staff Announcements.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Staff Announcements"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,13 +287,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c0b81273e90f57d",
+  "active": "2aa1ed372f0fbb30",
   "lastOpenFiles": [
-    "Images/Misc/Family tree.png",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
+    "Pasted image 20250514000628.png",
+    "Pasted image 20250514000558.png",
+    "Pasted image 20250514000526.png",
+    "Pasted image 20250514000455.png",
+    "Pasted image 20250514000433.png",
+    "Pasted image 20250514000422.png",
+    "Pasted image 20250514000354.png",
+    "Pasted image 20250514000339.png",
+    "Pasted image 20250514000317.png",
+    "Pasted image 20250514000257.png",
+    "Pasted image 20250514000249.png",
+    "Terminal/Mail/Staff Announcements.md",
+    "Terminal/Mail/Mail.md",
+    "Terminal/Mail/Office Mail.md",
+    "Terminal/Mail/Security Mail.md",
+    "Terminal/Terminal.md",
     "Areas/Outside/Unknown.md",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Misc info/Testament.md",
-    "Images/Misc/Pasted image 20250513013931.png",
     "People/The Family/Simon H Sinclair.md",
     "Blueprints/Rooms/Hallways/Great Hall.md",
     "Puzzles/Numeric Core.md",
@@ -281,25 +319,12 @@
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "Puzzles/Angel/Angel.md",
-    "Images/Misc/Pasted image 20250513000832.png",
-    "Images/Misc/Pasted image 20250511190704.png",
     "Areas/Underground/Underground.md",
     "conflict-files-obsidian-git.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Misc info/language.md",
     "Countries/Countries.md",
     "Blueprints/Rooms/Misc/Classroom.md",
-    "Puzzles/Travel order/Postcards.md",
-    "Puzzles/Travel order/Travel order.md",
-    "Blueprints/Rooms/Numbered/Room 46.md",
-    "Puzzles/Sigil doors/Sigil Doors.md",
-    "Blueprints/Rooms/Outer Rooms/Shrine.md",
-    "Images/Misc/Pasted image 20250511184634.png",
-    "Images/Misc/Pasted image 20250511184627.png",
-    "Images/Misc/Pasted image 20250511173904.png",
-    "Images/Misc/Pasted image 20250511173911.png",
-    "Images/Misc/Pasted image 20250511173933.png",
-    "Images/Misc/Pasted image 20250511173922.png",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",
