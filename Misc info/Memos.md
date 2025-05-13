@@ -26,6 +26,7 @@ Rank 8, blue tent memos:
 - [[Closet]]: "The closet was one of the original 46 rooms of mount holly"
 - [[Planetarium]]: "The ink well is not the largest constelation"
 - [[Garage]]: "The license plate on this car is an acronym"
+- [[Sauna]]: "Saunas are commonplace in both businesses and residences in corarica"
 
 
 Sanctum key was in black moon

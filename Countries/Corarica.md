@@ -1,4 +1,4 @@
-The [[Countries|Country]] of Corarica: Might be the same as [[Verra Shores]]
+The [[Countries|Country]] of Corarica
 
 [[Core]]: heart
 [[Transport]]: Roads

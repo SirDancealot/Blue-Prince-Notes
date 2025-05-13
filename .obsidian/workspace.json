@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "7f82a8ec6739d08b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Numbered/Clock Tower.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Clock Tower"
-            }
-          },
-          {
             "id": "4064709b4b208afe",
             "type": "leaf",
             "state": {
@@ -101,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "Mail"
+            }
+          },
+          {
+            "id": "7f82a8ec6739d08b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Countries/Corarica.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Corarica"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -313,14 +313,17 @@
   },
   "active": "4064709b4b208afe",
   "lastOpenFiles": [
-    "Misc info/Memos.md",
+    "Countries/Corarica.md",
+    "Countries/Countries.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
+    "Misc info/Memos.md",
+    "Puzzles/Angel/Angel.md",
+    "Terminal/Mail/Staff Announcements.md",
+    "Terminal/Mail/Mail.md",
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Puzzles/Numeric Core.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
-    "Puzzles/Angel/Angel.md",
-    "Terminal/Mail/Staff Announcements.md",
     "Pasted image 20250514001308.png",
     "Pasted image 20250514001241.png",
     "Pasted image 20250514001212.png",
@@ -332,7 +335,6 @@
     "Pasted image 20250514001001.png",
     "Puzzles/Angel/Gardening angel.md",
     "Pasted image 20250514000853.png",
-    "Terminal/Mail/Mail.md",
     "Terminal/Mail/Office Mail.md",
     "Terminal/Mail/Security Mail.md",
     "Terminal/Terminal.md",
@@ -347,8 +349,6 @@
     "Areas/Underground/Underground.md",
     "conflict-files-obsidian-git.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
-    "Misc info/language.md",
-    "Countries/Countries.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",
