@@ -28,4 +28,5 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - Green, machine, black, sun (True): "You will need a key to obtain the true treasure of the trove"
 - Blue, machine, blue, moon (true): "Blue boxes marked by wind contain false statements"
 - Red, machine, white, wind (false): "Green memos in blue boxes are sometimes false" 
-- Green, machine, blue, moon (true) "Fenn aries borders a poetic relalm"
+- Green, machine, blue, moon (true) "[[Fenn Aries]] borders a [[Mote|poetic]] relalm"
+- Green, machine, white, wind (false) "It never rains in [[Arch Aries]]"

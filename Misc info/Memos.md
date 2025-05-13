@@ -3,6 +3,7 @@ Rank 8, blue tent memos:
 - [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]] [[Numeric Core]]
 - [[Mechanarium]]: On the coat of arms the first number is one numeral, the rest are each two numerals
 - [[Office]]: The king can castle by swapping with another piece? [[TODO]]
+- [[Nook]]: The rook can perform a special move with another piece [[TODO]]
 - [[Vault]]: The family core is unlocked only by the sum of its digits [[TODO]]
 - [[Boiler Room]]: The high pressure condenser box is connected to two remote power boxes ([[The Underpass]] and [[Unknown]])
 - [[Security]]: Surveillance recordings can only be accessed via the terminal located in security 

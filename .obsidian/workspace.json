@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Angel/Angel.md",
+                "file": "Areas/Outside/The Precipice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Angel"
+              "title": "The Precipice"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -311,30 +311,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4064709b4b208afe",
+  "active": "c39b60ba7d577de0",
   "lastOpenFiles": [
+    "Areas/Underground/Abandoned mine.md",
+    "Puzzles/Angel/Angel.md",
+    "Misc info/Memos.md",
+    "Blueprints/Blueprint list.md",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
+    "Blueprints/Rooms/Misc/Dovecote.md",
+    "Images/Misc/Pasted image 20250514005520.png",
+    "Images/Misc/Pasted image 20250514005615.png",
+    "Images/Misc/Pasted image 20250514005607.png",
+    "Images/Misc/Pasted image 20250514005559.png",
+    "Images/Mail/Pasted image 20250514000249.png",
+    "Images/Mail/Pasted image 20250514000317.png",
+    "Images/Mail/Pasted image 20250514000628.png",
     "Countries/Corarica.md",
     "Countries/Countries.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
-    "Misc info/Memos.md",
-    "Puzzles/Angel/Angel.md",
     "Terminal/Mail/Staff Announcements.md",
     "Terminal/Mail/Mail.md",
-    "Blueprints/Blueprint list.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Puzzles/Numeric Core.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
-    "Pasted image 20250514001308.png",
-    "Pasted image 20250514001241.png",
-    "Pasted image 20250514001212.png",
-    "Pasted image 20250514001147.png",
-    "Pasted image 20250514001130.png",
-    "Pasted image 20250514001110.png",
-    "Pasted image 20250514001046.png",
-    "Pasted image 20250514001030.png",
-    "Pasted image 20250514001001.png",
+    "Images/Mail/Pasted image 20250514001308.png",
+    "Images/Mail/Pasted image 20250514001241.png",
+    "Images/Mail/Pasted image 20250514001212.png",
     "Puzzles/Angel/Gardening angel.md",
-    "Pasted image 20250514000853.png",
     "Terminal/Mail/Office Mail.md",
     "Terminal/Mail/Security Mail.md",
     "Terminal/Terminal.md",
@@ -347,8 +349,6 @@
     "TODO.md",
     "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "Areas/Underground/Underground.md",
-    "conflict-files-obsidian-git.md",
-    "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",

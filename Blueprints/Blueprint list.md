@@ -11,7 +11,7 @@ Numbered rooms (in order):
 10. [[Walk-in Closet]]
 11. [[Attic]] - Memo found
 12. [[Storeroom]]
-13. [[Nook|Reading Nook]]
+13. [[Nook|Reading Nook]] - Memo found
 14. [[Garage]] - Memo found
 15. [[Music Room]] - Memo found
 16. [[Locker Room]] - Memo found
