@@ -7,6 +7,7 @@ Important info:
 Known info:
 - Sun = True
 - Green in white = false
+- Green in blue = true
 - blue box+wind = false
 - () pink+moon = false
 
@@ -26,3 +27,4 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - Red, machine, pink, wind (False): "The previous box in this room contained a true statement"
 - Green, machine, black, sun (True): "You will need a key to obtain the true treasure of the trove"
 - Blue, machine, blue, moon (true): "Blue boxes marked by wind contain false statements"
+- Red, machine, white, wind (false): "Green memos in blue boxes are sometimes false" 
