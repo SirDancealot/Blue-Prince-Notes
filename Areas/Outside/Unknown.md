@@ -7,3 +7,4 @@ entered from the [[Outside Tunnel]] at least 4 doors exist, requiring in the fol
 - Door requiring flames, ([[Self Igniting Torch]] or [[Burning Glass]])
 - [[Microchip]] door
 - Weird door with a Mt. Holly symbol on it [[TODO]]
+![[Pasted image 20250513013931.png]]

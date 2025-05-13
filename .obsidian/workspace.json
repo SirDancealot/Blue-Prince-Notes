@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numeric Core.md",
+                "file": "Puzzles/Numeric Core.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Antechamber.md",
+                "file": "Areas/Outside/Unknown.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Antechamber"
+              "title": "Unknown"
             }
           }
         ],
@@ -265,13 +265,17 @@
   },
   "active": "3c0b81273e90f57d",
   "lastOpenFiles": [
-    "Great Hall.md",
+    "Misc info/Testament.md",
+    "Images/Misc/Pasted image 20250513013931.png",
+    "People/The Family/Simon H Sinclair.md",
+    "Blueprints/Rooms/Hallways/Great Hall.md",
+    "Puzzles/Numeric Core.md",
+    "Areas/Outside/Unknown.md",
+    "Blueprints/Rooms/Numbered/Antechamber.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Misc info/Memos.md",
-    "Numeric Core.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
     "Misc info/Tomorrow.md",
-    "Simon H Sinclair.md",
     "TODO.md",
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Numbered/Wine Cellar.md",
@@ -293,14 +297,10 @@
     "Images/Misc/Pasted image 20250511184634.png",
     "Misc info/Experiments.md",
     "Images/Misc/Pasted image 20250511184627.png",
-    "Blueprints/Rooms/Outer Rooms/Hovel.md",
     "Images/Misc/Pasted image 20250511173904.png",
     "Images/Misc/Pasted image 20250511173911.png",
-    "Puzzles/Angel/Gardening angel.md",
-    "Puzzles/Angel/Chimney Sweeper angel.md",
     "Images/Misc/Pasted image 20250511173933.png",
     "Images/Misc/Pasted image 20250511173922.png",
-    "Images/Misc/Pasted image 20250511173916.png",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",
