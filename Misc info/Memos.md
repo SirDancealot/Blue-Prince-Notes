@@ -24,6 +24,8 @@ Rank 8, blue tent memos:
 - [[Room 8]]: The elefant belongs in this bin (WRATH)
 - [[The Kennel]]: [[Herbert S Sinclair|HSS]]'s four canine companions are named "Carter", "Thoughtless", "Hot Sauce" and "Drawbridge"
 - [[Closet]]: "The closet was one of the original 46 rooms of mount holly"
+- [[Planetarium]]: "The ink well is not the largest constelation"
+- [[Garage]]: "The license plate on this car is an acronym"
 
 
 Sanctum key was in black moon

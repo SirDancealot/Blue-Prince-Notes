@@ -12,7 +12,7 @@ Numbered rooms (in order):
 11. [[Attic]] - Memo found
 12. [[Storeroom]]
 13. [[Nook|Reading Nook]]
-14. [[Garage]]
+14. [[Garage]] - Memo found
 15. [[Music Room]] - Memo found
 16. [[Locker Room]] - Memo found
 17. [[Den]] - Memo found
@@ -109,7 +109,7 @@ Found floorplans
 - [[Mechanarium]] - Memo found
 - [[Conservatory]]
 - [[Closed Exhibit]]
-- [[Planetarium]]
+- [[Planetarium]] - Memo found
 - [[Tunnel]]
 - [[Throne Room]]
 - [[Treasure Trove]]
