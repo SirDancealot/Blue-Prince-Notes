@@ -38,7 +38,7 @@ Numbered rooms (in order):
 37. [[Sauna]] - Memo found
 38. [[Coat Check]] - Memo found
 39. [[Mail Room]]
-40. [[Freezer]]
+40. [[Freezer]] - Memo found
 41. [[Dining Room]] - Memo found
 42. [[Observatory]] - Memo found
 43. [[Conference Room]]

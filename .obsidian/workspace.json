@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "Areas/Outside/The Precipice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "The Precipice"
             }
           },
           {
@@ -151,8 +151,7 @@
               "title": "The Precipice"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,12 +310,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c39b60ba7d577de0",
+  "active": "e6d3c343d0d8568a",
   "lastOpenFiles": [
-    "Areas/Underground/Abandoned mine.md",
-    "Puzzles/Angel/Angel.md",
+    "Blueprints/Rooms/Numbered/Freezer.md",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
+    "Areas/Outside/The Precipice.md",
+    "Areas/Underground/Abandoned mine.md",
+    "Puzzles/Angel/Angel.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Misc/Dovecote.md",
     "Images/Misc/Pasted image 20250514005520.png",
@@ -347,8 +348,6 @@
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Misc info/Tomorrow.md",
     "TODO.md",
-    "Blueprints/Rooms/Numbered/Wine Cellar.md",
-    "Areas/Underground/Underground.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",

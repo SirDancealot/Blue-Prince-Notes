@@ -28,6 +28,7 @@ Rank 8, blue tent memos:
 - [[Planetarium]]: "The ink well is not the largest constelation"
 - [[Garage]]: "The license plate on this car is an acronym"
 - [[Sauna]]: "Saunas are commonplace in both businesses and residences in corarica"
+- [[Freezer]]: "The ice in master sinclair's personal freezer can only be thawed by applying a direct heat source"
 
 
 Sanctum key was in black moon
