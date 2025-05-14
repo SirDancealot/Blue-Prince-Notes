@@ -2,7 +2,7 @@ Various rooms have tomorrow effects, some stated obviously, some not, the follow
 - end day in [[Her Ladyship's Chamber]]: next day -10 steps, +1 star
 - end day in [[Guest Bedroom]]: No effect
 - end day in [[Bunk Room]]: a [[Gem]] flower on [[Simon H Sinclair]]s grave in the [[Tomb]] (Tomb is not guaranteed to spawn)
-- end day in [[Servant's Quarters]]: -50% steps following day, +1 mystery die (probably just an [[Ivory dice]]) [[TODO]]
+- end day in [[Servant's Quarters]]: -25 steps following day, +1  [[Ivory dice]]
 - end day in [[Master Bedroom]]: "more steps than usual" the following day
 - [[Bedroom]]: No immediately obvious effect
 - [[Boudoir]]: No effect

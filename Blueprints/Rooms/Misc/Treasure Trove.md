@@ -32,3 +32,4 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - Green, machine, blue, moon (true) "[[Fenn Aries]] borders a [[Mote|poetic]] relalm"
 - Green, machine, white, wind (false) "It never rains in [[Arch Aries]]"
 - Blue, machine, white, sun (true) "Green memos in pink boxes are always false"
+- Green, machine, pink, moon (false) "You have seen all the memos that appear in this room"

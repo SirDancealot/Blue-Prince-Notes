@@ -18,3 +18,6 @@ other words:
 some info found in [[Classroom]] 8th grade
 
 ![[8th pre-suff words.png]]![[8th nouns.png]]
+
+Tor = 46?
+![[Pasted image 20250514234759.png]]
