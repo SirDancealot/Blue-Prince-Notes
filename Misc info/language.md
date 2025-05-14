@@ -4,15 +4,17 @@ aliases:
 ---
 The language of [[Eraja]]
 
+Known words:
 ul/lu = you will/you won't
 el/le = i will/i wont
-
 jor = name
-other words:
-- east: ett
-- south: iss
-- north: inn
-- west: orr
+ett = east
+iss = south
+inn = north
+orr = west
+
+Guessed words:
+ej/je = center/edge (middle/outer)
 
 
 some info found in [[Classroom]] 8th grade

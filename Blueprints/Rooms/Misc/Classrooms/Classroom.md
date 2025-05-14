@@ -1,5 +1,13 @@
-If you get to the 9th classroom you get to take the [[Exam]]
-
+There are 8 grades as well as an exam in the 9th room
+- [[1st grade]]
+- [[2nd grade]]
+- [[3rd grade]]
+- [[4th grade]] (geography)
+- [[5th grade]]
+- [[6th grade]] (history)
+- [[7th grade]]
+- [[8th grade]]
+- [[Exam]]
 
 letter in 2nd grade:
 ![[Pasted image 20250514224707.png]]
