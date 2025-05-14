@@ -9,7 +9,8 @@ Known info:
 - Green in white = false
 - Green in blue = true
 - blue box+wind = false
-- () pink+moon = false
+-  pink+moon = false
+- green in pink = false
 
 
 Contains a lock-box with a [[Memos|memo]], probably a new one each time
@@ -22,7 +23,7 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - green, machine, black, moon (False): "Boxes marked with moon always contain false statements" (they do sometimes, i.e. this time)
 - red, machine, white, wind (false): "The true treasure of the trove is not in this room"
 - blue, machine, black, sun (true): "All boxes marked by sun contain memos that are true"
-- green, machine, blue, moon (true?): "Pink boxes marked with moon always contain false statements"
+- green, machine, blue, moon (true): "Pink boxes marked with moon always contain false statements"
 - green, hand, pink, moon (False): "There is no realm that flies the white flag"
 - Red, machine, pink, wind (False): "The previous box in this room contained a true statement"
 - Green, machine, black, sun (True): "You will need a key to obtain the true treasure of the trove"
@@ -30,3 +31,4 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - Red, machine, white, wind (false): "Green memos in blue boxes are sometimes false" 
 - Green, machine, blue, moon (true) "[[Fenn Aries]] borders a [[Mote|poetic]] relalm"
 - Green, machine, white, wind (false) "It never rains in [[Arch Aries]]"
+- Blue, machine, white, sun (true) "Green memos in pink boxes are always false"

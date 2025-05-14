@@ -29,6 +29,7 @@ Rank 8, blue tent memos:
 - [[Sauna]]: "Saunas are commonplace in both businesses and residences in corarica"
 - [[Freezer]]: "The ice in master sinclair's personal freezer can only be thawed by applying a direct heat source"
 - [[Classroom|Grade 1]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
+- [[Storeroom]]: There are six permanent additions
 
 
 Sanctum key was in black moon

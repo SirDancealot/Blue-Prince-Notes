@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Countries.md",
+                "file": "Misc info/Memos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Countries"
+              "title": "Memos"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Garage.md",
+                "file": "Blueprints/Blueprint list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Garage"
+              "title": "Blueprint list"
             }
           },
           {
@@ -89,61 +89,6 @@
               },
               "icon": "lucide-image",
               "title": "Message by Clara epsens grave"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9382c311ff1c413e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4064709b4b208afe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzles/Exam.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Exam"
-            }
-          },
-          {
-            "id": "485fecebfb307ddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Erajan tomb letter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Erajan tomb letter"
             }
           }
         ],
@@ -308,23 +253,24 @@
   },
   "active": "c4b31a4ff5b75e1d",
   "lastOpenFiles": [
+    "Misc info/Memos.md",
+    "Blueprints/Blueprint list.md",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
+    "Countries/Countries.md",
+    "Blueprints/Rooms/Numbered/Garage.md",
     "Blueprints/Rooms/Misc/Classroom.md",
     "Blueprints/Rooms/Shops/Bookshop.md",
     "Pasted image 20250514224707.png",
     "Countries/Nuance.md",
-    "Misc info/Memos.md",
     "Misc info/language.md",
     "Erajan tomb letter.md",
     "Puzzles/Exam.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Images/Misc/Message by Clara epsens grave.png",
-    "Blueprints/Blueprint list.md",
-    "Countries/Countries.md",
     "Areas/Outside/The Precipice.md",
     "Blueprints/Rooms/Numbered/Freezer.md",
     "Areas/Underground/Abandoned mine.md",
     "Puzzles/Angel/Angel.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Misc/Dovecote.md",
     "Images/Misc/Pasted image 20250514005520.png",
     "Images/Misc/Pasted image 20250514005615.png",
@@ -343,7 +289,6 @@
     "Puzzles/Angel/Gardening angel.md",
     "Terminal/Mail/Office Mail.md",
     "Terminal/Mail/Security Mail.md",
-    "Terminal/Terminal.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",
