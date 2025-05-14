@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "Blueprints/Rooms/Outer Rooms/Shrine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "Shrine"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,8 +251,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4b31a4ff5b75e1d",
+  "active": "5be08f0ac28f5c97",
   "lastOpenFiles": [
+    "Pasted image 20250514233400.png",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
@@ -288,7 +289,6 @@
     "Images/Mail/Pasted image 20250514001308.png",
     "Puzzles/Angel/Gardening angel.md",
     "Terminal/Mail/Office Mail.md",
-    "Terminal/Mail/Security Mail.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",

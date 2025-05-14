@@ -5,6 +5,7 @@ Rank 8, blue tent memos:
 - [[Office]]: The king can castle by swapping with another piece? [[TODO]]
 - [[Nook]]: The rook can perform a special move with another piece [[TODO]]
 - [[Vault]]: The family core is unlocked only by the sum of its digits [[TODO]]
+- [[Mail Room]]: only six of the notorious "[[Red Letters]]" were addressed to [[Herbert S Sinclair|HSS]]
 - [[Boiler Room]]: The high pressure condenser box is connected to two remote power boxes ([[The Underpass]] and [[Unknown]])
 - [[Security]]: Surveillance recordings can only be accessed via the terminal located in security 
 - [[Observatory]]: The largest planet in the night sky is named after the paragon of ash
@@ -28,8 +29,10 @@ Rank 8, blue tent memos:
 - [[Garage]]: "The license plate on this car is an acronym"
 - [[Sauna]]: "Saunas are commonplace in both businesses and residences in corarica"
 - [[Freezer]]: "The ice in master sinclair's personal freezer can only be thawed by applying a direct heat source"
-- [[Classroom|Grade 1]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 - [[Storeroom]]: There are six permanent additions
+- [[Study]]: The chess board in this room contains a portmanteau
+- [[Workshop]] Certain rooms like mechanical rooms are more likely to contain security doors
+- [[Classroom|Grade 1]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 
 
 Sanctum key was in black moon

@@ -24,7 +24,7 @@ Numbered rooms (in order):
 23. [[Vault]] - Memo found
 24. [[Office]] - Memo found
 25. [[Drawing Room]] - Memo found
-26. [[Study]]
+26. [[Study]] - Memo found
 27. [[Library]]
 28. [[Chamber of Mirrors]]
 29. [[The Pool]] - Memo found
@@ -33,11 +33,11 @@ Numbered rooms (in order):
 32. [[Boiler Room]] - Memo found
 33. [[Pump Room]]
 34. [[Security]] - Memo found
-35. [[Workshop]]
+35. [[Workshop]] - Memo found
 36. [[Laboratory]]
 37. [[Sauna]] - Memo found
 38. [[Coat Check]] - Memo found
-39. [[Mail Room]]
+39. [[Mail Room]] - Memo found
 40. [[Freezer]] - Memo found
 41. [[Dining Room]] - Memo found
 42. [[Observatory]] - Memo found

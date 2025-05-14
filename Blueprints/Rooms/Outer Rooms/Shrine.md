@@ -1,3 +1,6 @@
+Someone tested and found the exact amounts needed to donate for certain effects
+![[Pasted image 20250514233400.png]]
+
 If you take your money back you get cursed with:
 - Draft [[Bedrooms]] = loose 1 [[Step]]
 - Draft [[Hallways]] = loose 1 [[Key]]
