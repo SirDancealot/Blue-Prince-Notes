@@ -5,8 +5,8 @@ There are 8 grades as well as an exam in the 9th room
 - [[4th grade]] (geography)
 - [[5th grade]]
 - [[6th grade]] (history)
-- [[7th grade]]
-- [[8th grade]]
+- [[7th grade]] (Algebra)
+- [[8th grade]] (Language)
 - [[Exam]]
 
 letter in 2nd grade:

@@ -32,7 +32,10 @@ Rank 8, blue tent memos:
 - [[Storeroom]]: There are six permanent additions
 - [[Study]]: The chess board in this room contains a portmanteau
 - [[Workshop]] Certain rooms like mechanical rooms are more likely to contain security doors
-- [[Classroom|Grade 1]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
+- [[1st grade]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
+- [[6th grade]]: The third king of orindia was the last in the line of oris
+- [[7th grade]]: The three advanced operations in mordern mathematics are squaring inversion and rounding
+- [[8th grade]]: Lujne is erajan for Water, Essa is Love, Joro is Father
 
 
 Sanctum key was in black moon

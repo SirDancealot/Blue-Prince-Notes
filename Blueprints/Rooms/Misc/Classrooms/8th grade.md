@@ -1,6 +1,7 @@
 ---
 aliases:
   - Erajan
+  - Language
 ---
 The language of [[Eraja]]
 
@@ -12,6 +13,9 @@ ett = east
 iss = south
 inn = north
 orr = west
+Lune = water
+Essa = Love
+Joro = Father
 
 Guessed words:
 ej/je = center/edge (middle/outer)
