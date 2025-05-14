@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Classroom.md",
+                "file": "Blueprints/Rooms/Numbered/Garage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classroom"
+              "title": "Garage"
             }
           },
           {
@@ -308,6 +308,8 @@
   },
   "active": "c4b31a4ff5b75e1d",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Misc/Classroom.md",
+    "Blueprints/Rooms/Shops/Bookshop.md",
     "Pasted image 20250514224707.png",
     "Countries/Nuance.md",
     "Misc info/Memos.md",
@@ -338,12 +340,10 @@
     "Puzzles/Numeric Core.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
     "Images/Mail/Pasted image 20250514001308.png",
-    "Images/Mail/Pasted image 20250514001241.png",
     "Puzzles/Angel/Gardening angel.md",
     "Terminal/Mail/Office Mail.md",
     "Terminal/Mail/Security Mail.md",
     "Terminal/Terminal.md",
-    "Areas/Outside/Unknown.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",
