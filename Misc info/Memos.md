@@ -19,7 +19,6 @@ Rank 8, blue tent memos:
 - [[Gallery]]: The titles are synonyms
 - [[The Pool]]: There is only one location in the estate where every room in the drafting pool can be drafted
 - [[Attic]]: [[Simon H Sinclair]] was born three years after [[Herbert S Sinclair|HSS]]
-- [[Classroom|Grade 1]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 - [[Aquarium]]: This tank contains a red herring (probably that 1 of the 3 spots shown has no hidden archive key)
 - [[Trophy Room]]: There were a total of eight gems removed from the ruby crown of [[Orinda Aries]]
 - [[Room 8]]: The elefant belongs in this bin (WRATH)
@@ -29,6 +28,7 @@ Rank 8, blue tent memos:
 - [[Garage]]: "The license plate on this car is an acronym"
 - [[Sauna]]: "Saunas are commonplace in both businesses and residences in corarica"
 - [[Freezer]]: "The ice in master sinclair's personal freezer can only be thawed by applying a direct heat source"
+- [[Classroom|Grade 1]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 
 
 Sanctum key was in black moon
