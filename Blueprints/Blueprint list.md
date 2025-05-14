@@ -3,7 +3,7 @@ Numbered rooms (in order):
 2. [[Entrance Hall]]
 3. [[Spare Room|Spare Greenroom]]
 4. [[Rotunda]]
-5. [[Parlor]]
+5. [[Parlor]] - Memo found
 6. [[Billiard Room]] - [[Memos|Memo]] found
 7. [[Gallery]] - Memo found
 8. [[Room 8]] - Memo found
@@ -45,6 +45,7 @@ Numbered rooms (in order):
 44. [[Aquarium]] - Memo found
 45. [[Antechamber]]
 46. [[Room 46]]
+
 [[Bedrooms]]
 - [[Bedroom]]
 - [[Boudoir]]
@@ -52,8 +53,9 @@ Numbered rooms (in order):
 - [[Nursery]]
 - [[Servant's Quarters]]
 - [[Bunk Room]]
-- ?
-- ?
+- [[Her Ladyship's Chamber]]
+- [[Master Bedroom]]
+
 [[Hallways]]
 - [[Hallway]]
 - [[West Wing Hall]]
@@ -63,7 +65,6 @@ Numbered rooms (in order):
 - [[Secret Passage]]
 - [[Foyer]]
 - [[Great Hall]]
-- [[Courtyard|Corriyard]]
 
 [[Green Rooms]]
 - [[Terrace]]
@@ -74,7 +75,6 @@ Numbered rooms (in order):
 - [[Greenhouse]]
 - [[Morning Room]]
 - [[Secret Garden]]
-- [[Spare Room|Spare Greenroom]]
 
 [[Shops]]
 - [[Commissary]]
@@ -83,8 +83,9 @@ Numbered rooms (in order):
 - [[Showroom]]
 - [[Laundry Room]]
 - [[Bookshop]]
-- ?
+- [[The Armory]]
 - [[Mount Holly Gift Shop]]
+
 [[Red Rooms]]
 - [[Laboratory]]
 - [[Chapel]]
@@ -94,16 +95,16 @@ Numbered rooms (in order):
 - [[Darkroom]]
 - [[Weight Room]]
 - [[Furnace]]
-- [[Lost and Found]]
 
 [[Drafting Studio|Studio]] additions:
 - [[Clock Tower]] - Memo found
-- [[Classroom]] - Memos found: 1st, 6th, 7th, 8th
+- [[Classroom]] - Memos found: 1st, 6th, 7th, 8th, exam
 - [[Solarium]]
 - [[Dovecote]]
 - [[Casino]]
 - [[Dormitory]]
 - [[The Kennel]] - Memo found
+- [[Vestibule]]
 
 Found floorplans
 - [[Mechanarium]] - Memo found
@@ -113,6 +114,7 @@ Found floorplans
 - [[Tunnel]]
 - [[Throne Room]]
 - [[Treasure Trove]]
+- [[Lost and Found]]
 
 [[Outer Rooms]]
 - [[Toolshed]]

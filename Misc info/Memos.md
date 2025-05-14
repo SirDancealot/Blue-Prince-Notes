@@ -1,3 +1,18 @@
+Still missing:
+- [[Rotunda]]
+- [[Walk-in Closet]]
+- [[Ballroom]]
+- [[Rumpus Room]]
+- [[Library]]
+- [[Chamber of Mirrors]]
+- [[Drafting Studio]]
+- [[Utility Closet]]
+- [[Pump Room]]
+- [[Laboratory]]
+- [[Conference Room]]
+- [[Dovecote]]
+- 2nd-5th grade
+
 Rank 8, blue tent memos:
 - [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]] (was it the metro map?)
 - [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]] [[Numeric Core]]
@@ -32,10 +47,12 @@ Rank 8, blue tent memos:
 - [[Storeroom]]: There are six permanent additions
 - [[Study]]: The chess board in this room contains a portmanteau
 - [[Workshop]] Certain rooms like mechanical rooms are more likely to contain security doors
+- [[Parlor]]: gives this room's answer to the parlor puzzle
 - [[1st grade]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 - [[6th grade]]: The third king of orindia was the last in the line of oris
 - [[7th grade]]: The three advanced operations in mordern mathematics are squaring inversion and rounding
 - [[8th grade]]: Lujne is erajan for Water, Essa is Love, Joro is Father
+- [[Exam]]: The answer of the exam's final question is equal to its number
 
 
 Sanctum key was in black moon
