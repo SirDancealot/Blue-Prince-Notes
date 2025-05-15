@@ -103,8 +103,7 @@
               "title": "Mary Epsen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,10 +262,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87f7b43cc4bcfe44",
+  "active": "53e1504278f1f47e",
   "lastOpenFiles": [
-    "Blueprints/Blueprint list.md",
     "Misc info/Memos.md",
+    "People/The Family/Clara Epsen.md",
+    "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Puzzles/Angel/Angel.md",
@@ -301,7 +301,6 @@
     "Countries/Nuance.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Blueprints/Rooms/Numbered/Freezer.md",
-    "Areas/Underground/Abandoned mine.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",

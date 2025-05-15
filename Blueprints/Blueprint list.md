@@ -8,7 +8,7 @@ Numbered rooms (in order):
 7. [[Gallery]] - Memo found
 8. [[Room 8]] - Memo found
 9. [[Closet]] -  Memo found
-10. [[Walk-in Closet]]
+10. [[Walk-in Closet]] - Memo found
 11. [[Attic]] - Memo found
 12. [[Storeroom]] - Memo found
 13. [[Nook|Reading Nook]] - Memo found

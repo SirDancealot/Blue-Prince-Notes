@@ -6,8 +6,8 @@ aliases:
 
 Married to [[Simon H Sinclair]] in 1951/1952
 Probably [[School]] teacher at some point, which was closed due to her death
+Died 11th of june 1983 as per blue tent [[Memos|memo]]
 
-Died at some point prior to 1966 (if school clossed because of her death)
 Could also have died closer to this date:
 ![[Pasted image 20250423170843.png]]
 

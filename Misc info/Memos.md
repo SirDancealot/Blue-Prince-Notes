@@ -1,13 +1,11 @@
 Still missing:
 - [[Rotunda]]
-- [[Walk-in Closet]]
 - [[Ballroom]]
 - [[Rumpus Room]]
 - [[Library]]
 - [[Chamber of Mirrors]]
 - [[Drafting Studio]]
 - [[Utility Closet]]
-- [[Pump Room]]
 - [[Conference Room]]
 - [[Dovecote]]
 - 2nd-5th grade
@@ -19,7 +17,9 @@ Rank 8, blue tent memos:
 - [[Office]]: The king can castle by swapping with another piece? [[TODO]]
 - [[Nook]]: The rook can perform a special move with another piece [[TODO]]
 - [[Vault]]: The family core is unlocked only by the sum of its digits [[TODO]]
-- [[Laboratory]]: Synca inc, founded 1933, has 2 facilities, synka labs in reddington, and synka court
+- [[Pump Room]]: The massive reservoir bellow mount holly receives a natural filtration from the continuous flow of fresh water from two neighboring underground springs. before making its dramatic exit via a waterfall on the south facing cliff [[TODO]]
+- [[Laboratory]]: Synca inc, founded 1933, has 2 facilities, synka labs in reddington, and synka court in oris. court has 8 floors above and 8 floors below ground
+- [[Walk-in Closet]]: Her ladyship clara epsen was laid to rest on the 11th of june 1983
 - [[Mail Room]]: only six of the notorious "[[Red Letters]]" were addressed to [[Herbert S Sinclair|HSS]]
 - [[Boiler Room]]: The high pressure condenser box is connected to two remote power boxes ([[The Underpass]] and [[Unknown]])
 - [[Security]]: Surveillance recordings can only be accessed via the terminal located in security 
