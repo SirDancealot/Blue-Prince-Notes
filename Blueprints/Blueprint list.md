@@ -34,7 +34,7 @@ Numbered rooms (in order):
 33. [[Pump Room]]
 34. [[Security]] - Memo found
 35. [[Workshop]] - Memo found
-36. [[Laboratory]]
+36. [[Laboratory]] - Memo found
 37. [[Sauna]] - Memo found
 38. [[Coat Check]] - Memo found
 39. [[Mail Room]] - Memo found

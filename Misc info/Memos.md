@@ -8,7 +8,6 @@ Still missing:
 - [[Drafting Studio]]
 - [[Utility Closet]]
 - [[Pump Room]]
-- [[Laboratory]]
 - [[Conference Room]]
 - [[Dovecote]]
 - 2nd-5th grade
@@ -20,6 +19,7 @@ Rank 8, blue tent memos:
 - [[Office]]: The king can castle by swapping with another piece? [[TODO]]
 - [[Nook]]: The rook can perform a special move with another piece [[TODO]]
 - [[Vault]]: The family core is unlocked only by the sum of its digits [[TODO]]
+- [[Laboratory]]: Synca inc, founded 1933, has 2 facilities, synka labs in reddington, and synka court
 - [[Mail Room]]: only six of the notorious "[[Red Letters]]" were addressed to [[Herbert S Sinclair|HSS]]
 - [[Boiler Room]]: The high pressure condenser box is connected to two remote power boxes ([[The Underpass]] and [[Unknown]])
 - [[Security]]: Surveillance recordings can only be accessed via the terminal located in security 
