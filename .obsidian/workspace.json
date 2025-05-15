@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,8 +263,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be253cccb237662a",
+  "active": "87f7b43cc4bcfe44",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Misc info/Memos.md",
     "Puzzles/Angel/Angel.md",
@@ -293,7 +294,6 @@
     "TODO.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
     "Blueprints/Rooms/Misc/Classrooms",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Misc info/Tomorrow.md",
     "Countries/Countries.md",
     "Blueprints/Rooms/Numbered/Garage.md",
