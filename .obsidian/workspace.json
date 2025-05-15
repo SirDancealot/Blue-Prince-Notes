@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Blueprints/Blueprint list.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Blueprint list"
+            }
+          },
+          {
+            "id": "87f7b43cc4bcfe44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Misc info/Memos.md",
                 "mode": "source",
                 "source": false,
@@ -32,12 +56,12 @@
             }
           },
           {
-            "id": "87f7b43cc4bcfe44",
+            "id": "be253cccb237662a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Outer Rooms/Shrine.md",
+                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shrine"
+              "title": "Treasure Trove"
+            }
+          },
+          {
+            "id": "04b00bb5888ca729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/The Family/Mary Epsen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mary Epsen"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,11 +263,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87f7b43cc4bcfe44",
+  "active": "be253cccb237662a",
   "lastOpenFiles": [
-    "Puzzles/Exam.md",
-    "Blueprints/Rooms/Misc/Classrooms/Classroom.md",
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Misc info/Memos.md",
+    "Puzzles/Angel/Angel.md",
+    "Blueprints/Blueprint list.md",
+    "People/The Family/Mary Epsen.md",
+    "Blueprints/Rooms/Numbered/Vault.md",
+    "Puzzles/Exam.md",
+    "exam result.png.md",
+    "Images/Misc/Pasted image 20250515125229.png",
+    "Images/Misc/exam result.png",
+    "Puzzles/Angel/Angel of Ash.md",
+    "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
+    "Images/Misc/Pasted image 20250514235633.png",
+    "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
+    "Blueprints/Rooms/Misc/Classrooms/Classroom.md",
     "Images/The Exam/Pasted image 20250515004119.png",
     "Images/The Exam/Pasted image 20250515004257.png",
     "Images/The Exam/Pasted image 20250515004251.png",
@@ -227,21 +287,14 @@
     "Images/The Exam/Pasted image 20250515004237.png",
     "Images/The Exam/Pasted image 20250515004231.png",
     "Images/The Exam/Pasted image 20250515004226.png",
-    "Images/The Exam/Pasted image 20250515004220.png",
-    "Images/The Exam/Pasted image 20250515004214.png",
-    "Images/The Exam/Pasted image 20250515004209.png",
-    "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
     "8th grade.md",
     "Areas/Outside/The Precipice.md",
-    "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
-    "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
     "TODO.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
     "Blueprints/Rooms/Misc/Classrooms",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Misc info/Tomorrow.md",
-    "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Countries/Countries.md",
     "Blueprints/Rooms/Numbered/Garage.md",
     "Blueprints/Rooms/Shops/Bookshop.md",
@@ -249,10 +302,6 @@
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Blueprints/Rooms/Numbered/Freezer.md",
     "Areas/Underground/Abandoned mine.md",
-    "Puzzles/Angel/Angel.md",
-    "Blueprints/Rooms/Misc/Dovecote.md",
-    "Countries/Corarica.md",
-    "Blueprints/Rooms/Numbered/Clock Tower.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",

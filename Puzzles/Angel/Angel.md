@@ -5,7 +5,7 @@ Order as found in [[Chapel]]
 1. [[Gardening angel]]
 2. [[Cooking angel]]
 3. [[Farming angel]]
-4. [[Chimney Sweeper angel]]
+4. [[Angel of Ash]]
 5. [[Cleaning angel]]
 6. [[Horse riding angel]]
 7. [[Royal Angel]]
@@ -17,7 +17,7 @@ The names of the angels are:
 - Rynna = [[Gardening angel]]
 - Joya
 - Dauja
-- Veia = [[Chimney Sweeper angel]]
+- Veia = [[Angel of Ash]]
 - Mila = [[Cleaning angel]]
 - Draxus = [[Death]]
 
