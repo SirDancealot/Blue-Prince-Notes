@@ -2,7 +2,7 @@ Numbered rooms (in order):
 1. [[The Foundation]]
 2. [[Entrance Hall]]
 3. [[Spare Room|Spare Greenroom]]
-4. [[Rotunda]]
+4. [[Rotunda]] - Memo found
 5. [[Parlor]] - Memo found
 6. [[Billiard Room]] - [[Memos|Memo]] found
 7. [[Gallery]] - Memo found
@@ -31,7 +31,7 @@ Numbered rooms (in order):
 30. [[Drafting Studio]]
 31. [[Utility Closet]]
 32. [[Boiler Room]] - Memo found
-33. [[Pump Room]]
+33. [[Pump Room]] - Memo found
 34. [[Security]] - Memo found
 35. [[Workshop]] - Memo found
 36. [[Laboratory]] - Memo found

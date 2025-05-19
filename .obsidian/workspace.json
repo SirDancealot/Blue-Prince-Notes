@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
+                "file": "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Treasure Trove"
+              "title": "6th grade"
+            }
+          },
+          {
+            "id": "3e734882f9d56834",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Classroom puzzles/6th slide 3.png"
+              },
+              "icon": "lucide-image",
+              "title": "6th slide 3"
             }
           },
           {
@@ -103,7 +115,8 @@
               "title": "Mary Epsen"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,12 +275,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53e1504278f1f47e",
+  "active": "3e734882f9d56834",
   "lastOpenFiles": [
-    "Misc info/Memos.md",
-    "People/The Family/Clara Epsen.md",
-    "Blueprints/Blueprint list.md",
+    "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
+    "Misc info/Memos.md",
+    "Blueprints/Blueprint list.md",
+    "People/The Family/Clara Epsen.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Puzzles/Angel/Angel.md",
     "People/The Family/Mary Epsen.md",
@@ -279,7 +293,6 @@
     "Puzzles/Angel/Angel of Ash.md",
     "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
     "Images/Misc/Pasted image 20250514235633.png",
-    "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
     "Blueprints/Rooms/Misc/Classrooms/Classroom.md",
     "Images/The Exam/Pasted image 20250515004119.png",
     "Images/The Exam/Pasted image 20250515004257.png",

@@ -1,5 +1,4 @@
 Still missing:
-- [[Rotunda]]
 - [[Ballroom]]
 - [[Rumpus Room]]
 - [[Library]]
@@ -48,6 +47,7 @@ Rank 8, blue tent memos:
 - [[Study]]: The chess board in this room contains a portmanteau
 - [[Workshop]] Certain rooms like mechanical rooms are more likely to contain security doors
 - [[Parlor]]: gives this room's answer to the parlor puzzle
+- [[Rotunda]]: There are 4 different methods to rotate rooms
 - [[1st grade]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 - [[6th grade]]: The third king of orindia was the last in the line of oris
 - [[7th grade]]: The three advanced operations in mordern mathematics are squaring inversion and rounding
