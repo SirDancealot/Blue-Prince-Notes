@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "Areas/Outside/The Precipice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "The Precipice"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
+                "file": "Blueprints/Rooms/Numbered/Vault.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6th grade"
+              "title": "Vault"
             }
           },
           {
@@ -277,16 +277,21 @@
   },
   "active": "87f7b43cc4bcfe44",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
+    "Areas/Outside/The Precipice.md",
+    "Books/The Red Prince.md",
+    "Areas/Underground/Abandoned mine.md",
+    "People/The Family/Mary Epsen.md",
+    "Blueprints/Rooms/Numbered/Vault.md",
+    "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
+    "Pasted image 20250519155437.png",
+    "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
     "Images/Classroom puzzles/6th slide 3.png",
-    "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
-    "Misc info/Memos.md",
     "People/The Family/Clara Epsen.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Puzzles/Angel/Angel.md",
-    "People/The Family/Mary Epsen.md",
-    "Blueprints/Rooms/Numbered/Vault.md",
     "Puzzles/Exam.md",
     "exam result.png.md",
     "Images/Misc/Pasted image 20250515125229.png",
@@ -300,10 +305,7 @@
     "Images/The Exam/Pasted image 20250515004251.png",
     "Images/The Exam/Pasted image 20250515004243.png",
     "Images/The Exam/Pasted image 20250515004237.png",
-    "Images/The Exam/Pasted image 20250515004231.png",
-    "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
     "8th grade.md",
-    "Areas/Outside/The Precipice.md",
     "TODO.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
     "Blueprints/Rooms/Misc/Classrooms",
@@ -312,7 +314,6 @@
     "Blueprints/Rooms/Numbered/Garage.md",
     "Blueprints/Rooms/Shops/Bookshop.md",
     "Countries/Nuance.md",
-    "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",

@@ -16,6 +16,7 @@ Has written multiple [[Books]]:
 - [[A New Clue]]
 Birth certificate
 ![[Mary Epsen birth certificate.png]]
-Fake passport:
+3 Fake passports found in [[Vault]]:
 ![[Marionn marigold - samantha hayes passport.png]]
 ![[Pasted image 20250430222215.png]]
+![[Pasted image 20250519155437.png]]
