@@ -7,7 +7,7 @@ Still missing:
 - [[Utility Closet]]
 - [[Conference Room]]
 - [[Dovecote]]
-- 2nd-5th grade
+- 5th grade
 
 Rank 8, blue tent memos:
 - [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]] (was it the metro map?)
@@ -49,8 +49,11 @@ Rank 8, blue tent memos:
 - [[Parlor]]: gives this room's answer to the parlor puzzle
 - [[Rotunda]]: There are 4 different methods to rotate rooms
 - [[1st grade]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
+- [[2nd grade]]: The figure of eight in its symbolic guise as 'infinity' has long served as a vessel of both death and the unfathomable
+- [[3rd grade]]: (very long text) [[Pasted image 20250519161345.png]]
+- [[4th grade]]: (long text) [[Pasted image 20250519161850.png]]
 - [[6th grade]]: The third king of orindia was the last in the line of oris
-- [[7th grade]]: The three advanced operations in mordern mathematics are squaring inversion and rounding
+- [[7th grade]]: The three advanced operations in mordern mathematics are squaring inversion and rounding 
 - [[8th grade]]: Lujne is erajan for Water, Essa is Love, Joro is Father
 - [[Exam]]: The answer of the exam's final question is equal to its number
 

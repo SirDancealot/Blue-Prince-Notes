@@ -83,12 +83,24 @@
             "id": "3e734882f9d56834",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Classroom puzzles/6th slide 3.png"
+                "file": "Misc info/Memos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "6th slide 3"
+              "icon": "lucide-file",
+              "title": "Memos"
             }
           },
           {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,19 +287,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87f7b43cc4bcfe44",
+  "active": "3e734882f9d56834",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
+    "Pasted image 20250519161850.png",
+    "Images/Misc/Pasted image 20250519161345.png",
+    "Images/Misc/Pasted image 20250519155437.png",
+    "Misc info/Memos.md",
+    "Images/Classroom puzzles/6th slide 3.png",
     "Areas/Outside/The Precipice.md",
+    "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
     "Books/The Red Prince.md",
     "Areas/Underground/Abandoned mine.md",
     "People/The Family/Mary Epsen.md",
     "Blueprints/Rooms/Numbered/Vault.md",
     "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
-    "Pasted image 20250519155437.png",
-    "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
-    "Images/Classroom puzzles/6th slide 3.png",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "People/The Family/Clara Epsen.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
@@ -304,7 +318,6 @@
     "Images/The Exam/Pasted image 20250515004257.png",
     "Images/The Exam/Pasted image 20250515004251.png",
     "Images/The Exam/Pasted image 20250515004243.png",
-    "Images/The Exam/Pasted image 20250515004237.png",
     "8th grade.md",
     "TODO.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
@@ -313,7 +326,6 @@
     "Countries/Countries.md",
     "Blueprints/Rooms/Numbered/Garage.md",
     "Blueprints/Rooms/Shops/Bookshop.md",
-    "Countries/Nuance.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",
