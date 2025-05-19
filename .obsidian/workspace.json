@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,12 +275,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e734882f9d56834",
+  "active": "87f7b43cc4bcfe44",
   "lastOpenFiles": [
+    "Blueprints/Blueprint list.md",
+    "Images/Classroom puzzles/6th slide 3.png",
     "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Misc info/Memos.md",
-    "Blueprints/Blueprint list.md",
     "People/The Family/Clara Epsen.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Puzzles/Angel/Angel.md",
@@ -300,7 +301,6 @@
     "Images/The Exam/Pasted image 20250515004243.png",
     "Images/The Exam/Pasted image 20250515004237.png",
     "Images/The Exam/Pasted image 20250515004231.png",
-    "Images/The Exam/Pasted image 20250515004226.png",
     "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
     "8th grade.md",
     "Areas/Outside/The Precipice.md",
@@ -313,7 +313,6 @@
     "Blueprints/Rooms/Shops/Bookshop.md",
     "Countries/Nuance.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
-    "Blueprints/Rooms/Numbered/Freezer.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",
