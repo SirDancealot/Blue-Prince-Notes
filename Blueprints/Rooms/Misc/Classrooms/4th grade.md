@@ -1,5 +1,7 @@
 The [[Classroom]] focusing on geography
 
+![[Pasted image 20250519162844.png]]
+
 there are two big maps with a lot of information
 Including multiple [[8th grade|Erajan]] words
 

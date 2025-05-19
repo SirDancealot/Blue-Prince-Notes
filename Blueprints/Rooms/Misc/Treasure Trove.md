@@ -34,3 +34,4 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - Blue, machine, white, sun (true) "Green memos in pink boxes are always false"
 - Green, machine, pink, moon (false) "You have seen all the memos that appear in this room"
 - Blue, machine, blue, sun (true) "The next 4 boxes marked by moon containing false statements"
+- Green, hand, pink, wind (false) "red memos in blue boxes are always true"

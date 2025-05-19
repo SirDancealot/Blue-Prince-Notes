@@ -98,7 +98,7 @@ Numbered rooms (in order):
 
 [[Drafting Studio|Studio]] additions:
 - [[Clock Tower]] - Memo found
-- [[Classroom]] - Memos found: 1st, 6th, 7th, 8th, exam
+- [[Classroom]] - Memo(s) found
 - [[Solarium]]
 - [[Dovecote]]
 - [[Casino]]

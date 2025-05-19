@@ -7,7 +7,6 @@ Still missing:
 - [[Utility Closet]]
 - [[Conference Room]]
 - [[Dovecote]]
-- 5th grade
 
 Rank 8, blue tent memos:
 - [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]] (was it the metro map?)
@@ -52,6 +51,7 @@ Rank 8, blue tent memos:
 - [[2nd grade]]: The figure of eight in its symbolic guise as 'infinity' has long served as a vessel of both death and the unfathomable
 - [[3rd grade]]: (very long text) [[Pasted image 20250519161345.png]]
 - [[4th grade]]: (long text) [[Pasted image 20250519161850.png]]
+- [[5th grade]]: the ilustrations in [[The Red Prince]] and [[Swim Bird]] were made by marion marigold herself.
 - [[6th grade]]: The third king of orindia was the last in the line of oris
 - [[7th grade]]: The three advanced operations in mordern mathematics are squaring inversion and rounding 
 - [[8th grade]]: Lujne is erajan for Water, Essa is Love, Joro is Father
