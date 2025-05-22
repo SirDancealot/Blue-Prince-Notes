@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
+                "file": "Puzzles/Exam.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Treasure Trove"
+              "title": "Exam"
             }
           }
         ],
@@ -290,6 +290,7 @@
   },
   "active": "04b00bb5888ca729",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Puzzles/Exam.md",
     "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
     "Pasted image 20250519162844.png",
@@ -308,7 +309,6 @@
     "Books/The Red Prince.md",
     "Areas/Underground/Abandoned mine.md",
     "Blueprints/Rooms/Numbered/Vault.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "People/The Family/Clara Epsen.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Puzzles/Angel/Angel.md",
