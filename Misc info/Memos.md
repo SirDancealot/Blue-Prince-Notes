@@ -1,6 +1,5 @@
 Still missing:
 - [[Ballroom]]
-- [[Rumpus Room]]
 - [[Library]]
 - [[Chamber of Mirrors]]
 - [[Drafting Studio]]
@@ -47,6 +46,7 @@ Rank 8, blue tent memos:
 - [[Workshop]] Certain rooms like mechanical rooms are more likely to contain security doors
 - [[Parlor]]: gives this room's answer to the parlor puzzle
 - [[Rotunda]]: There are 4 different methods to rotate rooms
+- [[Rumpus Room]]: [[Pasted image 20250523143318.png]]
 - [[1st grade]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 - [[2nd grade]]: The figure of eight in its symbolic guise as 'infinity' has long served as a vessel of both death and the unfathomable
 - [[3rd grade]]: (very long text) [[Pasted image 20250519161345.png]]

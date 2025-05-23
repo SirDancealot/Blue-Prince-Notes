@@ -20,7 +20,7 @@ Numbered rooms (in order):
 19. [[Trophy Room]] - Memo found
 20. [[Ballroom]]
 21. [[Pantry]] - Memo found
-22. [[Rumpus Room]]
+22. [[Rumpus Room]] - Memo found
 23. [[Vault]] - Memo found
 24. [[Office]] - Memo found
 25. [[Drawing Room]] - Memo found

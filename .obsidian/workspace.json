@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Exam.md",
+                "file": "Blueprints/Blueprint list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exam"
+              "title": "Blueprint list"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -288,10 +288,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04b00bb5888ca729",
+  "active": "3e734882f9d56834",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
+    "Blueprints/Blueprint list.md",
+    "TODO.md",
+    "Misc info/Memos.md",
+    "Pasted image 20250523143318.png",
+    "Blueprints/Rooms/Numbered/Rumpus Room.md",
+    "Terminal/Mail/Staff Announcements.md",
+    "Pasted image 20250523142829.png",
+    "Pasted image 20250523142816.png",
+    "Pasted image 20250523142756.png",
+    "Pasted image 20250523142737.png",
+    "Terminal/Terminal.md",
     "Puzzles/Exam.md",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
     "Pasted image 20250519162844.png",
     "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
@@ -299,12 +310,9 @@
     "Blueprints/Rooms/Numbered/Room 46.md",
     "Pasted image 20250519162630.png",
     "People/The Family/Mary Epsen.md",
-    "Misc info/Memos.md",
-    "Blueprints/Blueprint list.md",
     "Pasted image 20250519161850.png",
     "Images/Misc/Pasted image 20250519161345.png",
     "Images/Misc/Pasted image 20250519155437.png",
-    "Images/Classroom puzzles/6th slide 3.png",
     "Areas/Outside/The Precipice.md",
     "Books/The Red Prince.md",
     "Areas/Underground/Abandoned mine.md",
@@ -313,19 +321,11 @@
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Puzzles/Angel/Angel.md",
     "exam result.png.md",
-    "Images/Misc/Pasted image 20250515125229.png",
-    "Images/Misc/exam result.png",
     "Puzzles/Angel/Angel of Ash.md",
-    "Images/Misc/Pasted image 20250514235633.png",
     "Blueprints/Rooms/Misc/Classrooms/Classroom.md",
-    "Images/The Exam/Pasted image 20250515004119.png",
     "8th grade.md",
-    "TODO.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
     "Blueprints/Rooms/Misc/Classrooms",
-    "Misc info/Tomorrow.md",
-    "Countries/Countries.md",
-    "Blueprints/Rooms/Numbered/Garage.md",
     "Images/Postcards",
     "Puzzles/Travel order",
     "Images/Books/Claras diary",
