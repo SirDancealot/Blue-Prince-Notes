@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "innec",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -288,15 +288,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be253cccb237662a",
+  "active": "3e734882f9d56834",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Numbered/Vault.md",
+    "Blueprints/Blueprint list.md",
     "Misc info/Memos.md",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
+    "Blueprints/Rooms/Numbered/Vault.md",
     "Pasted image 20250523144234.png",
     "Blueprints/Rooms/Numbered/Utility Closet.md",
     "Pasted image 20250523144143.png",
     "Terminal/Mail/Office Mail.md",
-    "Blueprints/Blueprint list.md",
     "Areas/Outside/The Precipice.md",
     "Blueprints/Rooms/Misc/Dovecote.md",
     "TODO.md",
@@ -309,7 +310,6 @@
     "Pasted image 20250523142737.png",
     "Terminal/Terminal.md",
     "Puzzles/Exam.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
     "Pasted image 20250519162844.png",
     "Blueprints/Rooms/Misc/Classrooms/8th grade.md",

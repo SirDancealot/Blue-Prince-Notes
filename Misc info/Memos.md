@@ -1,6 +1,5 @@
 Still missing:
 - [[Ballroom]]
-- [[Library]]
 - [[Chamber of Mirrors]]
 - [[Drafting Studio]]
 - [[Conference Room]]
@@ -47,6 +46,7 @@ Rank 8, blue tent memos:
 - [[Rumpus Room]]: [[Pasted image 20250523143318.png]]
 - [[Dovecote]]: Three members of the sinclair family have attended school overseas in [[Corarica]]
 - [[Utility Closet]]: [[Pasted image 20250523144234.png]]
+- [[Library]]: If you have a [[Hall Pass]] bookshop will be more likely to be drawn while drafting in the library
 - [[1st grade]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 - [[2nd grade]]: The figure of eight in its symbolic guise as 'infinity' has long served as a vessel of both death and the unfathomable
 - [[3rd grade]]: (very long text) [[Pasted image 20250519161345.png]]
