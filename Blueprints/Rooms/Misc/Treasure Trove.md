@@ -11,6 +11,7 @@ Known info:
 - blue box+wind = false
 -  pink+moon = false
 - green in pink = false
+- handwritten green = false, but true if one color in text is changed
 
 
 Contains a lock-box with a [[Memos|memo]], probably a new one each time
@@ -35,3 +36,4 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - Green, machine, pink, moon (false) "You have seen all the memos that appear in this room"
 - Blue, machine, blue, sun (true) "The next 4 boxes marked by moon containing false statements"
 - Green, hand, pink, wind (false) "red memos in blue boxes are always true"
+- blue, machine, black, sun (true) "Handwritten green memos are always false, but would be true if you changed one color in the text"

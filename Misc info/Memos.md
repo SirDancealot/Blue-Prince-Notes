@@ -3,9 +3,7 @@ Still missing:
 - [[Library]]
 - [[Chamber of Mirrors]]
 - [[Drafting Studio]]
-- [[Utility Closet]]
 - [[Conference Room]]
-- [[Dovecote]]
 
 Rank 8, blue tent memos:
 - [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]] (was it the metro map?)
@@ -47,6 +45,8 @@ Rank 8, blue tent memos:
 - [[Parlor]]: gives this room's answer to the parlor puzzle
 - [[Rotunda]]: There are 4 different methods to rotate rooms
 - [[Rumpus Room]]: [[Pasted image 20250523143318.png]]
+- [[Dovecote]]: Three members of the sinclair family have attended school overseas in [[Corarica]]
+- [[Utility Closet]]: [[Pasted image 20250523144234.png]]
 - [[1st grade]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 - [[2nd grade]]: The figure of eight in its symbolic guise as 'infinity' has long served as a vessel of both death and the unfathomable
 - [[3rd grade]]: (very long text) [[Pasted image 20250519161345.png]]

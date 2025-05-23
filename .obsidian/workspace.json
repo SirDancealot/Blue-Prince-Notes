@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Vault.md",
+                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vault"
+              "title": "Treasure Trove"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,11 +288,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e734882f9d56834",
+  "active": "be253cccb237662a",
   "lastOpenFiles": [
-    "Blueprints/Blueprint list.md",
-    "TODO.md",
+    "Blueprints/Rooms/Numbered/Vault.md",
     "Misc info/Memos.md",
+    "Pasted image 20250523144234.png",
+    "Blueprints/Rooms/Numbered/Utility Closet.md",
+    "Pasted image 20250523144143.png",
+    "Terminal/Mail/Office Mail.md",
+    "Blueprints/Blueprint list.md",
+    "Areas/Outside/The Precipice.md",
+    "Blueprints/Rooms/Misc/Dovecote.md",
+    "TODO.md",
     "Pasted image 20250523143318.png",
     "Blueprints/Rooms/Numbered/Rumpus Room.md",
     "Terminal/Mail/Staff Announcements.md",
@@ -311,20 +318,13 @@
     "Pasted image 20250519162630.png",
     "People/The Family/Mary Epsen.md",
     "Pasted image 20250519161850.png",
-    "Images/Misc/Pasted image 20250519161345.png",
-    "Images/Misc/Pasted image 20250519155437.png",
-    "Areas/Outside/The Precipice.md",
     "Books/The Red Prince.md",
     "Areas/Underground/Abandoned mine.md",
-    "Blueprints/Rooms/Numbered/Vault.md",
     "People/The Family/Clara Epsen.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Puzzles/Angel/Angel.md",
     "exam result.png.md",
     "Puzzles/Angel/Angel of Ash.md",
-    "Blueprints/Rooms/Misc/Classrooms/Classroom.md",
-    "8th grade.md",
-    "Images/Tomb Letter/Erajan tomb letter.md",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",

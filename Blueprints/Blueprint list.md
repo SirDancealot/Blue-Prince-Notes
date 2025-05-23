@@ -100,7 +100,7 @@ Numbered rooms (in order):
 - [[Clock Tower]] - Memo found
 - [[Classroom]] - Memo(s) found
 - [[Solarium]]
-- [[Dovecote]]
+- [[Dovecote]] - Memo found
 - [[Casino]]
 - [[Dormitory]]
 - [[The Kennel]] - Memo found

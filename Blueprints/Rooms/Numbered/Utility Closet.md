@@ -8,3 +8,5 @@ Had puzzle hinted from [[Mail]] and [[Mail Room]] that permanently unlocked [[Ge
 
 Hint from [[Mail Room]]
 ![[Pasted image 20250427181922.png]]
+Solution:
+![[Pasted image 20250523144143.png]]
