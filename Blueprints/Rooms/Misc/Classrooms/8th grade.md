@@ -12,11 +12,12 @@ Known pre/suffix:
 - nev/ven = (new/start of/beginning)/(old/end of/final)
 - el/le = (I / Me / I will)/(a lack of myself/i wont)
 - ul/lu = (you / you will) / (a lack of you / you won't)
-- ej/je = center/edge (middle/outer)      (guess)
-- raa/aar = have/missing                        (guess based on exam)
+- ej/je = center/edge (middle/outer)      (guess based on [[4th grade]])
+- raa/aar = have/missing                        (guess based on [[Exam]] q43)
 
 
 known words:
+- eld = the
 - ett = east
 - iss = south
 - inn = north
@@ -31,6 +32,7 @@ known words:
 - yait = gate
 - dau = day
 - nai = night
+- mora = name of the planet/world ([[4th grade]])
 - arei = future
 
 

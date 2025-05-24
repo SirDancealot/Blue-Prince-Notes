@@ -6,6 +6,7 @@
       {
         "id": "8b86d54bd7ce3e17",
         "type": "tabs",
+        "dimension": 60.06317689530686,
         "children": [
           {
             "id": "53e1504278f1f47e",
@@ -109,6 +110,7 @@
       {
         "id": "609373d2489c9f1c",
         "type": "tabs",
+        "dimension": 39.93682310469314,
         "children": [
           {
             "id": "62598c01d62eae10",
@@ -132,6 +134,54 @@
               },
               "icon": "lucide-file",
               "title": "8th grade"
+            }
+          },
+          {
+            "id": "48067058d605c77d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4th grade"
+            }
+          },
+          {
+            "id": "270e3de58d8bba10",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Misc/Pasted image 20250514235633.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250514235633"
+            }
+          },
+          {
+            "id": "f1636edf10a3837e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Misc/Pasted image 20250514235623.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250514235623"
             }
           }
         ]
@@ -187,8 +237,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -343,13 +392,17 @@
       }
     ]
   },
-  "active": "62598c01d62eae10",
+  "active": "3e734882f9d56834",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
+    "Images/Tomb Letter/Erajan tomb letter.md",
+    "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
+    "Images/Misc/Pasted image 20250514235633.png",
+    "Images/Misc/Pasted image 20250514235623.png",
+    "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
     "Puzzles/Exam.md",
     "Puzzles/Numeric Core.md",
-    "Images/Tomb Letter/Erajan tomb letter.md",
     "Untitled.md",
-    "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "TODO.md",
     "Misc info/Memos.md",
@@ -372,15 +425,10 @@
     "Pasted image 20250523142756.png",
     "Pasted image 20250523142737.png",
     "Terminal/Terminal.md",
-    "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
-    "Pasted image 20250519162844.png",
-    "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
-    "Pasted image 20250519162630.png",
     "People/The Family/Mary Epsen.md",
     "Books/The Red Prince.md",
     "Areas/Underground/Abandoned mine.md",
-    "People/The Family/Clara Epsen.md",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",
