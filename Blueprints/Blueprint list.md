@@ -41,7 +41,7 @@ Numbered rooms (in order):
 40. [[Freezer]] - Memo found
 41. [[Dining Room]] - Memo found
 42. [[Observatory]] - Memo found
-43. [[Conference Room]]
+43. [[Conference Room]] - Memo found
 44. [[Aquarium]] - Memo found
 45. [[Antechamber]]
 46. [[Room 46]]

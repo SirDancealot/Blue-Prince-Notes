@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Blueprint list.md",
+                "file": "Blueprints/Rooms/Red Rooms/Lost and Found.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blueprint list"
+              "title": "Lost and Found"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,11 +288,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e734882f9d56834",
+  "active": "04b00bb5888ca729",
   "lastOpenFiles": [
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
+    "Blueprints/Rooms/Red Rooms/Lost and Found.md",
+    "Pasted image 20250524020615.png",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Numbered/Vault.md",
     "Pasted image 20250523144234.png",
     "Blueprints/Rooms/Numbered/Utility Closet.md",
@@ -317,7 +319,6 @@
     "Blueprints/Rooms/Numbered/Room 46.md",
     "Pasted image 20250519162630.png",
     "People/The Family/Mary Epsen.md",
-    "Pasted image 20250519161850.png",
     "Books/The Red Prince.md",
     "Areas/Underground/Abandoned mine.md",
     "People/The Family/Clara Epsen.md",
