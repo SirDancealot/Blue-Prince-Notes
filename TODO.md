@@ -1,5 +1,4 @@
 - Remaining [[Puzzles]]
-- Find all the [[Blue Tents]] [[Memos]]
 - Figure out what to do with the cursed idol in the cursed box in [[Shrine]] (opened with [[Sledge Hammer]] or [[Morning Star]]), maybe take to the safehouse?
 - Decode [[8th grade|Erajan]] message found in [[Tomb]] [[Message by Clara epsens grave.png]]
 - use [[Experiments]] to gain permanent lockpicking skill

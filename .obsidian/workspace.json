@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "TODO"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Blueprint list.md",
+                "file": "Puzzles/Numeric Core.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blueprint list"
+              "title": "Numeric Core"
             }
           }
         ],
@@ -292,6 +292,7 @@
   "lastOpenFiles": [
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
+    "TODO.md",
     "Blueprints/Rooms/Red Rooms/Lost and Found.md",
     "Pasted image 20250524020615.png",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
@@ -302,7 +303,6 @@
     "Terminal/Mail/Office Mail.md",
     "Areas/Outside/The Precipice.md",
     "Blueprints/Rooms/Misc/Dovecote.md",
-    "TODO.md",
     "Pasted image 20250523143318.png",
     "Blueprints/Rooms/Numbered/Rumpus Room.md",
     "Terminal/Mail/Staff Announcements.md",

@@ -1,7 +1,3 @@
-Still missing:
-- [[Ballroom]]
-- [[Chamber of Mirrors]]
-
 Rank 8, blue tent memos:
 - [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]] (was it the metro map?)
 - [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]] [[Numeric Core]]
@@ -45,8 +41,10 @@ Rank 8, blue tent memos:
 - [[Dovecote]]: Three members of the sinclair family have attended school overseas in [[Corarica]]
 - [[Utility Closet]]: [[Pasted image 20250523144234.png]]
 - [[Library]]: If you have a [[Hall Pass]] bookshop will be more likely to be drawn while drafting in the library
+- [[Chamber of Mirrors]]: if an item would be spread into the chamber of mirrors, four of those items are spread instead
 - [[Conference Room]]: Red memos were created by [[Kirk Darren]] and approved by the baron and questionably served as the estate's primary security system
 - [[Drafting Studio]]: the full directory comprises 46 numbered rooms plus eight categories of eight rooms (110)
+- [[Ballroom]]: The majority of gems found in the house are artificially produced
 - [[1st grade]]: Flag colors: [[Nuance]]=green, [[Verra Shores]]=Pink, [[Corarica]]=Orange
 - [[2nd grade]]: The figure of eight in its symbolic guise as 'infinity' has long served as a vessel of both death and the unfathomable
 - [[3rd grade]]: (very long text) [[Pasted image 20250519161345.png]]
