@@ -15,7 +15,7 @@ Known pre/suffix:
 - ej/je = center/edge (middle/outer)      (guess based on [[4th grade]])
 - raa/aar = have/missing                        (guess based on [[Exam]] q43)
 
-- affix+d = posessive
+- affix+d = posessive                            (assumption from [[Erajan tomb letter]])
 
 
 known words:
@@ -26,6 +26,7 @@ known words:
 - Lune = water
 - Essa = Love
 - Joro = Father
+- Jora = mother (guess based on [[Erajan tomb letter]])
 - jor = name
 - lor = word
 - hew = house
@@ -35,6 +36,7 @@ known words:
 - nai = night
 - mora = name of the planet/world ([[4th grade]])
 - arei = future
+- ein = dreams (from [[Treasure Trove]])
 
 
 some info found in [[Classroom]] 8th grade
