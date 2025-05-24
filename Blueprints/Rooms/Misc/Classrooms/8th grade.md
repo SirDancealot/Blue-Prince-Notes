@@ -15,9 +15,10 @@ Known pre/suffix:
 - ej/je = center/edge (middle/outer)      (guess based on [[4th grade]])
 - raa/aar = have/missing                        (guess based on [[Exam]] q43)
 
+- affix+d = posessive
+
 
 known words:
-- eld = the
 - ett = east
 - iss = south
 - inn = north
