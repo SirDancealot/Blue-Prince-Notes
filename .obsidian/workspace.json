@@ -343,57 +343,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "7599ce4acd457823",
-    "type": "floating",
-    "children": [
-      {
-        "id": "287999390dccd1a6",
-        "type": "window",
-        "children": [
-          {
-            "id": "43363b58e7526790",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "04b00bb5888ca729",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Puzzles/Exam.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Exam"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1211,
-        "y": 17,
-        "width": 1108,
-        "height": 1360,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "04b00bb5888ca729",
+  "active": "3e734882f9d56834",
   "lastOpenFiles": [
+    "Puzzles/Exam.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
     "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
@@ -401,7 +353,6 @@
     "Images/Misc/Pasted image 20250514235633.png",
     "Images/Misc/Pasted image 20250514235623.png",
     "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
-    "Puzzles/Exam.md",
     "Puzzles/Numeric Core.md",
     "Untitled.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",

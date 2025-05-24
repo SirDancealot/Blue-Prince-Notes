@@ -10,7 +10,7 @@ Overaja. Oviss nevarei
 Lorja eldiris.
 	Uldjora
 
-towards-the-first-iris
+to-my-first-iris
 you are-my-day you are-my-night, you are-my-world
 to-you-i will-gift my-house towards-south. new-day your-future-without me
 new-day my-future-without you. first-i-bid you-heed my-word: you-odd-iris.
