@@ -5,20 +5,33 @@ aliases:
 ---
 The language of [[Eraja]]
 
-Known words:
-ul/lu = you will/you won't
-el/le = i will/i wont
-jor = name
-ett = east
-iss = south
-inn = north
-orr = west
-Lune = water
-Essa = Love
-Joro = Father
+Known pre/suffix:
+- aj/ja = first/last
+- ma/am = small/large
+- ov/vo = toward/away
+- nev/ven = (new/start of/beginning)/(old/end of/final)
+- el/le = (I / Me / I will)/(a lack of myself/i wont)
+- ul/lu = (you / you will) / (a lack of you / you won't)
+- ej/je = center/edge (middle/outer)      (guess)
+- raa/aar = have/missing                        (guess based on exam)
 
-Guessed words:
-ej/je = center/edge (middle/outer)
+
+known words:
+- ett = east
+- iss = south
+- inn = north
+- orr = west
+- Lune = water
+- Essa = Love
+- Joro = Father
+- jor = name
+- lor = word
+- hew = house
+- trei = tree
+- yait = gate
+- dau = day
+- nai = night
+- arei = future
 
 
 some info found in [[Classroom]] 8th grade

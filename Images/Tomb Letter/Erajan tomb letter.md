@@ -1,3 +1,4 @@
+written in [[8th grade|Erajan]]
 
 Oreldajiris
 Ulelddau uleldnai, uleldmora.
@@ -8,6 +9,8 @@ Uldjorjeari.. Uldarei oriss fennro. Uldeinjororo.
 Oreraja. Oriss nerarei
 Lorja eldiris.
 	Uldjora
+
+or-eld-first-iris
 
 
 

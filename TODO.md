@@ -4,3 +4,4 @@
 - use [[Experiments]] to gain permanent lockpicking skill
 - Enter "[[Unknown]]" area (guess; might require only drafting from "the original" 46 rooms)
 - [[Numeric Core]]
+- Have another look in all rooms and fill out a [[Blueprint list]] page on them
