@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
+                "file": "Areas/Outside/The Precipice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Treasure Trove"
+              "title": "The Precipice"
             }
           }
         ]
@@ -192,11 +192,12 @@
   },
   "active": "a21d0295d51f8c3e",
   "lastOpenFiles": [
+    "TODO.md",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
     "Puzzles/Exam.md",
     "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
     "Images/Misc/Pasted image 20250514235633.png",
     "Images/Misc/Pasted image 20250514235623.png",
@@ -204,7 +205,6 @@
     "Puzzles/Numeric Core.md",
     "Untitled.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
-    "TODO.md",
     "Misc info/Memos.md",
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Red Rooms/Lost and Found.md",
