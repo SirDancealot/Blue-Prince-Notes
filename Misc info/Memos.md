@@ -2,8 +2,8 @@ Rank 8, blue tent memos:
 - [[Music Room]]: There is a major key hanging on a wall in the safehouse [[TODO]] (was it the metro map?)
 - [[Wine Cellar]]: The numerals bellow the coat of arms are four different numbers, not one [[TODO]] [[Numeric Core]]
 - [[Mechanarium]]: On the coat of arms the first number is one numeral, the rest are each two numerals
-- [[Office]]: The king can castle by swapping with another piece? [[TODO]]
-- [[Nook]]: The rook can perform a special move with another piece [[TODO]]
+- [[Office]]: The king can castle by swapping with another piece
+- [[Nook]]: The rook can perform a special move with another piece
 - [[Vault]]: The family core is unlocked only by the sum of its digits [[TODO]]
 - [[Pump Room]]: The massive reservoir bellow mount holly receives a natural filtration from the continuous flow of fresh water from two neighboring underground springs. before making its dramatic exit via a waterfall on the south facing cliff [[TODO]]
 - [[Laboratory]]: Synca inc, founded 1933, has 2 facilities, synka labs in reddington, and synka court in oris. court has 8 floors above and 8 floors below ground

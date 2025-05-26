@@ -32,120 +32,12 @@
             }
           },
           {
-            "id": "314801b722bbc2c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Misc/Mechanarium.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mechanarium"
-            }
-          },
-          {
-            "id": "d615a3f3ff9f1ed9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzles/Chess/Chess.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chess"
-            }
-          },
-          {
-            "id": "ff309341fc08ed25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/People.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "People"
-            }
-          },
-          {
-            "id": "1d580f21e1c967cc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Misc/Family tree.png"
-              },
-              "icon": "lucide-image",
-              "title": "Family tree"
-            }
-          },
-          {
-            "id": "eab2c8b75914d2c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzles/Chess/Chess.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chess"
-            }
-          },
-          {
             "id": "5bfd9e6fd29730c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unknown Grave.md",
+                "file": "Areas/Underground/Unknown Grave.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -162,9 +54,57 @@
               "icon": "lucide-file",
               "title": "Unknown Grave"
             }
+          },
+          {
+            "id": "535ad1d97d992564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc info/Memos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Memos"
+            }
+          },
+          {
+            "id": "fec03d60078eaa5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints/Rooms/Misc/Planetarium.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Planetarium"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -323,19 +263,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80eb2078a0beb26",
+  "active": "5bfd9e6fd29730c5",
   "lastOpenFiles": [
-    "Unknown Grave.md",
+    "Blueprints/Rooms/Misc/Planetarium.md",
+    "Areas/Underground/Unknown Grave.md",
+    "Misc info/Memos.md",
+    "TODO.md",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
+    "Blueprints/Rooms/Misc/Mechanarium.md",
     "Puzzles/Chess/Chess.md",
+    "People/People.md",
+    "Images/Misc/Family tree.png",
+    "Books/The Fixed Stars.md",
     "Puzzles/Mora Jai Box.md",
     "Countries/Mora Jai.md",
-    "Blueprints/Rooms/Misc/Mechanarium.md",
     "People/The Family/Mary Epsen.md",
     "Puzzles/Numeric Core.md",
     "Blueprints/Rooms/Numbered/Wine Cellar.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
-    "Images/Misc/Family tree.png",
-    "Misc info/Memos.md",
     "Images/Misc/Pasted image 20250519161850.png",
     "Images/Misc/Pasted image 20250519162630.png",
     "Images/Misc/Pasted image 20250523144143.png",
@@ -345,21 +289,16 @@
     "Pasted image 20250427195812.png.md",
     "Untitled.md",
     "Terminal/Mail/Staff Announcements.md",
-    "People/People.md",
     "People/The Family/Clara Epsen.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
     "Countries/Countries.md",
     "Blueprints/Rooms/Bedrooms/Master Bedroom.md",
     "Dates/Dates.md",
-    "TODO.md",
     "Areas/Outside/The Precipice.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
     "Puzzles/Exam.md",
-    "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
-    "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
     "Images/Misc/Pasted image 20250514235633.png",
     "Images/Misc/Pasted image 20250514235623.png",
-    "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
     "Images/Misc/Pasted image 20250523143318.png",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
