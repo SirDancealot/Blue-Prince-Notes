@@ -16,7 +16,7 @@ The names of the angels are:
 - Lydia
 - Rynna = [[Gardening angel]]
 - Joya
-- Dauja
+- Dauja = [[Farming angel]]
 - Veia = [[Angel of Ash]]
 - Mila = [[Cleaning angel]]
 - Draxus = [[Death]]
