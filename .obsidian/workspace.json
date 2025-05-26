@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "0119d34bd1d7dada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzles/Numeric Core.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Numeric Core"
-            }
-          },
-          {
             "id": "d615a3f3ff9f1ed9",
             "type": "leaf",
             "state": {
@@ -299,8 +275,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0119d34bd1d7dada",
+  "active": "d615a3f3ff9f1ed9",
   "lastOpenFiles": [
+    "Images/Misc/Pasted image 20250519161850.png",
+    "Images/Misc/Pasted image 20250519162630.png",
+    "Images/Misc/Pasted image 20250523144143.png",
+    "Images/Misc/Pasted image 20250523144234.png",
+    "Images/Misc/Pasted image 20250524020615.png",
+    "Images/Misc/Pasted image 20250526185641.png",
+    "Pasted image 20250427195812.png.md",
+    "Untitled.md",
+    "Terminal/Mail/Staff Announcements.md",
+    "Puzzles/Numeric Core.md",
     "Images/Misc/Family tree.png",
     "People/People.md",
     "People/The Family/Clara Epsen.md",
@@ -312,7 +298,6 @@
     "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "Blueprints/Rooms/Bedrooms/Master Bedroom.md",
     "Dates/Dates.md",
-    "Puzzles/Numeric Core.md",
     "TODO.md",
     "Areas/Outside/The Precipice.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
@@ -322,21 +307,12 @@
     "Images/Misc/Pasted image 20250514235633.png",
     "Images/Misc/Pasted image 20250514235623.png",
     "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
-    "Untitled.md",
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Red Rooms/Lost and Found.md",
-    "Pasted image 20250524020615.png",
     "Blueprints/Rooms/Numbered/Vault.md",
-    "Pasted image 20250523144234.png",
-    "Blueprints/Rooms/Numbered/Utility Closet.md",
-    "Pasted image 20250523144143.png",
-    "Terminal/Mail/Office Mail.md",
-    "Pasted image 20250523143318.png",
-    "Pasted image 20250523142829.png",
-    "Pasted image 20250523142816.png",
-    "Pasted image 20250523142756.png",
-    "Pasted image 20250523142737.png",
+    "Images/Misc/Pasted image 20250523143318.png",
+    "Images/Misc/Pasted image 20250523142829.png",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",

@@ -34,7 +34,7 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - Green, machine, white, wind (false) "It never rains in [[Arch Aries]]"
 - Blue, machine, white, sun (true) "Green memos in pink boxes are always false"
 - Green, machine, pink, moon (false) "You have seen all the memos that appear in this room"
-- Blue, machine, blue, sun (true) "The next 4 boxes marked by moon containing false statements"
+- Blue, machine, blue, sun (true) "The next 4 boxes marked by moon contain false statements"
 - Green, hand, pink, wind (false) "red memos in blue boxes are always true"
 - blue, machine, black, sun (true) "Handwritten green memos are always false, but would be true if you changed one color in the text"
 - green, hand, white, wind (falseish) "the next three green memos you find in this room will all be true"
