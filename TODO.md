@@ -4,3 +4,4 @@
 - Enter "[[Unknown]]" area (guess; might require only drafting from "the original" 46 rooms)
 - [[Numeric Core]]
 - Have another look in all rooms and fill out a [[Blueprint list]] page on them
+- Figure out the message in [[The Precipice]]
