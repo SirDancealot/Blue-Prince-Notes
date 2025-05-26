@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Wine Cellar.md",
+                "file": "People/The Family/Mary Epsen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wine Cellar"
+              "title": "Mary Epsen"
             }
           },
           {
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,12 +275,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d615a3f3ff9f1ed9",
+  "active": "314801b722bbc2c2",
   "lastOpenFiles": [
+    "Puzzles/Numeric Core.md",
+    "Blueprints/Rooms/Numbered/Wine Cellar.md",
+    "Puzzles/Chess/Chess.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Images/Misc/Family tree.png",
     "Misc info/Memos.md",
-    "Puzzles/Chess/Chess.md",
     "Images/Misc/Pasted image 20250519161850.png",
     "Images/Misc/Pasted image 20250519162630.png",
     "Images/Misc/Pasted image 20250523144143.png",
@@ -290,13 +292,11 @@
     "Pasted image 20250427195812.png.md",
     "Untitled.md",
     "Terminal/Mail/Staff Announcements.md",
-    "Puzzles/Numeric Core.md",
     "People/People.md",
     "People/The Family/Clara Epsen.md",
     "People/The Family/Mary Epsen.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
     "Countries/Countries.md",
-    "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "Blueprints/Rooms/Bedrooms/Master Bedroom.md",
     "Dates/Dates.md",
     "TODO.md",
