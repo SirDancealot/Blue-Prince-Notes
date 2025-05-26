@@ -21,6 +21,7 @@ Rooms with [[Pawn]]:
 Rooms with [[Knight]]:
 - [[Observatory]]
 - [[Security]]
+- [[Treasure Trove]]
 Rooms with [[Bishop]]:
 - [[Chapel]]
 - [[Rumpus Room]]

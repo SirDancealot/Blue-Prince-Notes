@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "Treasure Trove"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
+                "file": "Puzzles/Chess/Chess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Treasure Trove"
+              "title": "Chess"
             }
           },
           {
@@ -115,8 +115,7 @@
               "title": "Family tree"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,8 +274,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d615a3f3ff9f1ed9",
+  "active": "a21d0295d51f8c3e",
   "lastOpenFiles": [
+    "Misc info/Memos.md",
+    "Puzzles/Chess/Chess.md",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Images/Misc/Pasted image 20250519161850.png",
     "Images/Misc/Pasted image 20250519162630.png",
     "Images/Misc/Pasted image 20250523144143.png",
@@ -292,9 +294,7 @@
     "People/The Family/Clara Epsen.md",
     "People/The Family/Mary Epsen.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Countries/Countries.md",
-    "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "Blueprints/Rooms/Bedrooms/Master Bedroom.md",
     "Dates/Dates.md",
@@ -312,7 +312,6 @@
     "Blueprints/Rooms/Red Rooms/Lost and Found.md",
     "Blueprints/Rooms/Numbered/Vault.md",
     "Images/Misc/Pasted image 20250523143318.png",
-    "Images/Misc/Pasted image 20250523142829.png",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",

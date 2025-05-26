@@ -39,3 +39,4 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - blue, machine, black, sun (true) "Handwritten green memos are always false, but would be true if you changed one color in the text"
 - green, hand, white, wind (falseish) "the next three green memos you find in this room will all be true"
 - green, machine, black, moon (false) "As you have always suspected there is more to the den than meets the eye"
+- blue, machine, white, moon (wtf?) "The symbol infinity is used to denote the unknown, death and the number 8"
