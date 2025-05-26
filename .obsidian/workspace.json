@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/The Family/Mary Epsen.md",
+                "file": "Blueprints/Rooms/Misc/Mechanarium.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mary Epsen"
+              "title": "Mechanarium"
             }
           },
           {
@@ -277,6 +277,7 @@
   },
   "active": "314801b722bbc2c2",
   "lastOpenFiles": [
+    "People/The Family/Mary Epsen.md",
     "Puzzles/Numeric Core.md",
     "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "Puzzles/Chess/Chess.md",
@@ -294,7 +295,6 @@
     "Terminal/Mail/Staff Announcements.md",
     "People/People.md",
     "People/The Family/Clara Epsen.md",
-    "People/The Family/Mary Epsen.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
     "Countries/Countries.md",
     "Blueprints/Rooms/Bedrooms/Master Bedroom.md",
