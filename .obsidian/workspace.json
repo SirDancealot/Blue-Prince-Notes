@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "535ad1d97d992564",
+            "id": "284275c9046bdee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
+                "file": "Areas/Outside/The Precipice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Treasure Trove"
+              "title": "The Precipice"
             }
           },
           {
@@ -334,12 +334,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "535ad1d97d992564",
+  "active": "284275c9046bdee5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "TODO.md",
+    "Areas/Outside/The Precipice.md",
+    "Images/Misc/Pasted image 20250511012849.png.0.pdnSave",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Images/Books/The Red Prince FE/Pasted image 20250526221544.png",
     "Books/A New Clue FE.md",
     "Books/The Red Prince FE.md",
-    "TODO.md",
     "Books/A New Clue.md",
     "Blueprints/Rooms/Hallways/Secret Passage.md",
     "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
@@ -355,10 +359,8 @@
     "Images/Books/A New Clue FE/Pasted image 20250526223250.png",
     "Images/Books/A New Clue FE/Pasted image 20250526223244.png",
     "Images/Books/A New Clue FE/Pasted image 20250526223239.png",
-    "Images/Books/A New Clue FE/Pasted image 20250526223234.png",
     "Books/Books.md",
     "Areas/Underground/Safehouse.md",
-    "Areas/Outside/The Precipice.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
     "Images/Books/The Red Prince FE",
     "Puzzles/Travel order/Postcards.md",
@@ -373,7 +375,6 @@
     "Blueprints/Rooms/Green Rooms/Cloister.md",
     "Countries/Eraja.md",
     "Misc info/Memos.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",
@@ -381,7 +382,6 @@
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
     "Images/Books/Drafting Strategy Vol 2",
-    "Images/Books/Original Gardener's Logbook",
     "Untitled.canvas"
   ]
 }
