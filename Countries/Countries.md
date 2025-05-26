@@ -11,6 +11,7 @@ aliases:
 - [[Nuance]] - Diamond solved
 - [[Corarica]] - heart solved
 
+
 ![[Pasted image 20250501203343.png]]
 
 No BLUE contry?
