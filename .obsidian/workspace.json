@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
+                "file": "Blueprints/Rooms/Shops/Laundry Room.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Treasure Trove"
+              "title": "Laundry Room"
             }
           },
           {
@@ -336,13 +336,13 @@
   },
   "active": "284275c9046bdee5",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Misc info/Testament.md",
     "Areas/Outside/The Precipice.md",
     "Untitled.md",
     "TODO.md",
     "Images/Misc/Pasted image 20250511012849.png.0.pdnSave",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Images/Books/The Red Prince FE/Pasted image 20250526221544.png",
     "Books/A New Clue FE.md",
     "Books/The Red Prince FE.md",
