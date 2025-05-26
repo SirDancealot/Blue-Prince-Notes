@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Outside/The Precipice.md",
+                "file": "Blueprints/Rooms/Misc/Treasure Trove.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Precipice"
+              "title": "Treasure Trove"
             }
           },
           {
@@ -336,9 +336,11 @@
   },
   "active": "284275c9046bdee5",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
+    "Misc info/Testament.md",
+    "Areas/Outside/The Precipice.md",
     "Untitled.md",
     "TODO.md",
-    "Areas/Outside/The Precipice.md",
     "Images/Misc/Pasted image 20250511012849.png.0.pdnSave",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Images/Books/The Red Prince FE/Pasted image 20250526221544.png",
@@ -365,7 +367,6 @@
     "Images/Books/The Red Prince FE",
     "Puzzles/Travel order/Postcards.md",
     "Puzzles/Angel/Gardening angel.md",
-    "Misc info/Testament.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
     "Areas/Underground/Unknown Grave.md",
     "Puzzles/Travel order/Travel order.md",
@@ -374,7 +375,6 @@
     "Blueprints/Rooms/Misc/The Kennel.md",
     "Blueprints/Rooms/Green Rooms/Cloister.md",
     "Countries/Eraja.md",
-    "Misc info/Memos.md",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",

@@ -41,3 +41,4 @@ in order; (information in order, memo color, typeface, box color, box symbol, (w
 - green, machine, black, moon (false) "As you have always suspected there is more to the den than meets the eye"
 - blue, machine, white, moon (wtf?) "The symbol infinity is used to denote the unknown, death and the number 8"
 - green, machine, white, moon (false) "There are three memoos with false statements in the clock tower"
+- green, machine, pink, wind (false) "The true treasure of the trove is in the house"
