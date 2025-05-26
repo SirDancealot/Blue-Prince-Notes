@@ -13,9 +13,9 @@ When interacted with in the correct order in the [[Tomb]] a secret door to the [
 
 The names of the angels are:
 - Orinda = [[Royal Angel]]
-- Lydia
+- Lydia = [[Horse riding angel]]
 - Rynna = [[Gardening angel]]
-- Joya
+- Joya = [[Cooking angel]]
 - Dauja = [[Farming angel]]
 - Veia = [[Angel of Ash]]
 - Mila = [[Cleaning angel]]
