@@ -1,3 +1,4 @@
+[[TODO]]
 behind the room with the [[Chess]] puzzle
 
 Has 8 [[Mora Jai Box]]s each with a note with some cryptic hint
@@ -10,3 +11,6 @@ Has 8 [[Mora Jai Box]]s each with a note with some cryptic hint
 - a sullen cross as five stars align (on a day with the more 4-way intersections start signa)
 - a patient figure a reckoning great
 - the black key is lying with the last king of eight
+
+When all above are fufilled the grave rises and there is a clock where a time can be set:
+![[Pasted image 20250526214505.png]]

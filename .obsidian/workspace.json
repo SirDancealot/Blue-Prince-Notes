@@ -78,63 +78,76 @@
               "icon": "lucide-file",
               "title": "8th grade"
             }
-          },
-          {
-            "id": "9cf53036e498b03a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Outside/The Precipice.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Precipice"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "14532a7d9cd8ce98",
-        "type": "tabs",
+        "id": "f63ddddf907070e5",
+        "type": "split",
         "children": [
           {
-            "id": "fec03d60078eaa5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Numbered/Clock Tower.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "14532a7d9cd8ce98",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fec03d60078eaa5a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Blueprints/Rooms/Numbered/Clock Tower.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Clock Tower"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "Clock Tower"
-            }
+              }
+            ]
+          },
+          {
+            "id": "5d5be2e3036c4f30",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9cf53036e498b03a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Areas/Outside/The Precipice.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Precipice"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -295,9 +308,12 @@
   },
   "active": "9cf53036e498b03a",
   "lastOpenFiles": [
-    "Areas/Underground/Unknown Grave.md",
-    "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
+    "Blueprints/Rooms/Misc/The Kennel.md",
     "Areas/Outside/The Precipice.md",
+    "Blueprints/Rooms/Green Rooms/Cloister.md",
+    "Areas/Underground/Unknown Grave.md",
+    "Pasted image 20250526214505.png",
+    "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
     "Countries/Eraja.md",
     "Misc info/Memos.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
@@ -326,11 +342,8 @@
     "People/The Family/Clara Epsen.md",
     "Images/Tomb Letter/Erajan tomb letter.md",
     "Countries/Countries.md",
-    "Blueprints/Rooms/Bedrooms/Master Bedroom.md",
-    "Dates/Dates.md",
     "Images/Misc/Pasted image 20250514235633.png",
     "Images/Misc/Pasted image 20250514235623.png",
-    "Images/Misc/Pasted image 20250523143318.png",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",
