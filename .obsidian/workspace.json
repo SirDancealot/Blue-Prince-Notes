@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Blueprints/Rooms/Numbered/Vault.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Vault"
             }
           },
           {
@@ -336,9 +336,12 @@
   },
   "active": "284275c9046bdee5",
   "lastOpenFiles": [
+    "Pasted image 20250527001913.png",
+    "Pasted image 20250527001813.png",
+    "Pasted image 20250527001739.png",
+    "TODO.md",
     "Areas/Underground/Unknown Grave.md",
     "Areas/Outside/The Precipice.md",
-    "TODO.md",
     "Puzzles/Mora Jai Box.md",
     "Blueprints/Rooms/Misc/Throne Room.md",
     "Pasted image 20250526233700.png",
@@ -363,8 +366,6 @@
     "Images/Books/A New Clue FE/Pasted image 20250526223309.png",
     "Images/Books/A New Clue FE/Pasted image 20250526223303.png",
     "Images/Books/A New Clue FE/Pasted image 20250526223257.png",
-    "Images/Books/A New Clue FE/Pasted image 20250526223250.png",
-    "Images/Books/A New Clue FE/Pasted image 20250526223244.png",
     "Books/Books.md",
     "Areas/Underground/Safehouse.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
@@ -374,7 +375,6 @@
     "Blueprints/Rooms/Numbered/Room 46.md",
     "Puzzles/Travel order/Travel order.md",
     "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
-    "Countries/Countries.md",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",
