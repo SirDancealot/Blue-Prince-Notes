@@ -1,9 +1,7 @@
 - Remaining [[Puzzles]]
 - Figure out what to do with the cursed idol in the cursed box in [[Shrine]] (opened with [[Sledge Hammer]] or [[Morning Star]]), maybe take to the safehouse?
 - use [[Experiments]] to gain permanent lockpicking skill
-- Enter "[[Unknown]]" area (guess; might require only drafting from "the original" 46 rooms)
+- Use the ascended [[Throne Room]]
+- Enter "[[Unknown]]" area by unlocking the door via the [[Throne Room]]
 - [[Numeric Core]]
 - Have another look in all rooms and fill out a [[Blueprint list]] page on them
-- Figure out the message in [[The Precipice]]
-- Figure out the [[Unknown Grave]]
-- Find letters for [[The Precipice]] in [[Secret Passage]] as hinted in [[A New Clue FE]]

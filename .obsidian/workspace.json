@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Shops/Laundry Room.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Laundry Room"
-            }
-          },
-          {
-            "id": "f9abd4a7cb16f7aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "TODO.md",
                 "mode": "source",
                 "source": false,
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "TODO"
+            }
+          },
+          {
+            "id": "f9abd4a7cb16f7aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints/Rooms/Misc/Throne Room.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Throne Room"
             }
           },
           {
@@ -336,12 +336,17 @@
   },
   "active": "284275c9046bdee5",
   "lastOpenFiles": [
+    "Areas/Underground/Unknown Grave.md",
+    "Areas/Outside/The Precipice.md",
+    "TODO.md",
+    "Puzzles/Mora Jai Box.md",
+    "Blueprints/Rooms/Misc/Throne Room.md",
+    "Pasted image 20250526233700.png",
+    "Blueprints/Rooms/Shops/Laundry Room.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Misc info/Testament.md",
-    "Areas/Outside/The Precipice.md",
     "Untitled.md",
-    "TODO.md",
     "Images/Misc/Pasted image 20250511012849.png.0.pdnSave",
     "Images/Books/The Red Prince FE/Pasted image 20250526221544.png",
     "Books/A New Clue FE.md",
@@ -360,7 +365,6 @@
     "Images/Books/A New Clue FE/Pasted image 20250526223257.png",
     "Images/Books/A New Clue FE/Pasted image 20250526223250.png",
     "Images/Books/A New Clue FE/Pasted image 20250526223244.png",
-    "Images/Books/A New Clue FE/Pasted image 20250526223239.png",
     "Books/Books.md",
     "Areas/Underground/Safehouse.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
@@ -368,13 +372,9 @@
     "Puzzles/Travel order/Postcards.md",
     "Puzzles/Angel/Gardening angel.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
-    "Areas/Underground/Unknown Grave.md",
     "Puzzles/Travel order/Travel order.md",
     "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
     "Countries/Countries.md",
-    "Blueprints/Rooms/Misc/The Kennel.md",
-    "Blueprints/Rooms/Green Rooms/Cloister.md",
-    "Countries/Eraja.md",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",

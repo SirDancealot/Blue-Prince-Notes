@@ -14,3 +14,5 @@ Has 8 [[Mora Jai Box]]s each with a note with some cryptic hint
 
 When all above are fufilled the grave rises and there is a clock where a time can be set:
 ![[Pasted image 20250526214505.png]]
+
+![[Pasted image 20250511012849.png]]
