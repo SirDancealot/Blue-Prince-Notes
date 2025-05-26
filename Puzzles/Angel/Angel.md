@@ -11,6 +11,7 @@ Order as found in [[Chapel]]
 7. [[Royal Angel]]
 When interacted with in the correct order in the [[Tomb]] a secret door to the [[Catacombs]], which further lead to the [[Underground]] opened up
 
+If activated in the following order:
 The names of the angels are:
 - Orinda = [[Royal Angel]]
 - Lydia = [[Horse riding angel]]
@@ -20,5 +21,7 @@ The names of the angels are:
 - Veia = [[Angel of Ash]]
 - Mila = [[Cleaning angel]]
 - Draxus = [[Death]]
+As is given in the [[Testament]] a secret area opens up behind draxus with [[The Red Prince FE]] and [[A New Clue FE]]
+
 
 Additionally [[Death]] exists

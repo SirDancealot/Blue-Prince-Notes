@@ -6,3 +6,4 @@
 - Have another look in all rooms and fill out a [[Blueprint list]] page on them
 - Figure out the message in [[The Precipice]]
 - Figure out the [[Unknown Grave]]
+- Find letters for [[The Precipice]] in [[Secret Passage]] as hinted in [[A New Clue FE]]
