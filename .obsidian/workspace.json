@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc info/Memos.md",
+                "file": "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memos"
+              "title": "8th grade"
+            }
+          },
+          {
+            "id": "9cf53036e498b03a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Outside/The Precipice.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Precipice"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "14532a7d9cd8ce98",
@@ -269,14 +293,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bfd9e6fd29730c5",
+  "active": "9cf53036e498b03a",
   "lastOpenFiles": [
+    "Areas/Underground/Unknown Grave.md",
+    "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
+    "Areas/Outside/The Precipice.md",
+    "Countries/Eraja.md",
+    "Misc info/Memos.md",
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
     "Blueprints/Rooms/Misc/Planetarium.md",
-    "Areas/Underground/Unknown Grave.md",
-    "Misc info/Memos.md",
     "TODO.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
     "Puzzles/Chess/Chess.md",
     "People/People.md",
@@ -301,9 +328,6 @@
     "Countries/Countries.md",
     "Blueprints/Rooms/Bedrooms/Master Bedroom.md",
     "Dates/Dates.md",
-    "Areas/Outside/The Precipice.md",
-    "Blueprints/Rooms/Numbered/Antechamber.md",
-    "Puzzles/Exam.md",
     "Images/Misc/Pasted image 20250514235633.png",
     "Images/Misc/Pasted image 20250514235623.png",
     "Images/Misc/Pasted image 20250523143318.png",
