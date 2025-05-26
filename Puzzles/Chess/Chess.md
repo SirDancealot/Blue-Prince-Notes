@@ -6,6 +6,8 @@ When puzzle is solved one of the following effects can be chosen:
 - Bishop: Gain 30 [[Gold]] when entering the [[Chapel]] for the first time once a day instead of loosing 1
 - Rook: Redraft up to 4 times in the 4 corners of the manor
 
+when "Casteling" ie swapping from King to Rook a secret room opens up [[Unknown Grave]]
+
 Rooms with [[Pawn]]:
 - [[Bedroom]]
 - [[Parlor]]

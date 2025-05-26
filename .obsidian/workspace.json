@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Mora Jai Box.md",
+                "file": "Puzzles/Chess/Chess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -136,11 +136,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mora Jai Box"
+              "title": "Chess"
+            }
+          },
+          {
+            "id": "5bfd9e6fd29730c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unknown Grave.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Unknown Grave"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -299,10 +323,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eab2c8b75914d2c6",
+  "active": "d80eb2078a0beb26",
   "lastOpenFiles": [
-    "Countries/Mora Jai.md",
+    "Unknown Grave.md",
     "Puzzles/Chess/Chess.md",
+    "Puzzles/Mora Jai Box.md",
+    "Countries/Mora Jai.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
     "People/The Family/Mary Epsen.md",
     "Puzzles/Numeric Core.md",
@@ -334,8 +360,6 @@
     "Images/Misc/Pasted image 20250514235633.png",
     "Images/Misc/Pasted image 20250514235623.png",
     "Blueprints/Rooms/Misc/Classrooms/6th grade.md",
-    "Blueprints/Rooms/Outer Rooms/Tomb.md",
-    "Blueprints/Blueprint list.md",
     "Images/Misc/Pasted image 20250523143318.png",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
