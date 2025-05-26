@@ -1,3 +1,5 @@
+There is also a [[A New Clue FE|First edition]]
+
 There is a LOT in this book, i must have a closer look with magnefying glass
 
 Clue found on 3rd page:

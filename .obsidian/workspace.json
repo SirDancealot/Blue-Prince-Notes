@@ -11,24 +11,12 @@
             "id": "535ad1d97d992564",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "The Red Prince FE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Images/Books/The Red Prince FE/Pasted image 20250526221544.png"
               },
-              "icon": "lucide-file",
-              "title": "The Red Prince FE"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250526221544"
             }
           },
           {
@@ -78,9 +66,81 @@
               "icon": "lucide-file",
               "title": "Clock Tower"
             }
+          },
+          {
+            "id": "de354dfbced47aae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Underground/Safehouse.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Safehouse"
+            }
+          },
+          {
+            "id": "6c7abda6cc039503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/The Red Prince FE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Red Prince FE"
+            }
+          },
+          {
+            "id": "8d1e50c265d34417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/The Red Prince.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Red Prince"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -239,29 +299,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99b23b1d6404b813",
+  "active": "8d1e50c265d34417",
   "lastOpenFiles": [
-    "The Red Prince FE.md",
-    "Pasted image 20250526221655.png",
-    "Pasted image 20250526221646.png",
-    "Pasted image 20250526221639.png",
-    "Pasted image 20250526221629.png",
-    "Pasted image 20250526221622.png",
-    "Pasted image 20250526221616.png",
-    "Pasted image 20250526221608.png",
-    "Pasted image 20250526221558.png",
-    "Pasted image 20250526221552.png",
-    "Pasted image 20250526221544.png",
+    "Books/A New Clue.md",
+    "Images/Books/A New Clue FE/Pasted image 20250526223222.png",
+    "Books/A New Clue FE.md",
+    "Images/Books/A New Clue FE",
+    "Images/Books/A New Clue FE/Pasted image 20250526223320.png",
+    "Images/Books/A New Clue FE/Pasted image 20250526223314.png",
+    "Images/Books/A New Clue FE/Pasted image 20250526223309.png",
+    "Images/Books/A New Clue FE/Pasted image 20250526223303.png",
+    "Images/Books/A New Clue FE/Pasted image 20250526223257.png",
+    "Images/Books/A New Clue FE/Pasted image 20250526223250.png",
+    "Images/Books/A New Clue FE/Pasted image 20250526223244.png",
+    "Images/Books/A New Clue FE/Pasted image 20250526223239.png",
+    "Images/Books/A New Clue FE/Pasted image 20250526223234.png",
+    "Books/The Red Prince FE.md",
     "Books/Books.md",
+    "Areas/Underground/Safehouse.md",
+    "Areas/Outside/The Precipice.md",
+    "Blueprints/Rooms/Numbered/Clock Tower.md",
+    "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
+    "Images/Books/The Red Prince FE",
     "Puzzles/Travel order/Postcards.md",
     "Puzzles/Angel/Angel.md",
     "Puzzles/Angel/Gardening angel.md",
-    "Areas/Outside/The Precipice.md",
     "Misc info/Testament.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
-    "Books/A New Clue.md",
     "Areas/Underground/Unknown Grave.md",
-    "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
     "Puzzles/Travel order/Travel order.md",
     "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
     "Countries/Countries.md",
@@ -270,12 +335,9 @@
     "Countries/Eraja.md",
     "Misc info/Memos.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
-    "Blueprints/Rooms/Numbered/Clock Tower.md",
     "Blueprints/Rooms/Misc/Planetarium.md",
     "TODO.md",
     "Blueprints/Rooms/Misc/Mechanarium.md",
-    "Puzzles/Chess/Chess.md",
-    "People/People.md",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",
@@ -284,8 +346,6 @@
     "Images/Books/Dare Bird",
     "Images/Books/Drafting Strategy Vol 2",
     "Images/Books/Original Gardener's Logbook",
-    "Images/Books/A Sightseer's Guide to Reddington",
-    "Images/Books/Drafting Strategy Vol 1",
     "Untitled.canvas"
   ]
 }
