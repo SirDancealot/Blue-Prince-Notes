@@ -78,14 +78,21 @@
               "icon": "lucide-file",
               "title": "Memos"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "14532a7d9cd8ce98",
+        "type": "tabs",
+        "children": [
           {
             "id": "fec03d60078eaa5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Misc/Planetarium.md",
+                "file": "Blueprints/Rooms/Numbered/Clock Tower.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +107,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planetarium"
+              "title": "Clock Tower"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,6 +271,7 @@
   },
   "active": "5bfd9e6fd29730c5",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Numbered/Clock Tower.md",
     "Blueprints/Rooms/Misc/Planetarium.md",
     "Areas/Underground/Unknown Grave.md",
     "Misc info/Memos.md",
