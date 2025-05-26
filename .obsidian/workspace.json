@@ -115,7 +115,8 @@
               "title": "Family tree"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,11 +275,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a21d0295d51f8c3e",
+  "active": "d615a3f3ff9f1ed9",
   "lastOpenFiles": [
+    "Blueprints/Rooms/Misc/Treasure Trove.md",
+    "Images/Misc/Family tree.png",
     "Misc info/Memos.md",
     "Puzzles/Chess/Chess.md",
-    "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Images/Misc/Pasted image 20250519161850.png",
     "Images/Misc/Pasted image 20250519162630.png",
     "Images/Misc/Pasted image 20250523144143.png",
@@ -289,7 +291,6 @@
     "Untitled.md",
     "Terminal/Mail/Staff Announcements.md",
     "Puzzles/Numeric Core.md",
-    "Images/Misc/Family tree.png",
     "People/People.md",
     "People/The Family/Clara Epsen.md",
     "People/The Family/Mary Epsen.md",
@@ -310,7 +311,6 @@
     "Blueprints/Rooms/Outer Rooms/Tomb.md",
     "Blueprints/Blueprint list.md",
     "Blueprints/Rooms/Red Rooms/Lost and Found.md",
-    "Blueprints/Rooms/Numbered/Vault.md",
     "Images/Misc/Pasted image 20250523143318.png",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
