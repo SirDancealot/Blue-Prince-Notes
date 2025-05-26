@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Images/Tomb Letter/Erajan tomb letter.md",
+                "file": "People/People.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Erajan tomb letter"
+              "title": "People"
+            }
+          },
+          {
+            "id": "1d580f21e1c967cc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Misc/Family tree.png"
+              },
+              "icon": "lucide-image",
+              "title": "Family tree"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,11 +299,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff309341fc08ed25",
+  "active": "0119d34bd1d7dada",
   "lastOpenFiles": [
+    "Images/Misc/Family tree.png",
+    "People/People.md",
+    "People/The Family/Clara Epsen.md",
+    "People/The Family/Mary Epsen.md",
+    "Images/Tomb Letter/Erajan tomb letter.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Countries/Countries.md",
-    "People/People.md",
     "Misc info/Memos.md",
     "Blueprints/Rooms/Numbered/Wine Cellar.md",
     "Blueprints/Rooms/Bedrooms/Master Bedroom.md",
@@ -300,7 +316,6 @@
     "TODO.md",
     "Areas/Outside/The Precipice.md",
     "Blueprints/Rooms/Numbered/Antechamber.md",
-    "Images/Tomb Letter/Erajan tomb letter.md",
     "Puzzles/Exam.md",
     "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
     "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
@@ -317,10 +332,7 @@
     "Blueprints/Rooms/Numbered/Utility Closet.md",
     "Pasted image 20250523144143.png",
     "Terminal/Mail/Office Mail.md",
-    "Blueprints/Rooms/Misc/Dovecote.md",
     "Pasted image 20250523143318.png",
-    "Blueprints/Rooms/Numbered/Rumpus Room.md",
-    "Terminal/Mail/Staff Announcements.md",
     "Pasted image 20250523142829.png",
     "Pasted image 20250523142816.png",
     "Pasted image 20250523142756.png",
