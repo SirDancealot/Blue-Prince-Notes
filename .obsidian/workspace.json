@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Outside/The Artier.md",
+                "file": "Areas/Outside/The Atelier.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Artier"
+              "title": "The Atelier"
             }
           },
           {
@@ -361,8 +361,9 @@
   },
   "active": "d0674f402e000542",
   "lastOpenFiles": [
+    "Pasted image 20250529235447.png",
     "Puzzles/Mora Jai Box.md",
-    "Areas/Outside/The Artier.md",
+    "Areas/Outside/The Atelier.md",
     "Pasted image 20250529231944.png",
     "TODO.md",
     "Blueprints/Rooms/Numbered/Vault.md",

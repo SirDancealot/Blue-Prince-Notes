@@ -6,4 +6,4 @@
 - [[Numeric Core]]
 - Have another look in all rooms and fill out a [[Blueprint list]] page on them
 - Figure out the blank book [[Library]] stuff
-- Figure out [[The Artier]]
+- Figure out [[The Atelier]]
