@@ -14,23 +14,23 @@ Room layout:
 | Foyer          | Pool           | Servant's quarters | Pump room       | Furnace           |
 | Gymnasium      | Laundry room   | Guest bedroom      | Conference room | Den               |
 | West wing hall | Passageway     | Darkroom           | Closet          | Parlor            |
-| Billiard room  | Trophy room    | Foundation         |                 |                   |
-|                |                | Corridor           | Music room      | Lavatory          |
+| Billiard room  | Trophy room    | Foundation         | Ballroom        | Spare room        |
+| Nook           |                | Corridor           | Music room      | Lavatory          |
 | solarium       |                |                    |                 | East wing hallway |
 |                | Drawing room   | gallery            |                 | Cloister          |
 | Conservatory   | Maid's Chamber | Entrance hall      | Pantry          | Storeroom         |
 Words in mora jai boxes:
 
-| Through | Lantern | Light  | In   | Sketches |
-| ------- | ------- | ------ | ---- | -------- |
-| Cast    | A       | Tint   | Of   | Truth    |
-| To      | Find    | Our    | Path | A        |
-| Hue     | Of      | Wisdom | To   | Turn     |
-|         |         | A      |      |          |
-|         |         |        |      |          |
-| through | lantern |        |      |          |
-|         |         | Seek   |      |          |
-| of      | the     | Lies   |      |          |
+| Through | Lantern | Light  | In    | Sketches |
+| ------- | ------- | ------ | ----- | -------- |
+| Cast    | A       | Tint   | Of    | Truth    |
+| To      | Find    | Our    | Path  | A        |
+| Hue     | Of      | Wisdom | To    | Turn     |
+| Us      | Right   | A      | Shade | Of       |
+|         |         |        |       |          |
+| through | lantern |        |       |          |
+|         |         | Seek   |       |          |
+| of      | the     | Lies   |       |          |
 
 Room door openings:
 
@@ -39,8 +39,8 @@ Room door openings:
 | E, W    | N, E, W | S       | N, E    | W       |
 | N, E, W | E       | S       | W, E, S | W, S, E |
 | N, E, S | All     | W, N, E | N       | S, E    |
-| S, E    | S, W    | E, W, S |         |         |
-|         |         | E, W    | S, W    | S       |
+| S, E    | S, W    | E, W, S | E, W    | E, W    |
+| N, W    |         | E, W    | S, W    | S       |
 | W       |         |         |         | N, W, S |
 |         | N, E, S | N, S    |         | All     |
 | N, E    | W, N    | N, E, W | E, N    | E       |
@@ -52,8 +52,8 @@ New letter differences:
 | S?    | Y?  |     | N   |     |
 |       | L   |     |     |     |
 | F     |     |     | G   |     |
-|       |     |     |     |     |
-|       |     |     |     |     |
+| B     |     |     |     | N   |
+| C     |     |     |     |     |
 | horse | m   |     |     |     |
 |       | e   | w   |     |     |
 | b     | l   | e   |     |     |
