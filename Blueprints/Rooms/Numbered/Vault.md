@@ -4,6 +4,8 @@ based on this rooms [[Blue Tents]] [[Memos]], [[Numeric Core]] and sum of its di
 ![[Pasted image 20250527001739.png]]
 ![[Pasted image 20250527001813.png]]
 ![[Pasted image 20250527001913.png]]
+![[Pasted image 20250527001958.png]]
+![[Pasted image 20250527002026.png]]
 
 
 The 4th locker (370) contains a key for the [[Inner Sanctum]]
