@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Rooms/Numbered/Vault.md",
+                "file": "Puzzles/Mora Jai Box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vault"
+              "title": "Mora Jai Box"
             }
           },
           {
@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -359,25 +359,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0674f402e000542",
+  "active": "f9abd4a7cb16f7aa",
   "lastOpenFiles": [
+    "Areas/Outside/The Artier.md",
+    "Pasted image 20250529231944.png",
+    "Puzzles/Mora Jai Box.md",
+    "TODO.md",
+    "Blueprints/Rooms/Numbered/Vault.md",
     "Pasted image 20250529223503.png",
     "Pasted image 20250529223203.png",
-    "Areas/Outside/The Artier.md",
-    "TODO.md",
     "Pasted image 20250529220036.png",
     "Pasted image 20250529215934.png",
-    "Puzzles/Mora Jai Box.md",
     "Blueprints/Rooms/Numbered/Library.md",
     "Puzzles/Numeric Core.md",
-    "Blueprints/Rooms/Numbered/Vault.md",
     "Blueprints/Rooms/Misc/Throne Room.md",
     "Images/Misc/Pasted image 20250526233700.png",
     "Images/Misc/Pasted image 20250527001739.png",
     "Images/Misc/Pasted image 20250527002026.png",
     "Images/Misc/Pasted image 20250527001958.png",
     "Images/Misc/Pasted image 20250527001913.png",
-    "Images/Misc/Pasted image 20250527001813.png",
     "Areas/Underground/Unknown Grave.md",
     "Areas/Outside/The Precipice.md",
     "Blueprints/Rooms/Shops/Laundry Room.md",
@@ -386,7 +386,6 @@
     "Misc info/Testament.md",
     "Untitled.md",
     "Images/Misc/Pasted image 20250511012849.png.0.pdnSave",
-    "Images/Books/The Red Prince FE/Pasted image 20250526221544.png",
     "Books/A New Clue FE.md",
     "Books/The Red Prince FE.md",
     "Books/A New Clue.md",

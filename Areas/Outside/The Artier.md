@@ -4,32 +4,32 @@ These specific rooms are in these specific locations
 
 Room layout:
 
-|              |                |               |            |                   |
-| ------------ | -------------- | ------------- | ---------- | ----------------- |
-|              |                |               |            |                   |
-|              |                | Guest bedr    |            |                   |
-|              |                | Darkroom      |            |                   |
-|              |                | Foundation    |            |                   |
-|              |                | Corridor      | Music room | Lavatory          |
-| solarium     |                |               |            | East wing hallway |
-|              | Drawing room   | gallery       |            | Cloister          |
-| Conservatory | Maid's Chamber | Entrance hall | Pantry     | Storeroom         |
+| Archives     | Chapel         | Vestibule          | Coat check      |                   |
+| ------------ | -------------- | ------------------ | --------------- | ----------------- |
+| Foyer        | Pool           | Servant's quarters | Pump room       |                   |
+|              |                | Guest bedroom      | Conference room |                   |
+|              |                | Darkroom           |                 |                   |
+|              |                | Foundation         |                 |                   |
+|              |                | Corridor           | Music room      | Lavatory          |
+| solarium     |                |                    |                 | East wing hallway |
+|              | Drawing room   | gallery            |                 | Cloister          |
+| Conservatory | Maid's Chamber | Entrance hall      | Pantry          | Storeroom         |
 Room door openings:
 
-|      |         |         |      |         |
-| ---- | ------- | ------- | ---- | ------- |
-|      |         |         |      |         |
-|      |         |         |      |         |
-|      |         | W, N, E |      |         |
-|      |         | E, W, S |      |         |
-|      |         | E, W    | S, W | S       |
-| W    |         |         |      | N, W, S |
-|      | N, E, S | N, S    |      | All     |
-| N, E | W, N    | N, E, W | E, N | E       |
+| All  | N, E, S | All?    |         |         |
+| ---- | ------- | ------- | ------- | ------- |
+| E, W | N, E, W | S       | N, E    |         |
+|      |         | S       | W, E, S |         |
+|      |         | W, N, E |         |         |
+|      |         | E, W, S |         |         |
+|      |         | E, W    | S, W    | S       |
+| W    |         |         |         | N, W, S |
+|      | N, E, S | N, S    |         | All     |
+| N, E | W, N    | N, E, W | E, N    | E       |
 
 New letter differences:
 
-|       |     |     |     |     |
+|       | h   |     | s   |     |
 | ----- | --- | --- | --- | --- |
 |       |     |     |     |     |
 |       |     |     |     |     |
@@ -41,13 +41,13 @@ New letter differences:
 | b     | l   | e   |     |     |
 Words in mora jai boxes:
 
-|         |         |      |     |     |
-| ------- | ------- | ---- | --- | --- |
-|         |         |      |     |     |
-|         |         |      |     |     |
-|         |         |      |     |     |
-|         |         | A    |     |     |
-|         |         |      |     |     |
-| through | lantern |      |     |     |
-|         |         | Seek |     |     |
-| of      | the     | Lies |     |     |
+| Through | Lantern | Light |     |     |
+| ------- | ------- | ----- | --- | --- |
+|         |         |       |     |     |
+|         |         |       |     |     |
+|         |         |       |     |     |
+|         |         | A     |     |     |
+|         |         |       |     |     |
+| through | lantern |       |     |     |
+|         |         | Seek  |     |     |
+| of      | the     | Lies  |     |     |
