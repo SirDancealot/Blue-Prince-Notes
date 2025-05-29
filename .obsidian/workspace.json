@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzles/Numeric Core.md",
+                "file": "Blueprints/Rooms/Numbered/Library.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Numeric Core"
+              "title": "Library"
             }
           },
           {
@@ -336,9 +336,11 @@
   },
   "active": "284275c9046bdee5",
   "lastOpenFiles": [
+    "Pasted image 20250529220036.png",
+    "Pasted image 20250529215934.png",
+    "Puzzles/Numeric Core.md",
     "Blueprints/Rooms/Numbered/Vault.md",
     "Blueprints/Rooms/Misc/Throne Room.md",
-    "Puzzles/Numeric Core.md",
     "Images/Misc/Pasted image 20250526233700.png",
     "Images/Misc/Pasted image 20250527001739.png",
     "Images/Misc/Pasted image 20250527002026.png",
@@ -366,7 +368,6 @@
     "Images/Books/A New Clue FE/Pasted image 20250526223222.png",
     "Images/Books/A New Clue FE",
     "Images/Books/A New Clue FE/Pasted image 20250526223320.png",
-    "Images/Books/A New Clue FE/Pasted image 20250526223314.png",
     "Books/Books.md",
     "Areas/Underground/Safehouse.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
@@ -374,7 +375,6 @@
     "Puzzles/Travel order/Postcards.md",
     "Puzzles/Angel/Gardening angel.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
-    "Puzzles/Travel order/Travel order.md",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",
