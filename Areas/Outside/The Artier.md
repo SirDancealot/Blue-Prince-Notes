@@ -4,7 +4,7 @@ These specific rooms are in these specific locations
 
 Room layout:
 
-| Archives     | Chapel         | Vestibule          | Coat check      |                   |
+| Archives     | Chapel         | Vestibule          | Coat check      | Aquarium          |
 | ------------ | -------------- | ------------------ | --------------- | ----------------- |
 | Foyer        | Pool           | Servant's quarters | Pump room       |                   |
 |              |                | Guest bedroom      | Conference room |                   |
@@ -16,7 +16,7 @@ Room layout:
 | Conservatory | Maid's Chamber | Entrance hall      | Pantry          | Storeroom         |
 Room door openings:
 
-| All  | N, E, S | All?    |         |         |
+| All  | N, E, S | All?    | E       | N, E, W |
 | ---- | ------- | ------- | ------- | ------- |
 | E, W | N, E, W | S       | N, E    |         |
 |      |         | S       | W, E, S |         |
@@ -29,9 +29,9 @@ Room door openings:
 
 New letter differences:
 
-|       | h   |     | s   |     |
+|       | h   |     | s   | e   |
 | ----- | --- | --- | --- | --- |
-|       |     |     |     |     |
+| S?    | Y?  |     |     |     |
 |       |     |     |     |     |
 |       |     |     |     |     |
 |       |     |     |     |     |
@@ -41,13 +41,13 @@ New letter differences:
 | b     | l   | e   |     |     |
 Words in mora jai boxes:
 
-| Through | Lantern | Light |     |     |
-| ------- | ------- | ----- | --- | --- |
-|         |         |       |     |     |
-|         |         |       |     |     |
-|         |         |       |     |     |
-|         |         | A     |     |     |
-|         |         |       |     |     |
-| through | lantern |       |     |     |
-|         |         | Seek  |     |     |
-| of      | the     | Lies  |     |     |
+| Through | Lantern | Light | In  | Sketches |
+| ------- | ------- | ----- | --- | -------- |
+|         | A       |       |     |          |
+|         |         |       |     |          |
+|         |         |       |     |          |
+|         |         | A     |     |          |
+|         |         |       |     |          |
+| through | lantern |       |     |          |
+|         |         | Seek  |     |          |
+| of      | the     | Lies  |     |          |

@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -359,11 +359,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9abd4a7cb16f7aa",
+  "active": "d0674f402e000542",
   "lastOpenFiles": [
+    "Puzzles/Mora Jai Box.md",
     "Areas/Outside/The Artier.md",
     "Pasted image 20250529231944.png",
-    "Puzzles/Mora Jai Box.md",
     "TODO.md",
     "Blueprints/Rooms/Numbered/Vault.md",
     "Pasted image 20250529223503.png",
