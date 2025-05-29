@@ -2,19 +2,43 @@ These specific rooms are in these specific locations
 
 ![[Pasted image 20250529223203.png]]
 
+Room layout:
+
+|              |                |               |     |     |
+| ------------ | -------------- | ------------- | --- | --- |
+|              |                |               |     |     |
+|              |                |               |     |     |
+|              |                |               |     |     |
+|              |                |               |     |     |
+|              |                |               |     |     |
+| solarium     |                |               |     |     |
+|              | Drawing room   | gallery       |     |     |
+| Conservatory | Maid's Chamber | Entrance hall |     |     |
+Room door openings:
+
+|      |         |         |     |     |
+| ---- | ------- | ------- | --- | --- |
+|      |         |         |     |     |
+|      |         |         |     |     |
+|      |         |         |     |     |
+|      |         |         |     |     |
+|      |         |         |     |     |
+| W    |         |         |     |     |
+|      | N, E, S | N, S    |     |     |
+| N, E | W, N    | N, E, W |     |     |
 
 New letter differences:
 
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-|     |     |     |     |     |
-|     |     |     |     |     |
-|     |     |     |     |     |
-|     |     |     |     |     |
-|     |     |     |     |     |
-|     | m   |     |     |     |
-|     | e   | w   |     |     |
-|     |     | e   |     |     |
+|       |     |     |     |     |
+| ----- | --- | --- | --- | --- |
+|       |     |     |     |     |
+|       |     |     |     |     |
+|       |     |     |     |     |
+|       |     |     |     |     |
+|       |     |     |     |     |
+| horse | m   |     |     |     |
+|       | e   | w   |     |     |
+| b     | l   | e   |     |     |
 Words in mora jai boxes:
 
 |         |         |      |     |     |
@@ -26,4 +50,4 @@ Words in mora jai boxes:
 |         |         |      |     |     |
 | through | lantern |      |     |     |
 |         |         | Seek |     |     |
-|         |         | Lies |     |     |
+| of      | the     | Lies |     |     |
