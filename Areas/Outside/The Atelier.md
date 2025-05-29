@@ -17,20 +17,20 @@ Room layout:
 | Billiard room  | Trophy room    | Foundation         | Ballroom        | Spare room        |
 | Nook           | Kitchen        | Corridor           | Music room      | Lavatory          |
 | solarium       | Hallway        | Dining room        | Observatory     | East wing hallway |
-| Bedroom        | Drawing room   | gallery            |                 | Cloister          |
+| Bedroom        | Drawing room   | gallery            | Library         | Cloister          |
 | Conservatory   | Maid's Chamber | Entrance hall      | Pantry          | Storeroom         |
 Words in mora jai boxes:
 
-| Through | Lantern | Light  | In    | Sketches |
-| ------- | ------- | ------ | ----- | -------- |
-| Cast    | A       | Tint   | Of    | Truth    |
-| To      | Find    | Our    | Path  | A        |
-| Hue     | Of      | Wisdom | To    | Turn     |
-| Us      | Right   | A      | Shade | Of       |
-| Rain    | To      | Pass   | The   | Light    |
-| through | lantern | Light  | In    | Shadows  |
-| Past    |         | Seek   |       |          |
-| of      | the     | Lies   |       |          |
+| Through | Lantern | Light  | In     | Sketches |
+| ------- | ------- | ------ | ------ | -------- |
+| Cast    | A       | Tint   | Of     | Truth    |
+| To      | Find    | Our    | Path   | A        |
+| Hue     | Of      | Wisdom | To     | Turn     |
+| Us      | Right   | A      | Shade  | Of       |
+| Rain    | To      | Pass   | The    | Light    |
+| through | lantern | Light  | In     | Shadows  |
+| Past    | We      | Seek   | What's | Left     |
+| of      | the     | Lies   |        |          |
 
 Room door openings:
 
@@ -42,7 +42,7 @@ Room door openings:
 | S, E    | S, W    | E, W, S | E, W    | E, W    |
 | N, W    | W, S    | E, W    | S, W    | S       |
 | W       | W, E, S | N, W, E | N, E    | N, W, S |
-| N, E    | N, E, S | N, S    |         | All     |
+| N, E    | N, E, S | N, S    | N, E    | All     |
 | N, E    | W, N    | N, E, W | E, N    | E       |
 
 New letter differences:
@@ -55,5 +55,5 @@ New letter differences:
 | B     |     |     |     | N   |
 | C     | R   |     |     |     |
 | horse | m   |     |     |     |
-|       | e   | w   |     |     |
+|       | e   | w   | A   |     |
 | b     | l   | e   |     |     |
