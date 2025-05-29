@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Puzzles/Numeric Core.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Numeric Core"
+            }
+          },
+          {
+            "id": "f9abd4a7cb16f7aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Blueprints/Rooms/Numbered/Vault.md",
                 "mode": "source",
                 "source": false,
@@ -29,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Vault"
-            }
-          },
-          {
-            "id": "f9abd4a7cb16f7aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Misc/Throne Room.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Throne Room"
             }
           },
           {
@@ -336,17 +336,19 @@
   },
   "active": "284275c9046bdee5",
   "lastOpenFiles": [
-    "Pasted image 20250527002026.png",
-    "Pasted image 20250527001958.png",
-    "Pasted image 20250527001913.png",
-    "Pasted image 20250527001813.png",
-    "Pasted image 20250527001739.png",
+    "Blueprints/Rooms/Numbered/Vault.md",
+    "Blueprints/Rooms/Misc/Throne Room.md",
+    "Puzzles/Numeric Core.md",
+    "Images/Misc/Pasted image 20250526233700.png",
+    "Images/Misc/Pasted image 20250527001739.png",
+    "Images/Misc/Pasted image 20250527002026.png",
+    "Images/Misc/Pasted image 20250527001958.png",
+    "Images/Misc/Pasted image 20250527001913.png",
+    "Images/Misc/Pasted image 20250527001813.png",
     "TODO.md",
     "Areas/Underground/Unknown Grave.md",
     "Areas/Outside/The Precipice.md",
     "Puzzles/Mora Jai Box.md",
-    "Blueprints/Rooms/Misc/Throne Room.md",
-    "Pasted image 20250526233700.png",
     "Blueprints/Rooms/Shops/Laundry Room.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
     "Blueprints/Rooms/Outer Rooms/Shrine.md",
@@ -365,7 +367,6 @@
     "Images/Books/A New Clue FE",
     "Images/Books/A New Clue FE/Pasted image 20250526223320.png",
     "Images/Books/A New Clue FE/Pasted image 20250526223314.png",
-    "Images/Books/A New Clue FE/Pasted image 20250526223309.png",
     "Books/Books.md",
     "Areas/Underground/Safehouse.md",
     "Blueprints/Rooms/Numbered/Clock Tower.md",
@@ -374,7 +375,6 @@
     "Puzzles/Angel/Gardening angel.md",
     "Blueprints/Rooms/Numbered/Room 46.md",
     "Puzzles/Travel order/Travel order.md",
-    "Blueprints/Rooms/Misc/Classrooms/8th grade.md",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
     "Puzzles/Travel order",
