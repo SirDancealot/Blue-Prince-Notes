@@ -12,19 +12,32 @@ Room layout:
 | Archives     | Chapel         | Vestibule          | Coat check      | Aquarium          |
 | ------------ | -------------- | ------------------ | --------------- | ----------------- |
 | Foyer        | Pool           | Servant's quarters | Pump room       | Furnace           |
-| Gymnasium    |                | Guest bedroom      | Conference room |                   |
+| Gymnasium    |                | Guest bedroom      | Conference room | Den               |
 |              |                | Darkroom           |                 |                   |
 |              |                | Foundation         |                 |                   |
 |              |                | Corridor           | Music room      | Lavatory          |
 | solarium     |                |                    |                 | East wing hallway |
 |              | Drawing room   | gallery            |                 | Cloister          |
 | Conservatory | Maid's Chamber | Entrance hall      | Pantry          | Storeroom         |
+Words in mora jai boxes:
+
+| Through | Lantern | Light | In   | Sketches |
+| ------- | ------- | ----- | ---- | -------- |
+| Cast    | A       | Tint  | Of   | Truth    |
+| To      |         | Our   | Path | A        |
+|         |         |       |      |          |
+|         |         | A     |      |          |
+|         |         |       |      |          |
+| through | lantern |       |      |          |
+|         |         | Seek  |      |          |
+| of      | the     | Lies  |      |          |
+
 Room door openings:
 
 | All     | N, E, S | All?    | E       | N, E, W |
 | ------- | ------- | ------- | ------- | ------- |
-| E, W    | N, E, W | S       | N, E    |         |
-| N, E, W |         | S       | W, E, S |         |
+| E, W    | N, E, W | S       | N, E    | W       |
+| N, E, W |         | S       | W, E, S | W, S, E |
 |         |         | W, N, E |         |         |
 |         |         | E, W, S |         |         |
 |         |         | E, W    | S, W    | S       |
@@ -44,15 +57,3 @@ New letter differences:
 | horse | m   |     |     |     |
 |       | e   | w   |     |     |
 | b     | l   | e   |     |     |
-Words in mora jai boxes:
-
-| Through | Lantern | Light | In  | Sketches |
-| ------- | ------- | ----- | --- | -------- |
-| Cast    | A       | Tint  | Of  |          |
-|         |         |       |     |          |
-|         |         |       |     |          |
-|         |         | A     |     |          |
-|         |         |       |     |          |
-| through | lantern |       |     |          |
-|         |         | Seek  |     |          |
-| of      | the     | Lies  |     |          |
