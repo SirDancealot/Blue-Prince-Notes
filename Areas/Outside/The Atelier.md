@@ -16,8 +16,8 @@ Room layout:
 | West wing hall | Passageway     | Darkroom           | Closet          | Parlor            |
 | Billiard room  | Trophy room    | Foundation         | Ballroom        | Spare room        |
 | Nook           | Kitchen        | Corridor           | Music room      | Lavatory          |
-| solarium       |                |                    |                 | East wing hallway |
-|                | Drawing room   | gallery            |                 | Cloister          |
+| solarium       | Hallway        | Dining room        | Observatory     | East wing hallway |
+| Bedroom        | Drawing room   | gallery            |                 | Cloister          |
 | Conservatory   | Maid's Chamber | Entrance hall      | Pantry          | Storeroom         |
 Words in mora jai boxes:
 
@@ -27,9 +27,9 @@ Words in mora jai boxes:
 | To      | Find    | Our    | Path  | A        |
 | Hue     | Of      | Wisdom | To    | Turn     |
 | Us      | Right   | A      | Shade | Of       |
-| Rain    | To      | Pass   | The   |          |
-| through | lantern |        |       |          |
-|         |         | Seek   |       |          |
+| Rain    | To      | Pass   | The   | Light    |
+| through | lantern | Light  | In    | Shadows  |
+| Past    |         | Seek   |       |          |
 | of      | the     | Lies   |       |          |
 
 Room door openings:
@@ -41,8 +41,8 @@ Room door openings:
 | N, E, S | All     | W, N, E | N       | S, E    |
 | S, E    | S, W    | E, W, S | E, W    | E, W    |
 | N, W    | W, S    | E, W    | S, W    | S       |
-| W       |         |         |         | N, W, S |
-|         | N, E, S | N, S    |         | All     |
+| W       | W, E, S | N, W, E | N, E    | N, W, S |
+| N, E    | N, E, S | N, S    |         | All     |
 | N, E    | W, N    | N, E, W | E, N    | E       |
 
 New letter differences:
