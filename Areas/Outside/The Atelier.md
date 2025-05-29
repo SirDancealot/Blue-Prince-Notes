@@ -30,7 +30,7 @@ Words in mora jai boxes:
 | Rain    | To      | Pass   | The    | Light    |
 | through | lantern | Light  | In     | Shadows  |
 | Past    | We      | Seek   | What's | Left     |
-| of      | the     | Lies   |        |          |
+| of      | the     | Lies   | We     | Cast     |
 
 Room door openings:
 
@@ -57,3 +57,4 @@ New letter differences:
 | horse | m   |     |     |     |
 |       | e   | w   | A   |     |
 | b     | l   | e   |     |     |
+![[Full blueprints layout.png]]
