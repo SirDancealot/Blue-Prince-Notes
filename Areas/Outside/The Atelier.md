@@ -9,37 +9,37 @@ Interesting quotes in
 
 Room layout:
 
-| Archives     | Chapel         | Vestibule          | Coat check      | Aquarium          |
-| ------------ | -------------- | ------------------ | --------------- | ----------------- |
-| Foyer        | Pool           | Servant's quarters | Pump room       | Furnace           |
-| Gymnasium    |                | Guest bedroom      | Conference room | Den               |
-|              |                | Darkroom           |                 |                   |
-|              |                | Foundation         |                 |                   |
-|              |                | Corridor           | Music room      | Lavatory          |
-| solarium     |                |                    |                 | East wing hallway |
-|              | Drawing room   | gallery            |                 | Cloister          |
-| Conservatory | Maid's Chamber | Entrance hall      | Pantry          | Storeroom         |
+| Archives       | Chapel         | Vestibule          | Coat check      | Aquarium          |
+| -------------- | -------------- | ------------------ | --------------- | ----------------- |
+| Foyer          | Pool           | Servant's quarters | Pump room       | Furnace           |
+| Gymnasium      | Laundry room   | Guest bedroom      | Conference room | Den               |
+| West wing hall | Passageway     | Darkroom           | Closet          | Parlor            |
+| Billiard room  | Trophy room    | Foundation         |                 |                   |
+|                |                | Corridor           | Music room      | Lavatory          |
+| solarium       |                |                    |                 | East wing hallway |
+|                | Drawing room   | gallery            |                 | Cloister          |
+| Conservatory   | Maid's Chamber | Entrance hall      | Pantry          | Storeroom         |
 Words in mora jai boxes:
 
-| Through | Lantern | Light | In   | Sketches |
-| ------- | ------- | ----- | ---- | -------- |
-| Cast    | A       | Tint  | Of   | Truth    |
-| To      |         | Our   | Path | A        |
-|         |         |       |      |          |
-|         |         | A     |      |          |
-|         |         |       |      |          |
-| through | lantern |       |      |          |
-|         |         | Seek  |      |          |
-| of      | the     | Lies  |      |          |
+| Through | Lantern | Light  | In   | Sketches |
+| ------- | ------- | ------ | ---- | -------- |
+| Cast    | A       | Tint   | Of   | Truth    |
+| To      | Find    | Our    | Path | A        |
+| Hue     | Of      | Wisdom | To   | Turn     |
+|         |         | A      |      |          |
+|         |         |        |      |          |
+| through | lantern |        |      |          |
+|         |         | Seek   |      |          |
+| of      | the     | Lies   |      |          |
 
 Room door openings:
 
 | All     | N, E, S | All?    | E       | N, E, W |
 | ------- | ------- | ------- | ------- | ------- |
 | E, W    | N, E, W | S       | N, E    | W       |
-| N, E, W |         | S       | W, E, S | W, S, E |
-|         |         | W, N, E |         |         |
-|         |         | E, W, S |         |         |
+| N, E, W | E       | S       | W, E, S | W, S, E |
+| N, E, S | All     | W, N, E | N       | S, E    |
+| S, E    | S, W    | E, W, S |         |         |
 |         |         | E, W    | S, W    | S       |
 | W       |         |         |         | N, W, S |
 |         | N, E, S | N, S    |         | All     |
@@ -50,8 +50,8 @@ New letter differences:
 |       | h   |     | s   | e   |
 | ----- | --- | --- | --- | --- |
 | S?    | Y?  |     | N   |     |
-|       |     |     |     |     |
-|       |     |     |     |     |
+|       | L   |     |     |     |
+| F     |     |     | G   |     |
 |       |     |     |     |     |
 |       |     |     |     |     |
 | horse | m   |     |     |     |
