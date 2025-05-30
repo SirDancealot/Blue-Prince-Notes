@@ -19,18 +19,6 @@ Room layout:
 | solarium       | Hallway        | Dining room        | Observatory     | East wing hallway |
 | Bedroom        | Drawing room   | gallery            | Library         | Cloister          |
 | Conservatory   | Maid's Chamber | Entrance hall      | Pantry          | Storeroom         |
-Words in mora jai boxes:
-
-| Through | Lantern | Light  | In     | Sketches |
-| ------- | ------- | ------ | ------ | -------- |
-| Cast    | A       | Tint   | Of     | Truth    |
-| To      | Find    | Our    | Path   | A        |
-| Hue     | Of      | Wisdom | To     | Turn     |
-| Us      | Right   | A      | Shade  | Of       |
-| Rain    | To      | Pass   | The    | Light    |
-| through | lantern | Light  | In     | Shadows  |
-| Past    | We      | Seek   | What's | Left     |
-| of      | the     | Lies   | We     | Cast     |
 
 Room door openings:
 
@@ -57,4 +45,29 @@ New letter differences:
 | horse | m   |     |     |     |
 |       | e   | w   | A   |     |
 | b     | l   | e   |     |     |
+Words in mora jai boxes:
+
+| Through | Lantern | Light  | In     | Sketches |
+| ------- | ------- | ------ | ------ | -------- |
+| Cast    | A       | Tint   | Of     | Truth    |
+| To      | Find    | Our    | Path   | A        |
+| Hue     | Of      | Wisdom | To     | Turn     |
+| Us      | Right   | A      | Shade  | Of       |
+| Rain    | To      | Pass   | The    | Light    |
+| through | lantern | Light  | In     | Shadows  |
+| Past    | We      | Seek   | What's | Left     |
+| of      | the     | Lies   | We     | Cast     |
+
+Wisdom = [[Corarica]] = Orange = Right
+Rain = [[Eraja]] = Violet/purple = Straight?
+Lies = red = left
+
 ![[Full blueprints layout.png]]
+When following the path you enter room 46
+it has a [[Mora Jai Box]] with the word "BLUE"
+And "the last will and testament of me, The Baroness Auravei"
+![[Pasted image 20250530024025.png]]
+![[Pasted image 20250530024058.png]]
+![[Pasted image 20250530024219.png]]
+![[Pasted image 20250530024334.png]]
+![[Pasted image 20250530024456.png]]
