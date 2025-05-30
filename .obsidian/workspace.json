@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "d0674f402e000542",
+            "id": "c59998cdc1f295a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -360,15 +360,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0674f402e000542",
+  "active": "c59998cdc1f295a1",
   "lastOpenFiles": [
+    "TODO.md",
+    "Areas/Outside/The Atelier.md",
     "Full blueprints layout.png.0.pdnSave",
     "Full blueprints layout.png",
-    "Areas/Outside/The Atelier.md",
     "Puzzles/Mora Jai Box.md",
     "Pasted image 20250529235447.png",
     "Pasted image 20250529231944.png",
-    "TODO.md",
     "Blueprints/Rooms/Numbered/Vault.md",
     "Pasted image 20250529223503.png",
     "Pasted image 20250529223203.png",
@@ -407,7 +407,6 @@
     "Images/Books/Claras diary",
     "Images/Misc/room letter puzzle.png.0.pdnSave",
     "Images/Books/Dare Bird",
-    "Images/Books/Drafting Strategy Vol 2",
     "Untitled.canvas"
   ]
 }
