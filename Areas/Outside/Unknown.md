@@ -6,5 +6,5 @@ entered from the [[Outside Tunnel]] at least 4 doors exist, requiring in the fol
 - door requiring power from red box in [[Boiler Room]]
 - Door requiring flames, ([[Self Igniting Torch]] or [[Burning Glass]])
 - [[Microchip]] door
-- Weird door with a Mt. Holly symbol on it [[TODO]]
+- Weird door with a Mt. Holly symbol on it, unlocked by ascended [[Throne Room]]
 ![[Pasted image 20250513013931.png]]

@@ -1,9 +1,0 @@
-- Remaining [[Puzzles]]
-- Figure out what to do with the cursed idol in the cursed box in [[Shrine]] (opened with [[Sledge Hammer]] or [[Morning Star]]), maybe take to the safehouse?
-- use [[Experiments]] to gain permanent lockpicking skill
-- Use the ascended [[Throne Room]]
-- Enter "[[Unknown]]" area by unlocking the door via the [[Throne Room]]
-- [[Numeric Core]]
-- Have another look in all rooms and fill out a [[Blueprint list]] page on them
-- Figure out the blank book [[Library]] stuff
-- Figure out [[The Atelier]]

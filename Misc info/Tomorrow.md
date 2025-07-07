@@ -10,5 +10,3 @@ Various rooms have tomorrow effects, some stated obviously, some not, the follow
 - [[Aquarium]]: No effect
 - [[Hovel]]: No effect
 - [[Dormitory]]: No effect
-
-[[TODO]] find the remaining bedroom effects

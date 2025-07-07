@@ -16,7 +16,7 @@
 ![[Pasted image 20250514000853.png]]
 ![[Pasted image 20250514000841.png]]
 
-The house is reset manually!!!! [[TODO]] any way to stop this?
+The house is reset manually!!!! 
 ![[Pasted image 20250514000802.png]]
 ![[Pasted image 20250514000728.png]]
 ![[Pasted image 20250514000710.png]]

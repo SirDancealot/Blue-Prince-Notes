@@ -1,4 +1,3 @@
-[[TODO]]
 behind the room with the [[Chess]] puzzle
 
 Has 8 [[Mora Jai Box]]s each with a note with some cryptic hint

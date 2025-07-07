@@ -4,203 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "22d621224fbeb555",
+        "id": "887b8ca2ab4b3729",
         "type": "tabs",
         "children": [
           {
-            "id": "284275c9046bdee5",
+            "id": "c3f5850220a4ae15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "92f9db83caeac226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Outside/The Atelier.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Atelier"
-            }
-          },
-          {
-            "id": "f9abd4a7cb16f7aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzles/Mora Jai Box.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mora Jai Box"
-            }
-          },
-          {
-            "id": "99b23b1d6404b813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Numbered/Clock Tower.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Clock Tower"
-            }
-          },
-          {
-            "id": "de354dfbced47aae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Underground/Safehouse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Safehouse"
-            }
-          },
-          {
-            "id": "6c7abda6cc039503",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/A New Clue FE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "A New Clue FE"
-            }
-          },
-          {
-            "id": "8d1e50c265d34417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzles/Angel/Angel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Angel"
-            }
-          },
-          {
-            "id": "d5280fa6c2b88e2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprints/Rooms/Hallways/Secret Passage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Secret Passage"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "65b3927a3ca39128",
@@ -360,47 +176,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92f9db83caeac226",
+  "active": "c3f5850220a4ae15",
   "lastOpenFiles": [
-    "Pasted image 20250530024456.png",
-    "Pasted image 20250530024334.png",
-    "Pasted image 20250530024219.png",
-    "Pasted image 20250530024058.png",
-    "Pasted image 20250530024025.png",
+    "Puzzles/Sigil doors/Sigils.md",
+    "Pasted image 20250427195812.png.md",
+    "Images/Misc/Full blueprints layout.png",
+    "Images/Misc/Pasted image 20250529223203.png",
+    "Images/Misc/Pasted image 20250530024456.png",
     "TODO.md",
+    "Areas/Underground/Unknown Grave.md",
+    "Areas/Outside/Unknown.md",
+    "Misc info/Tomorrow.md",
+    "Areas/Outside/The Precipice.md",
+    "Terminal/Mail/Staff Announcements.md",
+    "Blueprints/Rooms/Outer Rooms/Shrine.md",
+    "Misc info/Memos.md",
+    "Misc info/Experiments.md",
+    "Puzzles/Puzzles.md",
     "Areas/Outside/The Atelier.md",
+    "Images/Misc/Pasted image 20250530024334.png",
+    "Images/Misc/Pasted image 20250530024219.png",
+    "Images/Misc/Pasted image 20250530024058.png",
+    "Images/Misc/Pasted image 20250530024025.png",
     "Full blueprints layout.png.0.pdnSave",
     "Countries/Eraja.md",
-    "Full blueprints layout.png",
     "Puzzles/Mora Jai Box.md",
-    "Pasted image 20250529235447.png",
-    "Pasted image 20250529231944.png",
+    "Images/Misc/Pasted image 20250529235447.png",
+    "Images/Misc/Pasted image 20250529231944.png",
     "Blueprints/Rooms/Numbered/Vault.md",
-    "Pasted image 20250529223503.png",
-    "Pasted image 20250529223203.png",
-    "Pasted image 20250529220036.png",
+    "Images/Misc/Pasted image 20250529223503.png",
     "Blueprints/Rooms/Numbered/Library.md",
     "Puzzles/Numeric Core.md",
     "Blueprints/Rooms/Misc/Throne Room.md",
-    "Areas/Underground/Unknown Grave.md",
-    "Areas/Outside/The Precipice.md",
     "Blueprints/Rooms/Shops/Laundry Room.md",
     "Blueprints/Rooms/Misc/Treasure Trove.md",
-    "Blueprints/Rooms/Outer Rooms/Shrine.md",
     "Misc info/Testament.md",
     "Untitled.md",
     "Images/Misc/Pasted image 20250511012849.png.0.pdnSave",
     "Books/A New Clue FE.md",
     "Books/The Red Prince FE.md",
     "Books/A New Clue.md",
-    "Blueprints/Rooms/Hallways/Secret Passage.md",
-    "Blueprints/Rooms/Misc/Classrooms/4th grade.md",
-    "Puzzles/Angel/Angel.md",
-    "Books/The Red Prince.md",
     "Images/Books/A New Clue FE",
-    "Books/Books.md",
-    "Areas/Underground/Safehouse.md",
-    "Blueprints/Rooms/Numbered/Clock Tower.md",
     "Images/Books/The Red Prince FE",
     "Blueprints/Rooms/Misc/Classrooms",
     "Images/Postcards",
